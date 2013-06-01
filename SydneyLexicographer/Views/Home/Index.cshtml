@@ -14,7 +14,7 @@
     
     <script>
         $.ajax({
-            url: 'api/Question',
+            url: '@Url.Content("~/api/Question")',
             accepts: 'application/json'
         }).done(function (question) {
             $('#photo').attr('src', question.PhotoUrl);
