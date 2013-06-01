@@ -62,8 +62,9 @@ h1 {
     position: absolute;
     top: 100px;
     bottom: 100px;
+    left: 10px;
     text-align: center;
-    width: 50%;
+    width: 47%;
 }
 
 #photo {
@@ -71,24 +72,31 @@ h1 {
     max-width: 100%;
 }
 
-.question-map-prompt {
+.question-map {
+    position: absolute;
+    width: 50%;
+    top: 110px;
+    bottom: 200px;
+    right: 10px;
+    border: solid 1px #666;
+}
+
+.question-section-header {
+    margin: 0;
+    height: 25px;
     background-color: #800;
     color: white;
     font-weight: bold;
-    position: absolute;
-    width: 50%;
     text-align: center;
-    height: 20px;
-    top: 100px;
-    right: 0;
+    line-height: 25px;
+    padding: 2px 0 2px 0;
 }
 
-.question-map {
+.question-map-content {
     position: absolute;
-    top: 120px;
-    bottom: 190px;
-    width: 50%;
-    right: 0;
+    top: 29px;
+    bottom: 0;
+    width: 100%;
 }
 
 #map-canvas {
@@ -96,35 +104,54 @@ h1 {
     height: 100%;
 }
 
-.question-timeline-prompt {
-    background-color: #800;
-    color: white;
-    font-weight: bold;
-    position: absolute;
-    width: 50%;
-    text-align: center;
-    height: 20px;
-    bottom: 150px;
-    right: 0;
-}
-
 .question-timeline {
     position: absolute;
-    bottom: 100px;
-    right: 0;
-    height: 40px;
     width: 50%;
+    height: 80px;
+    bottom: 110px;
+    right: 10px;
+    border: solid 1px #666;
+    background-color: white;
+}
+
+.question-timeline-content {
+    padding: 10px 20px;
+    text-align: center;
 }
 
 .question-footer {
     position: absolute;
     bottom: 0;
     height: 100px;
-    border-top: solid 1px #666;
-    background-color: #fff;
     width: 100%;
+    text-align: center
 }
 
+#submitButton, #nextQuestionButton {
+    font-size: 20px;
+    padding: 7px;
+    margin-top: 20px;
+}
+
+#date {
+    border: 0; 
+    font-weight: bold; 
+    font-family:veranda;
+    font-size:20px;
+    background: transparent;
+    width: 40px;
+}
+
+.photo-info {
+    display: none;
+}
+
+#name {
+    font-weight: bold;
+}
+#correct-answer-container {
+    display: none;
+}
 /* === results === */
 
 #results {
