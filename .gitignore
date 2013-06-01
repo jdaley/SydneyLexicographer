@@ -1,0 +1,32 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Server-specific configuration
+GotToGo.config
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Publish Web Output
+*.pubxml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
