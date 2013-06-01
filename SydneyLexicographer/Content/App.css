@@ -152,6 +152,13 @@ h1 {
 #correct-answer-container {
     display: none;
 }
+#correct-answer {
+    font-weight: bold;
+}
+
+.correct {
+    color: #39d645
+}
 /* === results === */
 
 #results {
