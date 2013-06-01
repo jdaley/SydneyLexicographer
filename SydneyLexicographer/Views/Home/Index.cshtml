@@ -5,67 +5,59 @@
         SL = {};
         SL.questionApiUrl = '@Url.Content("~/api/Question")';
     </script>
-    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.0.min.js"></script>
     <script type="text/javascript" src="~/Scripts/App.js"></script>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
     <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
     <script type="text/javascript" src="~/Scripts/GoogleMaps.js"></script>
+    <script type="text/javascript" src="~/Scripts/UI.js"></script>
     <link rel="stylesheet" href="~/Content/App.css">
     <link href='http://fonts.googleapis.com/css?family=Milonga' rel='stylesheet' type='text/css'>
 </head>
 <body>
     <div id="header">
-        <h1>Sydney Lexicographer</h1>
+        <h1>~ Sydney Lexicographer ~</h1>
     </div>
 
-    <div id="">
+    <div id="question">
+        <div class="question-header">
+            <div class="question-header-question">Question <span id="question-number">4</span></div>
+            <div class="question-header-score">Score: <span id="score">18</span>/<span id="score-out-of">30</span></div>
+        </div>
 
+        <div class="question-name">
+            Court house
+        </div>
+
+        <div class="question-photo">
+            <img id="photo" src="http://dictionaryofsydney.org/files/wide/b16fbbf6b053225659d148b51ec14b12b93ba88e">
+        </div>
+
+        <div class="question-right">
+            <div class="map">
+                Where was this photo taken?
+                <div class="map-canvas-container">
+                    <div id="map-canvas"></div>
+                </div>
+                <div id="map-score"></div>
+            </div>
+            <div class="timeline">
+                When was this photo taken?
+                <div id="yearSlider"></div>
+                <input type="text" id="date" style="border: 0; color: red; font-weight: bold; font-family:veranda; font-size:20px;" />
+                <div id="timeline-score"></div>
+            </div>
+        </div>
+
+        <div class="question-footer">
+            <button id="submitButton">Answer</button>
+            <button id="nextQuestionButton">Next Question</button>
+            <div id="description"></div>
+        </div>
     </div>
-    
-    <div>Score:<span id="score">0</span></div>
-    <img id="photo">
-    <div id="name"></div>
-    <div id="description"></div>
-    <div id="controls">
-        <div id="yearSlider"></div>
-        <label for="date">Year:</label>
-        <input type="text" id="date" style="border: 0; color: red; font-weight: bold; font-family:veranda; font-size:20px;" />
-        <button id="submitButton">Submit</button>
-        <button id="nextQuestionButton">Next Question</button>
+
+    <div id="results">
+        <div>Final score: <span id="final-score">72</span>%</div>
     </div>
-    <div id="map-canvas"></div>
-
-    <script>
-        var gMaps = {
-            answerLatitude: '',
-            answerLongitude: ''
-        }
-
-        $.ajax({
-            url: '@Url.Content("~/api/Question")',
-            accepts: 'application/json'
-        }).done(function (question) {
-            $('#photo').attr('src', question.PhotoUrl);
-            $('#name').text(question.Name);
-            $('#description').text(question.Description);
-
-            gMaps.answerLatitude = question.Latitude;
-            gMaps.answerLongitude = question.Longitude;
-        });
-
-        $(function () {
-            $("#yearSlider").slider({
-                min: 1777,
-                max: 2013,
-                values: [1777],
-                slide: function (event, ui) {
-                    $("#date").val(ui.values[0]);
-                }
-            });
-
-            $("#date").val($("#yearSlider").slider("values", 0));
-        });
-    </script>
 </body>
 </html>
