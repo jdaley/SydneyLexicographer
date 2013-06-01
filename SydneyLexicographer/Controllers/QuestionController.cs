@@ -12,17 +12,22 @@ namespace SydneyLexicographer.Controllers
     {
         public Question Get()
         {
-            return new Question
+            using (SydneyLexicographerContext context = new SydneyLexicographerContext())
             {
-                Id = 54,
-                PhotoUrl = @"http://dictionaryofsydney.org/files/wide/b16fbbf6b053225659d148b51ec14b12b93ba88e",
-                Name = "Court house, Darlinghurst",
-                Description = "Darlinghurst Courthouse was an early purpose-built courthouse that inspired courthouse design throughout the colony for the rest of the nineteenth century. The building redefined the streetscape of Darlinghurst Hill, and played a large part in Sydney's legal history.",
-                Year = 1840,
-                Latitude = (decimal)-33.8683,
-                Longitude = (decimal)151.2086,
-                Difficulty = 1
-            };
+                return context.Questions.First();
+            }
+           
+            //return new Question
+            //{
+            //    Id = 54,
+            //    PhotoUrl = @"http://dictionaryofsydney.org/files/wide/b16fbbf6b053225659d148b51ec14b12b93ba88e",
+            //    Name = "Court house, Darlinghurst",
+            //    Description = "Darlinghurst Courthouse was an early purpose-built courthouse that inspired courthouse design throughout the colony for the rest of the nineteenth century. The building redefined the streetscape of Darlinghurst Hill, and played a large part in Sydney's legal history.",
+            //    Year = 1840,
+            //    Latitude = (decimal)-33.8683,
+            //    Longitude = (decimal)151.2086,
+            //    Difficulty = 1
+            //};
         }
     }
 }
