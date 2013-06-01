@@ -5,10 +5,11 @@
         SL = {};
         SL.questionApiUrl = '@Url.Content("~/api/Question")';
     </script>
-    <script type="text/javascript" src="~/Scripts/App.js"></script>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
     <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script type="text/javascript" src="~/Scripts/extensionFunctions.js"></script>
+    <script type="text/javascript" src="~/Scripts/App.js"></script>
     <script type="text/javascript" src="~/Scripts/GoogleMaps.js"></script>
     <script type="text/javascript" src="~/Scripts/UI.js"></script>
     <link rel="stylesheet" href="~/Content/App.css">
@@ -22,31 +23,25 @@
     <div id="question">
         <div class="question-header">
             <div class="question-header-question">Question <span id="question-number">4</span></div>
-            <div class="question-header-score">Score: <span id="score">18</span>/<span id="score-out-of">30</span></div>
-        </div>
-
-        <div class="question-name">
-            Court house
+            <div class="question-header-score">Score: <span id="score">18</span> / <span id="score-out-of">30</span></div>
         </div>
 
         <div class="question-photo">
             <img id="photo" src="http://dictionaryofsydney.org/files/wide/b16fbbf6b053225659d148b51ec14b12b93ba88e">
         </div>
 
-        <div class="question-right">
-            <div class="map">
-                Where was this photo taken?
-                <div class="map-canvas-container">
-                    <div id="map-canvas"></div>
-                </div>
-                <div id="map-score"></div>
-            </div>
-            <div class="timeline">
-                When was this photo taken?
-                <div id="yearSlider"></div>
-                <input type="text" id="date" style="border: 0; color: red; font-weight: bold; font-family:veranda; font-size:20px;" />
-                <div id="timeline-score"></div>
-            </div>
+        <div class="question-map-prompt">Where was this photo taken?</div>
+
+        <div class="question-map">
+            <div id="map-canvas"></div>
+        </div>
+
+        <div class="question-timeline-prompt">When was this photo taken?</div>
+
+        <div class="question-timeline">
+            <div id="yearSlider"></div>
+            <input type="text" id="date" style="border: 0; color: red; font-weight: bold; font-family:veranda; font-size:20px;" />
+            <div id="timeline-score"></div>
         </div>
 
         <div class="question-footer">
