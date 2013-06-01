@@ -3,7 +3,7 @@ var MIN_YEAR = 1777;
 
 function loadQuestion() {
     $.ajax({
-        url: '@Url.Content("~/api/Question")',
+        url: SL.questionApiUrl,
         accepts: 'application/json'
     }).done(function (question) {
         $('#photo').attr('src', question.PhotoUrl);

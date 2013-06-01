@@ -152,7 +152,9 @@
   <ItemGroup>
     <None Include="Properties\PublishProfiles\*.pubxml" />
     <None Include="SydneyLexicographer.base.config" />
-    <Content Include="SydneyLexicographer.config" />
+    <Content Include="SydneyLexicographer.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
