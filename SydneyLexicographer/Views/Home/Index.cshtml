@@ -1,6 +1,10 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
+    <script type="text/javascript">
+        SL = {};
+        SL.questionApiUrl = '@Url.Content("~/api/Question")';
+    </script>
     <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.0.min.js"></script>
     <script type="text/javascript" src="~/Scripts/App.js"></script>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
@@ -8,13 +12,15 @@
     <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
     <script type="text/javascript" src="~/Scripts/GoogleMaps.js"></script>
     <link rel="stylesheet" href="~/Content/App.css">
-    <script type="text/javascript">
-        SL.questionApiUrl = '@Url.Content("~/api/Question")';
-    </script>
+    <link href='http://fonts.googleapis.com/css?family=Milonga' rel='stylesheet' type='text/css'>
 </head>
 <body>
     <div id="header">
         <h1>Sydney Lexicographer</h1>
+    </div>
+
+    <div id="">
+
     </div>
     
     <div>Score:<span id="score">0</span></div>
