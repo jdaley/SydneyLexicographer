@@ -1,5 +1,9 @@
-﻿function initialize() {
+﻿var markersArray = [];
+var map = null;
+
+function initialize() {
     var mapOptions = {
+        // Centre of sydney
         center: new google.maps.LatLng(-33.869, 151.2082),
         zoom: 15,
         mapTypeId: google.maps.MapTypeId.ROADMAP
@@ -11,40 +15,64 @@
     var latLongLocation = new google.maps.LatLng(gMaps.answerLatitude,
         gMaps.answerLongitude,
         true);
-
+    
+    // Marker for the correct location
     var marker = new google.maps.Marker({
         position: latLongLocation,
         map: map
     });
 
-    var correctLocationContent = '<div id="content">' +
-        '<h2>This is the correct location</h2>' +
-        '<p>Add info about the place here</p>';
-
-    var correctLocationWindow = new google.maps.InfoWindow({
-        content: correctLocationContent
-    });
+    markersArray.push(marker);
 
     marker.setVisible(false);
 
     google.maps.event.addListener(map, 'click', function (event) {
-        locationSelected(event.latLng, map, marker, correctLocationWindow);
+        locationSelected(event.latLng);
     });
 }
 
-function locationSelected(location, map, correctPosition, infoWindow) {
+function locationSelected(location) {
     var marker = new google.maps.Marker({
         position: location,
         map: map,
         title: 'Your Guess'
     });
 
-    correctPosition.setVisible(true);
-    infoWindow.open(map, correctPosition);
+    // Clear out previous markers from the map
+    clearMarkers();
 
-    map.setMapTypeId(google.maps.MapTypeId.SATELLITE);
-    map.setZoom(15);
-    map.setCenter(location);
+    markersArray.push(marker);
+}
+
+function clearMarkers() {
+    if (markersArray.length > 1) {
+        for (var i = 1; i < markersArray.length; i++) {
+            markersArray[i].setMap(null);
+            markersArray.pop();
+        }
+    }
+}
+
+function showAnswer() {
+    if (markersArray.length > 0) {
+        var correctPosition = markersArray[0];
+        correctPosition.setVisible(true);
+
+        // Build up info window for marker
+        var correctLocationContent = '<div id="content">' +
+            '<h2>This is the correct location</h2>' +
+            '<p>Add info about the place here</p>';
+
+        var correctLocationWindow = new google.maps.InfoWindow({
+            content: correctLocationContent
+        });
+        correctLocationWindow.open(map, correctPosition);
+
+        map.setMapTypeId(google.maps.MapTypeId.SATELLITE);
+        map.setZoom(16);
+        // Need to make this the center of the two markers
+        //map.setCenter(location);
+    }
 }
 
 function loadScript() {
