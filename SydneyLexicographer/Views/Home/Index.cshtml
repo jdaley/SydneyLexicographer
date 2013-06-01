@@ -3,27 +3,21 @@
 <head>
     <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.0.min.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIdcGud1iJTvo7V4GxwPVP-fh_7cD9slQ&sensor=false"></script>
+    <script type="text/javascript" src="~/Scripts/App.js"></script>
 </head>
 <body>
     <div id="header">
         <h1>Sydney Lexicographer</h1>
     </div>
-
+    
+    <div>Score:<span id="score">0</span></div>
     <img id="photo">
     <div id="name"></div>
     <div id="description"></div>
     <div id="map-canvas"></div>
     
-    <script>
-        $.ajax({
-            url: '@Url.Content("~/api/Question")',
-            accepts: 'application/json'
-        }).done(function (question) {
-            $('#photo').attr('src', question.PhotoUrl);
-            $('#name').text(question.Name);
-            $('#description').text(question.Description);
-        });
-    </script>
+    <button id="submitButton">Submit</button>
+    <button id="nextQuestionButton">Next Question</button>
 
     
 </body>
