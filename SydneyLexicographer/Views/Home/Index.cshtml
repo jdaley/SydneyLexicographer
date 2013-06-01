@@ -7,6 +7,20 @@
     <div id="header">
         <h1>Sydney Lexicographer</h1>
     </div>
-    <div>Stuff goes here.</div>
+
+    <img id="photo">
+    <div id="name"></div>
+    <div id="description"></div>
+    
+    <script>
+        $.ajax({
+            url: 'api/Question',
+            accepts: 'application/json'
+        }).done(function (question) {
+            $('#photo').attr('src', question.PhotoUrl);
+            $('#name').text(question.Name);
+            $('#description').text(question.Description);
+        });
+    </script>
 </body>
 </html>
