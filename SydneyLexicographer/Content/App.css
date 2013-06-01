@@ -1,0 +1,21 @@
+﻿body {
+}
+
+#photo {
+    height: 20%;
+}
+
+#description {
+    height: 20%;
+}
+
+#map-canvas {
+    position: absolute;
+    height: 40%;
+    width: 80%;
+}
+
+#controls {
+    height: 20%;
+    width: 60%;
+}
