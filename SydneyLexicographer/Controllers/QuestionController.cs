@@ -19,8 +19,8 @@ namespace SydneyLexicographer.Controllers
                 Name = "Court house, Darlinghurst",
                 Description = "Darlinghurst Courthouse was an early purpose-built courthouse that inspired courthouse design throughout the colony for the rest of the nineteenth century. The building redefined the streetscape of Darlinghurst Hill, and played a large part in Sydney's legal history.",
                 Year = 1840,
-                Latitude = 3,
-                Longitude = 3,
+                Latitude = (decimal)-33.8683,
+                Longitude = (decimal)151.2086,
                 Difficulty = 1
             };
         }
