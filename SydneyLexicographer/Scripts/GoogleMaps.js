@@ -6,6 +6,8 @@ var gMaps = {
 }
 
 function initialize() {
+    var doubleClicked = false;
+    var clickEvent;
     var mapOptions = {
         // Centre of sydney
         center: new google.maps.LatLng(-33.8546, 150.9841),
@@ -16,8 +18,22 @@ function initialize() {
     map = new google.maps.Map(document.getElementById("map-canvas"),
         mapOptions);
 
+    google.maps.event.addListener(map, 'dblclick', function () {
+        doubleClicked = true;
+    });
+
+    function handleClickEvent() {
+        if (!doubleClicked) {
+            locationSelected(clickEvent.latLng);
+        } else {
+            map.setZoom(map.getZoom() + 1);
+        }
+    }
+
     google.maps.event.addListener(map, 'click', function (event) {
-        locationSelected(event.latLng);
+        clickEvent = event;
+        doubleClicked = false;
+        window.setTimeout(handleClickEvent, 250);
     });
 }
 
