@@ -156,8 +156,7 @@ h1 {
 #date {
     border: 0; 
     font-weight: bold; 
-    font-family:veranda;
-    font-size:20px;
+    font-size: 16px;
     background: transparent;
     width: 40px;
 }
