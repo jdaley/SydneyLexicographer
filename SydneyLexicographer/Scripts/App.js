@@ -26,6 +26,7 @@ SL.displayYearAnswer = function (question) {
 
 SL.resetYear = function(){
     $("#yearSlider").slider({ "values": [MIN_YEAR], "range": "false" });
+    $("#date").val(MIN_YEAR);
     $(".question-timeline").removeClass("correct").removeClass("somewhat-correct").removeClass("wrong");
     $(".question-map").removeClass("correct").removeClass("somewhat-correct").removeClass("wrong");
     $("#correct-answer-container").hide();
