@@ -1,6 +1,6 @@
 ﻿var MAX_YEAR = 2013;
 var MIN_YEAR = 1777;
-var MAX_DISTANCE = 60;
+var MAX_DISTANCE = 10;
 var MAX_QUESTIONS = 10;
 
 var answer = {};
@@ -10,14 +10,16 @@ SL.questionNumber = 1;
 
 SL.calculateYearScore = function () {
     var yearGuess = $("#date").val();
-    return 100 - Math.round((Math.abs(answer.Year - yearGuess) / (MAX_YEAR - MIN_YEAR)) * 100);
+    return 50 - Math.round((Math.abs(answer.Year - yearGuess) / (MAX_YEAR - MIN_YEAR)) * 50);
+};
+
+SL.calculateMapScore = function () {
+    var distance = distanceDelta();
+    return 50 - Math.round((distance / (MAX_DISTANCE)) * 50);
 };
 
 SL.displayYearAnswer = function (question) {
     var yearGuess = $("#date").val();
-    if (yearGuess == answer.Year) {
-        $(".question-timeline").addClass("correct");
-    }
     $("#correct-answer").text(answer.Year);
     $("#correct-answer-container").show();
 };
@@ -28,11 +30,6 @@ SL.resetYear = function(){
     $("#correct-answer-container").hide();
     $(".question-timeline .question-section-header").text("When was this?");
     $(".question-map .question-section-header").text("Where is this?");
-};
-
-SL.calculateMapScore = function(question) {
-    var yearGuess = $("#date").val();
-    return 100 - Math.round((Math.abs(question.Year - yearGuess) / (MAX_YEAR - MIN_YEAR)) * 100);
 };
 
 SL.loadQuestion = function() {
@@ -66,6 +63,10 @@ SL.updateTotalScore = function () {
     $("#score-out-of").text((SL.questionNumber - 1) * 100);
 };
 
+SL.validate = function () {
+    return distanceDelta();
+};
+
 $(function () {
     $("#submitButton").hide();
     $("#nextQuestionButton").click(function () {
@@ -73,17 +74,26 @@ $(function () {
     });
 
     $("#submitButton").click(function () {
-        var totalScore = 0;
+        if (!SL.validate()) {
+            $("#mapError").dialog();
+            return false;
+        }
         var yearScore = SL.calculateYearScore(answer);
-        totalScore = totalScore + yearScore;
+        var mapScore = SL.calculateMapScore();
+        var totalScore = yearScore + mapScore;
         SL.runningScore = SL.runningScore + totalScore;
         SL.questionNumber = SL.questionNumber + 1;
-        var mapScore = 0;
         showAnswer();
         SL.displayYearAnswer();
         SL.updateTotalScore();
-        $(".question-timeline .question-section-header").text("Score: " + yearScore);
-        $(".question-map .question-section-header").text("Score: " + mapScore);
+        if (mapScore == 50) {
+            $(".question-map").addClass("correct");
+        }
+        if (yearScore == 50) {
+            $(".question-timeline").addClass("correct");
+        }
+        $(".question-timeline .question-section-header").text("Score: " + yearScore + "/50");
+        $(".question-map .question-section-header").text("Score: " + mapScore + "/50");
         $('#name').text(answer.Name);
         $('#description').text(answer.Description);
         $("#timeline-score").show();
