@@ -189,6 +189,7 @@ h1 {
     top: 0;
     height: 107px;
     width: 100%;
+    display:none;
 }
 
 .answer-container {
