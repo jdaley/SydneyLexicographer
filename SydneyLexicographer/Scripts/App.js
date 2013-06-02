@@ -7,6 +7,7 @@ var answer = {};
 
 SL.runningScore = 0;
 SL.questionNumber = 1;
+SL.usedQuestions = [];
 
 SL.calculateYearScore = function () {
     var yearGuess = $("#date").val();
@@ -34,9 +35,13 @@ SL.resetYear = function(){
     $(".question-map .question-section-header").text("Where is this?");
 };
 
-SL.loadQuestion = function() {
+SL.loadQuestion = function () {
+    var url = SL.questionApiUrl;
+    if (SL.usedQuestions.length > 0) {
+        url = url + "/" + SL.usedQuestions.join("_");
+    }
     $.ajax({
-        url: SL.questionApiUrl,
+        url: url,
         accepts: 'application/json'
     }).done(function (question) {
         $('#photo').attr('src', question.PhotoUrl);
@@ -51,6 +56,7 @@ SL.loadQuestion = function() {
         SL.resetYear();
         gMaps.answerLatitude = question.Latitude;
         gMaps.answerLongitude = question.Longitude;
+        SL.usedQuestions.push(answer.Id);
 
         initializeMapMarkers();
     });

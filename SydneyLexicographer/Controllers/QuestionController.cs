@@ -10,12 +10,32 @@ namespace SydneyLexicographer.Controllers
 {
     public class QuestionController : ApiController
     {
-        public Question Get()
+        public Question Get(string avoidIdsString)
         {
+            int[] avoidIds = new int[0];
+
+            if (!string.IsNullOrEmpty(avoidIdsString))
+            {
+                try
+                {
+                    avoidIds = avoidIdsString.Split('_').Select(s => int.Parse(s)).ToArray();
+                }
+                catch (Exception) { }
+            }
+
             using (SydneyLexicographerContext context = new SydneyLexicographerContext())
             {
                 int count = context.Questions.Count();
-                int index = new Random().Next(count);
+                int index;
+                int tries = 0;
+
+                do
+                {
+                    index = new Random().Next(count);
+                    tries++;
+                }
+                while (avoidIds.Contains(index) && tries < 10);
+
                 return context.Questions.OrderBy(q => q.Id).Skip(index).Take(1).First();
             }
            
