@@ -177,17 +177,13 @@ h1 {
     text-align: center
 }
 
-#submitButton, #nextQuestionButton, #finishButton {
-    font-size: 20px;
-    padding: 7px;
-    margin-top: 20px;
-    display: none;
-}
-
-#startButton {
+#submitButton, #nextQuestionButton, #finishButton, #startButton {
     font-size: 20px;
     padding: 7px 25px;
     margin-top: 20px;
+}
+#submitButton, #nextQuestionButton, #finishButton {
+    display: none;
 }
 
 #date {
@@ -259,6 +255,14 @@ h1 {
 
 #results {
     display: none;
+    padding: 15px 50px;
+    text-align: center;
+}
+
+#results .score{
+    font-size: 40px;
+    padding-bottom: 20px;
+    font-weight: bold;
 }
 
 #mapError {

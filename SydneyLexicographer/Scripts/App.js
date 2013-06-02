@@ -80,10 +80,25 @@ $(function () {
     });
     
     $("#finishButton").click(function () {
-        $("#results").text(SL.runningScore);
+        var rank = "Dictionary Enthusiast";
+        if (SL.runningScore > 875) {
+            rank = "Grand Master Lexicographer";
+        }
+        if (SL.runningScore > 750) {
+            rank = "Master Lexicographer";
+        }
+        else if (SL.runningScore > 500) {
+            rank = "Novice Lexicographer";
+        }
+        else if (SL.runningScore > 500) {
+            rank = "Apprentice Lexicographer";
+        }
+        $("#results .scoreValue").append(SL.runningScore);
+        $("#results .rankValue").append(rank);
         $("#results").dialog({
             modal: true,
             title: "Final Score",
+            width: "400px",
             buttons: {
                 "Start Again": function () {
                     $(this).dialog("close");
