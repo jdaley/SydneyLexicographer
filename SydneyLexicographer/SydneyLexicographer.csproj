@@ -135,6 +135,8 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="Content\App.css" />
+    <Content Include="Content\TitlePage.png" />
+    <Content Include="Content\TitlePageBackground.png" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\App.js" />
     <Content Include="Scripts\extensionFunctions.js" />
