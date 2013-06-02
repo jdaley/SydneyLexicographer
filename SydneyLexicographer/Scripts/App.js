@@ -26,7 +26,8 @@ SL.displayYearAnswer = function (question) {
 
 SL.resetYear = function(){
     $("#yearSlider").slider({ "values": [MIN_YEAR], "range": "false" });
-    $(".question-timeline").removeClass("correct");
+    $(".question-timeline").removeClass("correct").removeClass("somewhat-correct").removeClass("wrong");
+    $(".question-map").removeClass("correct").removeClass("somewhat-correct").removeClass("wrong");
     $("#correct-answer-container").hide();
     $(".question-timeline .question-section-header").text("When was this?");
     $(".question-map .question-section-header").text("Where is this?");
@@ -41,11 +42,10 @@ SL.loadQuestion = function() {
         answer = question;
         $("#submitButton").show();
         $("#nextQuestionButton").hide();
-        $('#name').hide();
-        $('#description').hide();
         $("#question-number").text(SL.questionNumber);
         $("#timeline-score").hide();
         $("#map-score").hide();
+        $("#answer").hide();
         SL.resetYear();
         gMaps.answerLatitude = question.Latitude;
         gMaps.answerLongitude = question.Longitude;
@@ -89,14 +89,27 @@ $(function () {
         if (mapScore == 50) {
             $(".question-map").addClass("correct");
         }
+        else if (mapScore > 0) {
+            $(".question-map").addClass("somewhat-correct");
+        }
+        else {
+            $(".question-map").addClass("wrong");
+        }
         if (yearScore == 50) {
             $(".question-timeline").addClass("correct");
+        }
+        else if (yearScore > 0) {
+            $(".question-timeline").addClass("somewhat-correct");
+        }
+        else {
+            $(".question-timeline").addClass("wrong");
         }
         $(".question-timeline .question-section-header").text("Score: " + yearScore + "/50");
         $(".question-map .question-section-header").text("Score: " + mapScore + "/50");
         $('#name').text(answer.Name);
         $('#description').text(answer.Description);
         $("#timeline-score").show();
+        $("#answer").show("slide", { direction: "up" });
         $("#map-score").show();
         $("#nextQuestionButton").show();
         $("#submitButton").hide();

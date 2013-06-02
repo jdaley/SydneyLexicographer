@@ -151,7 +151,15 @@ h1 {
 
 .correct .question-section-header
 {
-    background-color: #39d645
+    background-color: #20D60F;
+}
+
+.somewhat-correct .question-section-header {
+    background-color: #F09618;
+}
+
+.wrong .question-section-header {
+    background-color: #FF2424;
 }
 
 /* === answer === */
