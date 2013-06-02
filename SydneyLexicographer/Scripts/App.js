@@ -10,7 +10,7 @@ SL.questionNumber = 1;
 
 SL.calculateYearScore = function () {
     var yearGuess = $("#date").val();
-    return 50 - Math.round((Math.abs(answer.Year - yearGuess) / (MAX_YEAR - MIN_YEAR)) * 50);
+    return 50 - Math.min(Math.round((Math.abs(answer.Year - yearGuess) / 2)),50);
 };
 
 SL.calculateMapScore = function () {
@@ -47,6 +47,7 @@ SL.loadQuestion = function() {
         $("#timeline-score").hide();
         $("#map-score").hide();
         $("#answer").hide();
+        $("#finishButton").hide();
         SL.resetYear();
         gMaps.answerLatitude = question.Latitude;
         gMaps.answerLongitude = question.Longitude;
@@ -73,7 +74,25 @@ $(function () {
     $("#nextQuestionButton").click(function () {
         SL.loadQuestion();
     });
-
+    
+    $("#finishButton").click(function () {
+        $("#results").text(SL.runningScore);
+        $("#results").dialog({
+            modal: true,
+            title: "Final Score",
+            buttons: {
+                "Start Again": function () {
+                    $(this).dialog("close");
+                }
+            },
+            close: function () {
+                SL.runningScore = 0;
+                SL.questionNumber = 1;
+                SL.updateTotalScore();
+                SL.loadQuestion();
+            }
+        });
+    });
     $("#submitButton").click(function () {
         if (!SL.validate()) {
             $("#mapError").dialog();
@@ -105,8 +124,8 @@ $(function () {
         else {
             $(".question-timeline").addClass("wrong");
         }
-        $(".question-timeline .question-section-header").text("Score: " + yearScore + "/50");
-        $(".question-map .question-section-header").text("Score: " + mapScore + "/50");
+        $(".question-timeline .question-section-header").text("Timeline Score: " + yearScore + "/50");
+        $(".question-map .question-section-header").text("Map Score: " + mapScore + "/50");
         $('#name').text(answer.Name);
         $('#description').text(answer.Description);
         $("#timeline-score").show();
@@ -114,22 +133,13 @@ $(function () {
         $("#map-score").show();
         $("#nextQuestionButton").show();
         $("#submitButton").hide();
+        $("#finishButton").hide();
 
         if (SL.questionNumber > MAX_QUESTIONS) {
-            $("#results").text(SL.runningScore);
-            $("#results").dialog({
-                modal: true,
-                title: "Final Score",
-                buttons: {
-                    "Start Again" : function () {
-                        $(this).dialog("close");
-                        SL.runningScore = 0;
-                        SL.questionNumber = 1;
-                        SL.updateTotalScore();
-                        SL.loadQuestion();
-                    }
-                }
-            });
+            $("#nextQuestionButton").hide();
+            $("#finishButton").show();
+            $("#submitButton").hide();
+
         }
     });
 
