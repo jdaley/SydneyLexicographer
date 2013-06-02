@@ -84,6 +84,8 @@ $(function () {
     $("#nextQuestionButton").click(function () {
         SL.loadQuestion();
     });
+
+    $("#question-out-of").text(MAX_QUESTIONS);
     
     $("#finishButton").click(function () {
         var rank = "Dictionary Enthusiast";
@@ -99,8 +101,8 @@ $(function () {
         else if (SL.runningScore > 500) {
             rank = "Apprentice Lexicographer";
         }
-        $("#results .scoreValue").append(SL.runningScore);
-        $("#results .rankValue").append(rank);
+        $("#results .scoreValue").text(SL.runningScore);
+        $("#results .rankValue").text(rank);
         $("#results").dialog({
             modal: true,
             title: "Final Score",
