@@ -32,7 +32,8 @@ function initializeMapMarkers() {
     // Marker for the correct location
     var marker = new google.maps.Marker({
         position: latLongLocation,
-        map: map
+        map: map,
+        icon: 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'
     });
 
     markersArray.push(marker);
@@ -74,22 +75,15 @@ function showAnswer() {
         var correctPosition = markersArray[0];
         correctPosition.setVisible(true);
 
-        // Build up info window for marker
-        var correctLocationContent = '<div id="content">' +
-            '<h2>This is the correct location</h2>' +
-            '<p>Add info about the place here</p>';
-
-        var correctLocationWindow = new google.maps.InfoWindow({
-            content: correctLocationContent
-        });
-        correctLocationWindow.open(map, correctPosition);
-
-        map.setMapTypeId(google.maps.MapTypeId.SATELLITE);
-        map.setZoom(16);
-        // Need to make this the center of the two markers
-        //map.setCenter(location);
-        //var a = distanceDelta();
         markersArray[0].setMap(map);
+
+        // Center the map between the two points
+        var bounds = new google.maps.LatLngBounds();
+        for (var i = 0; i < markersArray.length; i++) {
+            bounds.extend(markersArray[i].position);
+        }
+
+        map.fitBounds(bounds);
     }
 }
 
