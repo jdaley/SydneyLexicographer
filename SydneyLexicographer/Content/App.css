@@ -41,7 +41,7 @@ h1 {
 
 .introduction-container {
     width: 85%;
-    background-color: white;
+    background-image: url('/Content/TitlePage.png');
     margin: 0 auto;
     padding: 20px;
     border-radius: 10px;
