@@ -94,7 +94,7 @@ $(function () {
             rank = "Master Lexicographer";
         }
         else if (SL.runningScore > 500) {
-            rank = "Novice Lexicographer";
+            rank = "Certified Lexicographer";
         }
         else if (SL.runningScore > 500) {
             rank = "Apprentice Lexicographer";
