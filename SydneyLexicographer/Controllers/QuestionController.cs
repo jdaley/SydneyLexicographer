@@ -14,7 +14,9 @@ namespace SydneyLexicographer.Controllers
         {
             using (SydneyLexicographerContext context = new SydneyLexicographerContext())
             {
-                return context.Questions.First();
+                int count = context.Questions.Count();
+                int index = new Random().Next(count);
+                return context.Questions.OrderBy(q => q.Id).Skip(index).Take(1).First();
             }
            
             //return new Question
