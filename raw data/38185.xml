@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:38185" w="a" depth="2" />
+  <dateStamp>2013-02-16T22:53:46+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>38185</id>
+      <type id="151">Entity</type>
+      <title>Rosebank (Building)</title>
+      <added>2010-02-04 15:00:58</added>
+      <modified>2010-02-04 15:21:18</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Rosebank</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa built for James Laidley.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>20875</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Rosebank, Woolloomooloo, the residence of James Laidley 1840</title>
+          <added>2009-07-17 14:18:19</added>
+          <modified>2011-05-20 23:33:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2009-07-17</raw>
+            <year>2009</year>
+            <month>7</month>
+            <day>17</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Rosebank, Woolloomooloo, the residence of James Laidley 1840</detail>
+          <detail id="365" type="Subject" name="dc.creator">Martens, Conrad</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1840</raw>
+            <year>1840</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421323</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140006 / DG V*/Sp Coll/Martens/5</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4813</id>
+              <type id="153">Contributor</type>
+              <title>State Library of New South Wales</title>
+              <added>2009-03-24 10:55:22</added>
+              <modified>2009-10-29 10:35:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+              <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 5206\nP-DoS Notes: Rosebank, Woolloomooloo, the residence of James Laidley 1840\nP-Related: Topic - Suburban Sydney; Suburb - Woolloomooloo - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421323</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>2598</id>
+              <nonce>285bae387a47c60e0f3682b3428e2cb13448b63a</nonce>
+              <origName>a140006h.jpg</origName>
+              <type>image/jpeg</type>
+              <size>166.6 kb</size>
+              <date>2009-07-17 14:18:19</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a140006h.jpg?file_id=285bae387a47c60e0f3682b3428e2cb13448b63a</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=285bae387a47c60e0f3682b3428e2cb13448b63a</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="199" type="Resource" name="target">
+            <record>
+              <id>3942</id>
+              <type id="99">TEI Document Reference</type>
+              <title>John</title>
+              <added>2008-12-03 16:00:31</added>
+              <modified>2011-11-25 15:26:26</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">John</detail>
+              <detail id="191" type="Extended description" name="caption">The luxurious villa Rose Bank was built in 1831 for the Deputy Commissary-General, James Laidley, and stood near the top of William Street in Darlinghurst until the 1920s.</detail>
+              <detail id="199" type="Resource" name="target">20875</detail>
+              <detail id="322" type="TEI Document Reference" name="annotates">585</detail>
+              <detail id="539" type="Start Element" name="Start Element">6,2</detail>
+              <detail id="329" type="Start Word" name="Start Word">83</detail>
+              <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+              <detail id="303" type="Short summary" name="dos.notes">IMG grand home: Tusculum, Bona Vista, Grantham, Springfield, Rose Bank OR Orwell.</detail>
+              <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+            </record>
+          </reversePointer>
+          <reversePointer id="199" type="Resource" name="target">
+            <record>
+              <id>38197</id>
+              <type id="99">TEI Document Reference</type>
+              <title>The</title>
+              <added>2010-02-04 15:27:58</added>
+              <modified>2010-02-04 15:27:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The</detail>
+              <detail id="191" type="Extended description" name="caption">Governor Darling's vision for Darlinghurst included grand villas, such as Rosebank, seen here on the ridge east of Sydney town.</detail>
+              <detail id="199" type="Resource" name="target">20875</detail>
+              <detail id="322" type="TEI Document Reference" name="annotates">38081</detail>
+              <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+              <detail id="329" type="Start Word" name="Start Word">1</detail>
+              <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+              <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+            </record>
+          </reversePointer>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>38185</id>
+              <type id="151">Entity</type>
+              <title>Rosebank (Building)</title>
+              <added>2010-02-04 15:00:58</added>
+              <modified>2010-02-04 15:21:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rosebank</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa built for James Laidley.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">20875</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>84815</id>
+              <type id="52">Record relationship</type>
+              <title>(20875 hasSubject 6194)</title>
+              <added>2012-11-09 10:25:43</added>
+              <modified>2012-11-09 10:25:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>20875</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Rosebank, Woolloomooloo, the residence of James Laidley 1840</title>
+                  <added>2009-07-17 14:18:19</added>
+                  <modified>2011-05-20 23:33:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2009-07-17</raw>
+                    <year>2009</year>
+                    <month>7</month>
+                    <day>17</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Rosebank, Woolloomooloo, the residence of James Laidley 1840</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Martens, Conrad</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1840</raw>
+                    <year>1840</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421323</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140006 / DG V*/Sp Coll/Martens/5</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 5206\nP-DoS Notes: Rosebank, Woolloomooloo, the residence of James Laidley 1840\nP-Related: Topic - Suburban Sydney; Suburb - Woolloomooloo - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421323</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>2598</id>
+                      <nonce>285bae387a47c60e0f3682b3428e2cb13448b63a</nonce>
+                      <origName>a140006h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>166.6 kb</size>
+                      <date>2009-07-17 14:18:19</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a140006h.jpg?file_id=285bae387a47c60e0f3682b3428e2cb13448b63a</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=285bae387a47c60e0f3682b3428e2cb13448b63a</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6194</id>
+                  <type id="152">Term</type>
+                  <title>Residential building</title>
+                  <added>2009-05-25 14:56:55</added>
+                  <modified>2009-05-25 14:56:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Residential building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>84816</id>
+              <type id="52">Record relationship</type>
+              <title>(20875 hasSubject 5880)</title>
+              <added>2012-11-09 10:26:08</added>
+              <modified>2012-11-09 10:26:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>20875</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Rosebank, Woolloomooloo, the residence of James Laidley 1840</title>
+                  <added>2009-07-17 14:18:19</added>
+                  <modified>2011-05-20 23:33:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2009-07-17</raw>
+                    <year>2009</year>
+                    <month>7</month>
+                    <day>17</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Rosebank, Woolloomooloo, the residence of James Laidley 1840</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Martens, Conrad</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1840</raw>
+                    <year>1840</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421323</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140006 / DG V*/Sp Coll/Martens/5</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 5206\nP-DoS Notes: Rosebank, Woolloomooloo, the residence of James Laidley 1840\nP-Related: Topic - Suburban Sydney; Suburb - Woolloomooloo - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421323</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>2598</id>
+                      <nonce>285bae387a47c60e0f3682b3428e2cb13448b63a</nonce>
+                      <origName>a140006h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>166.6 kb</size>
+                      <date>2009-07-17 14:18:19</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a140006h.jpg?file_id=285bae387a47c60e0f3682b3428e2cb13448b63a</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=285bae387a47c60e0f3682b3428e2cb13448b63a</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5880</id>
+                  <type id="152">Term</type>
+                  <title>Colonial architecture</title>
+                  <added>2009-05-25 14:56:18</added>
+                  <modified>2009-05-25 14:56:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Colonial architecture</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>38186</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Rosebank</title>
+          <added>2010-02-04 15:01:06</added>
+          <modified>2010-02-04 15:01:06</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Rosebank</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>38185</id>
+              <type id="151">Entity</type>
+              <title>Rosebank (Building)</title>
+              <added>2010-02-04 15:00:58</added>
+              <modified>2010-02-04 15:21:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rosebank</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa built for James Laidley.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">20875</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>38081</id>
+              <type id="98">XML Document</type>
+              <title>Darlinghurst</title>
+              <added>2010-01-28 16:08:28</added>
+              <modified>2010-11-03 15:31:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3998</id>
+                  <nonce>a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</nonce>
+                  <origName>Darlinghurst.xml</origName>
+                  <type>application/xml</type>
+                  <size>153.7 kb</size>
+                  <date>2010-11-03 15:31:27</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Darlinghurst.xml?file_id=a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Darlinghurst</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Used by its traditional owners, the Gadigal people, well into the 1840s, Darlinghurst was a quarry and windmill site before it became popular for the fine villas of the colony's well-to-do, in the 1830s. Subsequent booms and busts raised and lowered the suburb's fortunes, creating the mix of poor and posh, criminal and respectable that have made Darlinghurst one of Sydney's most interesting localities.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1750</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">70</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>38187</id>
+          <type id="150">Factoid</type>
+          <title>Rosebank, Type, House</title>
+          <added>2010-02-04 15:01:31</added>
+          <modified>2010-02-04 15:01:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38185</id>
+              <type id="151">Entity</type>
+              <title>Rosebank (Building)</title>
+              <added>2010-02-04 15:00:58</added>
+              <modified>2010-02-04 15:21:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rosebank</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa built for James Laidley.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">20875</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>38188</id>
+          <type id="150">Factoid</type>
+          <title>Rosebank, Milestone, Constructed</title>
+          <added>2010-02-04 15:01:55</added>
+          <modified>2010-02-04 15:01:55</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38185</id>
+              <type id="151">Entity</type>
+              <title>Rosebank (Building)</title>
+              <added>2010-02-04 15:00:58</added>
+              <modified>2010-02-04 15:21:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rosebank</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa built for James Laidley.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">20875</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1831</raw>
+            <year>1831</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1831</raw>
+            <year>1831</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>72790</id>
+          <type id="150">Factoid</type>
+          <title>Rosebank, TimePlace</title>
+          <added>2012-02-03 12:41:23</added>
+          <modified>2012-02-03 12:41:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38185</id>
+              <type id="151">Entity</type>
+              <title>Rosebank (Building)</title>
+              <added>2010-02-04 15:00:58</added>
+              <modified>2010-02-04 15:21:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rosebank</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa built for James Laidley.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">20875</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.22040027378 -33.876365990618)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

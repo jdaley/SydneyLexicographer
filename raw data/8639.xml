@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8639" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:54:37+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8639</id>
+      <type id="151">Entity</type>
+      <title>Olympic Park railway station (Building)</title>
+      <added>2009-06-10 15:58:51</added>
+      <modified>2012-07-17 09:12:27</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Olympic Park railway station</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Award winning station designed to support large crowds travelling to and from the stadiums and sportsgrounds located in the area.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>19225</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Olympic Park railway station</title>
+          <added>2009-06-16 11:46:09</added>
+          <modified>2009-06-16 11:46:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Olympic Park railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8639</id>
+              <type id="151">Entity</type>
+              <title>Olympic Park railway station (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-07-17 09:12:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Olympic Park railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Award winning station designed to support large crowds travelling to and from the stadiums and sportsgrounds located in the area.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>227</id>
+              <type id="98">XML Document</type>
+              <title>Built environment</title>
+              <added>2008-10-22 13:11:42</added>
+              <modified>2012-07-26 10:18:50</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7812</id>
+                  <nonce>e767baa217e666e1de2605e88c0eb496a9ae5453</nonce>
+                  <origName>Built+environment.xml</origName>
+                  <type>application/xml</type>
+                  <size>151.1 kb</size>
+                  <date>2012-07-26 10:18:46</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Built%2Benvironment.xml?file_id=e767baa217e666e1de2605e88c0eb496a9ae5453</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e767baa217e666e1de2605e88c0eb496a9ae5453</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Built environment</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built over tracks, campsites, rock art and middens used for thousands of years before the dispossession of the Aboriginal people, Sydney's early haphazard development was given form by public buildings. As public transport developed, suburbs spread,  and throughout the twentieth century, town planners struggled with developers to direct the form and extent of the city. After World War II, city buildings got taller, outer suburbs sprang up ever further away, and issues of heritage and architecture were contested. In the twenty-first century, concerns about environment, urban density, public transport and renewed infrastructure are driving change.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2973</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">100</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">29044</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">12,7</detail>
+          <detail id="329" type="Start Word" name="Start Word">24</detail>
+          <detail id="330" type="End Word" name="End Word">26</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8640</id>
+          <type id="150">Factoid</type>
+          <title>Olympic Park railway station, Type, Railway station</title>
+          <added>2009-06-10 15:58:51</added>
+          <modified>2009-06-10 15:58:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8639</id>
+              <type id="151">Entity</type>
+              <title>Olympic Park railway station (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-07-17 09:12:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Olympic Park railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Award winning station designed to support large crowds travelling to and from the stadiums and sportsgrounds located in the area.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7059</id>
+              <type id="91">Role</type>
+              <title>Railway station</title>
+              <added>2009-06-10 15:56:24</added>
+              <modified>2009-06-10 15:56:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Railway station</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51642</id>
+          <type id="150">Factoid</type>
+          <title>Olympic Park railway station, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:17</added>
+          <modified>2011-02-16 16:03:25</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Olympic Park railway station</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8639</id>
+              <type id="151">Entity</type>
+              <title>Olympic Park railway station (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-07-17 09:12:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Olympic Park railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Award winning station designed to support large crowds travelling to and from the stadiums and sportsgrounds located in the area.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.06936388889 -33.846580555556)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>78374</id>
+          <type id="150">Factoid</type>
+          <title>Olympic Park railway station, Milestone, Opened</title>
+          <added>2012-07-17 09:12:44</added>
+          <modified>2012-07-17 09:12:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8639</id>
+              <type id="151">Entity</type>
+              <title>Olympic Park railway station (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-07-17 09:12:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Olympic Park railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Award winning station designed to support large crowds travelling to and from the stadiums and sportsgrounds located in the area.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1998</raw>
+            <year>1998</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1998</raw>
+            <year>1998</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

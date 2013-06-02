@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:9036" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:17:43+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>9036</id>
+      <type id="151">Entity</type>
+      <title>Varroville House (Building)</title>
+      <added>2009-06-10 15:58:56</added>
+      <modified>2011-11-25 12:17:46</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>25144</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Varroville House</title>
+          <added>2009-09-09 14:13:21</added>
+          <modified>2009-09-09 14:13:21</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>630</id>
+              <type id="98">XML Document</type>
+              <title>Varroville</title>
+              <added>2008-10-22 13:12:47</added>
+              <modified>2009-09-09 14:18:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>94</id>
+                  <nonce>bb1bc5cd75b60cec5572248846b0ffe9cbae5078</nonce>
+                  <origName>Varroville.xml</origName>
+                  <type>application/xml</type>
+                  <size>36.9 kb</size>
+                  <date>2008-10-24 10:48:58</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Varroville.xml?file_id=bb1bc5cd75b60cec5572248846b0ffe9cbae5078</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=bb1bc5cd75b60cec5572248846b0ffe9cbae5078</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Varroville</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Named for Varro Ville, the country estate of Robert Townson, Varroville remained a rural retreat well into the twentieth century, with dairy farming the main economic activity.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2067</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">73</detail>
+          <detail id="330" type="End Word" name="End Word">74</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>9037</id>
+          <type id="150">Factoid</type>
+          <title>Varroville House, Type, House</title>
+          <added>2009-06-10 15:58:56</added>
+          <modified>2009-06-10 15:58:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>62173</id>
+          <type id="150">Factoid</type>
+          <title>Varroville House, Milestone, Constructed</title>
+          <added>2011-08-31 13:53:47</added>
+          <modified>2011-08-31 13:53:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1810</raw>
+            <year>1810</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1859</raw>
+            <year>1859</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>62175</id>
+          <type id="150">Factoid</type>
+          <title>Townson, Robert, Property, Owned, Varroville House</title>
+          <added>2011-08-31 13:57:49</added>
+          <modified>2011-08-31 13:57:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14813</id>
+              <type id="151">Entity</type>
+              <title>Townson, Robert (Person)</title>
+              <added>2009-06-10 16:04:21</added>
+              <modified>2011-08-31 14:05:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Townson, Robert</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Scientist and settler who felt aggrieved by both Governors Bligh and Macquarie but who went on to established an abundant and beautiful estate at Minto.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1810</raw>
+            <year>1810</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1827</raw>
+            <year>1827</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>62177</id>
+          <type id="150">Factoid</type>
+          <title>Varroville House, TimePlace</title>
+          <added>2011-08-31 14:15:37</added>
+          <modified>2011-08-31 14:15:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(150.82522845281 -34.004288981144)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>80037</id>
+          <type id="150">Factoid</type>
+          <title>Sturt, Charles, Property, Owned, Varroville House</title>
+          <added>2012-08-20 08:21:48</added>
+          <modified>2012-08-20 08:21:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14736</id>
+              <type id="151">Entity</type>
+              <title>Sturt, Charles (Person)</title>
+              <added>2009-06-10 16:04:20</added>
+              <modified>2012-08-20 08:28:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Sturt, Charles</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Explorer, soldier and public servant who opened up much of the rich agricultural land south and west of the colony by following the Darling, Murrumbidgee and Murray rivers.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://adb.anu.edu.au/biography/sturt-charles-2712</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1837</raw>
+            <year>1837</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1839</raw>
+            <year>1839</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>80042</id>
+          <type id="150">Factoid</type>
+          <title>Raymond, James, Property, Owned, Varroville House</title>
+          <added>2012-08-20 08:32:26</added>
+          <modified>2012-08-20 08:32:26</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14476</id>
+              <type id="151">Entity</type>
+              <title>Raymond, James (Person)</title>
+              <added>2009-06-10 16:04:19</added>
+              <modified>2012-08-20 08:37:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Raymond, James</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Postmaster General who suggested the introduction of stamped sheets to be used as envelopes. This was adopted by Governor  Gipps in November 1838, anticipating the British penny postage in 1840.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://adb.anu.edu.au/biography/raymond-james-2575</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1839</raw>
+            <year>1839</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1851</raw>
+            <year>1851</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>80049</id>
+          <type id="150">Factoid</type>
+          <title>Cheeke, Alfred, Property, Owned, Varroville House</title>
+          <added>2012-08-20 08:41:12</added>
+          <modified>2012-08-20 08:41:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13230</id>
+              <type id="151">Entity</type>
+              <title>Cheeke, Alfred (Person)</title>
+              <added>2009-06-10 16:04:09</added>
+              <modified>2009-10-28 13:33:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Cheeke, Alfred</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Lawyer and horse breeder who was the first judge appointed to the District Court in 1858 and later a Supreme Court judge.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1858</raw>
+            <year>1858</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1876</raw>
+            <year>1876</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>80051</id>
+          <type id="150">Factoid</type>
+          <title>National Trust of Australia (NSW), Property, Owned, Varroville House</title>
+          <added>2012-08-20 08:56:32</added>
+          <modified>2012-08-20 08:56:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>11720</id>
+              <type id="151">Entity</type>
+              <title>National Trust of Australia (NSW) (Organisation)</title>
+              <added>2009-06-10 16:03:01</added>
+              <modified>2010-02-02 16:40:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">National Trust of Australia (NSW)</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">An independent community-based organisation that has advocated the conservation of built, cultural and natural heritage since its foundation in Sydney in the 1940s.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9036</id>
+              <type id="151">Entity</type>
+              <title>Varroville House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-11-25 12:17:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Varroville House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early Victorian homestead incorporating features of the original house of the 1810s, surrounded by extensive gardens, arbours and circular driveway.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1990</raw>
+            <year>1990</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1991</raw>
+            <year>1991</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

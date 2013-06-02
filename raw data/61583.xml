@@ -1,0 +1,749 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:61583" w="a" depth="2" />
+  <dateStamp>2013-02-17T04:29:41+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>61583</id>
+      <type id="151">Entity</type>
+      <title>Downing Centre (Building)</title>
+      <added>2011-08-12 15:21:44</added>
+      <modified>2011-08-12 15:33:00</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>61584</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Downing Centre</title>
+          <added>2011-08-12 15:21:54</added>
+          <modified>2011-08-12 15:33:33</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>59663</id>
+              <type id="98">XML Document</type>
+              <title>Mark Foy's</title>
+              <added>2011-07-22 15:39:21</added>
+              <modified>2011-07-22 15:39:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4909</id>
+                  <nonce>04c033a5f517842891225893efe477e4bb16d133</nonce>
+                  <origName>Mark Foy's.xml</origName>
+                  <type>application/xml</type>
+                  <size>50.5 kb</size>
+                  <date>2011-07-22 15:36:52</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Mark+Foy%27s.xml?file_id=04c033a5f517842891225893efe477e4bb16d133</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=04c033a5f517842891225893efe477e4bb16d133</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Mark Foy's</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Established in Oxford Street in the 1880s, Mark Foy's became one of Sydney's leading stores, with a grand store in Liverpool Street and a wide range of departments.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-22</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>22</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">389</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">59656</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">39</detail>
+          <detail id="330" type="End Word" name="End Word">40</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>63869</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Downing Centre</title>
+          <added>2011-09-21 11:13:44</added>
+          <modified>2011-09-21 11:13:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>62485</id>
+              <type id="98">XML Document</type>
+              <title>Grace Brothers</title>
+              <added>2011-09-06 14:43:11</added>
+              <modified>2011-09-06 14:43:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5248</id>
+                  <nonce>61f54ecb7d02f59ab46477898e0feefb75eff2ca</nonce>
+                  <origName>Grace Bros.xml</origName>
+                  <type>application/xml</type>
+                  <size>57.6 kb</size>
+                  <date>2011-09-06 14:39:57</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Grace+Bros.xml?file_id=61f54ecb7d02f59ab46477898e0feefb75eff2ca</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=61f54ecb7d02f59ab46477898e0feefb75eff2ca</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Grace Brothers</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A mainstay of Sydney shopping from the 1880s, Grace Bros was in the forefront of changes in retailing throughout the twentieth century.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-09-06</raw>
+                <year>2011</year>
+                <month>9</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">391</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">59656</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">121</detail>
+          <detail id="330" type="End Word" name="End Word">122</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61585</id>
+          <type id="150">Factoid</type>
+          <title>Downing Centre, Name, Alternate</title>
+          <added>2011-08-12 15:28:33</added>
+          <modified>2011-08-12 15:42:07</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Mark Foy's Piazza Store</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1909</raw>
+            <year>1909</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1980</raw>
+            <year>1980</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61586</id>
+          <type id="150">Factoid</type>
+          <title>Downing Centre, Milestone, Constructed</title>
+          <added>2011-08-12 15:34:11</added>
+          <modified>2011-08-12 15:34:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1908</raw>
+            <year>1908</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1909</raw>
+            <year>1909</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61587</id>
+          <type id="150">Factoid</type>
+          <title>Downing Centre, Milestone, Modified</title>
+          <added>2011-08-12 15:34:33</added>
+          <modified>2011-08-12 15:34:33</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1985</raw>
+            <year>1985</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1985</raw>
+            <year>1985</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>61588</id>
+          <type id="150">Factoid</type>
+          <title>Grace Brothers, Property, Occupied, Downing Centre</title>
+          <added>2011-08-12 15:37:35</added>
+          <modified>2011-08-12 15:37:35</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>11120</id>
+              <type id="151">Entity</type>
+              <title>Grace Brothers (Organisation)</title>
+              <added>2009-06-10 16:02:54</added>
+              <modified>2010-09-15 14:47:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Grace Brothers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store chain founded in 1885 which became the first to expand into suburban locations, and survived when other city retailers closed. It was taken over by Myer in 1983, and rebranded Myer in 2004.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1980</raw>
+            <year>1980</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1983</raw>
+            <year>1983</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>61589</id>
+          <type id="150">Factoid</type>
+          <title>Mark Foy's, Property, Occupied, Downing Centre</title>
+          <added>2011-08-12 15:38:21</added>
+          <modified>2011-08-12 15:38:21</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>11571</id>
+              <type id="151">Entity</type>
+              <title>Mark Foy's (Organisation)</title>
+              <added>2009-06-10 16:02:58</added>
+              <modified>2011-07-22 15:36:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Mark Foy's</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Leading Sydney department store, whose landmark Piazza building later became Downing Centre court complex.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1909</raw>
+            <year>1909</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1980</raw>
+            <year>1980</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>61590</id>
+          <type id="150">Factoid</type>
+          <title>District Court of New South Wales, Property, Occupied, Downing Centre</title>
+          <added>2011-08-12 15:40:58</added>
+          <modified>2011-08-12 15:40:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>10867</id>
+              <type id="151">Entity</type>
+              <title>District Court of New South Wales (Organisation)</title>
+              <added>2009-06-10 16:02:50</added>
+              <modified>2010-07-08 09:57:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">District Court of New South Wales</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="303" type="Short summary" name="dos.notes">legal</detail>
+              <detail id="191" type="Extended description" name="dc.description">Intermediate branch of the court system dealing with crime and civil matters not serious enough for the Supreme Court, established in 1858.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1985</raw>
+            <year>1985</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>61596</id>
+          <type id="150">Factoid</type>
+          <title>Anderson, Arthur, Position, Architect, Downing Centre</title>
+          <added>2011-08-12 15:48:50</added>
+          <modified>2011-08-12 15:48:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61591</id>
+              <type id="151">Entity</type>
+              <title>Anderson, Arthur (Person)</title>
+              <added>2011-08-12 15:46:22</added>
+              <modified>2011-08-12 15:51:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Anderson, Arthur</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect responsible for many of Sydney's prominent stores, warehouses and offices between 1890 and 1940.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Arthur_Anderson_%28architect%29</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1908</raw>
+            <year>1908</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1909</raw>
+            <year>1909</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>61602</id>
+          <type id="150">Factoid</type>
+          <title>McCredie, Arthur, Position, Architect, Downing Centre</title>
+          <added>2011-08-12 15:54:44</added>
+          <modified>2011-08-12 15:54:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61599</id>
+              <type id="151">Entity</type>
+              <title>McCredie, Arthur (Person)</title>
+              <added>2011-08-12 15:53:42</added>
+              <modified>2011-08-12 15:53:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">McCredie, Arthur</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect who established a partnership with his brother George.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1908</raw>
+            <year>1908</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1909</raw>
+            <year>1909</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61609</id>
+          <type id="150">Factoid</type>
+          <title>Downing Centre, TimePlace</title>
+          <added>2011-08-12 16:05:12</added>
+          <modified>2011-08-12 16:05:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20907124876 -33.876936070846)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61610</id>
+          <type id="150">Factoid</type>
+          <title>Downing Centre, Milestone, Modified</title>
+          <added>2011-08-12 16:09:49</added>
+          <modified>2011-08-12 16:09:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>61650</id>
+          <type id="150">Factoid</type>
+          <title>Ross &amp; Rowe, Position, Architect, Downing Centre</title>
+          <added>2011-08-18 09:38:17</added>
+          <modified>2011-08-18 09:38:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61646</id>
+              <type id="151">Entity</type>
+              <title>Ross &amp; Rowe (Organisation)</title>
+              <added>2011-08-18 09:35:07</added>
+              <modified>2011-08-18 09:35:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Ross &amp; Rowe</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architectural practice established by HE Ross and H Ruskin Rowe.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1927</raw>
+            <year>1927</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1930</raw>
+            <year>1930</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66235</id>
+          <type id="150">Factoid</type>
+          <title>Downing Centre, Type, Court</title>
+          <added>2011-11-24 16:26:47</added>
+          <modified>2011-11-24 16:26:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61583</id>
+              <type id="151">Entity</type>
+              <title>Downing Centre (Building)</title>
+              <added>2011-08-12 15:21:44</added>
+              <modified>2011-08-12 15:33:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Downing Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant department store on the corner of Liverpool, Elizabeth and Castlereagh streets which was converted for use as courts in 1985.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6926</id>
+              <type id="91">Role</type>
+              <title>Court</title>
+              <added>2009-06-10 15:55:59</added>
+              <modified>2009-06-10 15:55:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Court</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

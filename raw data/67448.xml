@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:67448" w="a" depth="2" />
+  <dateStamp>2013-02-17T06:11:11+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>67448</id>
+      <type id="151">Entity</type>
+      <title>Yellow House (Building)</title>
+      <added>2012-01-05 09:34:16</added>
+      <modified>2012-01-05 09:52:27</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>67449</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Yellow House</title>
+          <added>2012-01-05 09:34:25</added>
+          <modified>2012-01-05 09:34:25</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>67448</id>
+              <type id="151">Entity</type>
+              <title>Yellow House (Building)</title>
+              <added>2012-01-05 09:34:16</added>
+              <modified>2012-01-05 09:52:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>66805</id>
+              <type id="98">XML Document</type>
+              <title>Kings Cross</title>
+              <added>2011-12-16 10:39:11</added>
+              <modified>2013-02-08 07:49:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8265</id>
+                  <nonce>5e8464a7be65c5694a51ddd63d3ef3010d84614e</nonce>
+                  <origName>Kings+Cross.xml</origName>
+                  <type>application/xml</type>
+                  <size>170.4 kb</size>
+                  <date>2013-02-08 07:49:33</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Kings%2BCross.xml?file_id=5e8464a7be65c5694a51ddd63d3ef3010d84614e</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5e8464a7be65c5694a51ddd63d3ef3010d84614e</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Kings Cross</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Kings Cross exists in Sydney's imagination as much as it does in any physical form, and pinning down its geographical boundaries is difficult. It has loomed large in Sydney's culture since the first houses were built nearby in the 1830s, and continues to attract tourists and Sydneysiders alike.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-12-16</raw>
+                <year>2011</year>
+                <month>12</month>
+                <day>16</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1761</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">342</detail>
+          <detail id="330" type="End Word" name="End Word">343</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>67450</id>
+          <type id="150">Factoid</type>
+          <title>Yellow House, Milestone, Opened</title>
+          <added>2012-01-05 09:35:42</added>
+          <modified>2012-01-05 09:35:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67448</id>
+              <type id="151">Entity</type>
+              <title>Yellow House (Building)</title>
+              <added>2012-01-05 09:34:16</added>
+              <modified>2012-01-05 09:52:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1969</raw>
+            <year>1969</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1969</raw>
+            <year>1969</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>67451</id>
+          <type id="150">Factoid</type>
+          <title>Yellow House, Milestone, Closed</title>
+          <added>2012-01-05 09:41:18</added>
+          <modified>2012-01-05 09:41:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67448</id>
+              <type id="151">Entity</type>
+              <title>Yellow House (Building)</title>
+              <added>2012-01-05 09:34:16</added>
+              <modified>2012-01-05 09:52:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42397</id>
+              <type id="91">Role</type>
+              <title>Closed</title>
+              <added>2010-08-20 11:34:35</added>
+              <modified>2010-08-20 11:34:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Closed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1971</raw>
+            <year>1971</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1971</raw>
+            <year>1971</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>67452</id>
+          <type id="150">Factoid</type>
+          <title>Yellow House, TimePlace</title>
+          <added>2012-01-05 09:50:25</added>
+          <modified>2012-01-05 09:50:25</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67448</id>
+              <type id="151">Entity</type>
+              <title>Yellow House (Building)</title>
+              <added>2012-01-05 09:34:16</added>
+              <modified>2012-01-05 09:52:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.22548549622 -33.868738574415)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67453</id>
+          <type id="150">Factoid</type>
+          <title>Sharp, Martin, Property, Occupied, Yellow House</title>
+          <added>2012-01-05 09:52:11</added>
+          <modified>2012-01-05 09:52:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14629</id>
+              <type id="151">Entity</type>
+              <title>Sharp, Martin (Person)</title>
+              <added>2009-06-10 16:04:20</added>
+              <modified>2011-11-25 12:35:50</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Sharp, Martin</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Pop artist and cartoonist who has contributed to Australian and international pop culture since 1960.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67448</id>
+              <type id="151">Entity</type>
+              <title>Yellow House (Building)</title>
+              <added>2012-01-05 09:34:16</added>
+              <modified>2012-01-05 09:52:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1969</raw>
+            <year>1969</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1971</raw>
+            <year>1971</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>67454</id>
+          <type id="150">Factoid</type>
+          <title>Yellow House, Name, Alternate</title>
+          <added>2012-01-05 09:53:51</added>
+          <modified>2012-01-05 09:53:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67448</id>
+              <type id="151">Entity</type>
+              <title>Yellow House (Building)</title>
+              <added>2012-01-05 09:34:16</added>
+              <modified>2012-01-05 09:52:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Terry Clune Gallery</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1959</raw>
+            <year>1959</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1969</raw>
+            <year>1969</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67456</id>
+          <type id="150">Factoid</type>
+          <title>Whiteley, Brett, Property, Occupied, Yellow House</title>
+          <added>2012-01-05 09:54:52</added>
+          <modified>2012-01-05 09:54:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14926</id>
+              <type id="151">Entity</type>
+              <title>Whiteley, Brett (Person)</title>
+              <added>2009-06-10 16:04:21</added>
+              <modified>2012-01-05 10:01:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Whiteley, Brett</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Artist who was catapulted to fame in London in 1961 and achieved cult status in Australia, twice winning the Archibald Prize.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67448</id>
+              <type id="151">Entity</type>
+              <title>Yellow House (Building)</title>
+              <added>2012-01-05 09:34:16</added>
+              <modified>2012-01-05 09:52:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1969</raw>
+            <year>1969</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1971</raw>
+            <year>1971</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67467</id>
+          <type id="150">Factoid</type>
+          <title>Goold, Bruce, Property, Occupied, Yellow House</title>
+          <added>2012-01-05 10:10:05</added>
+          <modified>2012-01-05 10:10:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67462</id>
+              <type id="151">Entity</type>
+              <title>Goold, Bruce (Person)</title>
+              <added>2012-01-05 10:08:09</added>
+              <modified>2012-01-05 10:08:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Goold, Bruce</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Printmaker, artist and designer.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67448</id>
+              <type id="151">Entity</type>
+              <title>Yellow House (Building)</title>
+              <added>2012-01-05 09:34:16</added>
+              <modified>2012-01-05 09:52:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yellow House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Art gallery at 59 Macleay Street that was transformed into an innovative multimedia space and artist's cooperative which nurtured many of Sydney's emerging artists, filmmakers, performers and musicians.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1969</raw>
+            <year>1969</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1971</raw>
+            <year>1971</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,978 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:38175" w="a" depth="2" />
+  <dateStamp>2013-02-16T22:53:30+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>38175</id>
+      <type id="151">Entity</type>
+      <title>Craigend (Building)</title>
+      <added>2010-02-04 14:22:39</added>
+      <modified>2010-02-04 14:22:39</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Craigend</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>38176</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Craigend</title>
+          <added>2010-02-04 14:22:57</added>
+          <modified>2010-02-04 14:22:57</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Craigend</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>38175</id>
+              <type id="151">Entity</type>
+              <title>Craigend (Building)</title>
+              <added>2010-02-04 14:22:39</added>
+              <modified>2010-02-04 14:22:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craigend</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>38081</id>
+              <type id="98">XML Document</type>
+              <title>Darlinghurst</title>
+              <added>2010-01-28 16:08:28</added>
+              <modified>2010-11-03 15:31:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3998</id>
+                  <nonce>a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</nonce>
+                  <origName>Darlinghurst.xml</origName>
+                  <type>application/xml</type>
+                  <size>153.7 kb</size>
+                  <date>2010-11-03 15:31:27</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Darlinghurst.xml?file_id=a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Darlinghurst</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Used by its traditional owners, the Gadigal people, well into the 1840s, Darlinghurst was a quarry and windmill site before it became popular for the fine villas of the colony's well-to-do, in the 1830s. Subsequent booms and busts raised and lowered the suburb's fortunes, creating the mix of poor and posh, criminal and respectable that have made Darlinghurst one of Sydney's most interesting localities.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1750</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">41</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>67249</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Craigend</title>
+          <added>2011-12-22 15:30:32</added>
+          <modified>2012-05-09 12:19:59</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>38175</id>
+              <type id="151">Entity</type>
+              <title>Craigend (Building)</title>
+              <added>2010-02-04 14:22:39</added>
+              <modified>2010-02-04 14:22:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craigend</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>66805</id>
+              <type id="98">XML Document</type>
+              <title>Kings Cross</title>
+              <added>2011-12-16 10:39:11</added>
+              <modified>2013-02-08 07:49:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8265</id>
+                  <nonce>5e8464a7be65c5694a51ddd63d3ef3010d84614e</nonce>
+                  <origName>Kings+Cross.xml</origName>
+                  <type>application/xml</type>
+                  <size>170.4 kb</size>
+                  <date>2013-02-08 07:49:33</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Kings%2BCross.xml?file_id=5e8464a7be65c5694a51ddd63d3ef3010d84614e</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5e8464a7be65c5694a51ddd63d3ef3010d84614e</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Kings Cross</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Kings Cross exists in Sydney's imagination as much as it does in any physical form, and pinning down its geographical boundaries is difficult. It has loomed large in Sydney's culture since the first houses were built nearby in the 1830s, and continues to attract tourists and Sydneysiders alike.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-12-16</raw>
+                <year>2011</year>
+                <month>12</month>
+                <day>16</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1761</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Craigend</detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">126</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>38177</id>
+          <type id="150">Factoid</type>
+          <title>Craigend, Type, House</title>
+          <added>2010-02-04 14:23:32</added>
+          <modified>2010-02-04 14:23:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38175</id>
+              <type id="151">Entity</type>
+              <title>Craigend (Building)</title>
+              <added>2010-02-04 14:22:39</added>
+              <modified>2010-02-04 14:22:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craigend</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>38178</id>
+          <type id="150">Factoid</type>
+          <title>Craigend, Milestone, Constructed</title>
+          <added>2010-02-04 14:25:15</added>
+          <modified>2010-02-04 14:25:15</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38175</id>
+              <type id="151">Entity</type>
+              <title>Craigend (Building)</title>
+              <added>2010-02-04 14:22:39</added>
+              <modified>2010-02-04 14:22:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craigend</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1829</raw>
+            <year>1829</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1829</raw>
+            <year>1829</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>38179</id>
+          <type id="150">Factoid</type>
+          <title>Craigend, Milestone, Demolished</title>
+          <added>2010-02-04 14:25:36</added>
+          <modified>2010-02-04 14:26:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38175</id>
+              <type id="151">Entity</type>
+              <title>Craigend (Building)</title>
+              <added>2010-02-04 14:22:39</added>
+              <modified>2010-02-04 14:22:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craigend</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>26675</id>
+              <type id="91">Role</type>
+              <title>Demolished</title>
+              <added>2009-09-29 13:16:21</added>
+              <modified>2009-09-29 13:16:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Demolished</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1922</raw>
+            <year>1922</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1922</raw>
+            <year>1922</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>72784</id>
+          <type id="150">Factoid</type>
+          <title>Mitchell, Thomas, Property, Owned, Craigend</title>
+          <added>2012-02-03 11:05:06</added>
+          <modified>2012-02-03 11:05:06</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14233</id>
+              <type id="151">Entity</type>
+              <title>Mitchell, Thomas Livingstone (Person)</title>
+              <added>2009-06-10 16:04:17</added>
+              <modified>2012-02-09 09:22:19</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Mitchell, Thomas Livingstone</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Surveyor and explorer whose expeditions opened up large parts of the interior to settlers.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">48152</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>38175</id>
+              <type id="151">Entity</type>
+              <title>Craigend (Building)</title>
+              <added>2010-02-04 14:22:39</added>
+              <modified>2010-02-04 14:22:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craigend</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1829</raw>
+            <year>1829</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1837</raw>
+            <year>1837</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>72788</id>
+          <type id="150">Factoid</type>
+          <title>Craigend, TimePlace</title>
+          <added>2012-02-03 12:30:04</added>
+          <modified>2012-02-03 12:30:04</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38175</id>
+              <type id="151">Entity</type>
+              <title>Craigend (Building)</title>
+              <added>2010-02-04 14:22:39</added>
+              <modified>2010-02-04 14:22:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craigend</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.2224602103 -33.876766828676)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>80980</id>
+          <type id="52">Record relationship</type>
+          <title>(80976 isOf 38175)</title>
+          <added>2012-08-29 15:10:55</added>
+          <modified>2012-08-29 15:10:55</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>80976</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>View north from Craigend looking over Woolloomooloo and Port Jackson 1845</title>
+              <added>2012-08-29 15:10:55</added>
+              <modified>2012-08-29 15:11:26</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-08-29</raw>
+                <year>2012</year>
+                <month>8</month>
+                <day>29</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">View north from Craigend looking over Woolloomooloo and Port Jackson 1845</detail>
+              <detail id="365" type="Subject" name="dc.creator">Peacock, George Edward</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1845</raw>
+                <year>1845</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421324</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140025 / DL 15</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4813</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2009-10-29 10:35:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 14867
+P-DoS Notes: SLNSW cat note: Thomas Barker built his villa, Roslyn Hall, next door to his two windmills. The first and largest of these was known as the Hope Mill and was erected in 1825, before any of the villas. The two windmills stood close together at the junction of Roslyn Street and Darlinghurst Road, and north of present day Kellett Street.
+Reference: Villas of Darlinghurst exhibition catalogue / State Library of New South Wales. Sydney : State Library of New South Wales, 2002.</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>7892</id>
+                  <nonce>8be0c0a884fddff984326def8a24260220f9aaf8</nonce>
+                  <origName>SLNSW_a140025h.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>828.2 kb</size>
+                  <date>2012-08-29 15:10:55</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a140025h.jpg?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</thumbURL>
+                </file>
+              </detail>
+              <relationships>
+                <record>
+                  <id>80977</id>
+                  <type id="52">Record relationship</type>
+                  <title>(80976 isOf 16524)</title>
+                  <added>2012-08-29 15:10:55</added>
+                  <modified>2012-08-29 15:10:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>80976</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>View north from Craigend looking over Woolloomooloo and Port Jackson 1845</title>
+                      <added>2012-08-29 15:10:55</added>
+                      <modified>2012-08-29 15:11:26</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-08-29</raw>
+                        <year>2012</year>
+                        <month>8</month>
+                        <day>29</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">View north from Craigend looking over Woolloomooloo and Port Jackson 1845</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Peacock, George Edward</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1845</raw>
+                        <year>1845</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421324</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140025 / DL 15</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14867
+P-DoS Notes: SLNSW cat note: Thomas Barker built his villa, Roslyn Hall, next door to his two windmills. The first and largest of these was known as the Hope Mill and was erected in 1825, before any of the villas. The two windmills stood close together at the junction of Roslyn Street and Darlinghurst Road, and north of present day Kellett Street.
+Reference: Villas of Darlinghurst exhibition catalogue / State Library of New South Wales. Sydney : State Library of New South Wales, 2002.</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7892</id>
+                          <nonce>8be0c0a884fddff984326def8a24260220f9aaf8</nonce>
+                          <origName>SLNSW_a140025h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>828.2 kb</size>
+                          <date>2012-08-29 15:10:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a140025h.jpg?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>16524</id>
+                      <type id="151">Entity</type>
+                      <title>Kings Cross (Place)</title>
+                      <added>2009-06-10 16:07:28</added>
+                      <modified>2010-12-06 11:18:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Kings Cross</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Inner-city suburb which during the nineteenth century was one of Sydney's most prestigious suburbs, after the turn of the century home to a vibrant bohemian community and later Sydney's red light district.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">22463</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>80978</id>
+                  <type id="52">Record relationship</type>
+                  <title>(80976 isOf 18024)</title>
+                  <added>2012-08-29 15:10:55</added>
+                  <modified>2012-08-29 15:10:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>80976</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>View north from Craigend looking over Woolloomooloo and Port Jackson 1845</title>
+                      <added>2012-08-29 15:10:55</added>
+                      <modified>2012-08-29 15:11:26</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-08-29</raw>
+                        <year>2012</year>
+                        <month>8</month>
+                        <day>29</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">View north from Craigend looking over Woolloomooloo and Port Jackson 1845</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Peacock, George Edward</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1845</raw>
+                        <year>1845</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421324</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140025 / DL 15</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14867
+P-DoS Notes: SLNSW cat note: Thomas Barker built his villa, Roslyn Hall, next door to his two windmills. The first and largest of these was known as the Hope Mill and was erected in 1825, before any of the villas. The two windmills stood close together at the junction of Roslyn Street and Darlinghurst Road, and north of present day Kellett Street.
+Reference: Villas of Darlinghurst exhibition catalogue / State Library of New South Wales. Sydney : State Library of New South Wales, 2002.</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7892</id>
+                          <nonce>8be0c0a884fddff984326def8a24260220f9aaf8</nonce>
+                          <origName>SLNSW_a140025h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>828.2 kb</size>
+                          <date>2012-08-29 15:10:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a140025h.jpg?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>18024</id>
+                      <type id="151">Entity</type>
+                      <title>Woolloomooloo (Place)</title>
+                      <added>2009-06-10 16:07:51</added>
+                      <modified>2010-12-03 15:45:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Woolloomooloo</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Inner-city suburb on Woolloomooloo Bay, east of central Sydney.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">22489</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Sydney</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>80979</id>
+                  <type id="52">Record relationship</type>
+                  <title>(80976 isOf 15803)</title>
+                  <added>2012-08-29 15:10:55</added>
+                  <modified>2012-08-29 15:10:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>80976</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>View north from Craigend looking over Woolloomooloo and Port Jackson 1845</title>
+                      <added>2012-08-29 15:10:55</added>
+                      <modified>2012-08-29 15:11:26</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-08-29</raw>
+                        <year>2012</year>
+                        <month>8</month>
+                        <day>29</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">View north from Craigend looking over Woolloomooloo and Port Jackson 1845</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Peacock, George Edward</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1845</raw>
+                        <year>1845</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421324</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140025 / DL 15</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14867
+P-DoS Notes: SLNSW cat note: Thomas Barker built his villa, Roslyn Hall, next door to his two windmills. The first and largest of these was known as the Hope Mill and was erected in 1825, before any of the villas. The two windmills stood close together at the junction of Roslyn Street and Darlinghurst Road, and north of present day Kellett Street.
+Reference: Villas of Darlinghurst exhibition catalogue / State Library of New South Wales. Sydney : State Library of New South Wales, 2002.</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7892</id>
+                          <nonce>8be0c0a884fddff984326def8a24260220f9aaf8</nonce>
+                          <origName>SLNSW_a140025h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>828.2 kb</size>
+                          <date>2012-08-29 15:10:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a140025h.jpg?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>15803</id>
+                      <type id="151">Entity</type>
+                      <title>Darlinghurst (Place)</title>
+                      <added>2009-06-10 16:07:16</added>
+                      <modified>2010-12-03 15:06:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Darlinghurst</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Inner-city suburb which has been home to both gentry and underclass.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43933</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Sydney</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>80980</id>
+                  <type id="52">Record relationship</type>
+                  <title>(80976 isOf 38175)</title>
+                  <added>2012-08-29 15:10:55</added>
+                  <modified>2012-08-29 15:10:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>80976</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>View north from Craigend looking over Woolloomooloo and Port Jackson 1845</title>
+                      <added>2012-08-29 15:10:55</added>
+                      <modified>2012-08-29 15:11:26</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-08-29</raw>
+                        <year>2012</year>
+                        <month>8</month>
+                        <day>29</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">View north from Craigend looking over Woolloomooloo and Port Jackson 1845</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Peacock, George Edward</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1845</raw>
+                        <year>1845</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421324</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140025 / DL 15</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14867
+P-DoS Notes: SLNSW cat note: Thomas Barker built his villa, Roslyn Hall, next door to his two windmills. The first and largest of these was known as the Hope Mill and was erected in 1825, before any of the villas. The two windmills stood close together at the junction of Roslyn Street and Darlinghurst Road, and north of present day Kellett Street.
+Reference: Villas of Darlinghurst exhibition catalogue / State Library of New South Wales. Sydney : State Library of New South Wales, 2002.</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7892</id>
+                          <nonce>8be0c0a884fddff984326def8a24260220f9aaf8</nonce>
+                          <origName>SLNSW_a140025h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>828.2 kb</size>
+                          <date>2012-08-29 15:10:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a140025h.jpg?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>38175</id>
+                      <type id="151">Entity</type>
+                      <title>Craigend (Building)</title>
+                      <added>2010-02-04 14:22:39</added>
+                      <modified>2010-02-04 14:22:39</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Craigend</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>80981</id>
+                  <type id="52">Record relationship</type>
+                  <title>(80976 isOf 18142)</title>
+                  <added>2012-08-29 15:10:55</added>
+                  <modified>2012-08-29 15:10:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>80976</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>View north from Craigend looking over Woolloomooloo and Port Jackson 1845</title>
+                      <added>2012-08-29 15:10:55</added>
+                      <modified>2012-08-29 15:11:26</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-08-29</raw>
+                        <year>2012</year>
+                        <month>8</month>
+                        <day>29</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">View north from Craigend looking over Woolloomooloo and Port Jackson 1845</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Peacock, George Edward</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1845</raw>
+                        <year>1845</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421324</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140025 / DL 15</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14867
+P-DoS Notes: SLNSW cat note: Thomas Barker built his villa, Roslyn Hall, next door to his two windmills. The first and largest of these was known as the Hope Mill and was erected in 1825, before any of the villas. The two windmills stood close together at the junction of Roslyn Street and Darlinghurst Road, and north of present day Kellett Street.
+Reference: Villas of Darlinghurst exhibition catalogue / State Library of New South Wales. Sydney : State Library of New South Wales, 2002.</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7892</id>
+                          <nonce>8be0c0a884fddff984326def8a24260220f9aaf8</nonce>
+                          <origName>SLNSW_a140025h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>828.2 kb</size>
+                          <date>2012-08-29 15:10:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a140025h.jpg?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>18142</id>
+                      <type id="151">Entity</type>
+                      <title>Craigend Mill (Structure)</title>
+                      <added>2009-06-10 16:09:29</added>
+                      <modified>2010-11-23 12:43:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Craigend Mill</detail>
+                      <detail id="523" type="Entity type" name="dc.type">Structure</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Windmill adjacent to Craigend mansion, Darlinghurst, but not associated with that estate.</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>38175</id>
+              <type id="151">Entity</type>
+              <title>Craigend (Building)</title>
+              <added>2010-02-04 14:22:39</added>
+              <modified>2010-02-04 14:22:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craigend</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>38176</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Craigend</title>
+                  <added>2010-02-04 14:22:57</added>
+                  <modified>2010-02-04 14:22:57</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Craigend</detail>
+                  <detail id="199" type="Resource" name="target">38175</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">38081</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">41</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>67249</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Craigend</title>
+                  <added>2011-12-22 15:30:32</added>
+                  <modified>2012-05-09 12:19:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="199" type="Resource" name="target">38175</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">66805</detail>
+                  <detail id="160" type="Title" name="dc.title">Craigend</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">126</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>38177</id>
+                  <type id="150">Factoid</type>
+                  <title>Craigend, Type, House</title>
+                  <added>2010-02-04 14:23:32</added>
+                  <modified>2010-02-04 14:23:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">38175</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6978</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>38178</id>
+                  <type id="150">Factoid</type>
+                  <title>Craigend, Milestone, Constructed</title>
+                  <added>2010-02-04 14:25:15</added>
+                  <modified>2010-02-04 14:25:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">38175</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1829</raw>
+                    <year>1829</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1829</raw>
+                    <year>1829</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>38179</id>
+                  <type id="150">Factoid</type>
+                  <title>Craigend, Milestone, Demolished</title>
+                  <added>2010-02-04 14:25:36</added>
+                  <modified>2010-02-04 14:26:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">38175</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">26675</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1922</raw>
+                    <year>1922</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1922</raw>
+                    <year>1922</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>72784</id>
+                  <type id="150">Factoid</type>
+                  <title>Mitchell, Thomas, Property, Owned, Craigend</title>
+                  <added>2012-02-03 11:05:06</added>
+                  <modified>2012-02-03 11:05:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">14233</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">38175</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1829</raw>
+                    <year>1829</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1837</raw>
+                    <year>1837</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>72788</id>
+                  <type id="150">Factoid</type>
+                  <title>Craigend, TimePlace</title>
+                  <added>2012-02-03 12:30:04</added>
+                  <modified>2012-02-03 12:30:04</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">38175</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.2224602103 -33.876766828676)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>80980</id>
+                  <type id="52">Record relationship</type>
+                  <title>(80976 isOf 38175)</title>
+                  <added>2012-08-29 15:10:55</added>
+                  <modified>2012-08-29 15:10:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>80976</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>View north from Craigend looking over Woolloomooloo and Port Jackson 1845</title>
+                      <added>2012-08-29 15:10:55</added>
+                      <modified>2012-08-29 15:11:26</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-08-29</raw>
+                        <year>2012</year>
+                        <month>8</month>
+                        <day>29</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">View north from Craigend looking over Woolloomooloo and Port Jackson 1845</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Peacock, George Edward</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1845</raw>
+                        <year>1845</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421324</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a140025 / DL 15</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14867
+P-DoS Notes: SLNSW cat note: Thomas Barker built his villa, Roslyn Hall, next door to his two windmills. The first and largest of these was known as the Hope Mill and was erected in 1825, before any of the villas. The two windmills stood close together at the junction of Roslyn Street and Darlinghurst Road, and north of present day Kellett Street.
+Reference: Villas of Darlinghurst exhibition catalogue / State Library of New South Wales. Sydney : State Library of New South Wales, 2002.</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7892</id>
+                          <nonce>8be0c0a884fddff984326def8a24260220f9aaf8</nonce>
+                          <origName>SLNSW_a140025h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>828.2 kb</size>
+                          <date>2012-08-29 15:10:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a140025h.jpg?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8be0c0a884fddff984326def8a24260220f9aaf8</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>38175</id>
+                      <type id="151">Entity</type>
+                      <title>Craigend (Building)</title>
+                      <added>2010-02-04 14:22:39</added>
+                      <modified>2010-02-04 14:22:39</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Craigend</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Darlinghurst villa designed and built by Surveyor General Sir Thomas Mitchell.</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

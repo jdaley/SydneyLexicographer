@@ -1,0 +1,1376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:59004" w="a" depth="2" />
+  <dateStamp>2013-02-17T03:52:18+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>59004</id>
+      <type id="151">Entity</type>
+      <title>All Saints' Anglican church Hunters Hill (Building)</title>
+      <added>2011-07-08 12:00:37</added>
+      <modified>2011-07-08 12:00:37</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>59005</id>
+          <type id="99">TEI Document Reference</type>
+          <title>All Saints' Anglican church Hunters Hill</title>
+          <added>2011-07-08 12:00:50</added>
+          <modified>2011-07-08 12:00:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>59004</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Anglican church Hunters Hill (Building)</title>
+              <added>2011-07-08 12:00:37</added>
+              <modified>2011-07-08 12:00:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>58828</id>
+              <type id="98">XML Document</type>
+              <title>Stained glass</title>
+              <added>2011-07-04 13:30:25</added>
+              <modified>2012-02-14 14:55:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7354</id>
+                  <nonce>a7da043825502aa7bac743bbfb555a5087eec579</nonce>
+                  <origName>Stained+glass.xml</origName>
+                  <type>application/xml</type>
+                  <size>163.5 kb</size>
+                  <date>2012-02-14 14:55:18</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained%2Bglass.xml?file_id=a7da043825502aa7bac743bbfb555a5087eec579</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a7da043825502aa7bac743bbfb555a5087eec579</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Stained glass</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">An integral part of Sydney's nineteenth-century architectural heritage, stained glass was a medium where artists displayed their visions of the colony's future.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-04</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>4</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3137</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">13</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">22</detail>
+          <detail id="330" type="End Word" name="End Word">25</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>59065</id>
+          <type id="99">TEI Document Reference</type>
+          <title>All Saints' Anglican church Hunters Hill</title>
+          <added>2011-07-08 14:47:00</added>
+          <modified>2011-07-08 14:47:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>59004</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Anglican church Hunters Hill (Building)</title>
+              <added>2011-07-08 12:00:37</added>
+              <modified>2011-07-08 12:00:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>58828</id>
+              <type id="98">XML Document</type>
+              <title>Stained glass</title>
+              <added>2011-07-04 13:30:25</added>
+              <modified>2012-02-14 14:55:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7354</id>
+                  <nonce>a7da043825502aa7bac743bbfb555a5087eec579</nonce>
+                  <origName>Stained+glass.xml</origName>
+                  <type>application/xml</type>
+                  <size>163.5 kb</size>
+                  <date>2012-02-14 14:55:18</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained%2Bglass.xml?file_id=a7da043825502aa7bac743bbfb555a5087eec579</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a7da043825502aa7bac743bbfb555a5087eec579</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Stained glass</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">An integral part of Sydney's nineteenth-century architectural heritage, stained glass was a medium where artists displayed their visions of the colony's future.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-04</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>4</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3137</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">13</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">10</detail>
+          <detail id="330" type="End Word" name="End Word">13</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>59006</id>
+          <type id="150">Factoid</type>
+          <title>All Saints' Anglican church Hunters Hill, Type, Place of worship</title>
+          <added>2011-07-08 12:01:23</added>
+          <modified>2011-07-08 12:01:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59004</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Anglican church Hunters Hill (Building)</title>
+              <added>2011-07-08 12:00:37</added>
+              <modified>2011-07-08 12:00:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>59007</id>
+          <type id="150">Factoid</type>
+          <title>All Saints' Anglican church Hunters Hill, Milestone, Constructed</title>
+          <added>2011-07-08 12:01:45</added>
+          <modified>2011-07-08 12:01:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59004</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Anglican church Hunters Hill (Building)</title>
+              <added>2011-07-08 12:00:37</added>
+              <modified>2011-07-08 12:00:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1885</raw>
+            <year>1885</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1888</raw>
+            <year>1888</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>59008</id>
+          <type id="150">Factoid</type>
+          <title>Hunt, John Horbury, Position, Architect, All Saints' Anglican church Hunters Hill</title>
+          <added>2011-07-08 12:02:29</added>
+          <modified>2011-07-08 12:02:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13830</id>
+              <type id="151">Entity</type>
+              <title>Hunt, John Horbury (Person)</title>
+              <added>2009-06-10 16:04:14</added>
+              <modified>2010-09-02 16:32:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hunt, John Horbury</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect who produced highly individual buildings of complex form and asymmetrical balance including the Chapel of the Sacred Heart Convent at Rose Bay and Cloncorrick at Darling Point.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://adbonline.anu.edu.au/biogs/A040505b.htm</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>59004</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Anglican church Hunters Hill (Building)</title>
+              <added>2011-07-08 12:00:37</added>
+              <modified>2011-07-08 12:00:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1884</raw>
+            <year>1884</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1884</raw>
+            <year>1884</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>59180</id>
+          <type id="150">Factoid</type>
+          <title>All Saints' Anglican church Hunters Hill, TimePlace</title>
+          <added>2011-07-14 11:47:40</added>
+          <modified>2011-07-14 11:47:40</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59004</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Anglican church Hunters Hill (Building)</title>
+              <added>2011-07-08 12:00:37</added>
+              <modified>2011-07-08 12:00:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.15700232978 -33.835862739116)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>64980</id>
+          <type id="52">Record relationship</type>
+          <title>(60678 isOf 59004)</title>
+          <added>2011-10-21 09:09:18</added>
+          <modified>2011-10-21 09:09:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>60678</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Detail of Transfiguration window in All Saints' church, Hunters Hill</title>
+              <added>2011-07-28 16:37:57</added>
+              <modified>2011-12-15 14:23:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>5198</id>
+                  <nonce>3e25f6fe796201bc376f900cdd6ec392d5afac96</nonce>
+                  <origName>Stained Glass 6.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>692.4 kb</size>
+                  <date>2011-07-28 16:37:57</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+6.jpg?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</thumbURL>
+                </file>
+              </detail>
+              <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+              <detail id="160" type="Title" name="dc.title">Detail of Transfiguration window in All Saints' church, Hunters Hill</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-28</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>28</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1982</raw>
+                <year>1982</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>5301</id>
+                  <type id="153">Contributor</type>
+                  <title>Private collection</title>
+                  <added>2009-04-09 12:30:44</added>
+                  <modified>2009-04-09 12:30:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Private collection</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">public</detail>
+                </record>
+              </detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 13181
+P-DoS Notes: 6.  Christ: central panel of Transfiguration window, All Saints’ Church, Hunters Hill. Made by Morris &amp; Co. (London), 1919, to a design by Sir Edward Burne-Jones. Photo by Douglass Baglin    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>59595</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>unique</title>
+                  <added>2011-07-20 14:25:22</added>
+                  <modified>2011-11-11 15:08:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58828</detail>
+                  <detail id="199" type="Resource" name="target">60678</detail>
+                  <detail id="160" type="Title" name="dc.title">unique</detail>
+                  <detail id="191" type="Extended description" name="caption">A beautiful Pre-Raphaelite Christ, expressively portrayed by Sir Edward Burne-Jones (1833–1898) forms the central panel of the Transfiguration window in All Saints' church, Hunters Hill. It was made by Morris &amp; Co in London in 1926. After Burne-Jones's death in 1898,  Morris &amp; Co continued to use his cartoons. This design had first been executed in 1874 at St Cuthbert’s church, Lytham, Lancashire.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">113</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Bev's caption: A beautiful Pre-Raphaelite Christ, expressively portrayed by Sir Edward Burne-Jones (1833-1898): central panel of Transfiguration window, All Saints’ church, Hunters Hill. Made by Morris &amp; Co. (London), 1926. After Burne-Jones’s death Morris &amp; Co, continued to use his cartoons.</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64980</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60678 isOf 59004)</title>
+                  <added>2011-10-21 09:09:18</added>
+                  <modified>2011-10-21 09:09:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of Transfiguration window in All Saints' church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:57</added>
+                      <modified>2011-12-15 14:23:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5198</id>
+                          <nonce>3e25f6fe796201bc376f900cdd6ec392d5afac96</nonce>
+                          <origName>Stained Glass 6.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>692.4 kb</size>
+                          <date>2011-07-28 16:37:57</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+6.jpg?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of Transfiguration window in All Saints' church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13181
+P-DoS Notes: 6.  Christ: central panel of Transfiguration window, All Saints’ Church, Hunters Hill. Made by Morris &amp; Co. (London), 1919, to a design by Sir Edward Burne-Jones. Photo by Douglass Baglin    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>59004</id>
+                      <type id="151">Entity</type>
+                      <title>All Saints' Anglican church Hunters Hill (Building)</title>
+                      <added>2011-07-08 12:00:37</added>
+                      <modified>2011-07-08 12:00:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>80595</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60678 hasSubject 6192)</title>
+                  <added>2012-08-28 10:46:52</added>
+                  <modified>2012-08-28 10:46:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of Transfiguration window in All Saints' church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:57</added>
+                      <modified>2011-12-15 14:23:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5198</id>
+                          <nonce>3e25f6fe796201bc376f900cdd6ec392d5afac96</nonce>
+                          <origName>Stained Glass 6.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>692.4 kb</size>
+                          <date>2011-07-28 16:37:57</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+6.jpg?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of Transfiguration window in All Saints' church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13181
+P-DoS Notes: 6.  Christ: central panel of Transfiguration window, All Saints’ Church, Hunters Hill. Made by Morris &amp; Co. (London), 1919, to a design by Sir Edward Burne-Jones. Photo by Douglass Baglin    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>80596</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60678 hasSubject 5808)</title>
+                  <added>2012-08-28 10:47:13</added>
+                  <modified>2012-08-28 10:47:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of Transfiguration window in All Saints' church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:57</added>
+                      <modified>2011-12-15 14:23:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5198</id>
+                          <nonce>3e25f6fe796201bc376f900cdd6ec392d5afac96</nonce>
+                          <origName>Stained Glass 6.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>692.4 kb</size>
+                          <date>2011-07-28 16:37:57</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+6.jpg?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of Transfiguration window in All Saints' church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13181
+P-DoS Notes: 6.  Christ: central panel of Transfiguration window, All Saints’ Church, Hunters Hill. Made by Morris &amp; Co. (London), 1919, to a design by Sir Edward Burne-Jones. Photo by Douglass Baglin    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5808</id>
+                      <type id="152">Term</type>
+                      <title>Anglican</title>
+                      <added>2009-05-25 14:56:10</added>
+                      <modified>2012-08-02 14:51:22</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Anglican</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>59004</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Anglican church Hunters Hill (Building)</title>
+              <added>2011-07-08 12:00:37</added>
+              <modified>2011-07-08 12:00:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>59005</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>All Saints' Anglican church Hunters Hill</title>
+                  <added>2011-07-08 12:00:50</added>
+                  <modified>2011-07-08 12:00:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                  <detail id="199" type="Resource" name="target">59004</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58828</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">22</detail>
+                  <detail id="330" type="End Word" name="End Word">25</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>59065</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>All Saints' Anglican church Hunters Hill</title>
+                  <added>2011-07-08 14:47:00</added>
+                  <modified>2011-07-08 14:47:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                  <detail id="199" type="Resource" name="target">59004</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58828</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">10</detail>
+                  <detail id="330" type="End Word" name="End Word">13</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59006</id>
+                  <type id="150">Factoid</type>
+                  <title>All Saints' Anglican church Hunters Hill, Type, Place of worship</title>
+                  <added>2011-07-08 12:01:23</added>
+                  <modified>2011-07-08 12:01:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59004</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59007</id>
+                  <type id="150">Factoid</type>
+                  <title>All Saints' Anglican church Hunters Hill, Milestone, Constructed</title>
+                  <added>2011-07-08 12:01:45</added>
+                  <modified>2011-07-08 12:01:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59004</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1885</raw>
+                    <year>1885</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1888</raw>
+                    <year>1888</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>59008</id>
+                  <type id="150">Factoid</type>
+                  <title>Hunt, John Horbury, Position, Architect, All Saints' Anglican church Hunters Hill</title>
+                  <added>2011-07-08 12:02:29</added>
+                  <modified>2011-07-08 12:02:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13830</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">59004</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1884</raw>
+                    <year>1884</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1884</raw>
+                    <year>1884</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59180</id>
+                  <type id="150">Factoid</type>
+                  <title>All Saints' Anglican church Hunters Hill, TimePlace</title>
+                  <added>2011-07-14 11:47:40</added>
+                  <modified>2011-07-14 11:47:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59004</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.15700232978 -33.835862739116)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64980</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60678 isOf 59004)</title>
+                  <added>2011-10-21 09:09:18</added>
+                  <modified>2011-10-21 09:09:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of Transfiguration window in All Saints' church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:57</added>
+                      <modified>2011-12-15 14:23:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5198</id>
+                          <nonce>3e25f6fe796201bc376f900cdd6ec392d5afac96</nonce>
+                          <origName>Stained Glass 6.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>692.4 kb</size>
+                          <date>2011-07-28 16:37:57</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+6.jpg?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of Transfiguration window in All Saints' church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13181
+P-DoS Notes: 6.  Christ: central panel of Transfiguration window, All Saints’ Church, Hunters Hill. Made by Morris &amp; Co. (London), 1919, to a design by Sir Edward Burne-Jones. Photo by Douglass Baglin    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>59004</id>
+                      <type id="151">Entity</type>
+                      <title>All Saints' Anglican church Hunters Hill (Building)</title>
+                      <added>2011-07-08 12:00:37</added>
+                      <modified>2011-07-08 12:00:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>64990</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60664 isOf 59004)</title>
+                  <added>2011-10-21 09:50:48</added>
+                  <modified>2011-10-21 09:50:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60664</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of The Last Supper, All Saints’ Church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2011-12-15 15:10:50</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5184</id>
+                          <nonce>89aea904948d6b5bc70a23f41382b9ecabe9a44c</nonce>
+                          <origName>Stained Glass 11.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>291 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+11.jpg?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of The Last Supper, All Saints’ Church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13142
+P-DoS Notes: 11.  Detail of The Last Supper, lower panel of east window, All Saints’ Church, Hunters Hill, showing Judas with a bag of money. Lyon &amp; Cottier (Sydney), 1889. Photo by Douglass Baglin.    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>59004</id>
+                      <type id="151">Entity</type>
+                      <title>All Saints' Anglican church Hunters Hill (Building)</title>
+                      <added>2011-07-08 12:00:37</added>
+                      <modified>2011-07-08 12:00:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+        <record>
+          <id>64990</id>
+          <type id="52">Record relationship</type>
+          <title>(60664 isOf 59004)</title>
+          <added>2011-10-21 09:50:48</added>
+          <modified>2011-10-21 09:50:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>60664</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Detail of The Last Supper, All Saints’ Church, Hunters Hill</title>
+              <added>2011-07-28 16:37:56</added>
+              <modified>2011-12-15 15:10:50</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>5184</id>
+                  <nonce>89aea904948d6b5bc70a23f41382b9ecabe9a44c</nonce>
+                  <origName>Stained Glass 11.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>291 kb</size>
+                  <date>2011-07-28 16:37:56</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+11.jpg?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</thumbURL>
+                </file>
+              </detail>
+              <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+              <detail id="160" type="Title" name="dc.title">Detail of The Last Supper, All Saints’ Church, Hunters Hill</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-28</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>28</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1982</raw>
+                <year>1982</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>5301</id>
+                  <type id="153">Contributor</type>
+                  <title>Private collection</title>
+                  <added>2009-04-09 12:30:44</added>
+                  <modified>2009-04-09 12:30:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Private collection</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">public</detail>
+                </record>
+              </detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 13142
+P-DoS Notes: 11.  Detail of The Last Supper, lower panel of east window, All Saints’ Church, Hunters Hill, showing Judas with a bag of money. Lyon &amp; Cottier (Sydney), 1889. Photo by Douglass Baglin.    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>60776</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>stunning</title>
+                  <added>2011-07-29 12:23:38</added>
+                  <modified>2011-11-11 15:15:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="199" type="Resource" name="target">60664</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58828</detail>
+                  <detail id="160" type="Title" name="dc.title">stunning</detail>
+                  <detail id="191" type="Extended description" name="caption">The east window of All Saints’ was inspired by the words of the hymn Te Deum Laudamus and is known as the Te Deum window. The central scene is the Crucifixion and the Last Supper is depicted below it. This detail shows Judas conspicuously lacking a halo and clutching the bag of money he received for betraying Jesus. The Scottish artist Andrew Wells, then a partner in the Sydney-based firm of Lyon &amp; Cottier, designed the window, which was installed in 1889.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">4</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">ref: http://www.huntershill.anglican.asn.au/galleries/
+Bev's caption: Detail of The Last Supper: lower panel of east window, All Saints’ church, Hunters Hill, showing Judas clutching a bag of money. Lyon &amp; Cottier (Sydney), 1889</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64990</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60664 isOf 59004)</title>
+                  <added>2011-10-21 09:50:48</added>
+                  <modified>2011-10-21 09:50:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60664</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of The Last Supper, All Saints’ Church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2011-12-15 15:10:50</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5184</id>
+                          <nonce>89aea904948d6b5bc70a23f41382b9ecabe9a44c</nonce>
+                          <origName>Stained Glass 11.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>291 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+11.jpg?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of The Last Supper, All Saints’ Church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13142
+P-DoS Notes: 11.  Detail of The Last Supper, lower panel of east window, All Saints’ Church, Hunters Hill, showing Judas with a bag of money. Lyon &amp; Cottier (Sydney), 1889. Photo by Douglass Baglin.    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>59004</id>
+                      <type id="151">Entity</type>
+                      <title>All Saints' Anglican church Hunters Hill (Building)</title>
+                      <added>2011-07-08 12:00:37</added>
+                      <modified>2011-07-08 12:00:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>80593</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60664 hasSubject 6192)</title>
+                  <added>2012-08-28 10:45:26</added>
+                  <modified>2012-08-28 10:45:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60664</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of The Last Supper, All Saints’ Church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2011-12-15 15:10:50</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5184</id>
+                          <nonce>89aea904948d6b5bc70a23f41382b9ecabe9a44c</nonce>
+                          <origName>Stained Glass 11.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>291 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+11.jpg?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of The Last Supper, All Saints’ Church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13142
+P-DoS Notes: 11.  Detail of The Last Supper, lower panel of east window, All Saints’ Church, Hunters Hill, showing Judas with a bag of money. Lyon &amp; Cottier (Sydney), 1889. Photo by Douglass Baglin.    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>80594</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60664 hasSubject 5808)</title>
+                  <added>2012-08-28 10:45:49</added>
+                  <modified>2012-08-28 10:45:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60664</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of The Last Supper, All Saints’ Church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2011-12-15 15:10:50</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5184</id>
+                          <nonce>89aea904948d6b5bc70a23f41382b9ecabe9a44c</nonce>
+                          <origName>Stained Glass 11.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>291 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+11.jpg?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of The Last Supper, All Saints’ Church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13142
+P-DoS Notes: 11.  Detail of The Last Supper, lower panel of east window, All Saints’ Church, Hunters Hill, showing Judas with a bag of money. Lyon &amp; Cottier (Sydney), 1889. Photo by Douglass Baglin.    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5808</id>
+                      <type id="152">Term</type>
+                      <title>Anglican</title>
+                      <added>2009-05-25 14:56:10</added>
+                      <modified>2012-08-02 14:51:22</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Anglican</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>59004</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Anglican church Hunters Hill (Building)</title>
+              <added>2011-07-08 12:00:37</added>
+              <modified>2011-07-08 12:00:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>59005</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>All Saints' Anglican church Hunters Hill</title>
+                  <added>2011-07-08 12:00:50</added>
+                  <modified>2011-07-08 12:00:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                  <detail id="199" type="Resource" name="target">59004</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58828</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">22</detail>
+                  <detail id="330" type="End Word" name="End Word">25</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>59065</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>All Saints' Anglican church Hunters Hill</title>
+                  <added>2011-07-08 14:47:00</added>
+                  <modified>2011-07-08 14:47:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                  <detail id="199" type="Resource" name="target">59004</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58828</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">10</detail>
+                  <detail id="330" type="End Word" name="End Word">13</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59006</id>
+                  <type id="150">Factoid</type>
+                  <title>All Saints' Anglican church Hunters Hill, Type, Place of worship</title>
+                  <added>2011-07-08 12:01:23</added>
+                  <modified>2011-07-08 12:01:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59004</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59007</id>
+                  <type id="150">Factoid</type>
+                  <title>All Saints' Anglican church Hunters Hill, Milestone, Constructed</title>
+                  <added>2011-07-08 12:01:45</added>
+                  <modified>2011-07-08 12:01:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59004</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1885</raw>
+                    <year>1885</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1888</raw>
+                    <year>1888</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>59008</id>
+                  <type id="150">Factoid</type>
+                  <title>Hunt, John Horbury, Position, Architect, All Saints' Anglican church Hunters Hill</title>
+                  <added>2011-07-08 12:02:29</added>
+                  <modified>2011-07-08 12:02:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13830</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">59004</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1884</raw>
+                    <year>1884</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1884</raw>
+                    <year>1884</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59180</id>
+                  <type id="150">Factoid</type>
+                  <title>All Saints' Anglican church Hunters Hill, TimePlace</title>
+                  <added>2011-07-14 11:47:40</added>
+                  <modified>2011-07-14 11:47:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59004</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.15700232978 -33.835862739116)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64980</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60678 isOf 59004)</title>
+                  <added>2011-10-21 09:09:18</added>
+                  <modified>2011-10-21 09:09:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of Transfiguration window in All Saints' church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:57</added>
+                      <modified>2011-12-15 14:23:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5198</id>
+                          <nonce>3e25f6fe796201bc376f900cdd6ec392d5afac96</nonce>
+                          <origName>Stained Glass 6.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>692.4 kb</size>
+                          <date>2011-07-28 16:37:57</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+6.jpg?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3e25f6fe796201bc376f900cdd6ec392d5afac96</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of Transfiguration window in All Saints' church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13181
+P-DoS Notes: 6.  Christ: central panel of Transfiguration window, All Saints’ Church, Hunters Hill. Made by Morris &amp; Co. (London), 1919, to a design by Sir Edward Burne-Jones. Photo by Douglass Baglin    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>59004</id>
+                      <type id="151">Entity</type>
+                      <title>All Saints' Anglican church Hunters Hill (Building)</title>
+                      <added>2011-07-08 12:00:37</added>
+                      <modified>2011-07-08 12:00:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>64990</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60664 isOf 59004)</title>
+                  <added>2011-10-21 09:50:48</added>
+                  <modified>2011-10-21 09:50:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60664</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Detail of The Last Supper, All Saints’ Church, Hunters Hill</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2011-12-15 15:10:50</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5184</id>
+                          <nonce>89aea904948d6b5bc70a23f41382b9ecabe9a44c</nonce>
+                          <origName>Stained Glass 11.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>291 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+11.jpg?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=89aea904948d6b5bc70a23f41382b9ecabe9a44c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Detail of The Last Supper, All Saints’ Church, Hunters Hill</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1982</raw>
+                        <year>1982</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13142
+P-DoS Notes: 11.  Detail of The Last Supper, lower panel of east window, All Saints’ Church, Hunters Hill, showing Judas with a bag of money. Lyon &amp; Cottier (Sydney), 1889. Photo by Douglass Baglin.    From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. Bev has verbal approval, need it in writing as well.
+P-Related: Stained Glass</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>59004</id>
+                      <type id="151">Entity</type>
+                      <title>All Saints' Anglican church Hunters Hill (Building)</title>
+                      <added>2011-07-08 12:00:37</added>
+                      <modified>2011-07-08 12:00:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">All Saints' Anglican church Hunters Hill</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church designed by John Horbury Hunt in 1884 but not totally completed until 1938.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

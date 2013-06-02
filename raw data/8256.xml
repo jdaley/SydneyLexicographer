@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8256" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:32:23+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8256</id>
+      <type id="151">Entity</type>
+      <title>Epping railway station (Building)</title>
+      <added>2009-06-10 15:58:47</added>
+      <modified>2009-06-10 15:58:47</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Epping railway station</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36326</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Epping railway station</title>
+          <added>2009-11-19 12:59:18</added>
+          <modified>2009-11-19 12:59:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Epping railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8256</id>
+              <type id="151">Entity</type>
+              <title>Epping railway station (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2009-06-10 15:58:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Epping railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>323</id>
+              <type id="98">XML Document</type>
+              <title>Epping</title>
+              <added>2008-10-22 13:11:58</added>
+              <modified>2009-10-16 13:36:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>228</id>
+                  <nonce>31a0388ab0ef94ad16ec08048d85915e9290be50</nonce>
+                  <origName>Epping.xml</origName>
+                  <type>application/xml</type>
+                  <size>77.1 kb</size>
+                  <date>2008-11-14 14:28:49</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Epping.xml?file_id=31a0388ab0ef94ad16ec08048d85915e9290be50</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=31a0388ab0ef94ad16ec08048d85915e9290be50</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Epping</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wallumedegal land in the area that became Epping was granted to European settlers from 1794, and provided timber, fruit and vegetables to Sydney Town. When the railway came though in 1886, the name Epping was chosen, and subdivision of the rural properties began the process of suburbanisation.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1809</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">54</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">1</detail>
+          <detail id="330" type="End Word" name="End Word">3</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8257</id>
+          <type id="150">Factoid</type>
+          <title>Epping railway station, Type, Railway station</title>
+          <added>2009-06-10 15:58:47</added>
+          <modified>2009-06-10 15:58:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8256</id>
+              <type id="151">Entity</type>
+              <title>Epping railway station (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2009-06-10 15:58:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Epping railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7059</id>
+              <type id="91">Role</type>
+              <title>Railway station</title>
+              <added>2009-06-10 15:56:24</added>
+              <modified>2009-06-10 15:56:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Railway station</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51662</id>
+          <type id="150">Factoid</type>
+          <title>Epping railway station, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:49</added>
+          <modified>2011-02-16 16:03:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Epping railway station</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8256</id>
+              <type id="151">Entity</type>
+              <title>Epping railway station (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2009-06-10 15:58:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Epping railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.082473 -33.773464)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

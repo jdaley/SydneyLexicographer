@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:59226" w="a" depth="2" />
+  <dateStamp>2013-02-17T03:55:54+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>59226</id>
+      <type id="151">Entity</type>
+      <title>St Cloud (Building)</title>
+      <added>2011-07-14 14:13:40</added>
+      <modified>2011-07-14 14:15:14</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Two storey Victorian mansion built for George Hoskins at 223 Burwood Road Burwood.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>59227</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St Cloud</title>
+          <added>2011-07-14 14:13:51</added>
+          <modified>2011-07-14 14:13:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>59226</id>
+              <type id="151">Entity</type>
+              <title>St Cloud (Building)</title>
+              <added>2011-07-14 14:13:40</added>
+              <modified>2011-07-14 14:15:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Two storey Victorian mansion built for George Hoskins at 223 Burwood Road Burwood.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>58828</id>
+              <type id="98">XML Document</type>
+              <title>Stained glass</title>
+              <added>2011-07-04 13:30:25</added>
+              <modified>2012-02-14 14:55:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7354</id>
+                  <nonce>a7da043825502aa7bac743bbfb555a5087eec579</nonce>
+                  <origName>Stained+glass.xml</origName>
+                  <type>application/xml</type>
+                  <size>163.5 kb</size>
+                  <date>2012-02-14 14:55:18</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained%2Bglass.xml?file_id=a7da043825502aa7bac743bbfb555a5087eec579</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a7da043825502aa7bac743bbfb555a5087eec579</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Stained glass</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">An integral part of Sydney's nineteenth-century architectural heritage, stained glass was a medium where artists displayed their visions of the colony's future.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-04</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>4</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3137</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">13</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,15</detail>
+          <detail id="329" type="Start Word" name="Start Word">45</detail>
+          <detail id="330" type="End Word" name="End Word">46</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>59228</id>
+          <type id="150">Factoid</type>
+          <title>St Cloud, Milestone, Constructed</title>
+          <added>2011-07-14 14:14:27</added>
+          <modified>2011-07-14 14:14:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59226</id>
+              <type id="151">Entity</type>
+              <title>St Cloud (Building)</title>
+              <added>2011-07-14 14:13:40</added>
+              <modified>2011-07-14 14:15:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Two storey Victorian mansion built for George Hoskins at 223 Burwood Road Burwood.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1892</raw>
+            <year>1892</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1893</raw>
+            <year>1893</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>59229</id>
+          <type id="150">Factoid</type>
+          <title>St Cloud, Type, House</title>
+          <added>2011-07-14 14:15:37</added>
+          <modified>2011-07-14 14:15:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59226</id>
+              <type id="151">Entity</type>
+              <title>St Cloud (Building)</title>
+              <added>2011-07-14 14:13:40</added>
+              <modified>2011-07-14 14:15:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Two storey Victorian mansion built for George Hoskins at 223 Burwood Road Burwood.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>59230</id>
+          <type id="150">Factoid</type>
+          <title>St Cloud, TimePlace</title>
+          <added>2011-07-14 14:17:00</added>
+          <modified>2011-07-14 14:17:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59226</id>
+              <type id="151">Entity</type>
+              <title>St Cloud (Building)</title>
+              <added>2011-07-14 14:13:40</added>
+              <modified>2011-07-14 14:15:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Two storey Victorian mansion built for George Hoskins at 223 Burwood Road Burwood.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.10151466726 -33.886194887524)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>64983</id>
+          <type id="52">Record relationship</type>
+          <title>(60672 isOf 59226)</title>
+          <added>2011-10-21 09:12:17</added>
+          <modified>2011-10-21 09:12:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>60672</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Waratahs in staircase window at St Cloud, Burwood</title>
+              <added>2011-07-28 16:37:56</added>
+              <modified>2012-02-22 09:17:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>5192</id>
+                  <nonce>1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</nonce>
+                  <origName>Stained Glass 19.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>268.4 kb</size>
+                  <date>2011-07-28 16:37:56</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+19.jpg?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</thumbURL>
+                </file>
+              </detail>
+              <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+              <detail id="160" type="Title" name="dc.title">Waratahs in staircase window at St Cloud, Burwood</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-28</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>28</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1984</raw>
+                <year>1984</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>5301</id>
+                  <type id="153">Contributor</type>
+                  <title>Private collection</title>
+                  <added>2009-04-09 12:30:44</added>
+                  <modified>2009-04-09 12:30:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Private collection</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">public</detail>
+                </record>
+              </detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 13169
+P-DoS Notes: 19.  Waratahs in staircase window at St. Cloud, Burwood.  Attributed to Goodlet &amp; Smith (Sydney), 1893.  Photo by Doulgass Baglin   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. 
+P-Related: Stained Glass People whose windows were photographed for this book often made such comments as, ‘Our window is best in the morning,’ or ‘our window has a better warmth of colour in autumn in the late afternoon.’
+
+   ' Douglass Baglin photographed the Waratah window at St Cloud, a Sydney residence, first in May 1982, second in March 1984 late in the afternoon. The light was certainly better in March (autumn in Australia) with the result that the reds in the glass were more vibrant and the waratahs consequently more dramatic'. (Australia’s Historic Stained Glass, p 10)</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>59594</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>companion</title>
+                  <added>2011-07-20 13:56:38</added>
+                  <modified>2011-11-11 15:27:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58828</detail>
+                  <detail id="199" type="Resource" name="target">60672</detail>
+                  <detail id="160" type="Title" name="dc.title">companion</detail>
+                  <detail id="191" type="Extended description" name="caption">These glowing waratahs suggest the nationalism of the late nineteenth century and adorn the entrance hall of St Cloud, a residence built in 1893 in Burwood. The design is attributed to Lucien Henry and was made by Sydney firm Goodlet &amp; Smith in 1893.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,14</detail>
+                  <detail id="329" type="Start Word" name="Start Word">2</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Bev's caption: These glowing waratahs suggest the nationalism of the late nineteenth century and adorn the entrance hall of St. Cloud, a residence built in 1893 in Burwood.  Attributed to Lucien Henry and made by Goodlet &amp; Smith (Sydney), 1893</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64983</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60672 isOf 59226)</title>
+                  <added>2011-10-21 09:12:17</added>
+                  <modified>2011-10-21 09:12:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60672</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Waratahs in staircase window at St Cloud, Burwood</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2012-02-22 09:17:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5192</id>
+                          <nonce>1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</nonce>
+                          <origName>Stained Glass 19.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>268.4 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+19.jpg?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Waratahs in staircase window at St Cloud, Burwood</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1984</raw>
+                        <year>1984</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13169
+P-DoS Notes: 19.  Waratahs in staircase window at St. Cloud, Burwood.  Attributed to Goodlet &amp; Smith (Sydney), 1893.  Photo by Doulgass Baglin   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. 
+P-Related: Stained Glass People whose windows were photographed for this book often made such comments as, ‘Our window is best in the morning,’ or ‘our window has a better warmth of colour in autumn in the late afternoon.’
+
+   ' Douglass Baglin photographed the Waratah window at St Cloud, a Sydney residence, first in May 1982, second in March 1984 late in the afternoon. The light was certainly better in March (autumn in Australia) with the result that the reds in the glass were more vibrant and the waratahs consequently more dramatic'. (Australia’s Historic Stained Glass, p 10)</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>59226</id>
+                      <type id="151">Entity</type>
+                      <title>St Cloud (Building)</title>
+                      <added>2011-07-14 14:13:40</added>
+                      <modified>2011-07-14 14:15:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Two storey Victorian mansion built for George Hoskins at 223 Burwood Road Burwood.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>86231</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60672 hasSubject 5979)</title>
+                  <added>2012-11-27 15:08:36</added>
+                  <modified>2012-11-27 15:08:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60672</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Waratahs in staircase window at St Cloud, Burwood</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2012-02-22 09:17:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5192</id>
+                          <nonce>1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</nonce>
+                          <origName>Stained Glass 19.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>268.4 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+19.jpg?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Waratahs in staircase window at St Cloud, Burwood</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1984</raw>
+                        <year>1984</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13169
+P-DoS Notes: 19.  Waratahs in staircase window at St. Cloud, Burwood.  Attributed to Goodlet &amp; Smith (Sydney), 1893.  Photo by Doulgass Baglin   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. 
+P-Related: Stained Glass People whose windows were photographed for this book often made such comments as, ‘Our window is best in the morning,’ or ‘our window has a better warmth of colour in autumn in the late afternoon.’
+
+   ' Douglass Baglin photographed the Waratah window at St Cloud, a Sydney residence, first in May 1982, second in March 1984 late in the afternoon. The light was certainly better in March (autumn in Australia) with the result that the reds in the glass were more vibrant and the waratahs consequently more dramatic'. (Australia’s Historic Stained Glass, p 10)</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5979</id>
+                      <type id="152">Term</type>
+                      <title>Flora</title>
+                      <added>2009-05-25 14:56:29</added>
+                      <modified>2009-05-25 14:56:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Flora</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>86232</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60672 hasSubject 6194)</title>
+                  <added>2012-11-27 15:08:56</added>
+                  <modified>2012-11-27 15:08:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60672</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Waratahs in staircase window at St Cloud, Burwood</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2012-02-22 09:17:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5192</id>
+                          <nonce>1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</nonce>
+                          <origName>Stained Glass 19.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>268.4 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+19.jpg?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Waratahs in staircase window at St Cloud, Burwood</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1984</raw>
+                        <year>1984</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13169
+P-DoS Notes: 19.  Waratahs in staircase window at St. Cloud, Burwood.  Attributed to Goodlet &amp; Smith (Sydney), 1893.  Photo by Doulgass Baglin   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. 
+P-Related: Stained Glass People whose windows were photographed for this book often made such comments as, ‘Our window is best in the morning,’ or ‘our window has a better warmth of colour in autumn in the late afternoon.’
+
+   ' Douglass Baglin photographed the Waratah window at St Cloud, a Sydney residence, first in May 1982, second in March 1984 late in the afternoon. The light was certainly better in March (autumn in Australia) with the result that the reds in the glass were more vibrant and the waratahs consequently more dramatic'. (Australia’s Historic Stained Glass, p 10)</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6194</id>
+                      <type id="152">Term</type>
+                      <title>Residential building</title>
+                      <added>2009-05-25 14:56:55</added>
+                      <modified>2009-05-25 14:56:55</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Residential building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>59226</id>
+              <type id="151">Entity</type>
+              <title>St Cloud (Building)</title>
+              <added>2011-07-14 14:13:40</added>
+              <modified>2011-07-14 14:15:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Two storey Victorian mansion built for George Hoskins at 223 Burwood Road Burwood.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>59227</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>St Cloud</title>
+                  <added>2011-07-14 14:13:51</added>
+                  <modified>2011-07-14 14:13:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+                  <detail id="199" type="Resource" name="target">59226</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58828</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,15</detail>
+                  <detail id="329" type="Start Word" name="Start Word">45</detail>
+                  <detail id="330" type="End Word" name="End Word">46</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59228</id>
+                  <type id="150">Factoid</type>
+                  <title>St Cloud, Milestone, Constructed</title>
+                  <added>2011-07-14 14:14:27</added>
+                  <modified>2011-07-14 14:14:27</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59226</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1892</raw>
+                    <year>1892</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1893</raw>
+                    <year>1893</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59229</id>
+                  <type id="150">Factoid</type>
+                  <title>St Cloud, Type, House</title>
+                  <added>2011-07-14 14:15:37</added>
+                  <modified>2011-07-14 14:15:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59226</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6978</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>59230</id>
+                  <type id="150">Factoid</type>
+                  <title>St Cloud, TimePlace</title>
+                  <added>2011-07-14 14:17:00</added>
+                  <modified>2011-07-14 14:17:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">59226</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.10151466726 -33.886194887524)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64983</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60672 isOf 59226)</title>
+                  <added>2011-10-21 09:12:17</added>
+                  <modified>2011-10-21 09:12:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60672</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Waratahs in staircase window at St Cloud, Burwood</title>
+                      <added>2011-07-28 16:37:56</added>
+                      <modified>2012-02-22 09:17:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5192</id>
+                          <nonce>1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</nonce>
+                          <origName>Stained Glass 19.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>268.4 kb</size>
+                          <date>2011-07-28 16:37:56</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained+Glass+19.jpg?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1c0037ed34bc9f4e47d4bb31ba8516c8caff9bf4</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Baglin, Douglass</detail>
+                      <detail id="160" type="Title" name="dc.title">Waratahs in staircase window at St Cloud, Burwood</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1984</raw>
+                        <year>1984</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">By kind permission of the Baglin estate</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13169
+P-DoS Notes: 19.  Waratahs in staircase window at St. Cloud, Burwood.  Attributed to Goodlet &amp; Smith (Sydney), 1893.  Photo by Doulgass Baglin   From colour transparencies supplied by Bev Sherry. Copyright resides with Douglass Baglin's estate. The contact is Yvonne Austin (his niece): yvonne.austin@clearmail.com.au 'Winnunga', Nellies Glen Road, Megalong Valley, NSW 2785, ph: 02 4787 9177 / 0428 170 220. 
+P-Related: Stained Glass People whose windows were photographed for this book often made such comments as, ‘Our window is best in the morning,’ or ‘our window has a better warmth of colour in autumn in the late afternoon.’
+
+   ' Douglass Baglin photographed the Waratah window at St Cloud, a Sydney residence, first in May 1982, second in March 1984 late in the afternoon. The light was certainly better in March (autumn in Australia) with the result that the reds in the glass were more vibrant and the waratahs consequently more dramatic'. (Australia’s Historic Stained Glass, p 10)</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>59226</id>
+                      <type id="151">Entity</type>
+                      <title>St Cloud (Building)</title>
+                      <added>2011-07-14 14:13:40</added>
+                      <modified>2011-07-14 14:15:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Cloud</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Two storey Victorian mansion built for George Hoskins at 223 Burwood Road Burwood.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

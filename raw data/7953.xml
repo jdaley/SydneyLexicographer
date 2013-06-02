@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:7953" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:13:53+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>7953</id>
+      <type id="151">Entity</type>
+      <title>Auburn Presbyterian church (Building)</title>
+      <added>2009-06-10 15:58:44</added>
+      <modified>2010-12-17 16:09:27</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Auburn Presbyterian church</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Local Presbyterian church in Auburn.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">29 Queen St, Auburn</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>48639</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Auburn Presbyterian church</title>
+          <added>2010-12-17 16:08:53</added>
+          <modified>2010-12-17 16:08:53</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Auburn Presbyterian church</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7953</id>
+              <type id="151">Entity</type>
+              <title>Auburn Presbyterian church (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-12-17 16:09:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Auburn Presbyterian church</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Local Presbyterian church in Auburn.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">29 Queen St, Auburn</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>193</id>
+              <type id="98">XML Document</type>
+              <title>Berala</title>
+              <added>2008-10-22 13:11:37</added>
+              <modified>2009-10-16 14:09:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>162</id>
+                  <nonce>7f2ef3c8972ea6728f8db7b7ca8fdbb205abcc8f</nonce>
+                  <origName>Berala.xml</origName>
+                  <type>application/xml</type>
+                  <size>67.7 kb</size>
+                  <date>2008-11-11 12:11:07</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Berala.xml?file_id=7f2ef3c8972ea6728f8db7b7ca8fdbb205abcc8f</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7f2ef3c8972ea6728f8db7b7ca8fdbb205abcc8f</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Berala</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditional country of the Wangal clan, Berala was divided into farm lots after the Europeans came, and the forest was largely cleared for timber and charcoal. Dairy and poultry farms and market gardens began to give way to housing after the railway arrived in 1912, and suburbanisation intensified after World War I.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2225</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">73</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">77</detail>
+          <detail id="330" type="End Word" name="End Word">79</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>7954</id>
+          <type id="150">Factoid</type>
+          <title>Auburn Presbyterian church, Type, Place of worship</title>
+          <added>2009-06-10 15:58:44</added>
+          <modified>2009-06-10 15:58:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7953</id>
+              <type id="151">Entity</type>
+              <title>Auburn Presbyterian church (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-12-17 16:09:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Auburn Presbyterian church</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Local Presbyterian church in Auburn.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">29 Queen St, Auburn</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51713</id>
+          <type id="150">Factoid</type>
+          <title>Auburn Presbyterian church, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:24</added>
+          <modified>2011-02-16 16:03:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Auburn Presbyterian Church</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7953</id>
+              <type id="151">Entity</type>
+              <title>Auburn Presbyterian church (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-12-17 16:09:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Auburn Presbyterian church</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Local Presbyterian church in Auburn.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">29 Queen St, Auburn</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.03374368677 -33.852503020065)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

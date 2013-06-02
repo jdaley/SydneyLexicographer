@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:64193" w="a" depth="2" />
+  <dateStamp>2013-02-17T05:16:53+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>64193</id>
+      <type id="151">Entity</type>
+      <title>1-3 Park Street (Building)</title>
+      <added>2011-09-23 15:01:01</added>
+      <modified>2011-09-28 08:34:40</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>64194</id>
+          <type id="99">TEI Document Reference</type>
+          <title>1-3 Park Street</title>
+          <added>2011-09-23 15:01:14</added>
+          <modified>2011-09-23 15:01:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>62468</id>
+              <type id="98">XML Document</type>
+              <title>Bebarfald's</title>
+              <added>2011-09-06 13:33:47</added>
+              <modified>2011-09-06 13:33:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5243</id>
+                  <nonce>a5b94733861f984cfa1c053fa9d65dd422be49b3</nonce>
+                  <origName>Bebarfalds.xml</origName>
+                  <type>application/xml</type>
+                  <size>53.7 kb</size>
+                  <date>2011-09-06 13:31:25</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Bebarfalds.xml?file_id=a5b94733861f984cfa1c053fa9d65dd422be49b3</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a5b94733861f984cfa1c053fa9d65dd422be49b3</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Bebarfald's</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Once a giant in furniture retailing, with a full scale house on display on the second floor of its city building, Bebarfald's was a complete home furnishing and decoration store. Like others, its business declined once suburban shopping centres took off after the 1950s.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-09-06</raw>
+                <year>2011</year>
+                <month>9</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3194</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">59656</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">98</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>64195</id>
+          <type id="150">Factoid</type>
+          <title>1-3 Park Street, Type, Shopping centre or Retail</title>
+          <added>2011-09-23 15:01:49</added>
+          <modified>2011-09-23 15:01:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7085</id>
+              <type id="91">Role</type>
+              <title>Shopping centre or retail premises</title>
+              <added>2009-06-10 15:56:29</added>
+              <modified>2012-05-30 11:16:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Shopping centre or retail premises</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>64196</id>
+          <type id="150">Factoid</type>
+          <title>1-3 Park Street, Name, Alternate</title>
+          <added>2011-09-23 15:02:19</added>
+          <modified>2011-09-23 15:02:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Bebarfald's</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>64197</id>
+          <type id="150">Factoid</type>
+          <title>1-3 Park Street, Name, Alternate</title>
+          <added>2011-09-23 15:02:40</added>
+          <modified>2011-12-01 15:32:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Woolworths</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1965</raw>
+            <year>1965</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>64206</id>
+          <type id="150">Factoid</type>
+          <title>Kent &amp; Massie, Position, Architect, 1-3 Park Street</title>
+          <added>2011-09-23 15:10:13</added>
+          <modified>2011-09-23 15:10:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64200</id>
+              <type id="151">Entity</type>
+              <title>Kent &amp; Massie (Organisation)</title>
+              <added>2011-09-23 15:07:05</added>
+              <modified>2011-09-23 15:07:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Kent &amp; Massie</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architectural partnership formed by Harry Kent and HH Massie.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1930</raw>
+            <year>1930</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1930</raw>
+            <year>1930</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>64266</id>
+          <type id="150">Factoid</type>
+          <title>Bebarfald's, Property, Occupied, 1-3 Park Street</title>
+          <added>2011-09-26 17:31:18</added>
+          <modified>2011-09-26 17:31:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>62469</id>
+              <type id="151">Entity</type>
+              <title>Bebarfald's (Organisation)</title>
+              <added>2011-09-06 13:34:52</added>
+              <modified>2011-09-27 16:49:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Bebarfald's</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Furniture manufacturer, interior design company and furnishing retailer which traded opposite the Town Hall for over 70 years.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1894</raw>
+            <year>1894</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1965</raw>
+            <year>1965</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>64289</id>
+          <type id="150">Factoid</type>
+          <title>1-3 Park Street, Milestone, Modified</title>
+          <added>2011-09-27 16:36:10</added>
+          <modified>2011-09-27 16:36:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1967</raw>
+            <year>1967</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1967</raw>
+            <year>1967</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>64290</id>
+          <type id="150">Factoid</type>
+          <title>Woolworths, Property, Occupied, 1-3 Park Street</title>
+          <added>2011-09-27 16:37:47</added>
+          <modified>2011-09-27 16:37:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64276</id>
+              <type id="151">Entity</type>
+              <title>Woolworths (Organisation)</title>
+              <added>2011-09-27 16:09:53</added>
+              <modified>2011-09-27 16:09:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Woolworths</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Retail chain which began as a bargain basement in the Imperial Arcade before expanding across Australia and New Zealand in the 1930s.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1965</raw>
+            <year>1965</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>64292</id>
+          <type id="150">Factoid</type>
+          <title>1-3 Park Street, TimePlace</title>
+          <added>2011-09-27 16:52:30</added>
+          <modified>2011-09-27 16:52:30</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20727774502 -33.873283928443)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>64314</id>
+          <type id="150">Factoid</type>
+          <title>1-3 Park Street, Milestone, Constructed</title>
+          <added>2011-09-28 08:35:11</added>
+          <modified>2011-09-28 08:35:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64193</id>
+              <type id="151">Entity</type>
+              <title>1-3 Park Street (Building)</title>
+              <added>2011-09-23 15:01:01</added>
+              <modified>2011-09-28 08:34:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">1-3 Park Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Eight storey retail building constructed on the site of two previous Bebarfald shops.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1930</raw>
+            <year>1930</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1930</raw>
+            <year>1930</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

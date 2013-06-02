@@ -1,0 +1,1131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8300" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:35:13+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8300</id>
+      <type id="151">Entity</type>
+      <title>Gallipoli Mosque (Building)</title>
+      <added>2009-06-10 15:58:47</added>
+      <modified>2011-02-23 11:14:59</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>37966</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Istanbul in Sydney, Auburn 2009</title>
+          <added>2009-12-02 11:18:24</added>
+          <modified>2011-05-20 23:35:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>3323</id>
+              <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+              <origName>mosque-split.jpg</origName>
+              <type>image/jpeg</type>
+              <size>85.8 kb</size>
+              <date>2009-12-02 11:17:15</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+            </file>
+          </detail>
+          <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+          <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2009</raw>
+            <year>2009</year>
+          </detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>37963</id>
+              <type id="153">Contributor</type>
+              <title>Louise Hawson</title>
+              <added>2009-12-02 10:37:32</added>
+              <modified>2011-03-17 13:57:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Louise Hawson</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="191" type="Extended description" name="dc.description">52 Suburbs is the name of a project created by writer and photographer Louise Hawson. Realising she was a stranger in her own city, Sydney, Louise set herself the task of exploring one new Sydney suburb a week for 52 weeks, 'in search of the beauty in the 'burb'. The project is presented in blog format with photographic diptychs 'telling' the story of her travels.</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.52suburbs.com</detail>
+              <detail id="569" type="Attribution phrase" name="contributor.attribution">© www.52suburbs.com</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+          <reversePointer id="199" type="Resource" name="target">
+            <record>
+              <id>4120</id>
+              <type id="99">TEI Document Reference</type>
+              <title>Some</title>
+              <added>2009-01-06 14:05:27</added>
+              <modified>2010-07-19 16:13:22</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="322" type="TEI Document Reference" name="annotates">389</detail>
+              <detail id="199" type="Resource" name="target">37966</detail>
+              <detail id="160" type="Title" name="dc.title">Some</detail>
+              <detail id="191" type="Extended description" name="caption">The Auburn Gallipoli Mosque officially opened in 1999, 20 years after the first mosque on the site opened for worship. The local Turkish community, which initiated and funded the building, makes up about half of the present congregation. The remainder are Muslims from other ethnic backgrounds.</detail>
+              <detail id="539" type="Start Element" name="Start Element">5,6</detail>
+              <detail id="329" type="Start Word" name="Start Word">54</detail>
+              <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+              <detail id="303" type="Short summary" name="dos.notes">IMG Now of Muslims OR mosque in Auburn.</detail>
+              <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+            </record>
+          </reversePointer>
+          <reversePointer id="199" type="Resource" name="target">
+            <record>
+              <id>36952</id>
+              <type id="99">TEI Document Reference</type>
+              <title>By</title>
+              <added>2009-11-24 14:10:18</added>
+              <modified>2009-12-02 11:19:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">By</detail>
+              <detail id="191" type="Extended description" name="caption">The Gallipoli Mosque in Auburn is an architectural icon and represents the growing population of people of the Islamic faith in the area.</detail>
+              <detail id="199" type="Resource" name="target">37966</detail>
+              <detail id="322" type="TEI Document Reference" name="annotates">168</detail>
+              <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+              <detail id="329" type="Start Word" name="Start Word">1</detail>
+              <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+              <detail id="303" type="Short summary" name="dos.notes">IMG mosque-split.jpg in P</detail>
+              <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+            </record>
+          </reversePointer>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>8300</id>
+              <type id="151">Entity</type>
+              <title>Gallipoli Mosque (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2011-02-23 11:14:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>37975</id>
+              <type id="52">Record relationship</type>
+              <title>Auburn (37966 isOf 15122)</title>
+              <added>2009-12-02 13:44:53</added>
+              <modified>2009-12-02 13:44:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>37966</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Istanbul in Sydney, Auburn 2009</title>
+                  <added>2009-12-02 11:18:24</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3323</id>
+                      <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                      <origName>mosque-split.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>85.8 kb</size>
+                      <date>2009-12-02 11:17:15</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                    </file>
+                  </detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                  <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>15122</id>
+                  <type id="151">Entity</type>
+                  <title>Auburn (Place)</title>
+                  <added>2009-06-10 16:06:35</added>
+                  <modified>2010-12-07 10:49:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Auburn</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                  <detail id="191" type="Extended description" name="dc.description">An industrial suburb which grew around the railway, Auburn is now one of Sydney's most multicultural suburbs thanks to postwar immigration.</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Auburn</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="160" type="Title" name="dc.title">Auburn</detail>
+            </record>
+            <record>
+              <id>37976</id>
+              <type id="52">Record relationship</type>
+              <title>Gallipoli Mosque (37966 isOf 8300)</title>
+              <added>2009-12-02 13:45:17</added>
+              <modified>2009-12-02 13:45:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>37966</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Istanbul in Sydney, Auburn 2009</title>
+                  <added>2009-12-02 11:18:24</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3323</id>
+                      <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                      <origName>mosque-split.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>85.8 kb</size>
+                      <date>2009-12-02 11:17:15</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                    </file>
+                  </detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                  <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>8300</id>
+                  <type id="151">Entity</type>
+                  <title>Gallipoli Mosque (Building)</title>
+                  <added>2009-06-10 15:58:47</added>
+                  <modified>2011-02-23 11:14:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+            </record>
+            <record>
+              <id>82526</id>
+              <type id="52">Record relationship</type>
+              <title>(37966 hasSubject 6192)</title>
+              <added>2012-09-25 12:46:37</added>
+              <modified>2012-09-25 12:46:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>37966</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Istanbul in Sydney, Auburn 2009</title>
+                  <added>2009-12-02 11:18:24</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3323</id>
+                      <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                      <origName>mosque-split.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>85.8 kb</size>
+                      <date>2009-12-02 11:17:15</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                    </file>
+                  </detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                  <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6192</id>
+                  <type id="152">Term</type>
+                  <title>Religious building</title>
+                  <added>2009-05-25 14:56:54</added>
+                  <modified>2009-05-25 14:56:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>82527</id>
+              <type id="52">Record relationship</type>
+              <title>(37966 hasSubject 78991)</title>
+              <added>2012-09-25 12:46:57</added>
+              <modified>2012-09-25 12:46:57</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>37966</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Istanbul in Sydney, Auburn 2009</title>
+                  <added>2009-12-02 11:18:24</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3323</id>
+                      <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                      <origName>mosque-split.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>85.8 kb</size>
+                      <date>2009-12-02 11:17:15</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                    </file>
+                  </detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                  <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>78991</id>
+                  <type id="152">Term</type>
+                  <title>Islam</title>
+                  <added>2012-08-02 14:18:14</added>
+                  <modified>2012-08-02 14:18:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Islam</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>21462</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Gallipoli Mosque</title>
+          <added>2009-07-28 16:01:42</added>
+          <modified>2009-07-28 16:01:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8300</id>
+              <type id="151">Entity</type>
+              <title>Gallipoli Mosque (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2011-02-23 11:14:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>168</id>
+              <type id="98">XML Document</type>
+              <title>Auburn</title>
+              <added>2008-10-22 13:11:33</added>
+              <modified>2009-08-31 14:24:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>2773</id>
+                  <nonce>de55cf0472d548027317e319e66e60785cb66ca4</nonce>
+                  <origName>Auburn.xml</origName>
+                  <type>application/xml</type>
+                  <size>62.6 kb</size>
+                  <date>2009-07-28 16:00:26</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Auburn.xml?file_id=de55cf0472d548027317e319e66e60785cb66ca4</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=de55cf0472d548027317e319e66e60785cb66ca4</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Auburn</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built on Dharug country, Auburn developed early industries of timber-getting and brickmaking but became an industrial powerhouse after the railway arrived. Postwar immigration has made Auburn one of Sydney's most multicultural areas.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2220</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">124</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">17</detail>
+          <detail id="330" type="End Word" name="End Word">18</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>28823</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Gallipoli Mosque</title>
+          <added>2009-10-15 09:19:07</added>
+          <modified>2009-10-15 09:19:07</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8300</id>
+              <type id="151">Entity</type>
+              <title>Gallipoli Mosque (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2011-02-23 11:14:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>389</id>
+              <type id="98">XML Document</type>
+              <title>Immigration</title>
+              <added>2008-10-22 13:12:08</added>
+              <modified>2009-10-29 14:49:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1285</id>
+                  <nonce>13993f939e9b0818bea858ce1873a0c38bd1a1e2</nonce>
+                  <origName>Immigration.xml</origName>
+                  <type>application/xml</type>
+                  <size>85.6 kb</size>
+                  <date>2009-04-29 15:07:07</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Immigration.xml?file_id=13993f939e9b0818bea858ce1873a0c38bd1a1e2</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13993f939e9b0818bea858ce1873a0c38bd1a1e2</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Immigration</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">From its foundation by the First Fleet, Sydney has been populated by immigrants from cultures across the world and remains Australia's most multicultural city.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2982</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">51</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">8,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">71</detail>
+          <detail id="330" type="End Word" name="End Word">72</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>37944</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Gallipoli Mosque</title>
+          <added>2009-12-01 12:48:43</added>
+          <modified>2009-12-01 12:48:43</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8300</id>
+              <type id="151">Entity</type>
+              <title>Gallipoli Mosque (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2011-02-23 11:14:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>536</id>
+              <type id="98">XML Document</type>
+              <title>Religion</title>
+              <added>2008-10-22 13:12:32</added>
+              <modified>2011-02-23 12:58:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4462</id>
+                  <nonce>9e5f89d4423124edec0c9942876d1d2356abee2d</nonce>
+                  <origName>Religion.xml</origName>
+                  <type>application/xml</type>
+                  <size>233.8 kb</size>
+                  <date>2011-02-23 12:58:54</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Religion.xml?file_id=9e5f89d4423124edec0c9942876d1d2356abee2d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=9e5f89d4423124edec0c9942876d1d2356abee2d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Religion</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Religion has had a profound influence on the geography, culture, politics, and artistic life of Sydney. While religion has mostly been a conservative force, preserving traditions transported from home societies, it has also reflected the setting and people of Sydney, its harbour, bushland and suburbs.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2981</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">44</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">17,7</detail>
+          <detail id="329" type="Start Word" name="Start Word">84</detail>
+          <detail id="330" type="End Word" name="End Word">85</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8301</id>
+          <type id="150">Factoid</type>
+          <title>Gallipoli Mosque, Type, Place of worship</title>
+          <added>2009-06-10 15:58:47</added>
+          <modified>2009-06-10 15:58:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8300</id>
+              <type id="151">Entity</type>
+              <title>Gallipoli Mosque (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2011-02-23 11:14:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51722</id>
+          <type id="150">Factoid</type>
+          <title>Gallipoli Mosque, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:31</added>
+          <modified>2011-02-16 16:03:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8300</id>
+              <type id="151">Entity</type>
+              <title>Gallipoli Mosque (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2011-02-23 11:14:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.03594328095 -33.85233505394)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>37976</id>
+          <type id="52">Record relationship</type>
+          <title>Gallipoli Mosque (37966 isOf 8300)</title>
+          <added>2009-12-02 13:45:17</added>
+          <modified>2009-12-02 13:45:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>37966</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Istanbul in Sydney, Auburn 2009</title>
+              <added>2009-12-02 11:18:24</added>
+              <modified>2011-05-20 23:35:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>3323</id>
+                  <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                  <origName>mosque-split.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>85.8 kb</size>
+                  <date>2009-12-02 11:17:15</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                </file>
+              </detail>
+              <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+              <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>2009</raw>
+                <year>2009</year>
+              </detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>37963</id>
+                  <type id="153">Contributor</type>
+                  <title>Louise Hawson</title>
+                  <added>2009-12-02 10:37:32</added>
+                  <modified>2011-03-17 13:57:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Louise Hawson</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="191" type="Extended description" name="dc.description">52 Suburbs is the name of a project created by writer and photographer Louise Hawson. Realising she was a stranger in her own city, Sydney, Louise set herself the task of exploring one new Sydney suburb a week for 52 weeks, 'in search of the beauty in the 'burb'. The project is presented in blog format with photographic diptychs 'telling' the story of her travels.</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.52suburbs.com</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">© www.52suburbs.com</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>4120</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Some</title>
+                  <added>2009-01-06 14:05:27</added>
+                  <modified>2010-07-19 16:13:22</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">389</detail>
+                  <detail id="199" type="Resource" name="target">37966</detail>
+                  <detail id="160" type="Title" name="dc.title">Some</detail>
+                  <detail id="191" type="Extended description" name="caption">The Auburn Gallipoli Mosque officially opened in 1999, 20 years after the first mosque on the site opened for worship. The local Turkish community, which initiated and funded the building, makes up about half of the present congregation. The remainder are Muslims from other ethnic backgrounds.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">54</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">IMG Now of Muslims OR mosque in Auburn.</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>36952</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>By</title>
+                  <added>2009-11-24 14:10:18</added>
+                  <modified>2009-12-02 11:19:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">By</detail>
+                  <detail id="191" type="Extended description" name="caption">The Gallipoli Mosque in Auburn is an architectural icon and represents the growing population of people of the Islamic faith in the area.</detail>
+                  <detail id="199" type="Resource" name="target">37966</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">168</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">IMG mosque-split.jpg in P</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>8300</id>
+                  <type id="151">Entity</type>
+                  <title>Gallipoli Mosque (Building)</title>
+                  <added>2009-06-10 15:58:47</added>
+                  <modified>2011-02-23 11:14:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>37975</id>
+                  <type id="52">Record relationship</type>
+                  <title>Auburn (37966 isOf 15122)</title>
+                  <added>2009-12-02 13:44:53</added>
+                  <modified>2009-12-02 13:44:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>37966</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Istanbul in Sydney, Auburn 2009</title>
+                      <added>2009-12-02 11:18:24</added>
+                      <modified>2011-05-20 23:35:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3323</id>
+                          <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                          <origName>mosque-split.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>85.8 kb</size>
+                          <date>2009-12-02 11:17:15</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                      <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>15122</id>
+                      <type id="151">Entity</type>
+                      <title>Auburn (Place)</title>
+                      <added>2009-06-10 16:06:35</added>
+                      <modified>2010-12-07 10:49:02</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Auburn</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">An industrial suburb which grew around the railway, Auburn is now one of Sydney's most multicultural suburbs thanks to postwar immigration.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Auburn</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="160" type="Title" name="dc.title">Auburn</detail>
+                </record>
+                <record>
+                  <id>37976</id>
+                  <type id="52">Record relationship</type>
+                  <title>Gallipoli Mosque (37966 isOf 8300)</title>
+                  <added>2009-12-02 13:45:17</added>
+                  <modified>2009-12-02 13:45:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>37966</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Istanbul in Sydney, Auburn 2009</title>
+                      <added>2009-12-02 11:18:24</added>
+                      <modified>2011-05-20 23:35:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3323</id>
+                          <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                          <origName>mosque-split.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>85.8 kb</size>
+                          <date>2009-12-02 11:17:15</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                      <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8300</id>
+                      <type id="151">Entity</type>
+                      <title>Gallipoli Mosque (Building)</title>
+                      <added>2009-06-10 15:58:47</added>
+                      <modified>2011-02-23 11:14:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                </record>
+                <record>
+                  <id>82526</id>
+                  <type id="52">Record relationship</type>
+                  <title>(37966 hasSubject 6192)</title>
+                  <added>2012-09-25 12:46:37</added>
+                  <modified>2012-09-25 12:46:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>37966</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Istanbul in Sydney, Auburn 2009</title>
+                      <added>2009-12-02 11:18:24</added>
+                      <modified>2011-05-20 23:35:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3323</id>
+                          <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                          <origName>mosque-split.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>85.8 kb</size>
+                          <date>2009-12-02 11:17:15</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                      <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>82527</id>
+                  <type id="52">Record relationship</type>
+                  <title>(37966 hasSubject 78991)</title>
+                  <added>2012-09-25 12:46:57</added>
+                  <modified>2012-09-25 12:46:57</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>37966</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Istanbul in Sydney, Auburn 2009</title>
+                      <added>2009-12-02 11:18:24</added>
+                      <modified>2011-05-20 23:35:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3323</id>
+                          <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                          <origName>mosque-split.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>85.8 kb</size>
+                          <date>2009-12-02 11:17:15</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                      <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>78991</id>
+                      <type id="152">Term</type>
+                      <title>Islam</title>
+                      <added>2012-08-02 14:18:14</added>
+                      <modified>2012-08-02 14:18:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Islam</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8300</id>
+              <type id="151">Entity</type>
+              <title>Gallipoli Mosque (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2011-02-23 11:14:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>37966</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Istanbul in Sydney, Auburn 2009</title>
+                  <added>2009-12-02 11:18:24</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3323</id>
+                      <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                      <origName>mosque-split.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>85.8 kb</size>
+                      <date>2009-12-02 11:17:15</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                    </file>
+                  </detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                  <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                </record>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>21462</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Gallipoli Mosque</title>
+                  <added>2009-07-28 16:01:42</added>
+                  <modified>2009-07-28 16:01:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                  <detail id="199" type="Resource" name="target">8300</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">168</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">17</detail>
+                  <detail id="330" type="End Word" name="End Word">18</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>28823</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Gallipoli Mosque</title>
+                  <added>2009-10-15 09:19:07</added>
+                  <modified>2009-10-15 09:19:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                  <detail id="199" type="Resource" name="target">8300</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">389</detail>
+                  <detail id="539" type="Start Element" name="Start Element">8,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">71</detail>
+                  <detail id="330" type="End Word" name="End Word">72</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>37944</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Gallipoli Mosque</title>
+                  <added>2009-12-01 12:48:43</added>
+                  <modified>2009-12-01 12:48:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                  <detail id="199" type="Resource" name="target">8300</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">536</detail>
+                  <detail id="539" type="Start Element" name="Start Element">17,7</detail>
+                  <detail id="329" type="Start Word" name="Start Word">84</detail>
+                  <detail id="330" type="End Word" name="End Word">85</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8301</id>
+                  <type id="150">Factoid</type>
+                  <title>Gallipoli Mosque, Type, Place of worship</title>
+                  <added>2009-06-10 15:58:47</added>
+                  <modified>2009-06-10 15:58:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8300</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51722</id>
+                  <type id="150">Factoid</type>
+                  <title>Gallipoli Mosque, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:51:31</added>
+                  <modified>2011-02-16 16:03:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8300</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.03594328095 -33.85233505394)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>37976</id>
+                  <type id="52">Record relationship</type>
+                  <title>Gallipoli Mosque (37966 isOf 8300)</title>
+                  <added>2009-12-02 13:45:17</added>
+                  <modified>2009-12-02 13:45:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>37966</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Istanbul in Sydney, Auburn 2009</title>
+                      <added>2009-12-02 11:18:24</added>
+                      <modified>2011-05-20 23:35:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3323</id>
+                          <nonce>d94905efb4ce9b26d2b851b0bff0087f88969019</nonce>
+                          <origName>mosque-split.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>85.8 kb</size>
+                          <date>2009-12-02 11:17:15</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mosque-split.jpg?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94905efb4ce9b26d2b851b0bff0087f88969019</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hawson, Louise</detail>
+                      <detail id="160" type="Title" name="dc.title">Istanbul in Sydney, Auburn 2009</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">37963</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">- dc.source:</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8300</id>
+                      <type id="151">Entity</type>
+                      <title>Gallipoli Mosque (Building)</title>
+                      <added>2009-06-10 15:58:47</added>
+                      <modified>2011-02-23 11:14:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Place of worship built by Ahmet Asim largely with funds raised from Sydney's Turkish community, on the site of a previous mosque in a converted house.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">37966</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="160" type="Title" name="dc.title">Gallipoli Mosque</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8651" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:55:16+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8651</id>
+      <type id="151">Entity</type>
+      <title>Palace Hotel (Building)</title>
+      <added>2009-06-10 15:58:52</added>
+      <modified>2012-10-18 09:18:52</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Palace Hotel</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Hotel first established near the wharf at Watsons Bay c 1886. Though modified several times it remains a popular Bay venue.</detail>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8652</id>
+          <type id="150">Factoid</type>
+          <title>Palace Hotel, Type, Hotel</title>
+          <added>2009-06-10 15:58:52</added>
+          <modified>2009-06-10 15:58:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8651</id>
+              <type id="151">Entity</type>
+              <title>Palace Hotel (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2012-10-18 09:18:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Palace Hotel</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Hotel first established near the wharf at Watsons Bay c 1886. Though modified several times it remains a popular Bay venue.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6977</id>
+              <type id="91">Role</type>
+              <title>Hotel</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hotel</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>83827</id>
+          <type id="150">Factoid</type>
+          <title>Palace Hotel, TimePlace</title>
+          <added>2012-10-18 09:15:17</added>
+          <modified>2012-10-18 09:15:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8651</id>
+              <type id="151">Entity</type>
+              <title>Palace Hotel (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2012-10-18 09:18:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Palace Hotel</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Hotel first established near the wharf at Watsons Bay c 1886. Though modified several times it remains a popular Bay venue.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.28244039415 -33.842880460907)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

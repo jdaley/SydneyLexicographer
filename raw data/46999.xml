@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:46999" w="a" depth="2" />
+  <dateStamp>2013-02-17T01:12:42+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>46999</id>
+      <type id="151">Entity</type>
+      <title>Gordon Public School building (Building)</title>
+      <added>2010-11-16 15:01:59</added>
+      <modified>2012-05-24 09:51:31</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>47002</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Gordon Public School</title>
+          <added>2010-11-16 15:06:00</added>
+          <modified>2010-11-16 15:06:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Gordon Public School</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>46999</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School building (Building)</title>
+              <added>2010-11-16 15:01:59</added>
+              <modified>2012-05-24 09:51:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>42540</id>
+              <type id="98">XML Document</type>
+              <title>Pymble</title>
+              <added>2010-09-01 15:32:15</added>
+              <modified>2010-09-01 15:32:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3672</id>
+                  <nonce>707582aeb0b5e23d96b57804c0560959e19eea7c</nonce>
+                  <origName>Pymble.xml</origName>
+                  <type>application/xml</type>
+                  <size>29.4 kb</size>
+                  <date>2010-09-01 15:29:10</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Pymble.xml?file_id=707582aeb0b5e23d96b57804c0560959e19eea7c</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=707582aeb0b5e23d96b57804c0560959e19eea7c</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Pymble</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Granted to Robert Pymble, a free settler from Hertfordshire, the area which was to become Pymble was farmland and orchards for most of the nineteenth century. Development followed the railway line, and Pymble became a desirable leafy suburb.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-09-01</raw>
+                <year>2010</year>
+                <month>9</month>
+                <day>1</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2652</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">131</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">23</detail>
+          <detail id="330" type="End Word" name="End Word">25</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76113</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Gordon Public School</title>
+          <added>2012-05-23 12:00:58</added>
+          <modified>2012-05-23 12:00:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Gordon Public School</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>46999</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School building (Building)</title>
+              <added>2010-11-16 15:01:59</added>
+              <modified>2012-05-24 09:51:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>75088</id>
+              <type id="98">XML Document</type>
+              <title>West Pymble</title>
+              <added>2012-05-03 09:48:38</added>
+              <modified>2012-05-23 15:31:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7549</id>
+                  <nonce>4151e28f1fc111335b115f1336748d0ca1339c5b</nonce>
+                  <origName>West+Pymble.xml</origName>
+                  <type>application/xml</type>
+                  <size>326.8 kb</size>
+                  <date>2012-05-23 15:31:34</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/West%2BPymble.xml?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">West Pymble</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of the later suburbs on Sydney's north shore, West Pymble remained semi-rural into the 1950s, with original settler families remaining important in the district. War service homes began changed things in the 1950s, bringing a whole new group into the bushland surroundings.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-03</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>3</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2576</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">75087</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">12,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">95</detail>
+          <detail id="330" type="End Word" name="End Word">97</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76205</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Gordon Public School building</title>
+          <added>2012-05-24 10:21:17</added>
+          <modified>2012-05-24 10:21:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>46999</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School building (Building)</title>
+              <added>2010-11-16 15:01:59</added>
+              <modified>2012-05-24 09:51:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>360</id>
+              <type id="98">XML Document</type>
+              <title>Gordon</title>
+              <added>2008-10-22 13:12:05</added>
+              <modified>2012-05-23 12:40:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditionally the land of the Kuringgai clan, Gordon grew around the railway station as businessmen sought fine vistas and spacious home sites with easy access to the city.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2557</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">131</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">54</detail>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7545</id>
+                  <nonce>9030933f31951b73506023e3350912e86ba14923</nonce>
+                  <origName>Gordon.xml</origName>
+                  <type>application/xml</type>
+                  <size>56.4 kb</size>
+                  <date>2012-05-23 12:40:48</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Gordon.xml?file_id=9030933f31951b73506023e3350912e86ba14923</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=9030933f31951b73506023e3350912e86ba14923</thumbURL>
+                </file>
+              </detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">9</detail>
+          <detail id="330" type="End Word" name="End Word">11</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>47000</id>
+          <type id="150">Factoid</type>
+          <title>Gordon Public School, Type, School</title>
+          <added>2010-11-16 15:02:43</added>
+          <modified>2011-11-25 09:17:20</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>46999</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School building (Building)</title>
+              <added>2010-11-16 15:01:59</added>
+              <modified>2012-05-24 09:51:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7076</id>
+              <type id="91">Role</type>
+              <title>School</title>
+              <added>2009-06-10 15:56:26</added>
+              <modified>2009-06-10 15:56:26</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">School</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>47001</id>
+          <type id="150">Factoid</type>
+          <title>Gordon Public School building, Milestone, Constructed</title>
+          <added>2010-11-16 15:03:54</added>
+          <modified>2012-05-24 09:52:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>46999</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School building (Building)</title>
+              <added>2010-11-16 15:01:59</added>
+              <modified>2012-05-24 09:51:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1876</raw>
+            <year>1876</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1876</raw>
+            <year>1876</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>76199</id>
+          <type id="150">Factoid</type>
+          <title>Gordon Public School, Property, Occupied, Gordon Public School building</title>
+          <added>2012-05-24 09:57:44</added>
+          <modified>2012-05-24 09:57:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76196</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School (Organisation)</title>
+              <added>2012-05-24 09:53:45</added>
+              <modified>2012-05-24 10:03:57</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Early north shore public school, which closed in 1989.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.khs.org.au/local/gordon.html</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>46999</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School building (Building)</title>
+              <added>2010-11-16 15:01:59</added>
+              <modified>2012-05-24 09:51:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1876</raw>
+            <year>1876</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1989</raw>
+            <year>1989</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>76200</id>
+          <type id="150">Factoid</type>
+          <title>Ku-ring-gai Historical Society, Property, Occupied, Gordon Public School building</title>
+          <added>2012-05-24 09:59:51</added>
+          <modified>2012-05-24 09:59:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>11363</id>
+              <type id="151">Entity</type>
+              <title>Ku-ring-gai Historical Society (Organisation)</title>
+              <added>2009-06-10 16:02:56</added>
+              <modified>2009-06-10 16:02:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Ku-ring-gai Historical Society</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>46999</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School building (Building)</title>
+              <added>2010-11-16 15:01:59</added>
+              <modified>2012-05-24 09:51:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1989</raw>
+            <year>1989</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76201</id>
+          <type id="150">Factoid</type>
+          <title>Gordon Public School building, TimePlace</title>
+          <added>2012-05-24 10:01:38</added>
+          <modified>2012-05-24 10:01:38</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>46999</id>
+              <type id="151">Entity</type>
+              <title>Gordon Public School building (Building)</title>
+              <added>2010-11-16 15:01:59</added>
+              <modified>2012-05-24 09:51:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon Public School building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone complex built in 1876 as the main school for the upper north shore area, now used by Gordon Library.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1875</raw>
+            <year>1875</year>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.15234351149 -33.754067179336)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

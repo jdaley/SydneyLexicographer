@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8541" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:48:41+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8541</id>
+      <type id="151">Entity</type>
+      <title>Marrickville Metro (Building)</title>
+      <added>2009-06-10 15:58:50</added>
+      <modified>2010-07-08 09:57:43</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Marrickville Metro</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Small local shopping mall in Marrickville, built on the site of the Vicars Woollen Mill in 1987.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>25756</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Marrickville Metro</title>
+          <added>2009-09-21 11:07:35</added>
+          <modified>2009-09-21 11:07:35</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Marrickville Metro</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8541</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Metro (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2010-07-08 09:57:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Small local shopping mall in Marrickville, built on the site of the Vicars Woollen Mill in 1987.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>452</id>
+              <type id="98">XML Document</type>
+              <title>Marrickville</title>
+              <added>2008-10-22 13:12:18</added>
+              <modified>2009-10-29 14:41:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3207</id>
+                  <nonce>d6bb74e41440f780e42a63816279d74af4bf7b95</nonce>
+                  <origName>Marrickville.xml</origName>
+                  <type>application/xml</type>
+                  <size>76.6 kb</size>
+                  <date>2009-10-15 10:24:04</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marrickville.xml?file_id=d6bb74e41440f780e42a63816279d74af4bf7b95</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d6bb74e41440f780e42a63816279d74af4bf7b95</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Marrickville</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Once the site of a vast swampland, Marrickville became a significant industrial area in the nineteenth century. Today, the industry has largely gone but its multicultural legacy still flourishes in this inner west suburb.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2348</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">23</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">8,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">72</detail>
+          <detail id="330" type="End Word" name="End Word">73</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>25767</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Marrickville Metro</title>
+          <added>2009-09-21 11:17:07</added>
+          <modified>2009-09-21 11:17:07</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Marrickville Metro</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8541</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Metro (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2010-07-08 09:57:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Small local shopping mall in Marrickville, built on the site of the Vicars Woollen Mill in 1987.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>452</id>
+              <type id="98">XML Document</type>
+              <title>Marrickville</title>
+              <added>2008-10-22 13:12:18</added>
+              <modified>2009-10-29 14:41:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3207</id>
+                  <nonce>d6bb74e41440f780e42a63816279d74af4bf7b95</nonce>
+                  <origName>Marrickville.xml</origName>
+                  <type>application/xml</type>
+                  <size>76.6 kb</size>
+                  <date>2009-10-15 10:24:04</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marrickville.xml?file_id=d6bb74e41440f780e42a63816279d74af4bf7b95</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d6bb74e41440f780e42a63816279d74af4bf7b95</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Marrickville</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Once the site of a vast swampland, Marrickville became a significant industrial area in the nineteenth century. Today, the industry has largely gone but its multicultural legacy still flourishes in this inner west suburb.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2348</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">23</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">8,10</detail>
+          <detail id="329" type="Start Word" name="Start Word">44</detail>
+          <detail id="330" type="End Word" name="End Word">45</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8542</id>
+          <type id="150">Factoid</type>
+          <title>Marrickville Metro, Type, Shopping centre or Retail</title>
+          <added>2009-06-10 15:58:50</added>
+          <modified>2009-06-10 15:58:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8541</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Metro (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2010-07-08 09:57:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Small local shopping mall in Marrickville, built on the site of the Vicars Woollen Mill in 1987.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7085</id>
+              <type id="91">Role</type>
+              <title>Shopping centre or retail premises</title>
+              <added>2009-06-10 15:56:29</added>
+              <modified>2012-05-30 11:16:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Shopping centre or retail premises</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51648</id>
+          <type id="150">Factoid</type>
+          <title>Marrickville Metro, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:26</added>
+          <modified>2011-02-16 16:03:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Marrickville Metro</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8541</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Metro (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2010-07-08 09:57:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Small local shopping mall in Marrickville, built on the site of the Vicars Woollen Mill in 1987.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.17142584758 -33.906901125694)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

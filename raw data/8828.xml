@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8828" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:05:31+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8828</id>
+      <type id="151">Entity</type>
+      <title>St David's Hall Surry Hills (Building)</title>
+      <added>2009-06-10 15:58:54</added>
+      <modified>2011-11-24 11:26:02</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St David's Hall Surry Hills</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Hall constructed in the Victorian Gothic style for the former St David's church in the 1880s.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">17 Arthur St Surry Hills</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>21429</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St David's Hall Surry Hills</title>
+          <added>2009-07-28 15:25:05</added>
+          <modified>2009-07-28 15:25:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St David's Hall Surry Hills</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8828</id>
+              <type id="151">Entity</type>
+              <title>St David's Hall Surry Hills (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2011-11-24 11:26:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St David's Hall Surry Hills</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Hall constructed in the Victorian Gothic style for the former St David's church in the 1880s.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">17 Arthur St Surry Hills</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>170</id>
+              <type id="98">XML Document</type>
+              <title>Australian Aborigines Progressive Association</title>
+              <added>2008-10-22 13:11:34</added>
+              <modified>2009-08-31 14:40:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>2772</id>
+                  <nonce>9a1eab3480b525a138b79a2ebc3d23b78e055552</nonce>
+                  <origName>Australian Aborigines Progressive Association.xml</origName>
+                  <type>application/xml</type>
+                  <size>43 kb</size>
+                  <date>2009-07-28 15:39:15</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Australian+Aborigines+Progressive+Association.xml?file_id=9a1eab3480b525a138b79a2ebc3d23b78e055552</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=9a1eab3480b525a138b79a2ebc3d23b78e055552</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Australian Aborigines Progressive Association</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Influenced by black political struggles in the United States, the Australian Aborigines Progressive Association demanded the dissolution of the Aborigines Protection Board, return of Aboriginal land, and an end to removal of Aboriginal children.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3043</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">132</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Written by Zoe Pollock</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">15</detail>
+          <detail id="330" type="End Word" name="End Word">17</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>21476</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St David's Hall Surry Hills</title>
+          <added>2009-07-28 16:28:05</added>
+          <modified>2009-07-28 16:28:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St David's Hall Surry Hills</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8828</id>
+              <type id="151">Entity</type>
+              <title>St David's Hall Surry Hills (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2011-11-24 11:26:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St David's Hall Surry Hills</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Hall constructed in the Victorian Gothic style for the former St David's church in the 1880s.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">17 Arthur St Surry Hills</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>141</id>
+              <type id="98">XML Document</type>
+              <title>Aboriginal politics to 1945</title>
+              <added>2008-10-22 13:11:29</added>
+              <modified>2010-08-30 15:15:50</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>2774</id>
+                  <nonce>71d71755e2dce882772863acb30b667b64c40bd7</nonce>
+                  <origName>Aboriginal politics to 1945.xml</origName>
+                  <type>application/xml</type>
+                  <size>101.2 kb</size>
+                  <date>2009-07-28 16:36:52</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Aboriginal+politics+to+1945.xml?file_id=71d71755e2dce882772863acb30b667b64c40bd7</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71d71755e2dce882772863acb30b667b64c40bd7</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Aboriginal politics to 1945</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">In the first half of the twentieth century, Aboriginal people in Sydney used all the tools of organised political protest to protect their land and their children. The depredations of the Aborigines Protection Board in the late nineteenth century inspired this political revolt.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2972</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">59</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">22</detail>
+          <detail id="330" type="End Word" name="End Word">24</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8829</id>
+          <type id="150">Factoid</type>
+          <title>St David's Hall Surry Hills, Type, Hall</title>
+          <added>2009-06-10 15:58:54</added>
+          <modified>2009-06-10 15:58:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8828</id>
+              <type id="151">Entity</type>
+              <title>St David's Hall Surry Hills (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2011-11-24 11:26:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St David's Hall Surry Hills</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Hall constructed in the Victorian Gothic style for the former St David's church in the 1880s.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">17 Arthur St Surry Hills</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6971</id>
+              <type id="91">Role</type>
+              <title>Hall</title>
+              <added>2009-06-10 15:56:07</added>
+              <modified>2009-06-10 15:56:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hall</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66180</id>
+          <type id="150">Factoid</type>
+          <title>St David's Hall Surry Hills, TimePlace</title>
+          <added>2011-11-24 11:26:54</added>
+          <modified>2011-11-24 11:26:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8828</id>
+              <type id="151">Entity</type>
+              <title>St David's Hall Surry Hills (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2011-11-24 11:26:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St David's Hall Surry Hills</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Hall constructed in the Victorian Gothic style for the former St David's church in the 1880s.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">17 Arthur St Surry Hills</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.21271936595 -33.887000922624)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

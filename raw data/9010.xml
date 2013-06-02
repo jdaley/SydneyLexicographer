@@ -1,0 +1,1825 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:9010" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:16:08+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>9010</id>
+      <type id="151">Entity</type>
+      <title>Top Ryde City (Building)</title>
+      <added>2009-06-10 15:58:56</added>
+      <modified>2012-01-12 13:34:48</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>71731</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Drive-in shopping centre, Top Ryde 1961</title>
+          <added>2012-01-12 13:34:47</added>
+          <modified>2012-01-12 13:34:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2012-01-12</raw>
+            <year>2012</year>
+            <month>1</month>
+            <day>12</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1961</raw>
+            <year>1961</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4798</id>
+              <type id="153">Contributor</type>
+              <title>National Archives of Australia</title>
+              <added>2009-03-24 10:55:19</added>
+              <modified>2009-10-29 10:32:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">National Archives of Australia</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.naa.gov.au/</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>7117</id>
+              <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+              <origName>NAA_8890354.jpg</origName>
+              <type>image/jpeg</type>
+              <size>413.3 kb</size>
+              <date>2012-01-12 13:34:47</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>71732</id>
+              <type id="52">Record relationship</type>
+              <title>(71731 isOf 9010)</title>
+              <added>2012-01-12 13:34:48</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>71731</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Drive-in shopping centre, Top Ryde 1961</title>
+                  <added>2012-01-12 13:34:47</added>
+                  <modified>2012-01-12 13:34:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7117</id>
+                      <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                      <origName>NAA_8890354.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>413.3 kb</size>
+                      <date>2012-01-12 13:34:47</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>9010</id>
+                  <type id="151">Entity</type>
+                  <title>Top Ryde City (Building)</title>
+                  <added>2009-06-10 15:58:56</added>
+                  <modified>2012-01-12 13:34:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>71733</id>
+              <type id="52">Record relationship</type>
+              <title>(71731 isOf 17783)</title>
+              <added>2012-01-12 13:34:48</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>71731</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Drive-in shopping centre, Top Ryde 1961</title>
+                  <added>2012-01-12 13:34:47</added>
+                  <modified>2012-01-12 13:34:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7117</id>
+                      <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                      <origName>NAA_8890354.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>413.3 kb</size>
+                      <date>2012-01-12 13:34:47</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>17783</id>
+                  <type id="151">Entity</type>
+                  <title>Top Ryde (Place)</title>
+                  <added>2009-06-10 16:07:46</added>
+                  <modified>2011-11-25 08:38:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Top Ryde</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Commercial area within Ryde suburb.</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>80644</id>
+              <type id="52">Record relationship</type>
+              <title>(71731 hasSubject 5881)</title>
+              <added>2012-08-28 12:43:17</added>
+              <modified>2012-08-28 12:43:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>71731</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Drive-in shopping centre, Top Ryde 1961</title>
+                  <added>2012-01-12 13:34:47</added>
+                  <modified>2012-01-12 13:34:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7117</id>
+                      <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                      <origName>NAA_8890354.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>413.3 kb</size>
+                      <date>2012-01-12 13:34:47</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5881</id>
+                  <type id="152">Term</type>
+                  <title>Commercial building</title>
+                  <added>2009-05-25 14:56:19</added>
+                  <modified>2009-05-25 14:56:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commercial building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>80645</id>
+              <type id="52">Record relationship</type>
+              <title>(71731 hasSubject 6197)</title>
+              <added>2012-08-28 12:43:36</added>
+              <modified>2012-08-28 12:43:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>71731</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Drive-in shopping centre, Top Ryde 1961</title>
+                  <added>2012-01-12 13:34:47</added>
+                  <modified>2012-01-12 13:34:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7117</id>
+                      <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                      <origName>NAA_8890354.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>413.3 kb</size>
+                      <date>2012-01-12 13:34:47</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6197</id>
+                  <type id="152">Term</type>
+                  <title>Retail</title>
+                  <added>2009-05-25 14:56:55</added>
+                  <modified>2009-05-25 14:56:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Retail</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>80646</id>
+              <type id="52">Record relationship</type>
+              <title>(71731 hasSubject 5862)</title>
+              <added>2012-08-28 12:43:55</added>
+              <modified>2012-08-28 12:43:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>71731</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Drive-in shopping centre, Top Ryde 1961</title>
+                  <added>2012-01-12 13:34:47</added>
+                  <modified>2012-01-12 13:34:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7117</id>
+                      <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                      <origName>NAA_8890354.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>413.3 kb</size>
+                      <date>2012-01-12 13:34:47</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5862</id>
+                  <type id="152">Term</type>
+                  <title>Cars</title>
+                  <added>2009-05-25 14:56:16</added>
+                  <modified>2009-05-25 14:56:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Cars</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>25827</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Top Ryde Shopping Centre</title>
+          <added>2009-09-21 13:59:39</added>
+          <modified>2009-09-21 13:59:39</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Top Ryde Shopping Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>453</id>
+              <type id="98">XML Document</type>
+              <title>Marsfield</title>
+              <added>2008-10-22 13:12:18</added>
+              <modified>2009-10-29 14:46:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>556</id>
+                  <nonce>11cb2fd5831f90b746f6116063bf05e3568f617c</nonce>
+                  <origName>Marsfield.xml</origName>
+                  <type>application/xml</type>
+                  <size>103.9 kb</size>
+                  <date>2009-02-24 12:10:04</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marsfield.xml?file_id=11cb2fd5831f90b746f6116063bf05e3568f617c</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=11cb2fd5831f90b746f6116063bf05e3568f617c</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Marsfield</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Originally the country of the Wallumedegal, Marsfield is built on part of what became the Field of Mars common, proclaimed in 1804. The common was resumed in the 1870s and sold in the 1880s, when Marsfield was subdivided. The expected tramway was never built, and Marsfield remained semi-rural, with poultry farms and orchards into the 1960s.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2422</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">6</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">25</detail>
+          <detail id="330" type="End Word" name="End Word">28</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>34316</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Top Ryde Shopping Centre</title>
+          <added>2009-11-05 15:15:26</added>
+          <modified>2009-11-05 15:15:26</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Top Ryde Shopping Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>585</id>
+              <type id="98">XML Document</type>
+              <title>Suburban Sydney</title>
+              <added>2008-10-22 13:12:39</added>
+              <modified>2009-11-05 15:13:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3277</id>
+                  <nonce>5be3100fdc19ae84db185dc68894b8f9833c5315</nonce>
+                  <origName>Suburban Sydney.xml</origName>
+                  <type>application/xml</type>
+                  <size>190.5 kb</size>
+                  <date>2009-11-05 15:13:48</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Suburban+Sydney.xml?file_id=5be3100fdc19ae84db185dc68894b8f9833c5315</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5be3100fdc19ae84db185dc68894b8f9833c5315</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Suburban Sydney</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The process of suburbanisation is arguably one of the most important developments in Sydney’s post-invasion history. Kilometres of suburbs have for decades dominated the physical evolution of Sydney and its ideological underpinnings.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2976</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">96</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">16,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">27</detail>
+          <detail id="330" type="End Word" name="End Word">28</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36379</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Top Ryde Shopping Centre</title>
+          <added>2009-11-19 13:43:53</added>
+          <modified>2009-11-19 13:43:53</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Top Ryde Shopping Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>549</id>
+              <type id="98">XML Document</type>
+              <title>Ryde</title>
+              <added>2008-10-22 13:12:33</added>
+              <modified>2009-11-19 14:01:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3311</id>
+                  <nonce>32cc6567a454967a4af3a89e412808b2363d5d09</nonce>
+                  <origName>Ryde.xml</origName>
+                  <type>application/xml</type>
+                  <size>88.6 kb</size>
+                  <date>2009-11-19 14:01:03</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Ryde.xml?file_id=32cc6567a454967a4af3a89e412808b2363d5d09</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=32cc6567a454967a4af3a89e412808b2363d5d09</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Ryde</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wallumetta to its traditional owners, the Wallumedegal, the land that became Ryde was settled early and provided food to the growing town. From the 1870s, subdivision started, and the railway brought more development from 1886. In the twentieth century, Ryde became suburban and one of Sydney's earliest shopping centres was built there in 1957.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2427</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">6</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">17</detail>
+          <detail id="330" type="End Word" name="End Word">20</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>51429</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Top Ryde</title>
+          <added>2011-02-16 12:03:12</added>
+          <modified>2011-02-16 12:03:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Top Ryde</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>310</id>
+              <type id="98">XML Document</type>
+              <title>Economy</title>
+              <added>2008-10-22 13:11:56</added>
+              <modified>2010-08-25 15:16:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3664</id>
+                  <nonce>c2e5f8e832331b356532bc0ce832bd371ef21bcd</nonce>
+                  <origName>Economy.xml</origName>
+                  <type>application/xml</type>
+                  <size>539.6 kb</size>
+                  <date>2010-08-25 15:16:30</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Economy.xml?file_id=c2e5f8e832331b356532bc0ce832bd371ef21bcd</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c2e5f8e832331b356532bc0ce832bd371ef21bcd</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Economy</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">With the arrival of Europeans, the traditional economy of Aboriginal clans was disrupted, and gave way to the convict economy of the Commissariat and government stores. But this closed economy was soon opened by free settlement, whaling and sealing, shipping and farming success, making Sydney the port for a vast hinterland. Depressions and booms alternated, bringing poverty and prosperity to the city. Sydney's growth and diversity mean that regional economies now exist within the Sydney region.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2960</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">21,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">43</detail>
+          <detail id="330" type="End Word" name="End Word">44</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>9011</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, Type, Shopping centre or Retail</title>
+          <added>2009-06-10 15:58:56</added>
+          <modified>2011-02-23 15:35:21</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7085</id>
+              <type id="91">Role</type>
+              <title>Shopping centre or retail premises</title>
+              <added>2009-06-10 15:56:29</added>
+              <modified>2012-05-30 11:16:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Shopping centre or retail premises</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51652</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:34</added>
+          <modified>2011-02-23 15:35:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.10576477337 -33.812665650938)</wkt>
+            </geo>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Top Ryde Shopping Centre</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52331</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, Name, Alternate</title>
+          <added>2011-02-23 15:29:29</added>
+          <modified>2011-02-23 15:29:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Top Ryde Shopping Centre</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1957</raw>
+            <year>1957</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1986</raw>
+            <year>1986</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52332</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, Name, Alternate</title>
+          <added>2011-02-23 15:30:16</added>
+          <modified>2011-02-23 15:30:16</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Tope Ryde Shopping Square</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1986</raw>
+            <year>1986</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>2007</raw>
+            <year>2007</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52334</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, Milestone, Opened</title>
+          <added>2011-02-23 15:36:29</added>
+          <modified>2011-02-23 15:36:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1957-11-14</raw>
+            <year>1957</year>
+            <month>11</month>
+            <day>14</day>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1957-11-14</raw>
+            <year>1957</year>
+            <month>11</month>
+            <day>14</day>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52335</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, Milestone, Modified</title>
+          <added>2011-02-23 15:36:54</added>
+          <modified>2011-02-23 15:36:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1986</raw>
+            <year>1986</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1986</raw>
+            <year>1986</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52336</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, Milestone, Demolished</title>
+          <added>2011-02-23 15:37:11</added>
+          <modified>2011-02-23 15:37:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>26675</id>
+              <type id="91">Role</type>
+              <title>Demolished</title>
+              <added>2009-09-29 13:16:21</added>
+              <modified>2009-09-29 13:16:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Demolished</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2007</raw>
+            <year>2007</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>2007</raw>
+            <year>2007</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52337</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, Milestone, Constructed</title>
+          <added>2011-02-23 15:37:44</added>
+          <modified>2011-02-23 15:37:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2007</raw>
+            <year>2007</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>2009</raw>
+            <year>2009</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52338</id>
+          <type id="150">Factoid</type>
+          <title>Top Ryde City, Milestone, Opened</title>
+          <added>2011-02-23 15:38:22</added>
+          <modified>2011-02-23 15:38:22</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2009-11-05</raw>
+            <year>2009</year>
+            <month>11</month>
+            <day>5</day>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>2009-11-05</raw>
+            <year>2009</year>
+            <month>11</month>
+            <day>5</day>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>71732</id>
+          <type id="52">Record relationship</type>
+          <title>(71731 isOf 9010)</title>
+          <added>2012-01-12 13:34:48</added>
+          <modified>2012-01-12 13:34:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>71731</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Drive-in shopping centre, Top Ryde 1961</title>
+              <added>2012-01-12 13:34:47</added>
+              <modified>2012-01-12 13:34:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-01-12</raw>
+                <year>2012</year>
+                <month>1</month>
+                <day>12</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1961</raw>
+                <year>1961</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4798</id>
+                  <type id="153">Contributor</type>
+                  <title>National Archives of Australia</title>
+                  <added>2009-03-24 10:55:19</added>
+                  <modified>2009-10-29 10:32:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">National Archives of Australia</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.naa.gov.au/</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>7117</id>
+                  <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                  <origName>NAA_8890354.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>413.3 kb</size>
+                  <date>2012-01-12 13:34:47</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>9010</id>
+                  <type id="151">Entity</type>
+                  <title>Top Ryde City (Building)</title>
+                  <added>2009-06-10 15:58:56</added>
+                  <modified>2012-01-12 13:34:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>71732</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71731 isOf 9010)</title>
+                  <added>2012-01-12 13:34:48</added>
+                  <modified>2012-01-12 13:34:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71731</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Drive-in shopping centre, Top Ryde 1961</title>
+                      <added>2012-01-12 13:34:47</added>
+                      <modified>2012-01-12 13:34:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7117</id>
+                          <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                          <origName>NAA_8890354.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>413.3 kb</size>
+                          <date>2012-01-12 13:34:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>9010</id>
+                      <type id="151">Entity</type>
+                      <title>Top Ryde City (Building)</title>
+                      <added>2009-06-10 15:58:56</added>
+                      <modified>2012-01-12 13:34:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>71733</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71731 isOf 17783)</title>
+                  <added>2012-01-12 13:34:48</added>
+                  <modified>2012-01-12 13:34:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71731</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Drive-in shopping centre, Top Ryde 1961</title>
+                      <added>2012-01-12 13:34:47</added>
+                      <modified>2012-01-12 13:34:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7117</id>
+                          <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                          <origName>NAA_8890354.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>413.3 kb</size>
+                          <date>2012-01-12 13:34:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>17783</id>
+                      <type id="151">Entity</type>
+                      <title>Top Ryde (Place)</title>
+                      <added>2009-06-10 16:07:46</added>
+                      <modified>2011-11-25 08:38:13</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Top Ryde</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Commercial area within Ryde suburb.</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>80644</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71731 hasSubject 5881)</title>
+                  <added>2012-08-28 12:43:17</added>
+                  <modified>2012-08-28 12:43:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71731</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Drive-in shopping centre, Top Ryde 1961</title>
+                      <added>2012-01-12 13:34:47</added>
+                      <modified>2012-01-12 13:34:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7117</id>
+                          <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                          <origName>NAA_8890354.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>413.3 kb</size>
+                          <date>2012-01-12 13:34:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5881</id>
+                      <type id="152">Term</type>
+                      <title>Commercial building</title>
+                      <added>2009-05-25 14:56:19</added>
+                      <modified>2009-05-25 14:56:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commercial building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>80645</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71731 hasSubject 6197)</title>
+                  <added>2012-08-28 12:43:36</added>
+                  <modified>2012-08-28 12:43:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71731</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Drive-in shopping centre, Top Ryde 1961</title>
+                      <added>2012-01-12 13:34:47</added>
+                      <modified>2012-01-12 13:34:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7117</id>
+                          <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                          <origName>NAA_8890354.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>413.3 kb</size>
+                          <date>2012-01-12 13:34:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6197</id>
+                      <type id="152">Term</type>
+                      <title>Retail</title>
+                      <added>2009-05-25 14:56:55</added>
+                      <modified>2009-05-25 14:56:55</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Retail</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>80646</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71731 hasSubject 5862)</title>
+                  <added>2012-08-28 12:43:55</added>
+                  <modified>2012-08-28 12:43:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71731</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Drive-in shopping centre, Top Ryde 1961</title>
+                      <added>2012-01-12 13:34:47</added>
+                      <modified>2012-01-12 13:34:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7117</id>
+                          <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                          <origName>NAA_8890354.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>413.3 kb</size>
+                          <date>2012-01-12 13:34:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5862</id>
+                      <type id="152">Term</type>
+                      <title>Cars</title>
+                      <added>2009-05-25 14:56:16</added>
+                      <modified>2009-05-25 14:56:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Cars</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>9010</id>
+              <type id="151">Entity</type>
+              <title>Top Ryde City (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2012-01-12 13:34:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>71731</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Drive-in shopping centre, Top Ryde 1961</title>
+                  <added>2012-01-12 13:34:47</added>
+                  <modified>2012-01-12 13:34:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7117</id>
+                      <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                      <origName>NAA_8890354.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>413.3 kb</size>
+                      <date>2012-01-12 13:34:47</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>25827</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Top Ryde Shopping Centre</title>
+                  <added>2009-09-21 13:59:39</added>
+                  <modified>2009-09-21 13:59:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Top Ryde Shopping Centre</detail>
+                  <detail id="199" type="Resource" name="target">9010</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">453</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">25</detail>
+                  <detail id="330" type="End Word" name="End Word">28</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>34316</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Top Ryde Shopping Centre</title>
+                  <added>2009-11-05 15:15:26</added>
+                  <modified>2009-11-05 15:15:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Top Ryde Shopping Centre</detail>
+                  <detail id="199" type="Resource" name="target">9010</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">585</detail>
+                  <detail id="539" type="Start Element" name="Start Element">16,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">27</detail>
+                  <detail id="330" type="End Word" name="End Word">28</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>36379</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Top Ryde Shopping Centre</title>
+                  <added>2009-11-19 13:43:53</added>
+                  <modified>2009-11-19 13:43:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Top Ryde Shopping Centre</detail>
+                  <detail id="199" type="Resource" name="target">9010</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">549</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">17</detail>
+                  <detail id="330" type="End Word" name="End Word">20</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>51429</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Top Ryde</title>
+                  <added>2011-02-16 12:03:12</added>
+                  <modified>2011-02-16 12:03:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Top Ryde</detail>
+                  <detail id="199" type="Resource" name="target">9010</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">310</detail>
+                  <detail id="539" type="Start Element" name="Start Element">21,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">43</detail>
+                  <detail id="330" type="End Word" name="End Word">44</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>9011</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, Type, Shopping centre or Retail</title>
+                  <added>2009-06-10 15:58:56</added>
+                  <modified>2011-02-23 15:35:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7085</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51652</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:50:34</added>
+                  <modified>2011-02-23 15:35:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.10576477337 -33.812665650938)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="160" type="Title" name="dc.title">Top Ryde Shopping Centre</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>52331</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, Name, Alternate</title>
+                  <added>2011-02-23 15:29:29</added>
+                  <modified>2011-02-23 15:29:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Top Ryde Shopping Centre</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1957</raw>
+                    <year>1957</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1986</raw>
+                    <year>1986</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>52332</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, Name, Alternate</title>
+                  <added>2011-02-23 15:30:16</added>
+                  <modified>2011-02-23 15:30:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Tope Ryde Shopping Square</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1986</raw>
+                    <year>1986</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>52334</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, Milestone, Opened</title>
+                  <added>2011-02-23 15:36:29</added>
+                  <modified>2011-02-23 15:36:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">42396</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1957-11-14</raw>
+                    <year>1957</year>
+                    <month>11</month>
+                    <day>14</day>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1957-11-14</raw>
+                    <year>1957</year>
+                    <month>11</month>
+                    <day>14</day>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>52335</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, Milestone, Modified</title>
+                  <added>2011-02-23 15:36:54</added>
+                  <modified>2011-02-23 15:36:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">50919</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1986</raw>
+                    <year>1986</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1986</raw>
+                    <year>1986</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>52336</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, Milestone, Demolished</title>
+                  <added>2011-02-23 15:37:11</added>
+                  <modified>2011-02-23 15:37:11</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">26675</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>52337</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, Milestone, Constructed</title>
+                  <added>2011-02-23 15:37:44</added>
+                  <modified>2011-02-23 15:37:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>52338</id>
+                  <type id="150">Factoid</type>
+                  <title>Top Ryde City, Milestone, Opened</title>
+                  <added>2011-02-23 15:38:22</added>
+                  <modified>2011-02-23 15:38:22</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9010</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">42396</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009-11-05</raw>
+                    <year>2009</year>
+                    <month>11</month>
+                    <day>5</day>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>2009-11-05</raw>
+                    <year>2009</year>
+                    <month>11</month>
+                    <day>5</day>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>71732</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71731 isOf 9010)</title>
+                  <added>2012-01-12 13:34:48</added>
+                  <modified>2012-01-12 13:34:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71731</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Drive-in shopping centre, Top Ryde 1961</title>
+                      <added>2012-01-12 13:34:47</added>
+                      <modified>2012-01-12 13:34:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Drive-in shopping centre, Top Ryde 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1501, A2696/8</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12874
+P-DoS Notes: DEFAULT IMG Barcode : 8890354 http://recordsearch.naa.gov.au/scripts/PhotoSearchItemDetail.asp?M=0&amp;B=8890354&amp;SE=1 High res available at 111020 NAA High Res 2011 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7117</id>
+                          <nonce>d4f64e9fa5ac0c02c12a5f21574ec548a5309006</nonce>
+                          <origName>NAA_8890354.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>413.3 kb</size>
+                          <date>2012-01-12 13:34:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NAA_8890354.jpg?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d4f64e9fa5ac0c02c12a5f21574ec548a5309006</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>9010</id>
+                      <type id="151">Entity</type>
+                      <title>Top Ryde City (Building)</title>
+                      <added>2009-06-10 15:58:56</added>
+                      <modified>2012-01-12 13:34:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Top Ryde City</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Large shopping centre in Ryde, which first opened in 1957, and was redeveloped in 1986 and 2007.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71731</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

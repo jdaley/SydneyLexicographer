@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:39032" w="a" depth="2" />
+  <dateStamp>2013-02-16T23:07:48+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>39032</id>
+      <type id="151">Entity</type>
+      <title>Hordern Pavilion (Building)</title>
+      <added>2010-04-23 14:29:47</added>
+      <modified>2011-02-24 11:14:54</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Exhibition building at the Moore Park showgrounds named in honour of the retail Hordern family, Anthony Hordern and Sons, and Sir Samuel Hordern, who was the president of the Royal Agricultural Society from 1915 to 1941.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>39033</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Hordern Pavilion</title>
+          <added>2010-04-23 14:29:59</added>
+          <modified>2012-04-05 08:17:16</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>39032</id>
+              <type id="151">Entity</type>
+              <title>Hordern Pavilion (Building)</title>
+              <added>2010-04-23 14:29:47</added>
+              <modified>2011-02-24 11:14:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Exhibition building at the Moore Park showgrounds named in honour of the retail Hordern family, Anthony Hordern and Sons, and Sir Samuel Hordern, who was the president of the Royal Agricultural Society from 1915 to 1941.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>39010</id>
+              <type id="98">XML Document</type>
+              <title>Royal Easter Show</title>
+              <added>2010-04-23 12:28:13</added>
+              <modified>2010-04-29 14:59:26</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3385</id>
+                  <nonce>5aecf99110124388e77970d7180c24acae5fe168</nonce>
+                  <origName>Royal Easter Show.xml</origName>
+                  <type>application/xml</type>
+                  <size>72.6 kb</size>
+                  <date>2010-04-29 14:59:20</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Royal+Easter+Show.xml?file_id=5aecf99110124388e77970d7180c24acae5fe168</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5aecf99110124388e77970d7180c24acae5fe168</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Royal Easter Show</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's Royal Easter Show is the nation's largest annual event, currently attracting more than 900,000 visitors to its site at Homebush Bay. For generations, the Show has brought 'the country to the city', and continues to be important, especially for children, in Sydney's cultural life.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-04-23</raw>
+                <year>2010</year>
+                <month>4</month>
+                <day>23</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1276</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">39064</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">81</detail>
+          <detail id="330" type="End Word" name="End Word">82</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>39034</id>
+          <type id="150">Factoid</type>
+          <title>Hordern Pavilion, Type, Pavilion</title>
+          <added>2010-04-23 14:30:48</added>
+          <modified>2011-11-25 09:28:26</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>39032</id>
+              <type id="151">Entity</type>
+              <title>Hordern Pavilion (Building)</title>
+              <added>2010-04-23 14:29:47</added>
+              <modified>2011-02-24 11:14:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Exhibition building at the Moore Park showgrounds named in honour of the retail Hordern family, Anthony Hordern and Sons, and Sir Samuel Hordern, who was the president of the Royal Agricultural Society from 1915 to 1941.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7029</id>
+              <type id="91">Role</type>
+              <title>Pavilion</title>
+              <added>2009-06-10 15:56:18</added>
+              <modified>2009-06-10 15:56:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Pavilion</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>39035</id>
+          <type id="150">Factoid</type>
+          <title>Hordern Pavilion, Milestone, Constructed</title>
+          <added>2010-04-23 14:31:14</added>
+          <modified>2011-02-24 11:12:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>39032</id>
+              <type id="151">Entity</type>
+              <title>Hordern Pavilion (Building)</title>
+              <added>2010-04-23 14:29:47</added>
+              <modified>2011-02-24 11:14:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Exhibition building at the Moore Park showgrounds named in honour of the retail Hordern family, Anthony Hordern and Sons, and Sir Samuel Hordern, who was the president of the Royal Agricultural Society from 1915 to 1941.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1924</raw>
+            <year>1924</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1924</raw>
+            <year>1924</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51656</id>
+          <type id="150">Factoid</type>
+          <title>Hordern Pavilion, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:39</added>
+          <modified>2011-02-24 11:11:57</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>39032</id>
+              <type id="151">Entity</type>
+              <title>Hordern Pavilion (Building)</title>
+              <added>2010-04-23 14:29:47</added>
+              <modified>2011-02-24 11:14:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Exhibition building at the Moore Park showgrounds named in honour of the retail Hordern family, Anthony Hordern and Sons, and Sir Samuel Hordern, who was the president of the Royal Agricultural Society from 1915 to 1941.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.22421605753 -33.893960406502)</wkt>
+            </geo>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>48123</id>
+          <type id="52">Record relationship</type>
+          <title>(48121 isOf 39032)</title>
+          <added>2010-12-13 15:32:58</added>
+          <modified>2010-12-13 15:32:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>48121</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</title>
+              <added>2010-12-13 15:32:58</added>
+              <modified>2011-05-20 23:34:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-12-13</raw>
+                <year>2010</year>
+                <month>12</month>
+                <day>13</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</detail>
+              <detail id="365" type="Subject" name="dc.creator">Wajon, Scott</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1995</raw>
+                <year>1995</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library, Courtesy of the photographer</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">a467010 / PXD 695/10</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4813</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2009-10-29 10:35:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12206\nP-DoS Notes: High res tiff on disk SLNSW 7/10/10 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4281</id>
+                  <nonce>8c82be7a33709d17c4804008058644f187e9bb85</nonce>
+                  <origName>PXD695_10_Wajon.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>347.3 kb</size>
+                  <date>2010-12-13 15:32:58</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/PXD695_10_Wajon.jpg?file_id=8c82be7a33709d17c4804008058644f187e9bb85</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8c82be7a33709d17c4804008058644f187e9bb85</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>39340</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>At</title>
+                  <added>2010-05-21 13:17:31</added>
+                  <modified>2011-02-22 16:10:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="199" type="Resource" name="target">48121</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">422</detail>
+                  <detail id="160" type="Title" name="dc.title">At</detail>
+                  <detail id="191" type="Extended description" name="caption">A panorama of the scene in Sydney's Entertainment Quarter after the annual Mardi Gras party. The early nineties was a period of fervent debate and politicisation within the lesbian, gay and transgendered communities.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">9,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>48122</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48121 isOf 9192)</title>
+                  <added>2010-12-13 15:32:58</added>
+                  <modified>2010-12-13 15:32:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</title>
+                      <added>2010-12-13 15:32:58</added>
+                      <modified>2011-05-20 23:34:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Wajon, Scott</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1995</raw>
+                        <year>1995</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library, Courtesy of the photographer</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a467010 / PXD 695/10</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12206\nP-DoS Notes: High res tiff on disk SLNSW 7/10/10 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4281</id>
+                          <nonce>8c82be7a33709d17c4804008058644f187e9bb85</nonce>
+                          <origName>PXD695_10_Wajon.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>347.3 kb</size>
+                          <date>2010-12-13 15:32:58</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/PXD695_10_Wajon.jpg?file_id=8c82be7a33709d17c4804008058644f187e9bb85</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8c82be7a33709d17c4804008058644f187e9bb85</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>9192</id>
+                      <type id="151">Entity</type>
+                      <title>Gay and Lesbian Mardi Gras (Event)</title>
+                      <added>2009-06-10 15:59:17</added>
+                      <modified>2009-10-29 15:37:26</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Gay and Lesbian Mardi Gras</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Event</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Annual parade celebrating gay, lesbian, bisexual, transgender and queer culture.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">18710</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>48123</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48121 isOf 39032)</title>
+                  <added>2010-12-13 15:32:58</added>
+                  <modified>2010-12-13 15:32:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</title>
+                      <added>2010-12-13 15:32:58</added>
+                      <modified>2011-05-20 23:34:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Wajon, Scott</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1995</raw>
+                        <year>1995</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library, Courtesy of the photographer</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a467010 / PXD 695/10</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12206\nP-DoS Notes: High res tiff on disk SLNSW 7/10/10 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4281</id>
+                          <nonce>8c82be7a33709d17c4804008058644f187e9bb85</nonce>
+                          <origName>PXD695_10_Wajon.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>347.3 kb</size>
+                          <date>2010-12-13 15:32:58</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/PXD695_10_Wajon.jpg?file_id=8c82be7a33709d17c4804008058644f187e9bb85</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8c82be7a33709d17c4804008058644f187e9bb85</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>39032</id>
+                      <type id="151">Entity</type>
+                      <title>Hordern Pavilion (Building)</title>
+                      <added>2010-04-23 14:29:47</added>
+                      <modified>2011-02-24 11:14:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Exhibition building at the Moore Park showgrounds named in honour of the retail Hordern family, Anthony Hordern and Sons, and Sir Samuel Hordern, who was the president of the Royal Agricultural Society from 1915 to 1941.</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>48124</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48121 isOf 17687)</title>
+                  <added>2010-12-13 15:32:58</added>
+                  <modified>2010-12-13 15:32:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</title>
+                      <added>2010-12-13 15:32:58</added>
+                      <modified>2011-05-20 23:34:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Wajon, Scott</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1995</raw>
+                        <year>1995</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library, Courtesy of the photographer</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a467010 / PXD 695/10</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12206\nP-DoS Notes: High res tiff on disk SLNSW 7/10/10 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4281</id>
+                          <nonce>8c82be7a33709d17c4804008058644f187e9bb85</nonce>
+                          <origName>PXD695_10_Wajon.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>347.3 kb</size>
+                          <date>2010-12-13 15:32:58</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/PXD695_10_Wajon.jpg?file_id=8c82be7a33709d17c4804008058644f187e9bb85</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8c82be7a33709d17c4804008058644f187e9bb85</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>17687</id>
+                      <type id="151">Entity</type>
+                      <title>Sydney Showground Moore Park (Place)</title>
+                      <added>2009-06-10 16:07:43</added>
+                      <modified>2010-08-17 11:25:02</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Sydney Showground Moore Park</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Venue for the Royal Easter Show, run by the Royal Agricultural Society, from 1882 until 1997. The grounds incorporated a range of pavilions, sporting venues, animal quarters and judging rings, and in the twentieth century hosted other events such as sporting competitions and musical performances.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Fox Studios Australia | Entertainment Quarter</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>83950</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48121 hasSubject 5992)</title>
+                  <added>2012-10-23 08:18:30</added>
+                  <modified>2012-10-23 08:18:30</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</title>
+                      <added>2010-12-13 15:32:58</added>
+                      <modified>2011-05-20 23:34:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Wajon, Scott</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1995</raw>
+                        <year>1995</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library, Courtesy of the photographer</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a467010 / PXD 695/10</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12206\nP-DoS Notes: High res tiff on disk SLNSW 7/10/10 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4281</id>
+                          <nonce>8c82be7a33709d17c4804008058644f187e9bb85</nonce>
+                          <origName>PXD695_10_Wajon.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>347.3 kb</size>
+                          <date>2010-12-13 15:32:58</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/PXD695_10_Wajon.jpg?file_id=8c82be7a33709d17c4804008058644f187e9bb85</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8c82be7a33709d17c4804008058644f187e9bb85</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5992</id>
+                      <type id="152">Term</type>
+                      <title>Gay Lesbian and Transgender</title>
+                      <added>2009-05-25 14:56:30</added>
+                      <modified>2009-05-25 14:56:30</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Gay Lesbian and Transgender</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>39032</id>
+              <type id="151">Entity</type>
+              <title>Hordern Pavilion (Building)</title>
+              <added>2010-04-23 14:29:47</added>
+              <modified>2011-02-24 11:14:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Exhibition building at the Moore Park showgrounds named in honour of the retail Hordern family, Anthony Hordern and Sons, and Sir Samuel Hordern, who was the president of the Royal Agricultural Society from 1915 to 1941.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>39033</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Hordern Pavilion</title>
+                  <added>2010-04-23 14:29:59</added>
+                  <modified>2012-04-05 08:17:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+                  <detail id="199" type="Resource" name="target">39032</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">39010</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">81</detail>
+                  <detail id="330" type="End Word" name="End Word">82</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>39034</id>
+                  <type id="150">Factoid</type>
+                  <title>Hordern Pavilion, Type, Pavilion</title>
+                  <added>2010-04-23 14:30:48</added>
+                  <modified>2011-11-25 09:28:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">39032</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7029</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>39035</id>
+                  <type id="150">Factoid</type>
+                  <title>Hordern Pavilion, Milestone, Constructed</title>
+                  <added>2010-04-23 14:31:14</added>
+                  <modified>2011-02-24 11:12:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">39032</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1924</raw>
+                    <year>1924</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1924</raw>
+                    <year>1924</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51656</id>
+                  <type id="150">Factoid</type>
+                  <title>Hordern Pavilion, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:50:39</added>
+                  <modified>2011-02-24 11:11:57</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">39032</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.22421605753 -33.893960406502)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>48123</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48121 isOf 39032)</title>
+                  <added>2010-12-13 15:32:58</added>
+                  <modified>2010-12-13 15:32:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</title>
+                      <added>2010-12-13 15:32:58</added>
+                      <modified>2011-05-20 23:34:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Outside the Hordern Pavilion on the morning after the Sydney Gay and Lesbian Mardi Gras party, 1992</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Wajon, Scott</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1995</raw>
+                        <year>1995</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library, Courtesy of the photographer</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a467010 / PXD 695/10</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12206\nP-DoS Notes: High res tiff on disk SLNSW 7/10/10 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=133548</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4281</id>
+                          <nonce>8c82be7a33709d17c4804008058644f187e9bb85</nonce>
+                          <origName>PXD695_10_Wajon.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>347.3 kb</size>
+                          <date>2010-12-13 15:32:58</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/PXD695_10_Wajon.jpg?file_id=8c82be7a33709d17c4804008058644f187e9bb85</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8c82be7a33709d17c4804008058644f187e9bb85</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>39032</id>
+                      <type id="151">Entity</type>
+                      <title>Hordern Pavilion (Building)</title>
+                      <added>2010-04-23 14:29:47</added>
+                      <modified>2011-02-24 11:14:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Hordern Pavilion</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Exhibition building at the Moore Park showgrounds named in honour of the retail Hordern family, Anthony Hordern and Sons, and Sir Samuel Hordern, who was the president of the Royal Agricultural Society from 1915 to 1941.</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:9049" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:18:28+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>9049</id>
+      <type id="151">Entity</type>
+      <title>Wahroonga railway station (Building)</title>
+      <added>2009-06-10 15:58:56</added>
+      <modified>2011-02-23 12:07:39</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Railway station on Sydney's northern line opened in 1890.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>24894</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Wahroonga railway station</title>
+          <added>2009-09-07 14:30:02</added>
+          <modified>2009-09-07 14:30:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9049</id>
+              <type id="151">Entity</type>
+              <title>Wahroonga railway station (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:07:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Railway station on Sydney's northern line opened in 1890.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>640</id>
+              <type id="98">XML Document</type>
+              <title>Warrawee</title>
+              <added>2008-10-22 13:12:49</added>
+              <modified>2009-09-07 14:45:22</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>604</id>
+                  <nonce>63c635e98dc4376b1f12e602b221bb74144dd89d</nonce>
+                  <origName>Warrawee.xml</origName>
+                  <type>application/xml</type>
+                  <size>55.6 kb</size>
+                  <date>2009-03-17 11:45:20</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Warrawee.xml?file_id=63c635e98dc4376b1f12e602b221bb74144dd89d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=63c635e98dc4376b1f12e602b221bb74144dd89d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Warrawee</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built on Guringai land, Warrawee was cleared by timber-getters and became orchards and residential land by the 1870s. Subdivision followed the railway in 1900, but commercial development was not allowed, and some of Sydney's best domestic architecture is displayed in Warrawee houses built before World War II.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2572</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">131</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">59</detail>
+          <detail id="330" type="End Word" name="End Word">61</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>24942</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Wahroonga railway station</title>
+          <added>2009-09-07 15:28:52</added>
+          <modified>2009-09-07 15:28:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9049</id>
+              <type id="151">Entity</type>
+              <title>Wahroonga railway station (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:07:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Railway station on Sydney's northern line opened in 1890.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>635</id>
+              <type id="98">XML Document</type>
+              <title>Wahroonga</title>
+              <added>2008-10-22 13:12:48</added>
+              <modified>2009-11-05 10:04:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3272</id>
+                  <nonce>1472ad9155d8ce64ca35923c290adf207f7737c4</nonce>
+                  <origName>Wahroonga.xml</origName>
+                  <type>application/xml</type>
+                  <size>40.9 kb</size>
+                  <date>2009-11-05 10:04:24</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Wahroonga.xml?file_id=1472ad9155d8ce64ca35923c290adf207f7737c4</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1472ad9155d8ce64ca35923c290adf207f7737c4</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Wahroonga</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The early timber-getters of Wahroonga gave way to orchardists and country mansions for commuters after the railway came through. In the twentieth century, infill housing increased the population, though there is still little commercial development.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2570</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">54</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">2</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>9050</id>
+          <type id="150">Factoid</type>
+          <title>Wahroonga railway station, Type, Railway station</title>
+          <added>2009-06-10 15:58:56</added>
+          <modified>2009-06-10 15:58:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9049</id>
+              <type id="151">Entity</type>
+              <title>Wahroonga railway station (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:07:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Railway station on Sydney's northern line opened in 1890.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7059</id>
+              <type id="91">Role</type>
+              <title>Railway station</title>
+              <added>2009-06-10 15:56:24</added>
+              <modified>2009-06-10 15:56:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Railway station</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51676</id>
+          <type id="150">Factoid</type>
+          <title>Wahroonga railway station, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:03</added>
+          <modified>2011-02-16 16:03:30</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9049</id>
+              <type id="151">Entity</type>
+              <title>Wahroonga railway station (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:07:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Railway station on Sydney's northern line opened in 1890.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.11694748764 -33.717487620105)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52296</id>
+          <type id="150">Factoid</type>
+          <title>Wahroonga railway station, Milestone, Opened</title>
+          <added>2011-02-23 12:06:13</added>
+          <modified>2011-02-23 12:06:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9049</id>
+              <type id="151">Entity</type>
+              <title>Wahroonga railway station (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:07:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Railway station on Sydney's northern line opened in 1890.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1890-01-01</raw>
+            <year>1890</year>
+            <month>1</month>
+            <day>1</day>
+            <hour />
+            <minutes />
+            <seconds />
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1890-01-01</raw>
+            <year>1890</year>
+            <month>1</month>
+            <day>1</day>
+            <hour />
+            <minutes />
+            <seconds />
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52297</id>
+          <type id="150">Factoid</type>
+          <title>Wahroonga railway station, Name, Alternate</title>
+          <added>2011-02-23 12:06:47</added>
+          <modified>2011-02-23 12:06:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9049</id>
+              <type id="151">Entity</type>
+              <title>Wahroonga railway station (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:07:39</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wahroonga railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Railway station on Sydney's northern line opened in 1890.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Pearces Corner railway station</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1890</raw>
+            <year>1890</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1890</raw>
+            <year>1890</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

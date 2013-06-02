@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8767" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:02:11+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8767</id>
+      <type id="151">Entity</type>
+      <title>Seymour Centre (Building)</title>
+      <added>2009-06-10 15:58:53</added>
+      <modified>2011-08-31 13:03:03</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Performing arts centre within the University of Sydney.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>34130</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Seymour Centre</title>
+          <added>2009-11-05 11:46:47</added>
+          <modified>2009-11-05 11:46:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8767</id>
+              <type id="151">Entity</type>
+              <title>Seymour Centre (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-08-31 13:03:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Performing arts centre within the University of Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>289</id>
+              <type id="98">XML Document</type>
+              <title>Darlington</title>
+              <added>2008-10-22 13:11:53</added>
+              <modified>2011-11-25 10:25:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5318</id>
+                  <nonce>3a08c13445916d4226336f1c7a63a52c78f63501</nonce>
+                  <origName>Darlington.xml</origName>
+                  <type>application/xml</type>
+                  <size>67.1 kb</size>
+                  <date>2011-11-25 10:25:39</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Darlington.xml?file_id=3a08c13445916d4226336f1c7a63a52c78f63501</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3a08c13445916d4226336f1c7a63a52c78f63501</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Darlington</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditional country of the Gadigal people, the area that became Darlington was part of Grose Farm, and set aside for the trustees of the Female Orphan School. Its timber was cleared and the fertile land became Thomas Shepherd's Darling Nursery. By the 1880s the whole area was built over with terraces of workers' housing. In the twentieth century, the University of Sydney encroached into Darlington, rebuilding much of it and reducing the population.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1751</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">115</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">7,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">123</detail>
+          <detail id="330" type="End Word" name="End Word">124</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>34134</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Seymour Centre</title>
+          <added>2009-11-05 11:55:49</added>
+          <modified>2009-11-05 11:55:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8767</id>
+              <type id="151">Entity</type>
+              <title>Seymour Centre (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-08-31 13:03:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Performing arts centre within the University of Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>289</id>
+              <type id="98">XML Document</type>
+              <title>Darlington</title>
+              <added>2008-10-22 13:11:53</added>
+              <modified>2011-11-25 10:25:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5318</id>
+                  <nonce>3a08c13445916d4226336f1c7a63a52c78f63501</nonce>
+                  <origName>Darlington.xml</origName>
+                  <type>application/xml</type>
+                  <size>67.1 kb</size>
+                  <date>2011-11-25 10:25:39</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Darlington.xml?file_id=3a08c13445916d4226336f1c7a63a52c78f63501</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3a08c13445916d4226336f1c7a63a52c78f63501</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Darlington</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditional country of the Gadigal people, the area that became Darlington was part of Grose Farm, and set aside for the trustees of the Female Orphan School. Its timber was cleared and the fertile land became Thomas Shepherd's Darling Nursery. By the 1880s the whole area was built over with terraces of workers' housing. In the twentieth century, the University of Sydney encroached into Darlington, rebuilding much of it and reducing the population.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1751</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">115</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">8,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">33</detail>
+          <detail id="330" type="End Word" name="End Word">34</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36967</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Seymour Centre</title>
+          <added>2009-11-24 16:17:54</added>
+          <modified>2009-11-24 16:17:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8767</id>
+              <type id="151">Entity</type>
+              <title>Seymour Centre (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-08-31 13:03:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Performing arts centre within the University of Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>507</id>
+              <type id="98">XML Document</type>
+              <title>Paris Theatre</title>
+              <added>2008-10-22 13:12:27</added>
+              <modified>2009-11-24 16:41:57</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3315</id>
+                  <nonce>1842bd99f353b4c5ef470a69376945881198dd6b</nonce>
+                  <origName>Paris Theatre.xml</origName>
+                  <type>application/xml</type>
+                  <size>75.8 kb</size>
+                  <date>2009-11-24 16:41:54</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Paris+Theatre.xml?file_id=1842bd99f353b4c5ef470a69376945881198dd6b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1842bd99f353b4c5ef470a69376945881198dd6b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Paris Theatre</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The long and varied cultural history of the Paris Theatre, home to movies, vaudeville, cabaret, 'revues' and drama, gives an insight into the ups and downs of theatre and cinema life in Sydney over the twentieth century.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1342</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">52</detail>
+          <detail id="330" type="End Word" name="End Word">53</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>88867</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Seymour Centre</title>
+          <added>2013-01-31 14:44:55</added>
+          <modified>2013-01-31 14:44:55</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8767</id>
+              <type id="151">Entity</type>
+              <title>Seymour Centre (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-08-31 13:03:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Performing arts centre within the University of Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>85579</id>
+              <type id="98">XML Document</type>
+              <title>Old Tote Theatre</title>
+              <added>2012-11-22 10:47:58</added>
+              <modified>2013-01-31 14:42:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8252</id>
+                  <nonce>2c1b6976f61ee09b1c5113a6483c965059151439</nonce>
+                  <origName>Old+Tote+Theatre.xml</origName>
+                  <type>application/xml</type>
+                  <size>39.4 kb</size>
+                  <date>2013-01-31 14:42:14</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Old%2BTote%2BTheatre.xml?file_id=2c1b6976f61ee09b1c5113a6483c965059151439</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2c1b6976f61ee09b1c5113a6483c965059151439</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Old Tote Theatre</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Founded as a complement to the National Institute of Dramatic Art, the Old Tote Theatre company ushered in the era of modern, state-supported theatre in Sydney.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-11-22</raw>
+                <year>2012</year>
+                <month>11</month>
+                <day>22</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1341</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,10</detail>
+          <detail id="329" type="Start Word" name="Start Word">64</detail>
+          <detail id="330" type="End Word" name="End Word">65</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8768</id>
+          <type id="150">Factoid</type>
+          <title>Seymour Centre, Type, Theatre</title>
+          <added>2009-06-10 15:58:53</added>
+          <modified>2009-06-10 15:58:53</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8767</id>
+              <type id="151">Entity</type>
+              <title>Seymour Centre (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-08-31 13:03:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Performing arts centre within the University of Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7112</id>
+              <type id="91">Role</type>
+              <title>Theatre</title>
+              <added>2009-06-10 15:56:32</added>
+              <modified>2009-06-10 15:56:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51690</id>
+          <type id="150">Factoid</type>
+          <title>Seymour Centre, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:12</added>
+          <modified>2011-02-16 16:03:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8767</id>
+              <type id="151">Entity</type>
+              <title>Seymour Centre (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-08-31 13:03:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Performing arts centre within the University of Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.19354836141 -33.888546684689)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>88868</id>
+          <type id="150">Factoid</type>
+          <title>Seymour Centre, Milestone, Opened</title>
+          <added>2013-01-31 14:46:21</added>
+          <modified>2013-01-31 14:46:21</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8767</id>
+              <type id="151">Entity</type>
+              <title>Seymour Centre (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-08-31 13:03:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Seymour Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Performing arts centre within the University of Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1975</raw>
+            <year>1975</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1975</raw>
+            <year>1975</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

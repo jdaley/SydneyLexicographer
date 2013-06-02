@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:9041" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:17:58+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>9041</id>
+      <type id="151">Entity</type>
+      <title>Vaucluse House (Building)</title>
+      <added>2009-06-10 15:58:56</added>
+      <modified>2011-02-23 12:36:55</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>49782</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Vaucluse House</title>
+          <added>2011-01-20 10:52:02</added>
+          <modified>2011-01-20 10:52:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>48392</id>
+              <type id="98">XML Document</type>
+              <title>Hosking, John</title>
+              <added>2010-12-15 10:22:02</added>
+              <modified>2011-02-10 09:50:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4421</id>
+                  <nonce>ca79ab3c25ea58f1b546140d97f15ce3e1df32b2</nonce>
+                  <origName>Hosking,+John.xml</origName>
+                  <type>application/xml</type>
+                  <size>54.9 kb</size>
+                  <date>2011-02-10 09:50:10</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Hosking%2C%2BJohn.xml?file_id=ca79ab3c25ea58f1b546140d97f15ce3e1df32b2</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ca79ab3c25ea58f1b546140d97f15ce3e1df32b2</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Hosking, John</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A businessman who married into the Terry family, John Hosking became the first mayor of Sydney.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-12-15</raw>
+                <year>2010</year>
+                <month>12</month>
+                <day>15</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3166</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">123</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">18</detail>
+          <detail id="330" type="End Word" name="End Word">19</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>55812</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Vaucluse House</title>
+          <added>2011-05-05 11:41:53</added>
+          <modified>2011-11-24 15:01:07</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>55603</id>
+              <type id="98">XML Document</type>
+              <title>Tourism</title>
+              <added>2011-05-04 12:30:14</added>
+              <modified>2011-11-24 14:55:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5310</id>
+                  <nonce>c3e66d035bb5a6840f8f55e6048d613757e7a28d</nonce>
+                  <origName>Tourism.xml</origName>
+                  <type>application/xml</type>
+                  <size>243.7 kb</size>
+                  <date>2011-11-24 14:55:17</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Tourism.xml?file_id=c3e66d035bb5a6840f8f55e6048d613757e7a28d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c3e66d035bb5a6840f8f55e6048d613757e7a28d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Tourism</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shaped by tourism from its earliest days as a town, Sydney has catered to tourists from overseas, other parts of Australia and the New South Wales hinterland, becoming one of the world's favourite travel destinations.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-05-04</raw>
+                <year>2011</year>
+                <month>5</month>
+                <day>4</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2957</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">55602</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">55600</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+          <detail id="539" type="Start Element" name="Start Element">10,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">235</detail>
+          <detail id="330" type="End Word" name="End Word">236</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>67159</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Vaucluse House</title>
+          <added>2011-12-22 09:50:36</added>
+          <modified>2011-12-22 09:50:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>66830</id>
+              <type id="98">XML Document</type>
+              <title>Cookney, George</title>
+              <added>2011-12-16 11:26:44</added>
+              <modified>2011-12-16 11:30:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5341</id>
+                  <nonce>8e84870755153f1766dcd42152303636231b0f87</nonce>
+                  <origName>Cookney, George.xml</origName>
+                  <type>application/xml</type>
+                  <size>48.9 kb</size>
+                  <date>2011-12-16 11:30:04</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Cookney%2C+George.xml?file_id=8e84870755153f1766dcd42152303636231b0f87</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8e84870755153f1766dcd42152303636231b0f87</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Cookney, George</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">George Cookney came to Sydney in 1823 with good connections and prospects, but his career ended in disgrace and transportation to Tasmania, where he redeemed himself somewhat.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-12-16</raw>
+                <year>2011</year>
+                <month>12</month>
+                <day>16</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3206</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">31</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">13</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>9042</id>
+          <type id="150">Factoid</type>
+          <title>Vaucluse House, Type, House</title>
+          <added>2009-06-10 15:58:56</added>
+          <modified>2009-06-10 15:58:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>49783</id>
+          <type id="150">Factoid</type>
+          <title>Vaucluse House, Name, Alternate</title>
+          <added>2011-01-20 11:05:04</added>
+          <modified>2011-08-11 11:59:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Vaucluse Cottage</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1822</raw>
+            <year>1822</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1827</raw>
+            <year>1827</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51701</id>
+          <type id="150">Factoid</type>
+          <title>Vaucluse House, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:18</added>
+          <modified>2011-02-16 16:03:30</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.27362547466 -33.855392827906)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52298</id>
+          <type id="150">Factoid</type>
+          <title>Vaucluse House, Milestone, Constructed</title>
+          <added>2011-02-23 12:20:01</added>
+          <modified>2011-02-23 12:23:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1805</raw>
+            <year>1805</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1805</raw>
+            <year>1805</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>52299</id>
+          <type id="150">Factoid</type>
+          <title>Vaucluse House, Milestone, Modified</title>
+          <added>2011-02-23 12:23:20</added>
+          <modified>2011-02-23 12:23:20</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1827</raw>
+            <year>1827</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1860</raw>
+            <year>1860</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>52300</id>
+          <type id="150">Factoid</type>
+          <title>Piper, John, Property, Owned, Vaucluse House</title>
+          <added>2011-02-23 12:26:49</added>
+          <modified>2011-08-05 09:48:43</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14426</id>
+              <type id="151">Entity</type>
+              <title>Piper, John (Person)</title>
+              <added>2009-06-10 16:04:18</added>
+              <modified>2010-09-20 11:45:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Piper, John</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Soldier and public servant who became a rich landowner but had to sell most of his assets to pay back money to the colony after mismanagement in his post of Naval Officer.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">18414</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1822</raw>
+            <year>1822</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1827</raw>
+            <year>1827</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>52301</id>
+          <type id="150">Factoid</type>
+          <title>Wentworth, William Charles, Property, Owned, Vaucluse House</title>
+          <added>2011-02-23 12:36:05</added>
+          <modified>2011-11-28 11:34:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14915</id>
+              <type id="151">Entity</type>
+              <title>Wentworth, William Charles (Person)</title>
+              <added>2009-06-10 16:04:21</added>
+              <modified>2010-08-18 09:18:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wentworth, William Charles</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Explorer, barrister, landowner and author who championed the emancipists and free settlers and campaigned for radical political reform.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">40472</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1827</raw>
+            <year>1827</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1872-03-20</raw>
+            <year>1872</year>
+            <month>3</month>
+            <day>20</day>
+            <hour />
+            <minutes />
+            <seconds />
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61398</id>
+          <type id="150">Factoid</type>
+          <title>Vaucluse House, Name, Alternate</title>
+          <added>2011-08-11 11:59:34</added>
+          <modified>2011-08-11 11:59:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9041</id>
+              <type id="151">Entity</type>
+              <title>Vaucluse House (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 12:36:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Vaucluse House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Original cottage built by Irish convict Henry Browne Hayes in 1805 and greatly expanded by William Charles Wentworth after he purchased the estate in 1827. It became a large Gothic-style residence surrounded by a nineteenth-century garden and outhouses, and is now a house museum run by the Historic Houses Trust.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">The Retreat</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1814</raw>
+            <year>1814</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1822</raw>
+            <year>1822</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

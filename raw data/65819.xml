@@ -1,0 +1,1289 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:65819" w="a" depth="2" />
+  <dateStamp>2013-02-17T05:38:16+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>65819</id>
+      <type id="151">Entity</type>
+      <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+      <added>2011-11-18 10:03:51</added>
+      <modified>2011-11-18 10:03:51</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>65820</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St Sophia Greek Orthodox Cathedral Paddington</title>
+          <added>2011-11-18 10:04:01</added>
+          <modified>2011-11-18 10:04:01</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>65819</id>
+              <type id="151">Entity</type>
+              <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+              <added>2011-11-18 10:03:51</added>
+              <modified>2011-11-18 10:03:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>58830</id>
+              <type id="98">XML Document</type>
+              <title>Greeks</title>
+              <added>2011-07-06 10:10:56</added>
+              <modified>2011-11-24 14:24:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5309</id>
+                  <nonce>5e7aad0f5df29adec14936990ad0baafd6111140</nonce>
+                  <origName>Greeks.xml</origName>
+                  <type>application/xml</type>
+                  <size>258.3 kb</size>
+                  <date>2011-11-24 14:24:33</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Greeks.xml?file_id=5e7aad0f5df29adec14936990ad0baafd6111140</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5e7aad0f5df29adec14936990ad0baafd6111140</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Greeks</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's Hellenic community is one of the city's largest and most influential, with a long and complex history. Greek-speaking people came from many parts of the Mediterranean, as well as Hellas itself, and have maintained their diverse cultural traditions at the same time as becoming part of Sydney's institutions and cultural and business life.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-06</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2990</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">58829</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">56</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>84739</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St Sophia Greek Orthodox Cathedral Paddington</title>
+          <added>2012-11-08 12:51:52</added>
+          <modified>2012-11-08 12:51:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>65819</id>
+              <type id="151">Entity</type>
+              <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+              <added>2011-11-18 10:03:51</added>
+              <modified>2011-11-18 10:03:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>389</id>
+              <type id="98">XML Document</type>
+              <title>Immigration</title>
+              <added>2008-10-22 13:12:08</added>
+              <modified>2009-10-29 14:49:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1285</id>
+                  <nonce>13993f939e9b0818bea858ce1873a0c38bd1a1e2</nonce>
+                  <origName>Immigration.xml</origName>
+                  <type>application/xml</type>
+                  <size>85.6 kb</size>
+                  <date>2009-04-29 15:07:07</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Immigration.xml?file_id=13993f939e9b0818bea858ce1873a0c38bd1a1e2</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13993f939e9b0818bea858ce1873a0c38bd1a1e2</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Immigration</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">From its foundation by the First Fleet, Sydney has been populated by immigrants from cultures across the world and remains Australia's most multicultural city.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2982</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">51</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,7</detail>
+          <detail id="329" type="Start Word" name="Start Word">36</detail>
+          <detail id="330" type="End Word" name="End Word">37</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65821</id>
+          <type id="150">Factoid</type>
+          <title>St Sophia Greek Orthodox Cathedral Paddington, Type, Place of worship</title>
+          <added>2011-11-18 10:06:55</added>
+          <modified>2011-11-18 10:06:55</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>65819</id>
+              <type id="151">Entity</type>
+              <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+              <added>2011-11-18 10:03:51</added>
+              <modified>2011-11-18 10:03:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65822</id>
+          <type id="150">Factoid</type>
+          <title>St Sophia Greek Orthodox Cathedral Paddington, Milestone, Opened</title>
+          <added>2011-11-18 10:07:40</added>
+          <modified>2011-11-18 10:07:40</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>65819</id>
+              <type id="151">Entity</type>
+              <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+              <added>2011-11-18 10:03:51</added>
+              <modified>2011-11-18 10:03:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1927-09-18</raw>
+            <year>1927</year>
+            <month>9</month>
+            <day>18</day>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1927-09-18</raw>
+            <year>1927</year>
+            <month>9</month>
+            <day>18</day>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65823</id>
+          <type id="150">Factoid</type>
+          <title>St Sophia Greek Orthodox Cathedral Paddington, TimePlace</title>
+          <added>2011-11-18 10:08:19</added>
+          <modified>2011-11-18 10:08:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>65819</id>
+              <type id="151">Entity</type>
+              <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+              <added>2011-11-18 10:03:51</added>
+              <modified>2011-11-18 10:03:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.21896102279 -33.882986257939)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>67558</id>
+          <type id="52">Record relationship</type>
+          <title>(66165 isOf 65819)</title>
+          <added>2012-01-10 09:00:52</added>
+          <modified>2012-01-10 09:00:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>66165</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Wedding party, Ayia Sophia Church 1936</title>
+              <added>2011-11-23 21:38:54</added>
+              <modified>2012-01-10 08:53:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>5301</id>
+                  <nonce>ef69091edb76894634615f671fec211547c5249d</nonce>
+                  <origName>papacotis_doratis.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>577.7 kb</size>
+                  <date>2011-11-23 21:37:32</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/papacotis_doratis.jpg?file_id=ef69091edb76894634615f671fec211547c5249d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ef69091edb76894634615f671fec211547c5249d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Wedding party, Ayia Sophia Church 1936</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1936</raw>
+                <year>1936</year>
+              </detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>5301</id>
+                  <type id="153">Contributor</type>
+                  <title>Private collection</title>
+                  <added>2009-04-09 12:30:44</added>
+                  <modified>2009-04-09 12:30:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Private collection</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">public</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">Permission from owner of photo, Zeny Giles: 
+From: Zeny Giles [mailto:zenygiles@gmail.com]
+Sent: Fri 12/23/2011 7:14 PM
+To: Paul Howard
+Subject: Re: Photographic permission
+I would be happy for the photo taken of my parents' wedding at St Sophia Church, Dowling Street, Sydney, on 16th February, 1936, to be used by the Dictionary of Sydney. My father, Michael Doratis emigrated from Cyprus in 1927, my mother, Chrisaphina Papacotis came with her sister and brother in 1924. Sincerely, Zeny Doratis Giles.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>66166</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>The</title>
+                  <added>2011-11-23 22:20:06</added>
+                  <modified>2011-11-25 10:07:57</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="199" type="Resource" name="target">66165</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58830</detail>
+                  <detail id="160" type="Title" name="dc.title">The</detail>
+                  <detail id="191" type="Extended description" name="caption">The wedding party stands on the steps of Ayia Sophia Greek Orthodox Church in Paddington on 16 February 1936, after the marriage of Nina Papacotis, whose family migrated from Castellorizo, and Michael Doratis, from Cyprus. The interwar period was a time of growth for the Greek community in Sydney.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">78</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>67558</id>
+                  <type id="52">Record relationship</type>
+                  <title>(66165 isOf 65819)</title>
+                  <added>2012-01-10 09:00:52</added>
+                  <modified>2012-01-10 09:00:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>66165</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wedding party, Ayia Sophia Church 1936</title>
+                      <added>2011-11-23 21:38:54</added>
+                      <modified>2012-01-10 08:53:36</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5301</id>
+                          <nonce>ef69091edb76894634615f671fec211547c5249d</nonce>
+                          <origName>papacotis_doratis.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>577.7 kb</size>
+                          <date>2011-11-23 21:37:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/papacotis_doratis.jpg?file_id=ef69091edb76894634615f671fec211547c5249d</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ef69091edb76894634615f671fec211547c5249d</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Wedding party, Ayia Sophia Church 1936</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1936</raw>
+                        <year>1936</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Permission from owner of photo, Zeny Giles: 
+From: Zeny Giles [mailto:zenygiles@gmail.com]
+Sent: Fri 12/23/2011 7:14 PM
+To: Paul Howard
+Subject: Re: Photographic permission
+I would be happy for the photo taken of my parents' wedding at St Sophia Church, Dowling Street, Sydney, on 16th February, 1936, to be used by the Dictionary of Sydney. My father, Michael Doratis emigrated from Cyprus in 1927, my mother, Chrisaphina Papacotis came with her sister and brother in 1924. Sincerely, Zeny Doratis Giles.</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>65819</id>
+                      <type id="151">Entity</type>
+                      <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+                      <added>2011-11-18 10:03:51</added>
+                      <modified>2011-11-18 10:03:51</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>86574</id>
+                  <type id="52">Record relationship</type>
+                  <title>(66165 hasSubject 6093)</title>
+                  <added>2012-12-07 09:03:17</added>
+                  <modified>2012-12-07 09:03:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>66165</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wedding party, Ayia Sophia Church 1936</title>
+                      <added>2011-11-23 21:38:54</added>
+                      <modified>2012-01-10 08:53:36</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5301</id>
+                          <nonce>ef69091edb76894634615f671fec211547c5249d</nonce>
+                          <origName>papacotis_doratis.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>577.7 kb</size>
+                          <date>2011-11-23 21:37:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/papacotis_doratis.jpg?file_id=ef69091edb76894634615f671fec211547c5249d</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ef69091edb76894634615f671fec211547c5249d</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Wedding party, Ayia Sophia Church 1936</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1936</raw>
+                        <year>1936</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Permission from owner of photo, Zeny Giles: 
+From: Zeny Giles [mailto:zenygiles@gmail.com]
+Sent: Fri 12/23/2011 7:14 PM
+To: Paul Howard
+Subject: Re: Photographic permission
+I would be happy for the photo taken of my parents' wedding at St Sophia Church, Dowling Street, Sydney, on 16th February, 1936, to be used by the Dictionary of Sydney. My father, Michael Doratis emigrated from Cyprus in 1927, my mother, Chrisaphina Papacotis came with her sister and brother in 1924. Sincerely, Zeny Doratis Giles.</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6093</id>
+                      <type id="152">Term</type>
+                      <title>Marriage</title>
+                      <added>2009-05-25 14:56:43</added>
+                      <modified>2009-05-25 14:56:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marriage</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>86575</id>
+                  <type id="52">Record relationship</type>
+                  <title>(66165 hasSubject 6192)</title>
+                  <added>2012-12-07 09:07:20</added>
+                  <modified>2012-12-07 09:07:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>66165</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wedding party, Ayia Sophia Church 1936</title>
+                      <added>2011-11-23 21:38:54</added>
+                      <modified>2012-01-10 08:53:36</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5301</id>
+                          <nonce>ef69091edb76894634615f671fec211547c5249d</nonce>
+                          <origName>papacotis_doratis.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>577.7 kb</size>
+                          <date>2011-11-23 21:37:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/papacotis_doratis.jpg?file_id=ef69091edb76894634615f671fec211547c5249d</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ef69091edb76894634615f671fec211547c5249d</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Wedding party, Ayia Sophia Church 1936</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1936</raw>
+                        <year>1936</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Permission from owner of photo, Zeny Giles: 
+From: Zeny Giles [mailto:zenygiles@gmail.com]
+Sent: Fri 12/23/2011 7:14 PM
+To: Paul Howard
+Subject: Re: Photographic permission
+I would be happy for the photo taken of my parents' wedding at St Sophia Church, Dowling Street, Sydney, on 16th February, 1936, to be used by the Dictionary of Sydney. My father, Michael Doratis emigrated from Cyprus in 1927, my mother, Chrisaphina Papacotis came with her sister and brother in 1924. Sincerely, Zeny Doratis Giles.</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>86576</id>
+                  <type id="52">Record relationship</type>
+                  <title>(66165 hasSubject 6126)</title>
+                  <added>2012-12-07 09:09:24</added>
+                  <modified>2012-12-07 09:09:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>66165</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wedding party, Ayia Sophia Church 1936</title>
+                      <added>2011-11-23 21:38:54</added>
+                      <modified>2012-01-10 08:53:36</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5301</id>
+                          <nonce>ef69091edb76894634615f671fec211547c5249d</nonce>
+                          <origName>papacotis_doratis.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>577.7 kb</size>
+                          <date>2011-11-23 21:37:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/papacotis_doratis.jpg?file_id=ef69091edb76894634615f671fec211547c5249d</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ef69091edb76894634615f671fec211547c5249d</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Wedding party, Ayia Sophia Church 1936</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1936</raw>
+                        <year>1936</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Permission from owner of photo, Zeny Giles: 
+From: Zeny Giles [mailto:zenygiles@gmail.com]
+Sent: Fri 12/23/2011 7:14 PM
+To: Paul Howard
+Subject: Re: Photographic permission
+I would be happy for the photo taken of my parents' wedding at St Sophia Church, Dowling Street, Sydney, on 16th February, 1936, to be used by the Dictionary of Sydney. My father, Michael Doratis emigrated from Cyprus in 1927, my mother, Chrisaphina Papacotis came with her sister and brother in 1924. Sincerely, Zeny Doratis Giles.</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6126</id>
+                      <type id="152">Term</type>
+                      <title>Orthodox</title>
+                      <added>2009-05-25 14:56:46</added>
+                      <modified>2009-05-25 14:56:46</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Orthodox</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>65819</id>
+              <type id="151">Entity</type>
+              <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+              <added>2011-11-18 10:03:51</added>
+              <modified>2011-11-18 10:03:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>65820</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington</title>
+                  <added>2011-11-18 10:04:01</added>
+                  <modified>2011-11-18 10:04:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                  <detail id="199" type="Resource" name="target">65819</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58830</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">56</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>84739</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington</title>
+                  <added>2012-11-08 12:51:52</added>
+                  <modified>2012-11-08 12:51:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                  <detail id="199" type="Resource" name="target">65819</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">389</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,7</detail>
+                  <detail id="329" type="Start Word" name="Start Word">36</detail>
+                  <detail id="330" type="End Word" name="End Word">37</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65821</id>
+                  <type id="150">Factoid</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington, Type, Place of worship</title>
+                  <added>2011-11-18 10:06:55</added>
+                  <modified>2011-11-18 10:06:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">65819</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65822</id>
+                  <type id="150">Factoid</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington, Milestone, Opened</title>
+                  <added>2011-11-18 10:07:40</added>
+                  <modified>2011-11-18 10:07:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">65819</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">42396</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1927-09-18</raw>
+                    <year>1927</year>
+                    <month>9</month>
+                    <day>18</day>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1927-09-18</raw>
+                    <year>1927</year>
+                    <month>9</month>
+                    <day>18</day>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65823</id>
+                  <type id="150">Factoid</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington, TimePlace</title>
+                  <added>2011-11-18 10:08:19</added>
+                  <modified>2011-11-18 10:08:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">65819</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.21896102279 -33.882986257939)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>67558</id>
+                  <type id="52">Record relationship</type>
+                  <title>(66165 isOf 65819)</title>
+                  <added>2012-01-10 09:00:52</added>
+                  <modified>2012-01-10 09:00:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>66165</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wedding party, Ayia Sophia Church 1936</title>
+                      <added>2011-11-23 21:38:54</added>
+                      <modified>2012-01-10 08:53:36</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5301</id>
+                          <nonce>ef69091edb76894634615f671fec211547c5249d</nonce>
+                          <origName>papacotis_doratis.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>577.7 kb</size>
+                          <date>2011-11-23 21:37:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/papacotis_doratis.jpg?file_id=ef69091edb76894634615f671fec211547c5249d</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ef69091edb76894634615f671fec211547c5249d</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Wedding party, Ayia Sophia Church 1936</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1936</raw>
+                        <year>1936</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Permission from owner of photo, Zeny Giles: 
+From: Zeny Giles [mailto:zenygiles@gmail.com]
+Sent: Fri 12/23/2011 7:14 PM
+To: Paul Howard
+Subject: Re: Photographic permission
+I would be happy for the photo taken of my parents' wedding at St Sophia Church, Dowling Street, Sydney, on 16th February, 1936, to be used by the Dictionary of Sydney. My father, Michael Doratis emigrated from Cyprus in 1927, my mother, Chrisaphina Papacotis came with her sister and brother in 1924. Sincerely, Zeny Doratis Giles.</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>65819</id>
+                      <type id="151">Entity</type>
+                      <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+                      <added>2011-11-18 10:03:51</added>
+                      <modified>2011-11-18 10:03:51</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>67559</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40475 isOf 65819)</title>
+                  <added>2012-01-10 09:01:53</added>
+                  <modified>2012-01-10 09:01:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40475</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Sophia Greek Orthodox Cathedral, Paddington 1955</title>
+                      <added>2010-07-07 21:43:29</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3524</id>
+                          <nonce>5aafb189909f8a3533be5fa7e928172ae92b23b1</nonce>
+                          <origName>Greek Orthodox.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>52.4 kb</size>
+                          <date>2010-07-07 21:43:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Greek+Orthodox.jpg?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Fitzpatrick, J</detail>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral, Paddington 1955</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1955</raw>
+                        <year>1955</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L18526</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 5600\nP-DoS Notes: The Greek Orthodox Cathedral of St Sophia built in Sydney in 1927, is modelled on the old Grecian style of architecture with Byzantine decorations inside.\nP-Related: Immigration</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>65819</id>
+                      <type id="151">Entity</type>
+                      <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+                      <added>2011-11-18 10:03:51</added>
+                      <modified>2011-11-18 10:03:51</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+        <record>
+          <id>67559</id>
+          <type id="52">Record relationship</type>
+          <title>(40475 isOf 65819)</title>
+          <added>2012-01-10 09:01:53</added>
+          <modified>2012-01-10 09:01:53</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>40475</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>St Sophia Greek Orthodox Cathedral, Paddington 1955</title>
+              <added>2010-07-07 21:43:29</added>
+              <modified>2011-05-20 23:32:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>3524</id>
+                  <nonce>5aafb189909f8a3533be5fa7e928172ae92b23b1</nonce>
+                  <origName>Greek Orthodox.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>52.4 kb</size>
+                  <date>2010-07-07 21:43:29</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Greek+Orthodox.jpg?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</thumbURL>
+                </file>
+              </detail>
+              <detail id="365" type="Subject" name="dc.creator">Fitzpatrick, J</detail>
+              <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral, Paddington 1955</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-07-07</raw>
+                <year>2010</year>
+                <month>7</month>
+                <day>7</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1955</raw>
+                <year>1955</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4798</id>
+                  <type id="153">Contributor</type>
+                  <title>National Archives of Australia</title>
+                  <added>2009-03-24 10:55:19</added>
+                  <modified>2009-10-29 10:32:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">National Archives of Australia</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.naa.gov.au/</detail>
+                </record>
+              </detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L18526</detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 5600\nP-DoS Notes: The Greek Orthodox Cathedral of St Sophia built in Sydney in 1927, is modelled on the old Grecian style of architecture with Byzantine decorations inside.\nP-Related: Immigration</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>4116</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Many</title>
+                  <added>2009-01-06 13:48:37</added>
+                  <modified>2010-08-10 16:36:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">389</detail>
+                  <detail id="199" type="Resource" name="target">40475</detail>
+                  <detail id="160" type="Title" name="dc.title">Many</detail>
+                  <detail id="191" type="Extended description" name="caption">The foundation stone of the Greek Orthodox Cathedral of St Sophia, on the corner of Napier and South Dowling streets, was laid in February 1927 by the Consul-General for Greece, Leonidas Chrysanthopoulos. Architect Walter Leslie modelled the building on Grecian architecture with Byzantine decorations inside.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,7</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">IMG first Greek Orthodox church in Surry Hills in 1895 OR that built in Paddington in 1925.</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>67559</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40475 isOf 65819)</title>
+                  <added>2012-01-10 09:01:53</added>
+                  <modified>2012-01-10 09:01:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40475</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Sophia Greek Orthodox Cathedral, Paddington 1955</title>
+                      <added>2010-07-07 21:43:29</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3524</id>
+                          <nonce>5aafb189909f8a3533be5fa7e928172ae92b23b1</nonce>
+                          <origName>Greek Orthodox.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>52.4 kb</size>
+                          <date>2010-07-07 21:43:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Greek+Orthodox.jpg?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Fitzpatrick, J</detail>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral, Paddington 1955</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1955</raw>
+                        <year>1955</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L18526</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 5600\nP-DoS Notes: The Greek Orthodox Cathedral of St Sophia built in Sydney in 1927, is modelled on the old Grecian style of architecture with Byzantine decorations inside.\nP-Related: Immigration</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>65819</id>
+                      <type id="151">Entity</type>
+                      <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+                      <added>2011-11-18 10:03:51</added>
+                      <modified>2011-11-18 10:03:51</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>85252</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40475 hasSubject 6192)</title>
+                  <added>2012-11-13 13:44:13</added>
+                  <modified>2012-11-13 13:44:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40475</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Sophia Greek Orthodox Cathedral, Paddington 1955</title>
+                      <added>2010-07-07 21:43:29</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3524</id>
+                          <nonce>5aafb189909f8a3533be5fa7e928172ae92b23b1</nonce>
+                          <origName>Greek Orthodox.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>52.4 kb</size>
+                          <date>2010-07-07 21:43:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Greek+Orthodox.jpg?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Fitzpatrick, J</detail>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral, Paddington 1955</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1955</raw>
+                        <year>1955</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L18526</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 5600\nP-DoS Notes: The Greek Orthodox Cathedral of St Sophia built in Sydney in 1927, is modelled on the old Grecian style of architecture with Byzantine decorations inside.\nP-Related: Immigration</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>85253</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40475 hasSubject 6126)</title>
+                  <added>2012-11-13 13:44:39</added>
+                  <modified>2012-11-13 13:44:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40475</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Sophia Greek Orthodox Cathedral, Paddington 1955</title>
+                      <added>2010-07-07 21:43:29</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3524</id>
+                          <nonce>5aafb189909f8a3533be5fa7e928172ae92b23b1</nonce>
+                          <origName>Greek Orthodox.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>52.4 kb</size>
+                          <date>2010-07-07 21:43:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Greek+Orthodox.jpg?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Fitzpatrick, J</detail>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral, Paddington 1955</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1955</raw>
+                        <year>1955</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L18526</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 5600\nP-DoS Notes: The Greek Orthodox Cathedral of St Sophia built in Sydney in 1927, is modelled on the old Grecian style of architecture with Byzantine decorations inside.\nP-Related: Immigration</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6126</id>
+                      <type id="152">Term</type>
+                      <title>Orthodox</title>
+                      <added>2009-05-25 14:56:46</added>
+                      <modified>2009-05-25 14:56:46</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Orthodox</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>65819</id>
+              <type id="151">Entity</type>
+              <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+              <added>2011-11-18 10:03:51</added>
+              <modified>2011-11-18 10:03:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>65820</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington</title>
+                  <added>2011-11-18 10:04:01</added>
+                  <modified>2011-11-18 10:04:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                  <detail id="199" type="Resource" name="target">65819</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">58830</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">56</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>84739</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington</title>
+                  <added>2012-11-08 12:51:52</added>
+                  <modified>2012-11-08 12:51:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                  <detail id="199" type="Resource" name="target">65819</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">389</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,7</detail>
+                  <detail id="329" type="Start Word" name="Start Word">36</detail>
+                  <detail id="330" type="End Word" name="End Word">37</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65821</id>
+                  <type id="150">Factoid</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington, Type, Place of worship</title>
+                  <added>2011-11-18 10:06:55</added>
+                  <modified>2011-11-18 10:06:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">65819</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65822</id>
+                  <type id="150">Factoid</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington, Milestone, Opened</title>
+                  <added>2011-11-18 10:07:40</added>
+                  <modified>2011-11-18 10:07:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">65819</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">42396</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1927-09-18</raw>
+                    <year>1927</year>
+                    <month>9</month>
+                    <day>18</day>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1927-09-18</raw>
+                    <year>1927</year>
+                    <month>9</month>
+                    <day>18</day>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65823</id>
+                  <type id="150">Factoid</type>
+                  <title>St Sophia Greek Orthodox Cathedral Paddington, TimePlace</title>
+                  <added>2011-11-18 10:08:19</added>
+                  <modified>2011-11-18 10:08:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">65819</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.21896102279 -33.882986257939)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>67558</id>
+                  <type id="52">Record relationship</type>
+                  <title>(66165 isOf 65819)</title>
+                  <added>2012-01-10 09:00:52</added>
+                  <modified>2012-01-10 09:00:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>66165</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wedding party, Ayia Sophia Church 1936</title>
+                      <added>2011-11-23 21:38:54</added>
+                      <modified>2012-01-10 08:53:36</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5301</id>
+                          <nonce>ef69091edb76894634615f671fec211547c5249d</nonce>
+                          <origName>papacotis_doratis.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>577.7 kb</size>
+                          <date>2011-11-23 21:37:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/papacotis_doratis.jpg?file_id=ef69091edb76894634615f671fec211547c5249d</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ef69091edb76894634615f671fec211547c5249d</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Wedding party, Ayia Sophia Church 1936</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1936</raw>
+                        <year>1936</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">5301</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Permission from owner of photo, Zeny Giles: 
+From: Zeny Giles [mailto:zenygiles@gmail.com]
+Sent: Fri 12/23/2011 7:14 PM
+To: Paul Howard
+Subject: Re: Photographic permission
+I would be happy for the photo taken of my parents' wedding at St Sophia Church, Dowling Street, Sydney, on 16th February, 1936, to be used by the Dictionary of Sydney. My father, Michael Doratis emigrated from Cyprus in 1927, my mother, Chrisaphina Papacotis came with her sister and brother in 1924. Sincerely, Zeny Doratis Giles.</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>65819</id>
+                      <type id="151">Entity</type>
+                      <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+                      <added>2011-11-18 10:03:51</added>
+                      <modified>2011-11-18 10:03:51</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>67559</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40475 isOf 65819)</title>
+                  <added>2012-01-10 09:01:53</added>
+                  <modified>2012-01-10 09:01:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40475</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Sophia Greek Orthodox Cathedral, Paddington 1955</title>
+                      <added>2010-07-07 21:43:29</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3524</id>
+                          <nonce>5aafb189909f8a3533be5fa7e928172ae92b23b1</nonce>
+                          <origName>Greek Orthodox.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>52.4 kb</size>
+                          <date>2010-07-07 21:43:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Greek+Orthodox.jpg?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5aafb189909f8a3533be5fa7e928172ae92b23b1</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">Fitzpatrick, J</detail>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral, Paddington 1955</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1955</raw>
+                        <year>1955</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L18526</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 5600\nP-DoS Notes: The Greek Orthodox Cathedral of St Sophia built in Sydney in 1927, is modelled on the old Grecian style of architecture with Byzantine decorations inside.\nP-Related: Immigration</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>65819</id>
+                      <type id="151">Entity</type>
+                      <title>St Sophia Greek Orthodox Cathedral Paddington (Building)</title>
+                      <added>2011-11-18 10:03:51</added>
+                      <modified>2011-11-18 10:03:51</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Sophia Greek Orthodox Cathedral Paddington</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Church and hall constructed as a result of the division within the Greek Orthodox community in the 1920s.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:59954" w="a" depth="2" />
+  <dateStamp>2013-02-17T04:10:45+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>59954</id>
+      <type id="151">Entity</type>
+      <title>Fenwick's Stone Building (Building)</title>
+      <added>2011-07-28 15:54:36</added>
+      <modified>2011-08-04 09:09:25</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Fenwick's Stone Building</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Sandstone store thought to have been built between 1888 and 1896 when it first appeared on a map. It is adjacent to Darling Street wharf at 2-8 Weston Street Balmain.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">http://www.leichhardt.nsw.gov.au/IgnitionSuite/uploads/docs/2%20-%208%20Weston%20Street%20Conservation%20Management%20Plan.pdf</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>59958</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Fenwick's Stone Building</title>
+          <added>2011-07-28 15:58:47</added>
+          <modified>2011-08-30 15:15:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>59954</id>
+              <type id="151">Entity</type>
+              <title>Fenwick's Stone Building (Building)</title>
+              <added>2011-07-28 15:54:36</added>
+              <modified>2011-08-04 09:09:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Fenwick's Stone Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone store thought to have been built between 1888 and 1896 when it first appeared on a map. It is adjacent to Darling Street wharf at 2-8 Weston Street Balmain.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.leichhardt.nsw.gov.au/IgnitionSuite/uploads/docs/2%20-%208%20Weston%20Street%20Conservation%20Management%20Plan.pdf</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>59271</id>
+              <type id="98">XML Document</type>
+              <title>Tugboats</title>
+              <added>2011-07-14 15:09:08</added>
+              <modified>2012-02-14 14:39:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7352</id>
+                  <nonce>c7372e551afa1f38423c1cb2fa615360ae35eacb</nonce>
+                  <origName>Tugboats.xml</origName>
+                  <type>application/xml</type>
+                  <size>106 kb</size>
+                  <date>2012-02-14 14:39:26</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Tugboats.xml?file_id=c7372e551afa1f38423c1cb2fa615360ae35eacb</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c7372e551afa1f38423c1cb2fa615360ae35eacb</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Tugboats</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Indispensable in keeping Sydney's maritime trade moving, tugboats and their operators have provided towage on Sydney Harbour since 1831.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-14</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>14</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3150</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">59266</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Fenwick's Stone Building</detail>
+          <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">58</detail>
+          <detail id="330" type="End Word" name="End Word">59</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>59955</id>
+          <type id="150">Factoid</type>
+          <title>Fenwick's Stone Building, Type, Warehouse or Bond store</title>
+          <added>2011-07-28 15:55:28</added>
+          <modified>2011-07-28 15:55:28</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59954</id>
+              <type id="151">Entity</type>
+              <title>Fenwick's Stone Building (Building)</title>
+              <added>2011-07-28 15:54:36</added>
+              <modified>2011-08-04 09:09:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Fenwick's Stone Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone store thought to have been built between 1888 and 1896 when it first appeared on a map. It is adjacent to Darling Street wharf at 2-8 Weston Street Balmain.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.leichhardt.nsw.gov.au/IgnitionSuite/uploads/docs/2%20-%208%20Weston%20Street%20Conservation%20Management%20Plan.pdf</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7129</id>
+              <type id="91">Role</type>
+              <title>Warehouse or bond store</title>
+              <added>2009-06-10 15:56:36</added>
+              <modified>2012-05-30 11:19:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warehouse or bond store</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>59956</id>
+          <type id="150">Factoid</type>
+          <title>Fenwick's Stone Building, TimePlace</title>
+          <added>2011-07-28 15:56:55</added>
+          <modified>2011-07-28 15:56:55</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59954</id>
+              <type id="151">Entity</type>
+              <title>Fenwick's Stone Building (Building)</title>
+              <added>2011-07-28 15:54:36</added>
+              <modified>2011-08-04 09:09:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Fenwick's Stone Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone store thought to have been built between 1888 and 1896 when it first appeared on a map. It is adjacent to Darling Street wharf at 2-8 Weston Street Balmain.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.leichhardt.nsw.gov.au/IgnitionSuite/uploads/docs/2%20-%208%20Weston%20Street%20Conservation%20Management%20Plan.pdf</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.19560593364 -33.857399745335)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>59957</id>
+          <type id="150">Factoid</type>
+          <title>Fenwick, John, Property, Owned, Fenwick's Stone Building</title>
+          <added>2011-07-28 15:57:38</added>
+          <modified>2011-08-04 09:05:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59912</id>
+              <type id="151">Entity</type>
+              <title>Fenwick, John (Person)</title>
+              <added>2011-07-28 14:46:45</added>
+              <modified>2011-07-28 14:46:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Fenwick, John</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Operator and partner of towage company with his brother Thomas. He retained the Sydney branch of the business when the partnership dissolved in 1883.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>59954</id>
+              <type id="151">Entity</type>
+              <title>Fenwick's Stone Building (Building)</title>
+              <added>2011-07-28 15:54:36</added>
+              <modified>2011-08-04 09:09:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Fenwick's Stone Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sandstone store thought to have been built between 1888 and 1896 when it first appeared on a map. It is adjacent to Darling Street wharf at 2-8 Weston Street Balmain.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.leichhardt.nsw.gov.au/IgnitionSuite/uploads/docs/2%20-%208%20Weston%20Street%20Conservation%20Management%20Plan.pdf</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1883</raw>
+            <year>1883</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1901</raw>
+            <year>1901</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

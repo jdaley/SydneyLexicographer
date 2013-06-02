@@ -1,0 +1,1595 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:9100" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:21:21+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>9100</id>
+      <type id="151">Entity</type>
+      <title>Yasmar house (Building)</title>
+      <added>2009-06-10 15:58:56</added>
+      <modified>2011-09-22 16:29:12</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>27139</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Yasmar</title>
+          <added>2009-10-01 09:33:45</added>
+          <modified>2009-10-01 09:33:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Yasmar</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>368</id>
+              <type id="98">XML Document</type>
+              <title>Haberfield</title>
+              <added>2008-10-22 13:12:05</added>
+              <modified>2009-10-29 14:23:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>248</id>
+                  <nonce>34d7e9a4cd652294771ba7eb2182dc08f553191a</nonce>
+                  <origName>Haberfield.xml</origName>
+                  <type>application/xml</type>
+                  <size>52.2 kb</size>
+                  <date>2008-11-17 14:28:31</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Haberfield.xml?file_id=34d7e9a4cd652294771ba7eb2182dc08f553191a</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=34d7e9a4cd652294771ba7eb2182dc08f553191a</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Haberfield</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Australia's first 'model suburb', from 1901 Haberfield was to help define how Australians sought to house themselves. It is now also a hub of Sydney's Italian community.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2482</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">121</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">94</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>9101</id>
+          <type id="150">Factoid</type>
+          <title>Yasmar house, Type, House</title>
+          <added>2009-06-10 15:58:56</added>
+          <modified>2009-06-10 15:58:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>63902</id>
+          <type id="150">Factoid</type>
+          <title>Yasmar house, Milestone, Constructed</title>
+          <added>2011-09-21 13:26:30</added>
+          <modified>2011-09-21 13:33:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1856</raw>
+            <year>1856</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1858</raw>
+            <year>1858</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>63903</id>
+          <type id="150">Factoid</type>
+          <title>Bibb, John, Position, Architect, Yasmar house</title>
+          <added>2011-09-21 13:27:31</added>
+          <modified>2011-09-21 13:51:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13008</id>
+              <type id="151">Entity</type>
+              <title>Bibb, John (Person)</title>
+              <added>2009-06-10 16:04:08</added>
+              <modified>2009-10-15 10:52:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Bibb, John</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Leading architect and committee member of Sydney Mechanics' School of Arts.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1856</raw>
+            <year>1856</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1858</raw>
+            <year>1858</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>63932</id>
+          <type id="150">Factoid</type>
+          <title>Learmonth, Alexander, Property, Owned, Yasmar house</title>
+          <added>2011-09-21 15:03:38</added>
+          <modified>2011-09-21 15:03:38</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14001</id>
+              <type id="151">Entity</type>
+              <title>Learmonth, Alexander (Person)</title>
+              <added>2009-06-10 16:04:15</added>
+              <modified>2011-11-25 14:39:28</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Learmonth, Alexander</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Landowner in what was later Haberfield.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1856</raw>
+            <year>1856</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1877</raw>
+            <year>1877</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>64109</id>
+          <type id="150">Factoid</type>
+          <title>Grace, Joseph Neal, Property, Owned, Yasmar house</title>
+          <added>2011-09-22 15:00:27</added>
+          <modified>2012-08-18 09:34:41</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13665</id>
+              <type id="151">Entity</type>
+              <title>Grace, Joseph Neal (Person)</title>
+              <added>2009-06-10 16:04:13</added>
+              <modified>2011-06-10 14:56:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Grace, Joseph Neal</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopkeeper who progressed from hawking his goods by horse and cart, to establishing with his brother Albert, Grace Brothers department store.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1904</raw>
+            <year>1904</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1911</raw>
+            <year>1911</year>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">http://www.vanessamcalexander.com/yasmar-estate-1856.html</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>64116</id>
+          <type id="150">Factoid</type>
+          <title>Learmonth, Mary Louisa, Property, Owned, Yasmar house</title>
+          <added>2011-09-22 15:11:00</added>
+          <modified>2011-09-22 15:11:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64111</id>
+              <type id="151">Entity</type>
+              <title>Learmonth, Mary Louisa (Person)</title>
+              <added>2011-09-22 15:06:12</added>
+              <modified>2011-09-22 15:30:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Learmonth, Mary Louisa</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church worker and superintendent of the school established at St David's church on the family estate Yasmar at Haberfield.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Female</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1877</raw>
+            <year>1877</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1900</raw>
+            <year>1900</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>64123</id>
+          <type id="150">Factoid</type>
+          <title>Grace, Gypsy, Property, Owned, Yasmar house</title>
+          <added>2011-09-22 15:23:55</added>
+          <modified>2011-09-22 15:45:06</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>64119</id>
+              <type id="151">Entity</type>
+              <title>Grace, Gypsy (Person)</title>
+              <added>2011-09-22 15:19:02</added>
+              <modified>2011-09-22 16:50:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Grace, Gypsy</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Superintendent of Presbyterian Ladies College, Shubra Hall, Croydon.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Female</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.heritage.nsw.gov.au/07_subnav_04_2.cfm?itemid=5045179</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1911</raw>
+            <year>1911</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1940</raw>
+            <year>1940</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>64130</id>
+          <type id="150">Factoid</type>
+          <title>Yasmar house, TimePlace</title>
+          <added>2011-09-22 16:30:18</added>
+          <modified>2011-09-22 16:30:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.13403913378 -33.880539067936)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>9102</id>
+          <type id="52">Record relationship</type>
+          <title>(660 isAbout 9100)</title>
+          <added>2009-06-10 15:58:56</added>
+          <modified>2009-06-10 15:58:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>660</id>
+              <type id="98">XML Document</type>
+              <title>Yasmar</title>
+              <added>2008-10-22 13:12:52</added>
+              <modified>2011-10-27 14:39:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5274</id>
+                  <nonce>acf380dfd9437b3fe2d10ec0227e6e5492a57075</nonce>
+                  <origName>Yasmar.xml</origName>
+                  <type>application/xml</type>
+                  <size>123.7 kb</size>
+                  <date>2011-10-27 10:02:27</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Yasmar.xml?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Yasmar</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Yasmar is a rare surviving example of a mid-nineteenth century great house and garden. The estate had only three owners before it was transferred to government control during World War II, and has been empty since 1994.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2855</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>121</id>
+                  <type id="153">Contributor</type>
+                  <title>Sue Jackson-Stepowski</title>
+                  <added>2008-10-22 12:49:03</added>
+                  <modified>2009-10-20 14:40:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Sue Jackson-Stepowski</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Susan Jackson-Stepowski is a Sydney heritage consultant and secretary of Australia ICOMOS</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">author</detail>
+                </record>
+              </detail>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24300</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lyndhurst</title>
+                  <added>2009-09-02 14:16:00</added>
+                  <modified>2009-09-02 14:16:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+                  <detail id="199" type="Resource" name="target">8510</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">16</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24302</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Willandra</title>
+                  <added>2009-09-02 14:16:29</added>
+                  <modified>2009-09-02 14:16:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Willandra</detail>
+                  <detail id="199" type="Resource" name="target">9081</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">18</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24304</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Cumberland Plain</title>
+                  <added>2009-09-02 14:16:48</added>
+                  <modified>2009-09-02 14:16:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Cumberland Plain</detail>
+                  <detail id="199" type="Resource" name="target">9513</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">31</detail>
+                  <detail id="330" type="End Word" name="End Word">32</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24306</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Elizabeth Farm House</title>
+                  <added>2009-09-02 14:17:25</added>
+                  <modified>2009-09-02 14:17:25</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Elizabeth Farm House</detail>
+                  <detail id="199" type="Resource" name="target">8236</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">43</detail>
+                  <detail id="330" type="End Word" name="End Word">44</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24308</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Bayly, Nicholas</title>
+                  <added>2009-09-02 14:17:45</added>
+                  <modified>2009-09-02 14:17:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Bayly, Nicholas</detail>
+                  <detail id="199" type="Resource" name="target">12970</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">20</detail>
+                  <detail id="330" type="End Word" name="End Word">21</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24309</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Summer Hill</title>
+                  <added>2009-09-02 14:18:05</added>
+                  <modified>2009-09-02 14:18:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Summer Hill</detail>
+                  <detail id="199" type="Resource" name="target">17633</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">48</detail>
+                  <detail id="330" type="End Word" name="End Word">49</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24310</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ashfield local government area</title>
+                  <added>2009-09-02 14:18:39</added>
+                  <modified>2010-11-01 15:43:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="199" type="Resource" name="target">43018</detail>
+                  <detail id="160" type="Title" name="dc.title">Ashfield local government area</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">61</detail>
+                  <detail id="330" type="End Word" name="End Word">62</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24311</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lord, Simeon</title>
+                  <added>2009-09-02 14:18:56</added>
+                  <modified>2009-09-02 14:18:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lord, Simeon</detail>
+                  <detail id="199" type="Resource" name="target">14069</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">96</detail>
+                  <detail id="330" type="End Word" name="End Word">97</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24314</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ramsay, David</title>
+                  <added>2009-09-02 14:20:02</added>
+                  <modified>2009-09-02 14:20:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ramsay, David</detail>
+                  <detail id="199" type="Resource" name="target">14468</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">44</detail>
+                  <detail id="330" type="End Word" name="End Word">45</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24315</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Learmonth, Alexander</title>
+                  <added>2009-09-02 14:21:18</added>
+                  <modified>2011-09-21 14:58:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="160" type="Title" name="dc.title">Learmonth, Alexander</detail>
+                  <detail id="199" type="Resource" name="target">14001</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">102</detail>
+                  <detail id="330" type="End Word" name="End Word">103</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24316</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Bibb, John</title>
+                  <added>2009-09-02 14:21:52</added>
+                  <modified>2009-09-02 14:21:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Bibb, John</detail>
+                  <detail id="199" type="Resource" name="target">13008</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">28</detail>
+                  <detail id="330" type="End Word" name="End Word">29</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24317</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Verge, John</title>
+                  <added>2009-09-02 14:22:14</added>
+                  <modified>2009-09-02 14:22:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Verge, John</detail>
+                  <detail id="199" type="Resource" name="target">14851</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">70</detail>
+                  <detail id="330" type="End Word" name="End Word">71</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24318</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Elizabeth Bay House</title>
+                  <added>2009-09-02 14:22:34</added>
+                  <modified>2009-09-02 14:22:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Elizabeth Bay House</detail>
+                  <detail id="199" type="Resource" name="target">8234</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">75</detail>
+                  <detail id="330" type="End Word" name="End Word">77</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24319</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Tempe House</title>
+                  <added>2009-09-02 14:22:54</added>
+                  <modified>2009-09-02 14:22:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Tempe House</detail>
+                  <detail id="199" type="Resource" name="target">8975</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">80</detail>
+                  <detail id="330" type="End Word" name="End Word">81</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24320</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lang, John Dunmore</title>
+                  <added>2009-09-02 14:24:11</added>
+                  <modified>2009-09-02 14:24:11</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lang, John Dunmore</detail>
+                  <detail id="199" type="Resource" name="target">13979</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">26</detail>
+                  <detail id="330" type="End Word" name="End Word">28</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24322</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dobroyde House</title>
+                  <added>2009-09-02 14:25:15</added>
+                  <modified>2011-09-21 14:42:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="160" type="Title" name="dc.title">Dobroyde House</detail>
+                  <detail id="199" type="Resource" name="target">8217</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">36</detail>
+                  <detail id="330" type="End Word" name="End Word">37</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24323</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>St David's Uniting church Haberfield</title>
+                  <added>2009-09-02 14:26:42</added>
+                  <modified>2009-09-02 14:26:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St David's Uniting church Haberfield</detail>
+                  <detail id="199" type="Resource" name="target">8830</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">70</detail>
+                  <detail id="330" type="End Word" name="End Word">73</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24324</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Haberfield Public School</title>
+                  <added>2009-09-02 14:27:06</added>
+                  <modified>2009-09-02 14:27:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Haberfield Public School</detail>
+                  <detail id="199" type="Resource" name="target">11143</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">93</detail>
+                  <detail id="330" type="End Word" name="End Word">95</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24325</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Iron Cove Creek</title>
+                  <added>2009-09-02 14:32:58</added>
+                  <modified>2009-09-02 14:32:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Iron Cove Creek</detail>
+                  <detail id="199" type="Resource" name="target">9634</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">83</detail>
+                  <detail id="330" type="End Word" name="End Word">85</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24326</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Hawthorne Canal</title>
+                  <added>2009-09-02 14:33:22</added>
+                  <modified>2009-09-02 14:33:22</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Hawthorne Canal</detail>
+                  <detail id="199" type="Resource" name="target">18186</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">87</detail>
+                  <detail id="330" type="End Word" name="End Word">88</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24328</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ramsay, Edward Pierson</title>
+                  <added>2009-09-02 14:35:04</added>
+                  <modified>2009-09-02 14:35:04</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ramsay, Edward Pierson</detail>
+                  <detail id="199" type="Resource" name="target">14469</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">19</detail>
+                  <detail id="330" type="End Word" name="End Word">21</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24329</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Linnean Society of New South Wales</title>
+                  <added>2009-09-02 14:35:52</added>
+                  <modified>2009-09-02 14:35:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Linnean Society of New South Wales</detail>
+                  <detail id="199" type="Resource" name="target">11472</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">29</detail>
+                  <detail id="330" type="End Word" name="End Word">34</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24330</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Macleay, William John</title>
+                  <added>2009-09-02 14:38:20</added>
+                  <modified>2009-09-02 14:38:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Macleay, William John</detail>
+                  <detail id="199" type="Resource" name="target">14102</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">40</detail>
+                  <detail id="330" type="End Word" name="End Word">41</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24331</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Australian Museum</title>
+                  <added>2009-09-02 14:39:00</added>
+                  <modified>2009-09-02 14:39:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Australian Museum</detail>
+                  <detail id="199" type="Resource" name="target">10251</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">178</detail>
+                  <detail id="330" type="End Word" name="End Word">179</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24332</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Entomological Society of New South Wales</title>
+                  <added>2009-09-02 14:39:23</added>
+                  <modified>2009-09-02 14:39:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Entomological Society of New South Wales</detail>
+                  <detail id="199" type="Resource" name="target">10953</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">185</detail>
+                  <detail id="330" type="End Word" name="End Word">190</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24333</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dalhousie House</title>
+                  <added>2009-09-02 14:39:48</added>
+                  <modified>2009-09-02 14:39:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dalhousie House</detail>
+                  <detail id="199" type="Resource" name="target">8190</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">193</detail>
+                  <detail id="330" type="End Word" name="End Word">194</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24334</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dobroyd Point Public School</title>
+                  <added>2009-09-02 14:40:12</added>
+                  <modified>2009-09-02 14:40:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dobroyd Point Public School</detail>
+                  <detail id="199" type="Resource" name="target">10877</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">205</detail>
+                  <detail id="330" type="End Word" name="End Word">208</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24335</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Grace, Joseph Neal</title>
+                  <added>2009-09-02 14:45:16</added>
+                  <modified>2009-09-02 14:45:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Grace, Joseph Neal</detail>
+                  <detail id="199" type="Resource" name="target">13665</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">7,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">11</detail>
+                  <detail id="330" type="End Word" name="End Word">13</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24336</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Grace Brothers</title>
+                  <added>2009-09-02 14:45:50</added>
+                  <modified>2009-09-02 14:45:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Grace Brothers</detail>
+                  <detail id="199" type="Resource" name="target">11120</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">7,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">18</detail>
+                  <detail id="330" type="End Word" name="End Word">19</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24337</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Sunning Hill Education and Training Unit</title>
+                  <added>2009-09-02 14:48:22</added>
+                  <modified>2009-09-02 14:48:22</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Sunning Hill Education and Training Unit</detail>
+                  <detail id="199" type="Resource" name="target">12380</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">7,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">96</detail>
+                  <detail id="330" type="End Word" name="End Word">101</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>24338</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Australian Institute of Architects New South Wales Chapter</title>
+                  <added>2009-09-02 14:49:46</added>
+                  <modified>2010-10-29 13:59:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="160" type="Title" name="dc.title">Australian Institute of Architects New South Wales Chapter</detail>
+                  <detail id="199" type="Resource" name="target">10228</detail>
+                  <detail id="539" type="Start Element" name="Start Element">7,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">141</detail>
+                  <detail id="330" type="End Word" name="End Word">145</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>39392</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ficus macrophylla</title>
+                  <added>2010-05-31 15:28:54</added>
+                  <modified>2010-05-31 15:28:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ficus macrophylla</detail>
+                  <detail id="199" type="Resource" name="target">9557</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="330" type="End Word" name="End Word">2</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>48282</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Araucaria bidwillii</title>
+                  <added>2010-12-13 16:24:45</added>
+                  <modified>2010-12-13 16:24:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Araucaria bidwillii</detail>
+                  <detail id="199" type="Resource" name="target">9390</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,3,2</detail>
+                  <detail id="540" type="End Element" name="End Element">6,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="330" type="End Word" name="End Word">144</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>64112</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Learmonth, Mary Louisa</title>
+                  <added>2011-09-22 15:06:34</added>
+                  <modified>2011-09-22 15:06:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Learmonth, Mary Louisa</detail>
+                  <detail id="199" type="Resource" name="target">64111</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">95</detail>
+                  <detail id="330" type="End Word" name="End Word">96</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>64120</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Grace, Gypsy</title>
+                  <added>2011-09-22 15:19:13</added>
+                  <modified>2011-09-22 15:19:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Grace, Gypsy</detail>
+                  <detail id="199" type="Resource" name="target">64119</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">7,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">51</detail>
+                  <detail id="330" type="End Word" name="End Word">53</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>80005</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dobroyde Estate</title>
+                  <added>2012-08-18 08:30:55</added>
+                  <modified>2012-08-18 08:30:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dobroyde Estate</detail>
+                  <detail id="199" type="Resource" name="target">15864</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">102</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>80010</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ramsay, Sarah Ann</title>
+                  <added>2012-08-18 08:41:52</added>
+                  <modified>2012-08-18 08:41:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ramsay, Sarah Ann</detail>
+                  <detail id="199" type="Resource" name="target">80009</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">33</detail>
+                  <detail id="330" type="End Word" name="End Word">34</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>80017</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Camellia Grove Nursery</title>
+                  <added>2012-08-18 08:57:45</added>
+                  <modified>2012-08-18 08:57:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Camellia Grove Nursery</detail>
+                  <detail id="199" type="Resource" name="target">10494</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">116</detail>
+                  <detail id="330" type="End Word" name="End Word">117</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>80020</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dobroyde Gardens Nursery</title>
+                  <added>2012-08-18 09:10:12</added>
+                  <modified>2012-08-18 09:10:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dobroyde Gardens Nursery</detail>
+                  <detail id="199" type="Resource" name="target">80019</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">660</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">79</detail>
+                  <detail id="330" type="End Word" name="End Word">81</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>9102</id>
+                  <type id="52">Record relationship</type>
+                  <title>(660 isAbout 9100)</title>
+                  <added>2009-06-10 15:58:56</added>
+                  <modified>2009-06-10 15:58:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>660</id>
+                      <type id="98">XML Document</type>
+                      <title>Yasmar</title>
+                      <added>2008-10-22 13:12:52</added>
+                      <modified>2011-10-27 14:39:30</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>5274</id>
+                          <nonce>acf380dfd9437b3fe2d10ec0227e6e5492a57075</nonce>
+                          <origName>Yasmar.xml</origName>
+                          <type>application/xml</type>
+                          <size>123.7 kb</size>
+                          <date>2011-10-27 10:02:27</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Yasmar.xml?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Yasmar</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Yasmar is a rare surviving example of a mid-nineteenth century great house and garden. The estate had only three owners before it was transferred to government control during World War II, and has been empty since 1994.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2855</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">121</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>9100</id>
+                      <type id="151">Entity</type>
+                      <title>Yasmar house (Building)</title>
+                      <added>2009-06-10 15:58:56</added>
+                      <modified>2011-09-22 16:29:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>50690</id>
+                  <type id="52">Record relationship</type>
+                  <title>(660 isAbout 15861)</title>
+                  <added>2011-02-04 14:22:02</added>
+                  <modified>2011-02-04 14:22:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>660</id>
+                      <type id="98">XML Document</type>
+                      <title>Yasmar</title>
+                      <added>2008-10-22 13:12:52</added>
+                      <modified>2011-10-27 14:39:30</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>5274</id>
+                          <nonce>acf380dfd9437b3fe2d10ec0227e6e5492a57075</nonce>
+                          <origName>Yasmar.xml</origName>
+                          <type>application/xml</type>
+                          <size>123.7 kb</size>
+                          <date>2011-10-27 10:02:27</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Yasmar.xml?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Yasmar</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Yasmar is a rare surviving example of a mid-nineteenth century great house and garden. The estate had only three owners before it was transferred to government control during World War II, and has been empty since 1994.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2855</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">121</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>15861</id>
+                      <type id="151">Entity</type>
+                      <title>Yasmar estate (Place)</title>
+                      <added>2009-06-10 16:07:17</added>
+                      <modified>2011-09-22 16:14:10</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Yasmar estate</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The only relatively intact villa house estate remaining on Parramatta Road at Haberfield. It was formed when 46 acres of Dobroyde Estate were transferred to Alexander and Mary Louisa Learmonth on their marriage.  The name is the reverse spelling of Ramsay.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Ramsay's Bush |</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>9100</id>
+              <type id="151">Entity</type>
+              <title>Yasmar house (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-09-22 16:29:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>27139</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Yasmar</title>
+                  <added>2009-10-01 09:33:45</added>
+                  <modified>2009-10-01 09:33:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Yasmar</detail>
+                  <detail id="199" type="Resource" name="target">9100</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">368</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">94</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>9101</id>
+                  <type id="150">Factoid</type>
+                  <title>Yasmar house, Type, House</title>
+                  <added>2009-06-10 15:58:56</added>
+                  <modified>2009-06-10 15:58:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9100</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6978</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>63902</id>
+                  <type id="150">Factoid</type>
+                  <title>Yasmar house, Milestone, Constructed</title>
+                  <added>2011-09-21 13:26:30</added>
+                  <modified>2011-09-21 13:33:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9100</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1856</raw>
+                    <year>1856</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1858</raw>
+                    <year>1858</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>63903</id>
+                  <type id="150">Factoid</type>
+                  <title>Bibb, John, Position, Architect, Yasmar house</title>
+                  <added>2011-09-21 13:27:31</added>
+                  <modified>2011-09-21 13:51:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13008</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">9100</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1856</raw>
+                    <year>1856</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1858</raw>
+                    <year>1858</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>63932</id>
+                  <type id="150">Factoid</type>
+                  <title>Learmonth, Alexander, Property, Owned, Yasmar house</title>
+                  <added>2011-09-21 15:03:38</added>
+                  <modified>2011-09-21 15:03:38</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">14001</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">9100</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1856</raw>
+                    <year>1856</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1877</raw>
+                    <year>1877</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>64109</id>
+                  <type id="150">Factoid</type>
+                  <title>Grace, Joseph Neal, Property, Owned, Yasmar house</title>
+                  <added>2011-09-22 15:00:27</added>
+                  <modified>2012-08-18 09:34:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13665</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">9100</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1904</raw>
+                    <year>1904</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1911</raw>
+                    <year>1911</year>
+                  </detail>
+                  <detail id="303" type="Short summary" name="dos.notes">http://www.vanessamcalexander.com/yasmar-estate-1856.html</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>64116</id>
+                  <type id="150">Factoid</type>
+                  <title>Learmonth, Mary Louisa, Property, Owned, Yasmar house</title>
+                  <added>2011-09-22 15:11:00</added>
+                  <modified>2011-09-22 15:11:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">64111</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">9100</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1877</raw>
+                    <year>1877</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1900</raw>
+                    <year>1900</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>64123</id>
+                  <type id="150">Factoid</type>
+                  <title>Grace, Gypsy, Property, Owned, Yasmar house</title>
+                  <added>2011-09-22 15:23:55</added>
+                  <modified>2011-09-22 15:45:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">64119</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">9100</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1911</raw>
+                    <year>1911</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1940</raw>
+                    <year>1940</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>64130</id>
+                  <type id="150">Factoid</type>
+                  <title>Yasmar house, TimePlace</title>
+                  <added>2011-09-22 16:30:18</added>
+                  <modified>2011-09-22 16:30:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">9100</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.13403913378 -33.880539067936)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>9102</id>
+                  <type id="52">Record relationship</type>
+                  <title>(660 isAbout 9100)</title>
+                  <added>2009-06-10 15:58:56</added>
+                  <modified>2009-06-10 15:58:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>660</id>
+                      <type id="98">XML Document</type>
+                      <title>Yasmar</title>
+                      <added>2008-10-22 13:12:52</added>
+                      <modified>2011-10-27 14:39:30</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>5274</id>
+                          <nonce>acf380dfd9437b3fe2d10ec0227e6e5492a57075</nonce>
+                          <origName>Yasmar.xml</origName>
+                          <type>application/xml</type>
+                          <size>123.7 kb</size>
+                          <date>2011-10-27 10:02:27</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Yasmar.xml?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Yasmar</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Yasmar is a rare surviving example of a mid-nineteenth century great house and garden. The estate had only three owners before it was transferred to government control during World War II, and has been empty since 1994.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2855</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">121</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>9100</id>
+                      <type id="151">Entity</type>
+                      <title>Yasmar house (Building)</title>
+                      <added>2009-06-10 15:58:56</added>
+                      <modified>2011-09-22 16:29:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Yasmar house</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Grand nineteenth-century house still standing in Haberfield. Situated at 185 Parramatta Road it has variously been a home, army quarters and remand centre.</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:40603" w="a" depth="2" />
+  <dateStamp>2013-02-16T23:23:14+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>40603</id>
+      <type id="151">Entity</type>
+      <title>North Sydney Town Hall (Building)</title>
+      <added>2010-07-08 09:01:05</added>
+      <modified>2010-07-08 09:01:05</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">North Sydney Town Hall</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Council chambers opened in July 1926, and remodelled in 1938, and again in 1976 after a fire.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>40604</id>
+          <type id="99">TEI Document Reference</type>
+          <title>North Sydney Town Hall</title>
+          <added>2010-07-08 09:01:19</added>
+          <modified>2010-07-08 09:01:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">North Sydney Town Hall</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>40603</id>
+              <type id="151">Entity</type>
+              <title>North Sydney Town Hall (Building)</title>
+              <added>2010-07-08 09:01:05</added>
+              <modified>2010-07-08 09:01:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">North Sydney Town Hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Council chambers opened in July 1926, and remodelled in 1938, and again in 1976 after a fire.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>39532</id>
+              <type id="98">XML Document</type>
+              <title>North Sydney</title>
+              <added>2010-06-17 12:18:03</added>
+              <modified>2010-07-22 10:49:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3635</id>
+                  <nonce>5ea86df6ac5fe923e97a564fedeef5be171e3707</nonce>
+                  <origName>North+Sydney.xml</origName>
+                  <type>application/xml</type>
+                  <size>65.1 kb</size>
+                  <date>2010-07-22 10:49:11</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/North%2BSydney.xml?file_id=5ea86df6ac5fe923e97a564fedeef5be171e3707</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5ea86df6ac5fe923e97a564fedeef5be171e3707</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">North Sydney</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Part of Cammeraygal country, North Sydney was established by the 1840s as a township on the northern shore of the harbour. It became popular with professionals and skilled tradespeople, developing as a commercial centre for the north shore. Postwar development transformed the central business district with high rise and the loss of many nineteenth-century buildings.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-06-17</raw>
+                <year>2010</year>
+                <month>6</month>
+                <day>17</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1623</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">74</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">42</detail>
+          <detail id="330" type="End Word" name="End Word">43</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>40605</id>
+          <type id="150">Factoid</type>
+          <title>North Sydney Town Hall, Type, Town Hall</title>
+          <added>2010-07-08 09:02:09</added>
+          <modified>2011-11-25 09:20:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>40603</id>
+              <type id="151">Entity</type>
+              <title>North Sydney Town Hall (Building)</title>
+              <added>2010-07-08 09:01:05</added>
+              <modified>2010-07-08 09:01:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">North Sydney Town Hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Council chambers opened in July 1926, and remodelled in 1938, and again in 1976 after a fire.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7115</id>
+              <type id="91">Role</type>
+              <title>Town hall</title>
+              <added>2009-06-10 15:56:34</added>
+              <modified>2012-05-30 11:23:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Town hall</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

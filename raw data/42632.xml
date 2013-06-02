@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:42632" w="a" depth="2" />
+  <dateStamp>2013-02-16T23:53:06+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>42632</id>
+      <type id="151">Entity</type>
+      <title>Cell Block Theatre (Building)</title>
+      <added>2010-09-02 12:16:21</added>
+      <modified>2010-11-12 14:24:43</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Cell Block Theatre</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Theatre established in 1958 within the National Art School.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>43924</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Cell Block Theatre, 1960s</title>
+          <added>2010-09-22 14:25:59</added>
+          <modified>2011-05-20 23:35:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2010-09-22</raw>
+            <year>2010</year>
+            <month>9</month>
+            <day>22</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Cell Block Theatre, 1960s</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1960</raw>
+            <year>1960</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1969</raw>
+            <year>1969</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="290" type="Rights statement/URL" name="contributor.caption">NAS Archives</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>43032</id>
+              <type id="153">Contributor</type>
+              <title>National Art School</title>
+              <added>2010-09-13 08:41:47</added>
+              <modified>2010-09-13 08:41:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">National Art School</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="191" type="Extended description" name="dc.description">The National Art School is an independent higher education institution with a long and distinguished history as a major art school in Australia.</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.nas.edu.au/</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 11882\nP-Related: National Art School - dc.source:</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>3899</id>
+              <nonce>7df14651352ce9cabb409b75df592c01727d724a</nonce>
+              <origName>9.Cell Block Theatre 1960s.jpg</origName>
+              <type>image/jpeg</type>
+              <size>658.8 kb</size>
+              <date>2010-09-22 14:25:59</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/9.Cell+Block+Theatre+1960s.jpg?file_id=7df14651352ce9cabb409b75df592c01727d724a</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7df14651352ce9cabb409b75df592c01727d724a</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="199" type="Resource" name="target">
+            <record>
+              <id>42661</id>
+              <type id="99">TEI Document Reference</type>
+              <title>The</title>
+              <added>2010-09-02 13:25:09</added>
+              <modified>2011-11-25 16:00:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The</detail>
+              <detail id="191" type="Extended description" name="caption">With its dramatic shafts of natural light, the impressive Cell Block Theatre has been a multi-use space since it was converted in the 1950s. Clearly visible are the three levels and cell windows of the original gaol.</detail>
+              <detail id="199" type="Resource" name="target">43924</detail>
+              <detail id="322" type="TEI Document Reference" name="annotates">42525</detail>
+              <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+              <detail id="329" type="Start Word" name="Start Word">69</detail>
+              <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+              <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+            </record>
+          </reversePointer>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>42632</id>
+              <type id="151">Entity</type>
+              <title>Cell Block Theatre (Building)</title>
+              <added>2010-09-02 12:16:21</added>
+              <modified>2010-11-12 14:24:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Cell Block Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre established in 1958 within the National Art School.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43924</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>43925</id>
+              <type id="52">Record relationship</type>
+              <title>(43924 isOf 38208)</title>
+              <added>2010-09-22 14:25:59</added>
+              <modified>2010-09-22 14:25:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>43924</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Cell Block Theatre, 1960s</title>
+                  <added>2010-09-22 14:25:59</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Cell Block Theatre, 1960s</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1960</raw>
+                    <year>1960</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1969</raw>
+                    <year>1969</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">NAS Archives</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">43032</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11882\nP-Related: National Art School - dc.source:</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3899</id>
+                      <nonce>7df14651352ce9cabb409b75df592c01727d724a</nonce>
+                      <origName>9.Cell Block Theatre 1960s.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>658.8 kb</size>
+                      <date>2010-09-22 14:25:59</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/9.Cell+Block+Theatre+1960s.jpg?file_id=7df14651352ce9cabb409b75df592c01727d724a</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7df14651352ce9cabb409b75df592c01727d724a</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>38208</id>
+                  <type id="151">Entity</type>
+                  <title>National Art School (Organisation)</title>
+                  <added>2010-02-04 15:48:02</added>
+                  <modified>2010-08-17 13:19:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">National Art School</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Art college that grew out of the drawing and art classes of the Technical and Working Men's College and has nurtured some of Sydney's most famous artists.</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>79669</id>
+              <type id="52">Record relationship</type>
+              <title>(43924 hasSubject 5928)</title>
+              <added>2012-08-14 13:16:44</added>
+              <modified>2012-08-14 13:16:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>43924</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Cell Block Theatre, 1960s</title>
+                  <added>2010-09-22 14:25:59</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Cell Block Theatre, 1960s</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1960</raw>
+                    <year>1960</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1969</raw>
+                    <year>1969</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">NAS Archives</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">43032</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11882\nP-Related: National Art School - dc.source:</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3899</id>
+                      <nonce>7df14651352ce9cabb409b75df592c01727d724a</nonce>
+                      <origName>9.Cell Block Theatre 1960s.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>658.8 kb</size>
+                      <date>2010-09-22 14:25:59</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/9.Cell+Block+Theatre+1960s.jpg?file_id=7df14651352ce9cabb409b75df592c01727d724a</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7df14651352ce9cabb409b75df592c01727d724a</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5928</id>
+                  <type id="152">Term</type>
+                  <title>Theatre</title>
+                  <added>2009-05-25 14:56:24</added>
+                  <modified>2012-07-31 12:54:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Theatre</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>79670</id>
+              <type id="52">Record relationship</type>
+              <title>(43924 hasSubject 6166)</title>
+              <added>2012-08-14 13:17:25</added>
+              <modified>2012-08-14 13:17:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>43924</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Cell Block Theatre, 1960s</title>
+                  <added>2010-09-22 14:25:59</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Cell Block Theatre, 1960s</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1960</raw>
+                    <year>1960</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1969</raw>
+                    <year>1969</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">NAS Archives</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">43032</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11882\nP-Related: National Art School - dc.source:</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3899</id>
+                      <nonce>7df14651352ce9cabb409b75df592c01727d724a</nonce>
+                      <origName>9.Cell Block Theatre 1960s.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>658.8 kb</size>
+                      <date>2010-09-22 14:25:59</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/9.Cell+Block+Theatre+1960s.jpg?file_id=7df14651352ce9cabb409b75df592c01727d724a</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7df14651352ce9cabb409b75df592c01727d724a</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6166</id>
+                  <type id="152">Term</type>
+                  <title>Prisons</title>
+                  <added>2009-05-25 14:56:51</added>
+                  <modified>2009-05-25 14:56:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Prisons</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>87168</id>
+              <type id="52">Record relationship</type>
+              <title>(43924 hasSubject 5790)</title>
+              <added>2012-12-21 12:20:18</added>
+              <modified>2012-12-21 12:20:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>43924</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Cell Block Theatre, 1960s</title>
+                  <added>2010-09-22 14:25:59</added>
+                  <modified>2011-05-20 23:35:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Cell Block Theatre, 1960s</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1960</raw>
+                    <year>1960</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1969</raw>
+                    <year>1969</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">NAS Archives</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">43032</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11882\nP-Related: National Art School - dc.source:</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3899</id>
+                      <nonce>7df14651352ce9cabb409b75df592c01727d724a</nonce>
+                      <origName>9.Cell Block Theatre 1960s.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>658.8 kb</size>
+                      <date>2010-09-22 14:25:59</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/9.Cell+Block+Theatre+1960s.jpg?file_id=7df14651352ce9cabb409b75df592c01727d724a</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7df14651352ce9cabb409b75df592c01727d724a</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5790</id>
+                  <type id="152">Term</type>
+                  <title>Adaptive reuse</title>
+                  <added>2009-05-25 14:56:08</added>
+                  <modified>2009-05-25 14:56:08</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Adaptive reuse</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>42634</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Cell Block Theatre</title>
+          <added>2010-09-02 12:18:11</added>
+          <modified>2010-09-02 12:18:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Cell Block Theatre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>42632</id>
+              <type id="151">Entity</type>
+              <title>Cell Block Theatre (Building)</title>
+              <added>2010-09-02 12:16:21</added>
+              <modified>2010-11-12 14:24:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Cell Block Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre established in 1958 within the National Art School.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43924</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>42525</id>
+              <type id="98">XML Document</type>
+              <title>National Art School</title>
+              <added>2010-09-01 11:57:05</added>
+              <modified>2011-05-19 14:35:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3666</id>
+                  <nonce>57cfbd32228f4c5de252dc559d1eda3b3db783ad</nonce>
+                  <origName>National Art School.xml</origName>
+                  <type>application/xml</type>
+                  <size>81.7 kb</size>
+                  <date>2010-09-01 12:01:06</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/National+Art+School.xml?file_id=57cfbd32228f4c5de252dc559d1eda3b3db783ad</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=57cfbd32228f4c5de252dc559d1eda3b3db783ad</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">National Art School</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The National Art School has been at the centre of Sydney's art scene for almost a century, and has nurtured the talents of generations of artists who have studied and worked in studios within the walls of the old Darlinghurst Gaol.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-09-01</raw>
+                <year>2010</year>
+                <month>9</month>
+                <day>1</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3104</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">42524</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">57083</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">73</detail>
+          <detail id="330" type="End Word" name="End Word">75</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>42633</id>
+          <type id="150">Factoid</type>
+          <title>Cell Block Theatre, Type, Theatre</title>
+          <added>2010-09-02 12:17:49</added>
+          <modified>2010-09-02 12:17:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>42632</id>
+              <type id="151">Entity</type>
+              <title>Cell Block Theatre (Building)</title>
+              <added>2010-09-02 12:16:21</added>
+              <modified>2010-11-12 14:24:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Cell Block Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre established in 1958 within the National Art School.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43924</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7112</id>
+              <type id="91">Role</type>
+              <title>Theatre</title>
+              <added>2009-06-10 15:56:32</added>
+              <modified>2009-06-10 15:56:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51696</id>
+          <type id="150">Factoid</type>
+          <title>Cell Block Theatre, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:16</added>
+          <modified>2011-02-16 16:03:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Cell Block Theatre</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>42632</id>
+              <type id="151">Entity</type>
+              <title>Cell Block Theatre (Building)</title>
+              <added>2010-09-02 12:16:21</added>
+              <modified>2010-11-12 14:24:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Cell Block Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre established in 1958 within the National Art School.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43924</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.21853658518 -33.879789791977)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

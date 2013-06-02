@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:73524" w="a" depth="2" />
+  <dateStamp>2013-02-17T06:28:36+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>73524</id>
+      <type id="151">Entity</type>
+      <title>Scarba (Building)</title>
+      <added>2012-03-15 13:00:10</added>
+      <modified>2012-03-15 13:03:13</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Scarba</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Late Victorian mansion at Bondi which became a residential care home for children and later a centre for family support. Constructed for Malcolm Campbell on the site of a smaller cottage of the same name.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">http://www.bensoc.org.au/uploads/documents/DAHeritageImpactStatement.pdf</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>73525</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Scarba</title>
+          <added>2012-03-15 13:00:32</added>
+          <modified>2012-03-15 13:00:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Scarba</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>73524</id>
+              <type id="151">Entity</type>
+              <title>Scarba (Building)</title>
+              <added>2012-03-15 13:00:10</added>
+              <modified>2012-03-15 13:03:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Scarba</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Late Victorian mansion at Bondi which became a residential care home for children and later a centre for family support. Constructed for Malcolm Campbell on the site of a smaller cottage of the same name.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.bensoc.org.au/uploads/documents/DAHeritageImpactStatement.pdf</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>3935</id>
+              <type id="98">XML Document</type>
+              <title>Benevolent Society and Asylum</title>
+              <added>2008-12-03 11:40:19</added>
+              <modified>2012-03-15 13:16:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7369</id>
+                  <nonce>c885dd1b65a537d0da195a377d8ed1a5c2343c9d</nonce>
+                  <origName>Benevolent+Society+and+Asylum.xml</origName>
+                  <type>application/xml</type>
+                  <size>75.7 kb</size>
+                  <date>2012-03-15 13:16:28</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Benevolent%2BSociety%2Band%2BAsylum.xml?file_id=c885dd1b65a537d0da195a377d8ed1a5c2343c9d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c885dd1b65a537d0da195a377d8ed1a5c2343c9d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Benevolent Society and Asylum</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Benevolent Society, and the asylum (and later hospitals, clinics and aged care centres) it ran, provided care and sustenance to Sydney's poorest from the 1820s. Although it was founded under the auspices of the Colonial Auxiliary Bible Society, it gradually became a secular, independent non-profit organisation.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-12-03</raw>
+                <year>2008</year>
+                <month>12</month>
+                <day>3</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1148</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">123</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">13</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>73526</id>
+          <type id="150">Factoid</type>
+          <title>Scarba, Milestone, Constructed</title>
+          <added>2012-03-15 13:01:41</added>
+          <modified>2012-03-15 13:03:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>73524</id>
+              <type id="151">Entity</type>
+              <title>Scarba (Building)</title>
+              <added>2012-03-15 13:00:10</added>
+              <modified>2012-03-15 13:03:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Scarba</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Late Victorian mansion at Bondi which became a residential care home for children and later a centre for family support. Constructed for Malcolm Campbell on the site of a smaller cottage of the same name.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.bensoc.org.au/uploads/documents/DAHeritageImpactStatement.pdf</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1883</raw>
+            <year>1883</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1884</raw>
+            <year>1884</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>73527</id>
+          <type id="150">Factoid</type>
+          <title>Benevolent Society of New South Wales, Property, Occupied, Scarba</title>
+          <added>2012-03-15 13:04:24</added>
+          <modified>2012-03-15 13:04:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>10342</id>
+              <type id="151">Entity</type>
+              <title>Benevolent Society of New South Wales (Organisation)</title>
+              <added>2009-06-10 16:02:45</added>
+              <modified>2009-10-19 12:49:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Benevolent Society of New South Wales</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">An early charitable society, founded in 1818, that became one of Sydney's largest health and welfare providers.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>73524</id>
+              <type id="151">Entity</type>
+              <title>Scarba (Building)</title>
+              <added>2012-03-15 13:00:10</added>
+              <modified>2012-03-15 13:03:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Scarba</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Late Victorian mansion at Bondi which became a residential care home for children and later a centre for family support. Constructed for Malcolm Campbell on the site of a smaller cottage of the same name.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.bensoc.org.au/uploads/documents/DAHeritageImpactStatement.pdf</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1917</raw>
+            <year>1917</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>73528</id>
+          <type id="150">Factoid</type>
+          <title>Scarba, TimePlace</title>
+          <added>2012-03-15 13:05:32</added>
+          <modified>2012-03-15 13:05:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>73524</id>
+              <type id="151">Entity</type>
+              <title>Scarba (Building)</title>
+              <added>2012-03-15 13:00:10</added>
+              <modified>2012-03-15 13:03:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Scarba</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Late Victorian mansion at Bondi which became a residential care home for children and later a centre for family support. Constructed for Malcolm Campbell on the site of a smaller cottage of the same name.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.bensoc.org.au/uploads/documents/DAHeritageImpactStatement.pdf</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.26372393965 -33.89210415042)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>73529</id>
+          <type id="150">Factoid</type>
+          <title>Scarba, Type, House</title>
+          <added>2012-03-15 13:05:50</added>
+          <modified>2012-03-15 13:05:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>73524</id>
+              <type id="151">Entity</type>
+              <title>Scarba (Building)</title>
+              <added>2012-03-15 13:00:10</added>
+              <modified>2012-03-15 13:03:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Scarba</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Late Victorian mansion at Bondi which became a residential care home for children and later a centre for family support. Constructed for Malcolm Campbell on the site of a smaller cottage of the same name.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.bensoc.org.au/uploads/documents/DAHeritageImpactStatement.pdf</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

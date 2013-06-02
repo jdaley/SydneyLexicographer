@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8058" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:20:12+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8058</id>
+      <type id="151">Entity</type>
+      <title>Camden Library (Building)</title>
+      <added>2009-06-10 15:58:45</added>
+      <modified>2010-08-02 16:24:42</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Camden Library</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Repurposed historic buildings in Camden now used as a community and cultural centre.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">John Street, Camden</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>28513</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Camden Library</title>
+          <added>2009-10-09 14:51:08</added>
+          <modified>2009-10-09 14:51:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8058</id>
+              <type id="151">Entity</type>
+              <title>Camden Library (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:24:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Camden Library</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Repurposed historic buildings in Camden now used as a community and cultural centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">John Street, Camden</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>236</id>
+              <type id="98">XML Document</type>
+              <title>Camden</title>
+              <added>2008-10-22 13:11:44</added>
+              <modified>2009-10-16 14:01:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3199</id>
+                  <nonce>6c2a79ffbc6ae60549eb4008477620ecc2d2ba41</nonce>
+                  <origName>Camden.xml</origName>
+                  <type>application/xml</type>
+                  <size>66.5 kb</size>
+                  <date>2009-10-09 13:08:15</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Camden.xml?file_id=6c2a79ffbc6ae60549eb4008477620ecc2d2ba41</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6c2a79ffbc6ae60549eb4008477620ecc2d2ba41</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Camden</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of the most important towns in Sydney's hinterland, Camden was shaped by its landed gentry from the time of John Macarthur's original land grant in 1805, until the Macarthur family influence faded in the 1950s. Camden dairy products and farm produce went to the Sydney markets, but the town resisted Sydney-based decisions and remains ambivalent about its proximity to the city.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2685</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">48</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">93</detail>
+          <detail id="330" type="End Word" name="End Word">97</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+          <detail id="160" type="Title" name="dc.title">Camden Library</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8059</id>
+          <type id="150">Factoid</type>
+          <title>Camden Library, Type, Library</title>
+          <added>2009-06-10 15:58:45</added>
+          <modified>2009-06-10 15:58:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8058</id>
+              <type id="151">Entity</type>
+              <title>Camden Library (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:24:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Camden Library</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Repurposed historic buildings in Camden now used as a community and cultural centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">John Street, Camden</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6991</id>
+              <type id="91">Role</type>
+              <title>Library</title>
+              <added>2009-06-10 15:56:09</added>
+              <modified>2009-06-10 15:56:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Library</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41591</id>
+          <type id="150">Factoid</type>
+          <title>Camden Library, Milestone, Constructed</title>
+          <added>2010-08-02 16:25:09</added>
+          <modified>2010-08-02 16:25:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8058</id>
+              <type id="151">Entity</type>
+              <title>Camden Library (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:24:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Camden Library</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Repurposed historic buildings in Camden now used as a community and cultural centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">John Street, Camden</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1866</raw>
+            <year>1866</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1866</raw>
+            <year>1866</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51702</id>
+          <type id="150">Factoid</type>
+          <title>Camden Library, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:19</added>
+          <modified>2011-02-16 16:03:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Camden Library</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8058</id>
+              <type id="151">Entity</type>
+              <title>Camden Library (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:24:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Camden Library</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Repurposed historic buildings in Camden now used as a community and cultural centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">John Street, Camden</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(150.69569643715 -34.053526025003)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

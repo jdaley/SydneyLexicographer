@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:89342" w="a" depth="2" />
+  <dateStamp>2013-02-17T08:50:27+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>89342</id>
+      <type id="151">Entity</type>
+      <title>St. Alban's Anglican church Lindfield (Building)</title>
+      <added>2013-02-11 08:58:37</added>
+      <modified>2013-02-11 08:58:37</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St. Alban's Anglican church Lindfield</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Anglican church and hall at Lindfield.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>89343</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St. Alban's Anglican church Lindfield</title>
+          <added>2013-02-11 08:59:06</added>
+          <modified>2013-02-11 08:59:06</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St. Alban's Anglican church Lindfield</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>89342</id>
+              <type id="151">Entity</type>
+              <title>St. Alban's Anglican church Lindfield (Building)</title>
+              <added>2013-02-11 08:58:37</added>
+              <modified>2013-02-11 08:58:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St. Alban's Anglican church Lindfield</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church and hall at Lindfield.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>86875</id>
+              <type id="98">XML Document</type>
+              <title>Marian Street Theatre, Community Theatre and Northside Theatre</title>
+              <added>2012-12-13 13:44:02</added>
+              <modified>2013-02-14 07:30:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8280</id>
+                  <nonce>fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</nonce>
+                  <origName>Marian+Street+Theatre,+Community+Theatre+and+Northside+Theatre.xml</origName>
+                  <type>application/xml</type>
+                  <size>54.8 kb</size>
+                  <date>2013-02-14 07:30:55</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marian%2BStreet%2BTheatre%2C%2BCommunity%2BTheatre%2Band%2BNorthside%2BTheatre.xml?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre, Community Theatre and Northside Theatre</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A community theatre in a community hall, Marian Street Theatre has managed to provide a varied theatrical offering in a suburban setting over many decades.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-12-13</raw>
+                <year>2012</year>
+                <month>12</month>
+                <day>13</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1340</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,7</detail>
+          <detail id="329" type="Start Word" name="Start Word">7</detail>
+          <detail id="330" type="End Word" name="End Word">10</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89344</id>
+          <type id="150">Factoid</type>
+          <title>St. Alban's Anglican church Lindfield, Type, Place of worship</title>
+          <added>2013-02-11 09:02:05</added>
+          <modified>2013-02-11 09:02:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89342</id>
+              <type id="151">Entity</type>
+              <title>St. Alban's Anglican church Lindfield (Building)</title>
+              <added>2013-02-11 08:58:37</added>
+              <modified>2013-02-11 08:58:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St. Alban's Anglican church Lindfield</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church and hall at Lindfield.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89345</id>
+          <type id="150">Factoid</type>
+          <title>St. Alban's Anglican church Lindfield, TimePlace</title>
+          <added>2013-02-11 09:05:20</added>
+          <modified>2013-02-11 09:05:20</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89342</id>
+              <type id="151">Entity</type>
+              <title>St. Alban's Anglican church Lindfield (Building)</title>
+              <added>2013-02-11 08:58:37</added>
+              <modified>2013-02-11 08:58:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St. Alban's Anglican church Lindfield</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church and hall at Lindfield.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.17003795506 -33.775575730899)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

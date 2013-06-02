@@ -1,0 +1,1162 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:61901" w="a" depth="2" />
+  <dateStamp>2013-02-17T04:34:01+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>61901</id>
+      <type id="151">Entity</type>
+      <title>Marcus Clark Building (Building)</title>
+      <added>2011-08-19 13:09:41</added>
+      <modified>2012-06-07 12:50:52</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>27965</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Marcus Clark Building</title>
+          <added>2009-10-07 11:01:34</added>
+          <modified>2012-06-07 13:05:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>4522</id>
+              <type id="98">XML Document</type>
+              <title>Broadway</title>
+              <added>2009-02-17 16:09:32</added>
+              <modified>2010-10-21 12:15:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>537</id>
+                  <nonce>e60b6b01e642fcbb49020a15974bcaa195d25340</nonce>
+                  <origName>Broadway.xml</origName>
+                  <type>application/xml</type>
+                  <size>60.8 kb</size>
+                  <date>2009-02-17 16:10:08</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Broadway.xml?file_id=e60b6b01e642fcbb49020a15974bcaa195d25340</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e60b6b01e642fcbb49020a15974bcaa195d25340</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Broadway</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">After George Street West was widened in the 1930s, the name Broadway soon caught on, though the road had been the gateway to Sydney since early colonial days. A microscosm of the city, this place has seen industry, poverty, religion, commerce and redevelopment and repurposing of its buildings and surrounding areas.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1742</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">115</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">58</detail>
+          <detail id="330" type="End Word" name="End Word">59</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>61902</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Marcus Clark Building</title>
+          <added>2011-08-19 13:10:04</added>
+          <modified>2012-06-07 13:01:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>59665</id>
+              <type id="98">XML Document</type>
+              <title>Marcus Clark and Co</title>
+              <added>2011-07-22 16:07:31</added>
+              <modified>2011-07-22 16:07:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4910</id>
+                  <nonce>8886d56ef0571b9791ad474c3130147d7b0e10a3</nonce>
+                  <origName>Marcus Clark and Co.xml</origName>
+                  <type>application/xml</type>
+                  <size>71 kb</size>
+                  <date>2011-07-22 16:04:53</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marcus+Clark+and+Co.xml?file_id=8886d56ef0571b9791ad474c3130147d7b0e10a3</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8886d56ef0571b9791ad474c3130147d7b0e10a3</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark and Co</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Established as a draper in Newtown, Marcus Clark and Co went on to become one of Sydney's best known stores, with numerous buildings at Railway Square, and a wide range of goods.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-22</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>22</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">388</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">59656</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">19</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61932</id>
+          <type id="150">Factoid</type>
+          <title>827-837 George Street Haymarket, Type, Office block</title>
+          <added>2011-08-19 14:14:17</added>
+          <modified>2011-08-19 14:14:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7021</id>
+              <type id="91">Role</type>
+              <title>Office block</title>
+              <added>2009-06-10 15:56:17</added>
+              <modified>2009-06-10 15:56:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Office block</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>61933</id>
+          <type id="150">Factoid</type>
+          <title>Marcus Clark and Co, Property, Occupied, 827-837 George Street Haymarket</title>
+          <added>2011-08-19 14:16:06</added>
+          <modified>2011-09-02 09:27:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>11563</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark and Co (Organisation)</title>
+              <added>2009-06-10 16:02:58</added>
+              <modified>2011-07-22 16:05:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark and Co</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major department store of the first half of the twentieth century with branches in several Sydney suburbs and regional New South Wales.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">25909</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1913</raw>
+            <year>1913</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1965</raw>
+            <year>1965</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>61934</id>
+          <type id="150">Factoid</type>
+          <title>Sydney Institute, Property, Occupied, 827-837 George Street Haymarket</title>
+          <added>2011-08-19 14:18:19</added>
+          <modified>2011-08-19 14:18:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>12505</id>
+              <type id="151">Entity</type>
+              <title>TAFE NSW Sydney Institute Ultimo Campus (Organisation)</title>
+              <added>2009-06-10 16:03:11</added>
+              <modified>2012-06-07 09:00:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">TAFE NSW Sydney Institute Ultimo Campus</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Vocational and industry based training college at Ultimo which is part of the Sydney Institute.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Sydney Mechanics' Institute | Sydney Institute of Technology</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1966</raw>
+            <year>1966</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61935</id>
+          <type id="150">Factoid</type>
+          <title>827-837 George Street Haymarket, Milestone, Modified</title>
+          <added>2011-08-19 14:18:54</added>
+          <modified>2011-08-19 14:18:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>61936</id>
+          <type id="150">Factoid</type>
+          <title>827-837 George Street Haymarket, Milestone, Modified</title>
+          <added>2011-08-19 14:19:29</added>
+          <modified>2011-08-19 14:19:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1979</raw>
+            <year>1979</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1980</raw>
+            <year>1980</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>62233</id>
+          <type id="150">Factoid</type>
+          <title>Spain &amp; Cosh, Position, Architect, 827-837 George Street Haymarket</title>
+          <added>2011-09-02 09:35:37</added>
+          <modified>2011-09-02 09:35:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61637</id>
+              <type id="151">Entity</type>
+              <title>Spain &amp; Cosh (Organisation)</title>
+              <added>2011-08-18 09:20:09</added>
+              <modified>2011-09-02 09:34:22</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Spain &amp; Cosh</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architectural practice formed in 1904 by Alfred Spain and Thomas Frame Cosh.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1913</raw>
+            <year>1913</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1913</raw>
+            <year>1913</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>62234</id>
+          <type id="150">Factoid</type>
+          <title>Spain &amp; Cosh, Position, Architect, 827-837 George Street Haymarket</title>
+          <added>2011-09-02 09:36:09</added>
+          <modified>2011-09-02 09:36:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61637</id>
+              <type id="151">Entity</type>
+              <title>Spain &amp; Cosh (Organisation)</title>
+              <added>2011-08-18 09:20:09</added>
+              <modified>2011-09-02 09:34:22</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Spain &amp; Cosh</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architectural practice formed in 1904 by Alfred Spain and Thomas Frame Cosh.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>77500</id>
+          <type id="150">Factoid</type>
+          <title>Marcus Clark Building, TimePlace</title>
+          <added>2012-06-07 12:50:01</added>
+          <modified>2012-06-07 12:50:01</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1910</raw>
+            <year>1910</year>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20323476194 -33.88320224859)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>84513</id>
+          <type id="52">Record relationship</type>
+          <title>(20936 isOf 61901)</title>
+          <added>2012-10-30 13:26:31</added>
+          <modified>2012-10-30 13:26:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>20936</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Railway Square c1906</title>
+              <added>2009-07-17 14:18:23</added>
+              <modified>2012-10-30 13:27:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>2642</id>
+                  <nonce>44c417e588d3c50a3f280742035fe733010c3b16</nonce>
+                  <origName>cosArchiveslib_JSmall_037_037555.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>875.8 kb</size>
+                  <date>2009-07-17 14:18:23</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosArchiveslib_JSmall_037_037555.jpg?file_id=44c417e588d3c50a3f280742035fe733010c3b16</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=44c417e588d3c50a3f280742035fe733010c3b16</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Railway Square c1906</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2009-07-17</raw>
+                <year>2009</year>
+                <month>7</month>
+                <day>17</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1905</raw>
+                <year>1905</year>
+              </detail>
+              <detail id="178" type="End Date" name="dc.coverage.finish">
+                <raw>1909</raw>
+                <year>1909</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4755</id>
+                  <type id="153">Contributor</type>
+                  <title>City of Sydney Archives</title>
+                  <added>2009-03-24 10:55:13</added>
+                  <modified>2009-10-29 10:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">City of Sydney Archives</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.cityofsydney.nsw.gov.au/AboutSydney/HistoryAndArchives/Archives/Default.asp</detail>
+                </record>
+              </detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037555</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11154</detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 2961\nP-DoS Notes: Railway Square  Address     Looking NE towards the intersection of Pitt Street and George Street.  Description     View showing the Marcus Clark building - later the Railway Commissioners building - at L and Central Railway Statio</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>3447</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Despite</title>
+                  <added>2008-11-14 14:37:50</added>
+                  <modified>2009-10-29 10:40:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">624</detail>
+                  <detail id="199" type="Resource" name="target">20936</detail>
+                  <detail id="160" type="Title" name="dc.title">Despite</detail>
+                  <detail id="191" type="Extended description" name="caption">Expansion of tram and train networks, and new central interchanges, such as Railway Square, enabled Sydney's transition from a walking city to a public transport-based city in the early twentieth century.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">9,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">IMG 'Railway Square 1906 IN EM.</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>84508</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20936 hasSubject 6202)</title>
+                  <added>2012-10-30 13:23:43</added>
+                  <modified>2012-10-30 13:23:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20936</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Railway Square c1906</title>
+                      <added>2009-07-17 14:18:23</added>
+                      <modified>2012-10-30 13:27:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2642</id>
+                          <nonce>44c417e588d3c50a3f280742035fe733010c3b16</nonce>
+                          <origName>cosArchiveslib_JSmall_037_037555.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>875.8 kb</size>
+                          <date>2009-07-17 14:18:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosArchiveslib_JSmall_037_037555.jpg?file_id=44c417e588d3c50a3f280742035fe733010c3b16</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=44c417e588d3c50a3f280742035fe733010c3b16</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Railway Square c1906</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1905</raw>
+                        <year>1905</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1909</raw>
+                        <year>1909</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037555</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11154</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2961\nP-DoS Notes: Railway Square  Address     Looking NE towards the intersection of Pitt Street and George Street.  Description     View showing the Marcus Clark building - later the Railway Commissioners building - at L and Central Railway Statio</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6202</id>
+                      <type id="152">Term</type>
+                      <title>Roads</title>
+                      <added>2009-05-25 14:56:55</added>
+                      <modified>2009-05-25 14:56:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Roads</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>84510</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20936 isOf 15407)</title>
+                  <added>2012-10-30 13:25:41</added>
+                  <modified>2012-10-30 13:25:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20936</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Railway Square c1906</title>
+                      <added>2009-07-17 14:18:23</added>
+                      <modified>2012-10-30 13:27:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2642</id>
+                          <nonce>44c417e588d3c50a3f280742035fe733010c3b16</nonce>
+                          <origName>cosArchiveslib_JSmall_037_037555.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>875.8 kb</size>
+                          <date>2009-07-17 14:18:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosArchiveslib_JSmall_037_037555.jpg?file_id=44c417e588d3c50a3f280742035fe733010c3b16</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=44c417e588d3c50a3f280742035fe733010c3b16</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Railway Square c1906</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1905</raw>
+                        <year>1905</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1909</raw>
+                        <year>1909</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037555</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11154</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2961\nP-DoS Notes: Railway Square  Address     Looking NE towards the intersection of Pitt Street and George Street.  Description     View showing the Marcus Clark building - later the Railway Commissioners building - at L and Central Railway Statio</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>15407</id>
+                      <type id="151">Entity</type>
+                      <title>Broadway (Place)</title>
+                      <added>2009-06-10 16:06:53</added>
+                      <modified>2010-09-16 15:11:57</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Broadway</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Street at the western edge of Sydney's central business district which gives its name to the locality around it.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>84511</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20936 isOf 8100)</title>
+                  <added>2012-10-30 13:26:05</added>
+                  <modified>2012-10-30 13:26:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20936</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Railway Square c1906</title>
+                      <added>2009-07-17 14:18:23</added>
+                      <modified>2012-10-30 13:27:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2642</id>
+                          <nonce>44c417e588d3c50a3f280742035fe733010c3b16</nonce>
+                          <origName>cosArchiveslib_JSmall_037_037555.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>875.8 kb</size>
+                          <date>2009-07-17 14:18:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosArchiveslib_JSmall_037_037555.jpg?file_id=44c417e588d3c50a3f280742035fe733010c3b16</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=44c417e588d3c50a3f280742035fe733010c3b16</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Railway Square c1906</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1905</raw>
+                        <year>1905</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1909</raw>
+                        <year>1909</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037555</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11154</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2961\nP-DoS Notes: Railway Square  Address     Looking NE towards the intersection of Pitt Street and George Street.  Description     View showing the Marcus Clark building - later the Railway Commissioners building - at L and Central Railway Statio</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8100</id>
+                      <type id="151">Entity</type>
+                      <title>Central Railway Station (Building)</title>
+                      <added>2009-06-10 15:58:45</added>
+                      <modified>2009-07-16 19:30:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Central Railway Station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Central Railway Station was Sydney's third terminus, replacing the original 1855 station further north in Redfern and a later upgraded station built in the 1870s.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">18422</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>84513</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20936 isOf 61901)</title>
+                  <added>2012-10-30 13:26:31</added>
+                  <modified>2012-10-30 13:26:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20936</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Railway Square c1906</title>
+                      <added>2009-07-17 14:18:23</added>
+                      <modified>2012-10-30 13:27:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2642</id>
+                          <nonce>44c417e588d3c50a3f280742035fe733010c3b16</nonce>
+                          <origName>cosArchiveslib_JSmall_037_037555.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>875.8 kb</size>
+                          <date>2009-07-17 14:18:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosArchiveslib_JSmall_037_037555.jpg?file_id=44c417e588d3c50a3f280742035fe733010c3b16</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=44c417e588d3c50a3f280742035fe733010c3b16</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Railway Square c1906</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1905</raw>
+                        <year>1905</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1909</raw>
+                        <year>1909</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037555</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11154</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2961\nP-DoS Notes: Railway Square  Address     Looking NE towards the intersection of Pitt Street and George Street.  Description     View showing the Marcus Clark building - later the Railway Commissioners building - at L and Central Railway Statio</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>61901</id>
+                      <type id="151">Entity</type>
+                      <title>Marcus Clark Building (Building)</title>
+                      <added>2011-08-19 13:09:41</added>
+                      <modified>2012-06-07 12:50:52</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>61901</id>
+              <type id="151">Entity</type>
+              <title>Marcus Clark Building (Building)</title>
+              <added>2011-08-19 13:09:41</added>
+              <modified>2012-06-07 12:50:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>27965</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Marcus Clark Building</title>
+                  <added>2009-10-07 11:01:34</added>
+                  <modified>2012-06-07 13:05:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">4522</detail>
+                  <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+                  <detail id="199" type="Resource" name="target">61901</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">58</detail>
+                  <detail id="330" type="End Word" name="End Word">59</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>61902</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Marcus Clark Building</title>
+                  <added>2011-08-19 13:10:04</added>
+                  <modified>2012-06-07 13:01:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">59665</detail>
+                  <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+                  <detail id="199" type="Resource" name="target">61901</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">19</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>61932</id>
+                  <type id="150">Factoid</type>
+                  <title>827-837 George Street Haymarket, Type, Office block</title>
+                  <added>2011-08-19 14:14:17</added>
+                  <modified>2011-08-19 14:14:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">61901</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7021</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>61933</id>
+                  <type id="150">Factoid</type>
+                  <title>Marcus Clark and Co, Property, Occupied, 827-837 George Street Haymarket</title>
+                  <added>2011-08-19 14:16:06</added>
+                  <modified>2011-09-02 09:27:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">11563</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">61901</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1913</raw>
+                    <year>1913</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1965</raw>
+                    <year>1965</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>61934</id>
+                  <type id="150">Factoid</type>
+                  <title>Sydney Institute, Property, Occupied, 827-837 George Street Haymarket</title>
+                  <added>2011-08-19 14:18:19</added>
+                  <modified>2011-08-19 14:18:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">12505</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">61901</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1966</raw>
+                    <year>1966</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>61935</id>
+                  <type id="150">Factoid</type>
+                  <title>827-837 George Street Haymarket, Milestone, Modified</title>
+                  <added>2011-08-19 14:18:54</added>
+                  <modified>2011-08-19 14:18:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">61901</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">50919</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1928</raw>
+                    <year>1928</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1928</raw>
+                    <year>1928</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>61936</id>
+                  <type id="150">Factoid</type>
+                  <title>827-837 George Street Haymarket, Milestone, Modified</title>
+                  <added>2011-08-19 14:19:29</added>
+                  <modified>2011-08-19 14:19:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">61901</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">50919</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1979</raw>
+                    <year>1979</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1980</raw>
+                    <year>1980</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>62233</id>
+                  <type id="150">Factoid</type>
+                  <title>Spain &amp; Cosh, Position, Architect, 827-837 George Street Haymarket</title>
+                  <added>2011-09-02 09:35:37</added>
+                  <modified>2011-09-02 09:35:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">61637</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">61901</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1913</raw>
+                    <year>1913</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1913</raw>
+                    <year>1913</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>62234</id>
+                  <type id="150">Factoid</type>
+                  <title>Spain &amp; Cosh, Position, Architect, 827-837 George Street Haymarket</title>
+                  <added>2011-09-02 09:36:09</added>
+                  <modified>2011-09-02 09:36:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">61637</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">61901</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1928</raw>
+                    <year>1928</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1928</raw>
+                    <year>1928</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>77500</id>
+                  <type id="150">Factoid</type>
+                  <title>Marcus Clark Building, TimePlace</title>
+                  <added>2012-06-07 12:50:01</added>
+                  <modified>2012-06-07 12:50:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">61901</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1910</raw>
+                    <year>1910</year>
+                  </detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20323476194 -33.88320224859)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>84513</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20936 isOf 61901)</title>
+                  <added>2012-10-30 13:26:31</added>
+                  <modified>2012-10-30 13:26:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20936</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Railway Square c1906</title>
+                      <added>2009-07-17 14:18:23</added>
+                      <modified>2012-10-30 13:27:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2642</id>
+                          <nonce>44c417e588d3c50a3f280742035fe733010c3b16</nonce>
+                          <origName>cosArchiveslib_JSmall_037_037555.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>875.8 kb</size>
+                          <date>2009-07-17 14:18:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosArchiveslib_JSmall_037_037555.jpg?file_id=44c417e588d3c50a3f280742035fe733010c3b16</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=44c417e588d3c50a3f280742035fe733010c3b16</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Railway Square c1906</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1905</raw>
+                        <year>1905</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1909</raw>
+                        <year>1909</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037555</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11154</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2961\nP-DoS Notes: Railway Square  Address     Looking NE towards the intersection of Pitt Street and George Street.  Description     View showing the Marcus Clark building - later the Railway Commissioners building - at L and Central Railway Statio</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>61901</id>
+                      <type id="151">Entity</type>
+                      <title>Marcus Clark Building (Building)</title>
+                      <added>2011-08-19 13:09:41</added>
+                      <modified>2012-06-07 12:50:52</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marcus Clark Building</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Department store built for Marcus Clark and Company and now occupied by the Sydney Institute of Technology at 827-837 George Street Railway Square.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

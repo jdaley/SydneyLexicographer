@@ -1,0 +1,1138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:89311" w="a" depth="2" />
+  <dateStamp>2013-02-17T08:49:51+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>89311</id>
+      <type id="151">Entity</type>
+      <title>Marian Street Theatre (Building)</title>
+      <added>2013-02-11 07:48:53</added>
+      <modified>2013-02-11 07:48:53</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>89312</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Marian Street Theatre</title>
+          <added>2013-02-11 07:49:10</added>
+          <modified>2013-02-11 07:49:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>86875</id>
+              <type id="98">XML Document</type>
+              <title>Marian Street Theatre, Community Theatre and Northside Theatre</title>
+              <added>2012-12-13 13:44:02</added>
+              <modified>2013-02-14 07:30:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8280</id>
+                  <nonce>fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</nonce>
+                  <origName>Marian+Street+Theatre,+Community+Theatre+and+Northside+Theatre.xml</origName>
+                  <type>application/xml</type>
+                  <size>54.8 kb</size>
+                  <date>2013-02-14 07:30:55</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marian%2BStreet%2BTheatre%2C%2BCommunity%2BTheatre%2Band%2BNorthside%2BTheatre.xml?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre, Community Theatre and Northside Theatre</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A community theatre in a community hall, Marian Street Theatre has managed to provide a varied theatrical offering in a suburban setting over many decades.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-12-13</raw>
+                <year>2012</year>
+                <month>12</month>
+                <day>13</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1340</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">7</detail>
+          <detail id="330" type="End Word" name="End Word">9</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89313</id>
+          <type id="150">Factoid</type>
+          <title>Marian Street Theatre, Type, Theatre</title>
+          <added>2013-02-11 07:49:44</added>
+          <modified>2013-02-11 07:49:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7112</id>
+              <type id="91">Role</type>
+              <title>Theatre</title>
+              <added>2009-06-10 15:56:32</added>
+              <modified>2009-06-10 15:56:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89314</id>
+          <type id="150">Factoid</type>
+          <title>Marian Street Theatre, Milestone, Constructed</title>
+          <added>2013-02-11 07:50:19</added>
+          <modified>2013-02-11 07:50:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1906</raw>
+            <year>1906</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1906</raw>
+            <year>1906</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89315</id>
+          <type id="150">Factoid</type>
+          <title>Marian Street Theatre, Milestone, Modified</title>
+          <added>2013-02-11 07:51:18</added>
+          <modified>2013-02-11 07:51:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1968</raw>
+            <year>1968</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1968</raw>
+            <year>1968</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89316</id>
+          <type id="150">Factoid</type>
+          <title>Marian Street Theatre, Name, Alternate</title>
+          <added>2013-02-11 07:52:40</added>
+          <modified>2013-02-11 07:52:40</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Soldier's Memorial Hall</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1906</raw>
+            <year>1906</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1968</raw>
+            <year>1968</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89317</id>
+          <type id="150">Factoid</type>
+          <title>Marian Street Theatre, Name, Alternate</title>
+          <added>2013-02-11 07:55:36</added>
+          <modified>2013-02-11 07:55:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Marian Street Theatre for Young People</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2001</raw>
+            <year>2001</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>89319</id>
+          <type id="150">Factoid</type>
+          <title>Harley, Oliver, Position, Architect, Marian Street Theatre</title>
+          <added>2013-02-11 07:58:33</added>
+          <modified>2013-02-11 07:58:33</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13726</id>
+              <type id="151">Entity</type>
+              <title>Harley, Oliver (Person)</title>
+              <added>2009-06-10 16:04:14</added>
+              <modified>2012-04-26 15:19:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Harley, Oliver</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect who contributed to the built environment in his home suburb of Killara.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1906</raw>
+            <year>1906</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1906</raw>
+            <year>1906</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89349</id>
+          <type id="150">Factoid</type>
+          <title>Marian Street Theatre, TimePlace</title>
+          <added>2013-02-11 09:21:38</added>
+          <modified>2013-02-11 09:21:38</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.16133445505 -33.766857903705)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>89519</id>
+          <type id="52">Record relationship</type>
+          <title>(86875 isAbout 89311)</title>
+          <added>2013-02-14 10:31:11</added>
+          <modified>2013-02-14 10:31:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>86875</id>
+              <type id="98">XML Document</type>
+              <title>Marian Street Theatre, Community Theatre and Northside Theatre</title>
+              <added>2012-12-13 13:44:02</added>
+              <modified>2013-02-14 07:30:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8280</id>
+                  <nonce>fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</nonce>
+                  <origName>Marian+Street+Theatre,+Community+Theatre+and+Northside+Theatre.xml</origName>
+                  <type>application/xml</type>
+                  <size>54.8 kb</size>
+                  <date>2013-02-14 07:30:55</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marian%2BStreet%2BTheatre%2C%2BCommunity%2BTheatre%2Band%2BNorthside%2BTheatre.xml?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre, Community Theatre and Northside Theatre</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A community theatre in a community hall, Marian Street Theatre has managed to provide a varied theatrical offering in a suburban setting over many decades.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-12-13</raw>
+                <year>2012</year>
+                <month>12</month>
+                <day>13</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1340</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>1</id>
+                  <type id="153">Contributor</type>
+                  <title>Ailsa McPherson</title>
+                  <added>2008-10-22 12:48:46</added>
+                  <modified>2009-10-20 14:39:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ailsa McPherson</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Ailsa McPherson is an independent scholar</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">author</detail>
+                </record>
+              </detail>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89262</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Killara</title>
+                  <added>2013-02-08 12:05:23</added>
+                  <modified>2013-02-08 12:05:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Killara</detail>
+                  <detail id="199" type="Resource" name="target">16509</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">13</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89312</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Marian Street Theatre</title>
+                  <added>2013-02-11 07:49:10</added>
+                  <modified>2013-02-11 07:49:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+                  <detail id="199" type="Resource" name="target">89311</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">7</detail>
+                  <detail id="330" type="End Word" name="End Word">9</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89318</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Harley, Oliver</title>
+                  <added>2013-02-11 07:57:34</added>
+                  <modified>2013-02-11 07:57:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Harley, Oliver</detail>
+                  <detail id="199" type="Resource" name="target">13726</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">37</detail>
+                  <detail id="330" type="End Word" name="End Word">38</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89320</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ku-ring-gai Council</title>
+                  <added>2013-02-11 08:02:52</added>
+                  <modified>2013-02-11 08:02:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ku-ring-gai Council</detail>
+                  <detail id="199" type="Resource" name="target">11361</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">69</detail>
+                  <detail id="330" type="End Word" name="End Word">70</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89325</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Bodenweiser Ballet</title>
+                  <added>2013-02-11 08:27:35</added>
+                  <modified>2013-02-11 08:27:35</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Bodenweiser Ballet</detail>
+                  <detail id="199" type="Resource" name="target">89324</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">25</detail>
+                  <detail id="330" type="End Word" name="End Word">26</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89328</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Leigh, Vivien</title>
+                  <added>2013-02-11 08:29:40</added>
+                  <modified>2013-02-11 08:29:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Leigh, Vivien</detail>
+                  <detail id="199" type="Resource" name="target">46162</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">30</detail>
+                  <detail id="330" type="End Word" name="End Word">31</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89330</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Archdale, Alexander</title>
+                  <added>2013-02-11 08:35:59</added>
+                  <modified>2013-02-11 08:35:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Archdale, Alexander</detail>
+                  <detail id="199" type="Resource" name="target">89329</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">14</detail>
+                  <detail id="330" type="End Word" name="End Word">15</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89339</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ku-ring-gai Theatre Guild</title>
+                  <added>2013-02-11 08:48:25</added>
+                  <modified>2013-02-11 08:48:25</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ku-ring-gai Theatre Guild</detail>
+                  <detail id="199" type="Resource" name="target">89338</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">23</detail>
+                  <detail id="330" type="End Word" name="End Word">25</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89343</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>St. Alban's Anglican church Lindfield</title>
+                  <added>2013-02-11 08:59:06</added>
+                  <modified>2013-02-11 08:59:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St. Alban's Anglican church Lindfield</detail>
+                  <detail id="199" type="Resource" name="target">89342</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,7</detail>
+                  <detail id="329" type="Start Word" name="Start Word">7</detail>
+                  <detail id="330" type="End Word" name="End Word">10</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89346</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lindfield</title>
+                  <added>2013-02-11 09:14:48</added>
+                  <modified>2013-02-11 09:14:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lindfield</detail>
+                  <detail id="199" type="Resource" name="target">16667</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,7</detail>
+                  <detail id="329" type="Start Word" name="Start Word">12</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89348</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Haddy, Anne</title>
+                  <added>2013-02-11 09:19:17</added>
+                  <modified>2013-02-11 09:19:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Haddy, Anne</detail>
+                  <detail id="199" type="Resource" name="target">89347</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,8</detail>
+                  <detail id="329" type="Start Word" name="Start Word">53</detail>
+                  <detail id="330" type="End Word" name="End Word">54</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89355</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Meldrum, Max</title>
+                  <added>2013-02-11 10:56:24</added>
+                  <modified>2013-02-11 10:56:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Meldrum, Max</detail>
+                  <detail id="199" type="Resource" name="target">89354</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,8</detail>
+                  <detail id="329" type="Start Word" name="Start Word">55</detail>
+                  <detail id="330" type="End Word" name="End Word">56</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89361</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Bruce, Joan</title>
+                  <added>2013-02-11 11:01:38</added>
+                  <modified>2013-02-11 11:01:38</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Bruce, Joan</detail>
+                  <detail id="199" type="Resource" name="target">89360</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,8</detail>
+                  <detail id="329" type="Start Word" name="Start Word">58</detail>
+                  <detail id="330" type="End Word" name="End Word">59</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89365</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Batey, Peter</title>
+                  <added>2013-02-11 11:07:24</added>
+                  <modified>2013-02-11 11:07:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Batey, Peter</detail>
+                  <detail id="199" type="Resource" name="target">89364</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,8</detail>
+                  <detail id="329" type="Start Word" name="Start Word">166</detail>
+                  <detail id="330" type="End Word" name="End Word">167</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89370</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Livermore, Reg</title>
+                  <added>2013-02-11 11:15:38</added>
+                  <modified>2013-02-11 11:15:38</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Livermore, Reg</detail>
+                  <detail id="199" type="Resource" name="target">89369</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,8</detail>
+                  <detail id="329" type="Start Word" name="Start Word">169</detail>
+                  <detail id="330" type="End Word" name="End Word">170</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89375</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Collingwood, Peter</title>
+                  <added>2013-02-11 11:22:22</added>
+                  <modified>2013-02-11 11:22:22</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Collingwood, Peter</detail>
+                  <detail id="199" type="Resource" name="target">89374</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,10</detail>
+                  <detail id="329" type="Start Word" name="Start Word">24</detail>
+                  <detail id="330" type="End Word" name="End Word">25</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89380</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Neeme, Aarne</title>
+                  <added>2013-02-11 13:00:44</added>
+                  <modified>2013-02-11 13:00:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Neeme, Aarne</detail>
+                  <detail id="199" type="Resource" name="target">89379</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,10</detail>
+                  <detail id="329" type="Start Word" name="Start Word">27</detail>
+                  <detail id="330" type="End Word" name="End Word">28</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89386</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Duncan, Alistair</title>
+                  <added>2013-02-11 13:11:50</added>
+                  <modified>2013-02-11 13:11:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Duncan, Alistair</detail>
+                  <detail id="199" type="Resource" name="target">89385</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,10</detail>
+                  <detail id="329" type="Start Word" name="Start Word">31</detail>
+                  <detail id="330" type="End Word" name="End Word">32</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89390</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Krummel, John</title>
+                  <added>2013-02-11 13:16:57</added>
+                  <modified>2013-02-11 13:16:57</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Krummel, John</detail>
+                  <detail id="199" type="Resource" name="target">89389</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,10</detail>
+                  <detail id="329" type="Start Word" name="Start Word">48</detail>
+                  <detail id="330" type="End Word" name="End Word">49</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89399</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Blaxland, Audrey</title>
+                  <added>2013-02-11 13:25:30</added>
+                  <modified>2013-02-11 13:25:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Blaxland, Audrey</detail>
+                  <detail id="199" type="Resource" name="target">89398</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,11</detail>
+                  <detail id="329" type="Start Word" name="Start Word">59</detail>
+                  <detail id="330" type="End Word" name="End Word">60</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>89518</id>
+                  <type id="52">Record relationship</type>
+                  <title>(86875 isAbout 89309)</title>
+                  <added>2013-02-14 10:30:49</added>
+                  <modified>2013-02-14 10:30:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>86875</id>
+                      <type id="98">XML Document</type>
+                      <title>Marian Street Theatre, Community Theatre and Northside Theatre</title>
+                      <added>2012-12-13 13:44:02</added>
+                      <modified>2013-02-14 07:30:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>8280</id>
+                          <nonce>fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</nonce>
+                          <origName>Marian+Street+Theatre,+Community+Theatre+and+Northside+Theatre.xml</origName>
+                          <type>application/xml</type>
+                          <size>54.8 kb</size>
+                          <date>2013-02-14 07:30:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marian%2BStreet%2BTheatre%2C%2BCommunity%2BTheatre%2Band%2BNorthside%2BTheatre.xml?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Marian Street Theatre, Community Theatre and Northside Theatre</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A community theatre in a community hall, Marian Street Theatre has managed to provide a varied theatrical offering in a suburban setting over many decades.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-12-13</raw>
+                        <year>2012</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1340</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>89309</id>
+                      <type id="151">Entity</type>
+                      <title>Marian Street Theatre (Organisation)</title>
+                      <added>2013-02-11 07:42:44</added>
+                      <modified>2013-02-11 07:42:44</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Repertory company which relied heavily on local support with often limited financial success.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+                <record>
+                  <id>89519</id>
+                  <type id="52">Record relationship</type>
+                  <title>(86875 isAbout 89311)</title>
+                  <added>2013-02-14 10:31:11</added>
+                  <modified>2013-02-14 10:31:11</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>86875</id>
+                      <type id="98">XML Document</type>
+                      <title>Marian Street Theatre, Community Theatre and Northside Theatre</title>
+                      <added>2012-12-13 13:44:02</added>
+                      <modified>2013-02-14 07:30:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>8280</id>
+                          <nonce>fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</nonce>
+                          <origName>Marian+Street+Theatre,+Community+Theatre+and+Northside+Theatre.xml</origName>
+                          <type>application/xml</type>
+                          <size>54.8 kb</size>
+                          <date>2013-02-14 07:30:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marian%2BStreet%2BTheatre%2C%2BCommunity%2BTheatre%2Band%2BNorthside%2BTheatre.xml?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Marian Street Theatre, Community Theatre and Northside Theatre</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A community theatre in a community hall, Marian Street Theatre has managed to provide a varied theatrical offering in a suburban setting over many decades.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-12-13</raw>
+                        <year>2012</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1340</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>89311</id>
+                      <type id="151">Entity</type>
+                      <title>Marian Street Theatre (Building)</title>
+                      <added>2013-02-11 07:48:53</added>
+                      <modified>2013-02-11 07:48:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>89311</id>
+              <type id="151">Entity</type>
+              <title>Marian Street Theatre (Building)</title>
+              <added>2013-02-11 07:48:53</added>
+              <modified>2013-02-11 07:48:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>89312</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Marian Street Theatre</title>
+                  <added>2013-02-11 07:49:10</added>
+                  <modified>2013-02-11 07:49:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+                  <detail id="199" type="Resource" name="target">89311</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86875</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">7</detail>
+                  <detail id="330" type="End Word" name="End Word">9</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>89313</id>
+                  <type id="150">Factoid</type>
+                  <title>Marian Street Theatre, Type, Theatre</title>
+                  <added>2013-02-11 07:49:44</added>
+                  <modified>2013-02-11 07:49:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">89311</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7112</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>89314</id>
+                  <type id="150">Factoid</type>
+                  <title>Marian Street Theatre, Milestone, Constructed</title>
+                  <added>2013-02-11 07:50:19</added>
+                  <modified>2013-02-11 07:50:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">89311</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1906</raw>
+                    <year>1906</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1906</raw>
+                    <year>1906</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>89315</id>
+                  <type id="150">Factoid</type>
+                  <title>Marian Street Theatre, Milestone, Modified</title>
+                  <added>2013-02-11 07:51:18</added>
+                  <modified>2013-02-11 07:51:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">89311</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">50919</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1968</raw>
+                    <year>1968</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1968</raw>
+                    <year>1968</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>89316</id>
+                  <type id="150">Factoid</type>
+                  <title>Marian Street Theatre, Name, Alternate</title>
+                  <added>2013-02-11 07:52:40</added>
+                  <modified>2013-02-11 07:52:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">89311</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Soldier's Memorial Hall</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1906</raw>
+                    <year>1906</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1968</raw>
+                    <year>1968</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>89317</id>
+                  <type id="150">Factoid</type>
+                  <title>Marian Street Theatre, Name, Alternate</title>
+                  <added>2013-02-11 07:55:36</added>
+                  <modified>2013-02-11 07:55:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">89311</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Marian Street Theatre for Young People</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2001</raw>
+                    <year>2001</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>89319</id>
+                  <type id="150">Factoid</type>
+                  <title>Harley, Oliver, Position, Architect, Marian Street Theatre</title>
+                  <added>2013-02-11 07:58:33</added>
+                  <modified>2013-02-11 07:58:33</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13726</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">89311</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1906</raw>
+                    <year>1906</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1906</raw>
+                    <year>1906</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>89349</id>
+                  <type id="150">Factoid</type>
+                  <title>Marian Street Theatre, TimePlace</title>
+                  <added>2013-02-11 09:21:38</added>
+                  <modified>2013-02-11 09:21:38</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">89311</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.16133445505 -33.766857903705)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>89519</id>
+                  <type id="52">Record relationship</type>
+                  <title>(86875 isAbout 89311)</title>
+                  <added>2013-02-14 10:31:11</added>
+                  <modified>2013-02-14 10:31:11</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>86875</id>
+                      <type id="98">XML Document</type>
+                      <title>Marian Street Theatre, Community Theatre and Northside Theatre</title>
+                      <added>2012-12-13 13:44:02</added>
+                      <modified>2013-02-14 07:30:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>8280</id>
+                          <nonce>fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</nonce>
+                          <origName>Marian+Street+Theatre,+Community+Theatre+and+Northside+Theatre.xml</origName>
+                          <type>application/xml</type>
+                          <size>54.8 kb</size>
+                          <date>2013-02-14 07:30:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marian%2BStreet%2BTheatre%2C%2BCommunity%2BTheatre%2Band%2BNorthside%2BTheatre.xml?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=fcbb59c1d7791fc8d28317f2ed3b38ba82d82482</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Marian Street Theatre, Community Theatre and Northside Theatre</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A community theatre in a community hall, Marian Street Theatre has managed to provide a varied theatrical offering in a suburban setting over many decades.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-12-13</raw>
+                        <year>2012</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1340</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>89311</id>
+                      <type id="151">Entity</type>
+                      <title>Marian Street Theatre (Building)</title>
+                      <added>2013-02-11 07:48:53</added>
+                      <modified>2013-02-11 07:48:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marian Street Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall in Marian Street Killara which was modified for use as a theatre.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

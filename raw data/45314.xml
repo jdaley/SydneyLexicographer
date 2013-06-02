@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:45314" w="a" depth="2" />
+  <dateStamp>2013-02-17T00:38:11+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>45314</id>
+      <type id="151">Entity</type>
+      <title>Galeries Victoria (Building)</title>
+      <added>2010-10-21 13:42:23</added>
+      <modified>2011-02-23 11:04:37</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Galeries Victoria</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Shopping complex on George Street below the Citigroup office block.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>52290</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Galeries Victoria 2007</title>
+          <added>2011-02-23 11:04:10</added>
+          <modified>2011-05-20 23:33:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>4460</id>
+              <nonce>8794d96328255eee140c710eb89f20041b1d6b07</nonce>
+              <origName>Flickr_852258352_5cbad8368e_o.jpg</origName>
+              <type>image/jpeg</type>
+              <size>269.7 kb</size>
+              <date>2011-02-23 11:01:59</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_852258352_5cbad8368e_o.jpg?file_id=8794d96328255eee140c710eb89f20041b1d6b07</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8794d96328255eee140c710eb89f20041b1d6b07</thumbURL>
+            </file>
+          </detail>
+          <detail id="365" type="Subject" name="dc.creator">Chan, Christopher</detail>
+          <detail id="160" type="Title" name="dc.title">Galeries Victoria 2007</detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2007</raw>
+            <year>2007</year>
+          </detail>
+          <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/chanc/852258352/</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4788</id>
+              <type id="153">Contributor</type>
+              <title>Flickr</title>
+              <added>2009-03-24 10:55:18</added>
+              <modified>2009-03-24 10:55:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Flickr</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.flickr.com/</detail>
+            </record>
+          </detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/chanc/852258352/</detail>
+          <detail id="303" type="Short summary" name="dos.notes">- dc.source: http://www.flickr.com/photos/chanc/852258352/</detail>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>45314</id>
+              <type id="151">Entity</type>
+              <title>Galeries Victoria (Building)</title>
+              <added>2010-10-21 13:42:23</added>
+              <modified>2011-02-23 11:04:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Galeries Victoria</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping complex on George Street below the Citigroup office block.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">52290</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>81291</id>
+              <type id="52">Record relationship</type>
+              <title>(52290 hasSubject 5881)</title>
+              <added>2012-09-04 13:19:41</added>
+              <modified>2012-09-04 13:19:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>52290</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Galeries Victoria 2007</title>
+                  <added>2011-02-23 11:04:10</added>
+                  <modified>2011-05-20 23:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4460</id>
+                      <nonce>8794d96328255eee140c710eb89f20041b1d6b07</nonce>
+                      <origName>Flickr_852258352_5cbad8368e_o.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>269.7 kb</size>
+                      <date>2011-02-23 11:01:59</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_852258352_5cbad8368e_o.jpg?file_id=8794d96328255eee140c710eb89f20041b1d6b07</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8794d96328255eee140c710eb89f20041b1d6b07</thumbURL>
+                    </file>
+                  </detail>
+                  <detail id="365" type="Subject" name="dc.creator">Chan, Christopher</detail>
+                  <detail id="160" type="Title" name="dc.title">Galeries Victoria 2007</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/chanc/852258352/</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/chanc/852258352/</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">- dc.source: http://www.flickr.com/photos/chanc/852258352/</detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5881</id>
+                  <type id="152">Term</type>
+                  <title>Commercial building</title>
+                  <added>2009-05-25 14:56:19</added>
+                  <modified>2009-05-25 14:56:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commercial building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>81292</id>
+              <type id="52">Record relationship</type>
+              <title>(52290 hasSubject 6197)</title>
+              <added>2012-09-04 13:20:02</added>
+              <modified>2012-09-04 13:20:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>52290</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Galeries Victoria 2007</title>
+                  <added>2011-02-23 11:04:10</added>
+                  <modified>2011-05-20 23:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4460</id>
+                      <nonce>8794d96328255eee140c710eb89f20041b1d6b07</nonce>
+                      <origName>Flickr_852258352_5cbad8368e_o.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>269.7 kb</size>
+                      <date>2011-02-23 11:01:59</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_852258352_5cbad8368e_o.jpg?file_id=8794d96328255eee140c710eb89f20041b1d6b07</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8794d96328255eee140c710eb89f20041b1d6b07</thumbURL>
+                    </file>
+                  </detail>
+                  <detail id="365" type="Subject" name="dc.creator">Chan, Christopher</detail>
+                  <detail id="160" type="Title" name="dc.title">Galeries Victoria 2007</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/chanc/852258352/</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/chanc/852258352/</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">- dc.source: http://www.flickr.com/photos/chanc/852258352/</detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6197</id>
+                  <type id="152">Term</type>
+                  <title>Retail</title>
+                  <added>2009-05-25 14:56:55</added>
+                  <modified>2009-05-25 14:56:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Retail</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>81293</id>
+              <type id="52">Record relationship</type>
+              <title>(52290 hasSubject 5890)</title>
+              <added>2012-09-04 13:20:42</added>
+              <modified>2012-09-04 13:20:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>52290</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Galeries Victoria 2007</title>
+                  <added>2011-02-23 11:04:10</added>
+                  <modified>2011-05-20 23:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4460</id>
+                      <nonce>8794d96328255eee140c710eb89f20041b1d6b07</nonce>
+                      <origName>Flickr_852258352_5cbad8368e_o.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>269.7 kb</size>
+                      <date>2011-02-23 11:01:59</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_852258352_5cbad8368e_o.jpg?file_id=8794d96328255eee140c710eb89f20041b1d6b07</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8794d96328255eee140c710eb89f20041b1d6b07</thumbURL>
+                    </file>
+                  </detail>
+                  <detail id="365" type="Subject" name="dc.creator">Chan, Christopher</detail>
+                  <detail id="160" type="Title" name="dc.title">Galeries Victoria 2007</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/chanc/852258352/</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/chanc/852258352/</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">- dc.source: http://www.flickr.com/photos/chanc/852258352/</detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5890</id>
+                  <type id="152">Term</type>
+                  <title>Contemporary  architecture</title>
+                  <added>2009-05-25 14:56:19</added>
+                  <modified>2009-05-25 14:56:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Contemporary  architecture</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>45315</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Galeries Victoria</title>
+          <added>2010-10-21 13:42:38</added>
+          <modified>2010-10-21 13:42:38</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Galeries Victoria</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>45314</id>
+              <type id="151">Entity</type>
+              <title>Galeries Victoria (Building)</title>
+              <added>2010-10-21 13:42:23</added>
+              <modified>2011-02-23 11:04:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Galeries Victoria</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping complex on George Street below the Citigroup office block.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">52290</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>44279</id>
+              <type id="98">XML Document</type>
+              <title>Arthouse Hotel</title>
+              <added>2010-10-06 13:20:20</added>
+              <modified>2012-05-17 12:18:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7415</id>
+                  <nonce>33e35887e76877b6c1cd4bd2454051f3ea6c3cda</nonce>
+                  <origName>Arthouse+hotel.xml</origName>
+                  <type>application/xml</type>
+                  <size>67.1 kb</size>
+                  <date>2012-05-17 12:18:21</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Arthouse%2Bhotel.xml?file_id=33e35887e76877b6c1cd4bd2454051f3ea6c3cda</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=33e35887e76877b6c1cd4bd2454051f3ea6c3cda</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Arthouse Hotel</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built as the library, hall and rooms for the Sydney Mechanics' School of Arts, and long a centre of cultural life in Sydney, the Arthouse Hotel was converted into a pub in the 1990s.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-10-06</raw>
+                <year>2010</year>
+                <month>10</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3155</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">57083</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">17</detail>
+          <detail id="330" type="End Word" name="End Word">18</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>45940</id>
+          <type id="150">Factoid</type>
+          <title>Galeries Victoria, Type, Shopping centre or Retail</title>
+          <added>2010-11-03 13:46:52</added>
+          <modified>2010-11-03 13:46:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45314</id>
+              <type id="151">Entity</type>
+              <title>Galeries Victoria (Building)</title>
+              <added>2010-10-21 13:42:23</added>
+              <modified>2011-02-23 11:04:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Galeries Victoria</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping complex on George Street below the Citigroup office block.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">52290</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7085</id>
+              <type id="91">Role</type>
+              <title>Shopping centre or retail premises</title>
+              <added>2009-06-10 15:56:29</added>
+              <modified>2012-05-30 11:16:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Shopping centre or retail premises</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51584</id>
+          <type id="150">Factoid</type>
+          <title>Galeries Victoria, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:48:40</added>
+          <modified>2011-02-16 16:03:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Galeries Victoria</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45314</id>
+              <type id="151">Entity</type>
+              <title>Galeries Victoria (Building)</title>
+              <added>2010-10-21 13:42:23</added>
+              <modified>2011-02-23 11:04:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Galeries Victoria</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping complex on George Street below the Citigroup office block.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">52290</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20717707568 -33.872416922659)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

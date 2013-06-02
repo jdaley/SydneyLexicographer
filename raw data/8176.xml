@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8176" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:27:29+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8176</id>
+      <type id="151">Entity</type>
+      <title>Croatian Catholic church of St Nikola Tavelic (Building)</title>
+      <added>2009-06-10 15:58:46</added>
+      <modified>2011-10-28 07:39:10</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Church built with financial support of the Croatian Catholic community on land purchased by the Croatian Franciscans in 1980.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>48325</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Croatian Catholic church of St Nikola Tavelic</title>
+          <added>2010-12-14 11:59:18</added>
+          <modified>2010-12-14 11:59:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8176</id>
+              <type id="151">Entity</type>
+              <title>Croatian Catholic church of St Nikola Tavelic (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-10-28 07:39:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built with financial support of the Croatian Catholic community on land purchased by the Croatian Franciscans in 1980.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>277</id>
+              <type id="98">XML Document</type>
+              <title>Croatians</title>
+              <added>2008-10-22 13:11:51</added>
+              <modified>2012-12-06 13:12:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7977</id>
+                  <nonce>422e2faff4cb7bafabc3a1523ebacb42a86a265a</nonce>
+                  <origName>Croatians.xml</origName>
+                  <type>application/xml</type>
+                  <size>186.6 kb</size>
+                  <date>2012-12-06 13:11:57</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Croatians.xml?file_id=422e2faff4cb7bafabc3a1523ebacb42a86a265a</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=422e2faff4cb7bafabc3a1523ebacb42a86a265a</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Croatians</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A scattering of Croatian migrants arrived in Sydney during the nineteenth century, but most Croatian Sydneysiders came here because of war and upheaval in their home country in the twentieth century. After World War II, when Yugoslavia came into being, many leftist Croatians went home, leaving en masse in 1948-49, and being replaced by another wave of immigrants, fleeing Communism and poverty. These Croatians have preserved their culture and identity in their new city.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2932</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">130</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">80</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">9,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">58</detail>
+          <detail id="330" type="End Word" name="End Word">64</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>65017</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Croatian Catholic church of St Nikola Tavelic</title>
+          <added>2011-10-27 11:06:56</added>
+          <modified>2011-10-27 11:06:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8176</id>
+              <type id="151">Entity</type>
+              <title>Croatian Catholic church of St Nikola Tavelic (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-10-28 07:39:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built with financial support of the Croatian Catholic community on land purchased by the Croatian Franciscans in 1980.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>62494</id>
+              <type id="98">XML Document</type>
+              <title>St Johns Park</title>
+              <added>2011-09-06 15:06:27</added>
+              <modified>2011-10-27 12:46:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5276</id>
+                  <nonce>13752d5e97a343151409696c7daf0ca0bd6596c2</nonce>
+                  <origName>St+Johns+Park.xml</origName>
+                  <type>application/xml</type>
+                  <size>92.8 kb</size>
+                  <date>2011-10-27 12:46:02</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/St%2BJohns%2BPark.xml?file_id=13752d5e97a343151409696c7daf0ca0bd6596c2</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13752d5e97a343151409696c7daf0ca0bd6596c2</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">St Johns Park</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditional country of the Cabrogal people, St Johns Park was first used by Europeans as part of the Orphan School land grant. By the end of the nineteenth century, agriculture was well established, with a sizeable Italian community already growing grapes.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-09-06</raw>
+                <year>2011</year>
+                <month>9</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1551</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">62493</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">95</detail>
+          <detail id="330" type="End Word" name="End Word">100</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8177</id>
+          <type id="150">Factoid</type>
+          <title>Croatian Catholic church of St Nikola Tavelic, Type, Place of worship</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8176</id>
+              <type id="151">Entity</type>
+              <title>Croatian Catholic church of St Nikola Tavelic (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-10-28 07:39:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built with financial support of the Croatian Catholic community on land purchased by the Croatian Franciscans in 1980.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51435</id>
+          <type id="150">Factoid</type>
+          <title>Croatian Catholic church of St Nikola Tavelic, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:45:18</added>
+          <modified>2011-02-16 16:03:15</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8176</id>
+              <type id="151">Entity</type>
+              <title>Croatian Catholic church of St Nikola Tavelic (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-10-28 07:39:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built with financial support of the Croatian Catholic community on land purchased by the Croatian Franciscans in 1980.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(150.90122727973 -33.8772016333)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65033</id>
+          <type id="150">Factoid</type>
+          <title>Croatian Catholic church of St Nikola Tavelic, Milestone, Opened</title>
+          <added>2011-10-28 07:37:23</added>
+          <modified>2011-10-28 07:37:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8176</id>
+              <type id="151">Entity</type>
+              <title>Croatian Catholic church of St Nikola Tavelic (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-10-28 07:39:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Croatian Catholic church of St Nikola Tavelic</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built with financial support of the Croatian Catholic community on land purchased by the Croatian Franciscans in 1980.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1985</raw>
+            <year>1985</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1985</raw>
+            <year>1985</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

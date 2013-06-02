@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8264" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:32:55+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8264</id>
+      <type id="151">Entity</type>
+      <title>Experiment Farm Cottage (Building)</title>
+      <added>2009-06-10 15:58:47</added>
+      <modified>2012-08-23 13:32:37</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>27180</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Experiment Farm Cottage</title>
+          <added>2009-10-01 10:39:49</added>
+          <modified>2009-10-01 10:39:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8264</id>
+              <type id="151">Entity</type>
+              <title>Experiment Farm Cottage (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2012-08-23 13:32:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>370</id>
+              <type id="98">XML Document</type>
+              <title>Harris Park</title>
+              <added>2008-10-22 13:12:06</added>
+              <modified>2011-02-23 09:23:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>287</id>
+                  <nonce>15c88f70ac6b24fa671cb783d87c993a23178ba3</nonce>
+                  <origName>Harris Park.xml</origName>
+                  <type>application/xml</type>
+                  <size>28.6 kb</size>
+                  <date>2008-11-20 10:58:18</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Harris+Park.xml?file_id=15c88f70ac6b24fa671cb783d87c993a23178ba3</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=15c88f70ac6b24fa671cb783d87c993a23178ba3</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Harris Park</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Originally home of the Barramattagal, the Toongagal and the Bidjigal people, Harris Park evolved as land was granted to colonists which was eventually broken up for residential subdivisions when a railway station was established in 1880.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1705</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">123</detail>
+          <detail id="330" type="End Word" name="End Word">125</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8265</id>
+          <type id="150">Factoid</type>
+          <title>Experiment Farm Cottage, Type, House</title>
+          <added>2009-06-10 15:58:47</added>
+          <modified>2009-06-10 15:58:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8264</id>
+              <type id="151">Entity</type>
+              <title>Experiment Farm Cottage (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2012-08-23 13:32:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>80459</id>
+          <type id="150">Factoid</type>
+          <title>Harris, John, Property, Owned, Experiment Farm Cottage</title>
+          <added>2012-08-23 13:25:12</added>
+          <modified>2012-08-23 13:25:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13734</id>
+              <type id="151">Entity</type>
+              <title>Harris, John (Person)</title>
+              <added>2009-06-10 16:04:14</added>
+              <modified>2013-02-14 12:26:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Harris, John</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Diligent and well respected surgeon and public servant under several governors, he developed extensive landholdings in Ultimo and Parramatta district.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">89527</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8264</id>
+              <type id="151">Entity</type>
+              <title>Experiment Farm Cottage (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2012-08-23 13:32:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">1798</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1838</raw>
+            <year>1838</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>80460</id>
+          <type id="150">Factoid</type>
+          <title>Experiment Farm Cottage, Relationship, Part of, Experiment Farm</title>
+          <added>2012-08-23 13:30:45</added>
+          <modified>2012-09-11 12:55:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8264</id>
+              <type id="151">Entity</type>
+              <title>Experiment Farm Cottage (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2012-08-23 13:32:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Relationship</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>57810</id>
+              <type id="91">Role</type>
+              <title>Part of</title>
+              <added>2011-06-09 20:14:54</added>
+              <modified>2011-06-09 20:19:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Part of</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Relationship</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Includes</detail>
+              <detail id="303" type="Short summary" name="dos.notes">No dates</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>16037</id>
+              <type id="151">Entity</type>
+              <title>Experiment Farm (Place)</title>
+              <added>2009-06-10 16:07:21</added>
+              <modified>2011-08-30 14:54:26</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+              <detail id="191" type="Extended description" name="dc.description">Farm established as an experiment to establish if small landholdings could become self-sufficient in the new colony. It is situated on the first land grant in 1789 to James Ruse.</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>80461</id>
+          <type id="150">Factoid</type>
+          <title>Experiment Farm Cottage, TimePlace</title>
+          <added>2012-08-23 13:33:50</added>
+          <modified>2012-08-23 13:33:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8264</id>
+              <type id="151">Entity</type>
+              <title>Experiment Farm Cottage (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2012-08-23 13:32:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.01241378487 -33.819906974313)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>80462</id>
+          <type id="150">Factoid</type>
+          <title>National Trust of Australia (NSW), Property, Owned, Experiment Farm Cottage</title>
+          <added>2012-08-23 13:35:19</added>
+          <modified>2012-08-23 13:35:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>11720</id>
+              <type id="151">Entity</type>
+              <title>National Trust of Australia (NSW) (Organisation)</title>
+              <added>2009-06-10 16:03:01</added>
+              <modified>2010-02-02 16:40:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">National Trust of Australia (NSW)</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">An independent community-based organisation that has advocated the conservation of built, cultural and natural heritage since its foundation in Sydney in the 1940s.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8264</id>
+              <type id="151">Entity</type>
+              <title>Experiment Farm Cottage (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2012-08-23 13:32:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1960</raw>
+            <year>1960</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>62064</id>
+          <type id="52">Record relationship</type>
+          <title>(40382 isOf 8264)</title>
+          <added>2011-08-25 12:25:32</added>
+          <modified>2011-08-25 12:25:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>40382</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Experiment Farm Cottage, Parramatta 2009</title>
+              <added>2010-07-07 21:43:21</added>
+              <modified>2011-05-20 23:33:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-07-07</raw>
+                <year>2010</year>
+                <month>7</month>
+                <day>7</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage, Parramatta 2009</detail>
+              <detail id="365" type="Subject" name="dc.creator">angusf</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>2009</raw>
+                <year>2009</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-Generic</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/angusf/3915648934/</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/angusf/3915648934/</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4788</id>
+                  <type id="153">Contributor</type>
+                  <title>Flickr</title>
+                  <added>2009-03-24 10:55:18</added>
+                  <modified>2009-03-24 10:55:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Flickr</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.flickr.com/</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 11315\nP-Related: Economy</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>3454</id>
+                  <nonce>13fa3dfc1cddcf3f1281d305e6504107476714c6</nonce>
+                  <origName>3915648934_aec72857f3_b.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>708.7 kb</size>
+                  <date>2010-07-07 21:43:21</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/3915648934_aec72857f3_b.jpg?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>39296</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Land</title>
+                  <added>2010-05-13 14:37:41</added>
+                  <modified>2010-07-19 10:20:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">310</detail>
+                  <detail id="199" type="Resource" name="target">40382</detail>
+                  <detail id="160" type="Title" name="dc.title">Land</detail>
+                  <detail id="191" type="Extended description" name="caption">In 1789, Governor Phillip chose former convict James Ruse in an experiment to see how long it would take a man to support himself and his family. Ruse was granted cleared land, clothes and food for 15 months, and became successfully self-sufficient. In 1793, Ruse sold his farm to surgeon John Harris who built the substantial colonial Indian-style bungalow which still stands.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">82</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>62064</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40382 isOf 8264)</title>
+                  <added>2011-08-25 12:25:32</added>
+                  <modified>2011-08-25 12:25:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40382</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Experiment Farm Cottage, Parramatta 2009</title>
+                      <added>2010-07-07 21:43:21</added>
+                      <modified>2011-05-20 23:33:08</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage, Parramatta 2009</detail>
+                      <detail id="365" type="Subject" name="dc.creator">angusf</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-Generic</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11315\nP-Related: Economy</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3454</id>
+                          <nonce>13fa3dfc1cddcf3f1281d305e6504107476714c6</nonce>
+                          <origName>3915648934_aec72857f3_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>708.7 kb</size>
+                          <date>2010-07-07 21:43:21</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/3915648934_aec72857f3_b.jpg?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8264</id>
+                      <type id="151">Entity</type>
+                      <title>Experiment Farm Cottage (Building)</title>
+                      <added>2009-06-10 15:58:47</added>
+                      <modified>2012-08-23 13:32:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>62065</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40382 isOf 16037)</title>
+                  <added>2011-08-25 12:25:53</added>
+                  <modified>2011-08-25 12:25:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40382</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Experiment Farm Cottage, Parramatta 2009</title>
+                      <added>2010-07-07 21:43:21</added>
+                      <modified>2011-05-20 23:33:08</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage, Parramatta 2009</detail>
+                      <detail id="365" type="Subject" name="dc.creator">angusf</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-Generic</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11315\nP-Related: Economy</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3454</id>
+                          <nonce>13fa3dfc1cddcf3f1281d305e6504107476714c6</nonce>
+                          <origName>3915648934_aec72857f3_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>708.7 kb</size>
+                          <date>2010-07-07 21:43:21</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/3915648934_aec72857f3_b.jpg?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>16037</id>
+                      <type id="151">Entity</type>
+                      <title>Experiment Farm (Place)</title>
+                      <added>2009-06-10 16:07:21</added>
+                      <modified>2011-08-30 14:54:26</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Farm established as an experiment to establish if small landholdings could become self-sufficient in the new colony. It is situated on the first land grant in 1789 to James Ruse.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>62066</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40382 isOf 17190)</title>
+                  <added>2011-08-25 12:26:12</added>
+                  <modified>2011-08-25 12:26:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40382</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Experiment Farm Cottage, Parramatta 2009</title>
+                      <added>2010-07-07 21:43:21</added>
+                      <modified>2011-05-20 23:33:08</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage, Parramatta 2009</detail>
+                      <detail id="365" type="Subject" name="dc.creator">angusf</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-Generic</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11315\nP-Related: Economy</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3454</id>
+                          <nonce>13fa3dfc1cddcf3f1281d305e6504107476714c6</nonce>
+                          <origName>3915648934_aec72857f3_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>708.7 kb</size>
+                          <date>2010-07-07 21:43:21</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/3915648934_aec72857f3_b.jpg?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>17190</id>
+                      <type id="151">Entity</type>
+                      <title>Parramatta (Place)</title>
+                      <added>2009-06-10 16:07:37</added>
+                      <modified>2012-09-06 11:53:03</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Parramatta</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Sydney's second European settlement, built on the land of the Burramattagal people, which became a successful farming settlement and later a thriving suburban hub.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">60209</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Parramatta | Rose Hill |</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>81140</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40382 hasSubject 6194)</title>
+                  <added>2012-09-04 09:34:59</added>
+                  <modified>2012-09-04 09:34:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40382</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Experiment Farm Cottage, Parramatta 2009</title>
+                      <added>2010-07-07 21:43:21</added>
+                      <modified>2011-05-20 23:33:08</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage, Parramatta 2009</detail>
+                      <detail id="365" type="Subject" name="dc.creator">angusf</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-Generic</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11315\nP-Related: Economy</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3454</id>
+                          <nonce>13fa3dfc1cddcf3f1281d305e6504107476714c6</nonce>
+                          <origName>3915648934_aec72857f3_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>708.7 kb</size>
+                          <date>2010-07-07 21:43:21</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/3915648934_aec72857f3_b.jpg?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6194</id>
+                      <type id="152">Term</type>
+                      <title>Residential building</title>
+                      <added>2009-05-25 14:56:55</added>
+                      <modified>2009-05-25 14:56:55</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Residential building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81141</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40382 hasSubject 5880)</title>
+                  <added>2012-09-04 09:35:20</added>
+                  <modified>2012-09-04 09:35:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40382</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Experiment Farm Cottage, Parramatta 2009</title>
+                      <added>2010-07-07 21:43:21</added>
+                      <modified>2011-05-20 23:33:08</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage, Parramatta 2009</detail>
+                      <detail id="365" type="Subject" name="dc.creator">angusf</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-Generic</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11315\nP-Related: Economy</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3454</id>
+                          <nonce>13fa3dfc1cddcf3f1281d305e6504107476714c6</nonce>
+                          <origName>3915648934_aec72857f3_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>708.7 kb</size>
+                          <date>2010-07-07 21:43:21</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/3915648934_aec72857f3_b.jpg?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5880</id>
+                      <type id="152">Term</type>
+                      <title>Colonial architecture</title>
+                      <added>2009-05-25 14:56:18</added>
+                      <modified>2009-05-25 14:56:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Colonial architecture</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8264</id>
+              <type id="151">Entity</type>
+              <title>Experiment Farm Cottage (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2012-08-23 13:32:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>27180</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Experiment Farm Cottage</title>
+                  <added>2009-10-01 10:39:49</added>
+                  <modified>2009-10-01 10:39:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+                  <detail id="199" type="Resource" name="target">8264</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">370</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">123</detail>
+                  <detail id="330" type="End Word" name="End Word">125</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8265</id>
+                  <type id="150">Factoid</type>
+                  <title>Experiment Farm Cottage, Type, House</title>
+                  <added>2009-06-10 15:58:47</added>
+                  <modified>2009-06-10 15:58:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8264</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6978</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>80459</id>
+                  <type id="150">Factoid</type>
+                  <title>Harris, John, Property, Owned, Experiment Farm Cottage</title>
+                  <added>2012-08-23 13:25:12</added>
+                  <modified>2012-08-23 13:25:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13734</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8264</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">1798</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1838</raw>
+                    <year>1838</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>80460</id>
+                  <type id="150">Factoid</type>
+                  <title>Experiment Farm Cottage, Relationship, Part of, Experiment Farm</title>
+                  <added>2012-08-23 13:30:45</added>
+                  <modified>2012-09-11 12:55:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8264</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Relationship</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">57810</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">16037</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>80461</id>
+                  <type id="150">Factoid</type>
+                  <title>Experiment Farm Cottage, TimePlace</title>
+                  <added>2012-08-23 13:33:50</added>
+                  <modified>2012-08-23 13:33:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8264</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.01241378487 -33.819906974313)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>80462</id>
+                  <type id="150">Factoid</type>
+                  <title>National Trust of Australia (NSW), Property, Owned, Experiment Farm Cottage</title>
+                  <added>2012-08-23 13:35:19</added>
+                  <modified>2012-08-23 13:35:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">11720</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8264</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1960</raw>
+                    <year>1960</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>62064</id>
+                  <type id="52">Record relationship</type>
+                  <title>(40382 isOf 8264)</title>
+                  <added>2011-08-25 12:25:32</added>
+                  <modified>2011-08-25 12:25:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>40382</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Experiment Farm Cottage, Parramatta 2009</title>
+                      <added>2010-07-07 21:43:21</added>
+                      <modified>2011-05-20 23:33:08</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-07</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>7</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage, Parramatta 2009</detail>
+                      <detail id="365" type="Subject" name="dc.creator">angusf</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-Generic</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/angusf/3915648934/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11315\nP-Related: Economy</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3454</id>
+                          <nonce>13fa3dfc1cddcf3f1281d305e6504107476714c6</nonce>
+                          <origName>3915648934_aec72857f3_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>708.7 kb</size>
+                          <date>2010-07-07 21:43:21</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/3915648934_aec72857f3_b.jpg?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=13fa3dfc1cddcf3f1281d305e6504107476714c6</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8264</id>
+                      <type id="151">Entity</type>
+                      <title>Experiment Farm Cottage (Building)</title>
+                      <added>2009-06-10 15:58:47</added>
+                      <modified>2012-08-23 13:32:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Experiment Farm Cottage</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Georgian Colonial house set in a small domestic garden of mature trees.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

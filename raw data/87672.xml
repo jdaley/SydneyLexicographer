@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:87672" w="a" depth="2" />
+  <dateStamp>2013-02-17T08:37:45+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>87672</id>
+      <type id="151">Entity</type>
+      <title>Duxford House (Building)</title>
+      <added>2013-01-17 12:37:54</added>
+      <modified>2013-01-17 12:40:58</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Duxford House</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">House built on the 7 acre Paddington land grant of John Gurner about 1843. It has now been demolished.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>87673</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Duxford House</title>
+          <added>2013-01-17 12:38:10</added>
+          <modified>2013-01-17 12:38:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Duxford House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>87672</id>
+              <type id="151">Entity</type>
+              <title>Duxford House (Building)</title>
+              <added>2013-01-17 12:37:54</added>
+              <modified>2013-01-17 12:40:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Duxford House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built on the 7 acre Paddington land grant of John Gurner about 1843. It has now been demolished.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>86841</id>
+              <type id="98">XML Document</type>
+              <title>Paddington</title>
+              <added>2012-12-13 10:41:10</added>
+              <modified>2013-02-07 11:01:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8261</id>
+                  <nonce>e6fa849fa27067108169e21b93ff0a1ec009d4ef</nonce>
+                  <origName>Paddington.xml</origName>
+                  <type>application/xml</type>
+                  <size>105 kb</size>
+                  <date>2013-02-07 11:01:07</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Paddington.xml?file_id=e6fa849fa27067108169e21b93ff0a1ec009d4ef</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e6fa849fa27067108169e21b93ff0a1ec009d4ef</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Paddington</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built on Gadigal land in Sydney's east, Paddington has been one of Sydney's most desirable suburbs and one of its least, at different times.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-12-13</raw>
+                <year>2012</year>
+                <month>12</month>
+                <day>13</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2020</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">100</detail>
+          <detail id="330" type="End Word" name="End Word">101</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>87674</id>
+          <type id="150">Factoid</type>
+          <title>Gurner, John, Property, Owned, Duxford House</title>
+          <added>2013-01-17 12:39:21</added>
+          <modified>2013-01-17 12:39:21</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>87666</id>
+              <type id="151">Entity</type>
+              <title>Gurner, John (Person)</title>
+              <added>2013-01-17 12:30:02</added>
+              <modified>2013-01-17 12:30:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gurner, John</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Chief clerk of the Supreme Court who left government service in 1841 to pursue more lucrative private practice as a solicitor.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>87672</id>
+              <type id="151">Entity</type>
+              <title>Duxford House (Building)</title>
+              <added>2013-01-17 12:37:54</added>
+              <modified>2013-01-17 12:40:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Duxford House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built on the 7 acre Paddington land grant of John Gurner about 1843. It has now been demolished.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1843</raw>
+            <year>1843</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1882</raw>
+            <year>1882</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>87675</id>
+          <type id="150">Factoid</type>
+          <title>Duxford House, Type, House</title>
+          <added>2013-01-17 12:40:14</added>
+          <modified>2013-01-17 12:40:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>87672</id>
+              <type id="151">Entity</type>
+              <title>Duxford House (Building)</title>
+              <added>2013-01-17 12:37:54</added>
+              <modified>2013-01-17 12:40:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Duxford House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built on the 7 acre Paddington land grant of John Gurner about 1843. It has now been demolished.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>87676</id>
+          <type id="150">Factoid</type>
+          <title>Duxford House, TimePlace</title>
+          <added>2013-01-17 12:42:21</added>
+          <modified>2013-01-17 12:42:21</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>87672</id>
+              <type id="151">Entity</type>
+              <title>Duxford House (Building)</title>
+              <added>2013-01-17 12:37:54</added>
+              <modified>2013-01-17 12:40:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Duxford House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built on the 7 acre Paddington land grant of John Gurner about 1843. It has now been demolished.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.23066334426 -33.882783627037)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>87677</id>
+          <type id="150">Factoid</type>
+          <title>Broughton, Thomas Stafford, Property, Owned, Duxford House</title>
+          <added>2013-01-17 12:44:12</added>
+          <modified>2013-01-17 12:51:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13108</id>
+              <type id="151">Entity</type>
+              <title>Broughton, Thomas Stafford (Person)</title>
+              <added>2009-06-10 16:04:09</added>
+              <modified>2012-01-31 11:28:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Broughton, Thomas Stafford</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tailor who became a grazier, alderman, Mayor and member of the Legislative Assembly, and owned land in Paddington and Artarmon.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71767</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>87672</id>
+              <type id="151">Entity</type>
+              <title>Duxford House (Building)</title>
+              <added>2013-01-17 12:37:54</added>
+              <modified>2013-01-17 12:40:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Duxford House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built on the 7 acre Paddington land grant of John Gurner about 1843. It has now been demolished.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1886</raw>
+            <year>1886</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1898</raw>
+            <year>1898</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

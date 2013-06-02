@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:7930" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:12:42+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>7930</id>
+      <type id="151">Entity</type>
+      <title>APA Building (Building)</title>
+      <added>2009-06-10 15:58:44</added>
+      <modified>2010-10-13 14:26:33</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">APA Building</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Office block built in the new extension to Martin Place in 1936-7, in the Art Deco or Jazz Modern style.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">53-63 Martin Place, Sydney</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>20238</id>
+          <type id="99">TEI Document Reference</type>
+          <title>APA Building</title>
+          <added>2009-07-14 14:10:40</added>
+          <modified>2009-07-14 14:10:40</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">APA Building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7930</id>
+              <type id="151">Entity</type>
+              <title>APA Building (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-10-13 14:26:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">APA Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office block built in the new extension to Martin Place in 1936-7, in the Art Deco or Jazz Modern style.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">53-63 Martin Place, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>148</id>
+              <type id="98">XML Document</type>
+              <title>Allens Arthur Robinson</title>
+              <added>2008-10-22 13:11:29</added>
+              <modified>2009-07-20 11:30:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>9</id>
+                  <nonce>4aa7e8df8f1591c96ea70f5b0250476bc7e1a236</nonce>
+                  <origName>Allens Arthur Robinson.xml</origName>
+                  <type>application/xml</type>
+                  <size>50 kb</size>
+                  <date>2008-10-24 10:31:41</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Allens+Arthur+Robinson.xml?file_id=4aa7e8df8f1591c96ea70f5b0250476bc7e1a236</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=4aa7e8df8f1591c96ea70f5b0250476bc7e1a236</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Allens Arthur Robinson</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of Sydney's oldest law firms, Allens has been part of the legal, commercial and architectural history of the city.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3009</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">63</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,11</detail>
+          <detail id="329" type="Start Word" name="Start Word">23</detail>
+          <detail id="330" type="End Word" name="End Word">24</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>44725</id>
+          <type id="99">TEI Document Reference</type>
+          <title>APA Building</title>
+          <added>2010-10-11 15:11:31</added>
+          <modified>2010-10-11 15:11:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">APA Building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7930</id>
+              <type id="151">Entity</type>
+              <title>APA Building (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-10-13 14:26:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">APA Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office block built in the new extension to Martin Place in 1936-7, in the Art Deco or Jazz Modern style.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">53-63 Martin Place, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>44705</id>
+              <type id="98">XML Document</type>
+              <title>Martin Place</title>
+              <added>2010-10-11 14:31:36</added>
+              <modified>2010-10-13 14:21:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3966</id>
+                  <nonce>a550b9a5cdc7ec2a804cde6ffca2f4aaf744bcba</nonce>
+                  <origName>Martin+Place.xml</origName>
+                  <type>application/xml</type>
+                  <size>40.1 kb</size>
+                  <date>2010-10-13 14:21:47</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Martin%2BPlace.xml?file_id=a550b9a5cdc7ec2a804cde6ffca2f4aaf744bcba</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a550b9a5cdc7ec2a804cde6ffca2f4aaf744bcba</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Martin Place</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A pedestrian street created in stages from the 1980s to the 1970s, Martin Place has been called the heart of the city.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-10-11</raw>
+                <year>2010</year>
+                <month>10</month>
+                <day>11</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1064</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,9</detail>
+          <detail id="329" type="Start Word" name="Start Word">62</detail>
+          <detail id="330" type="End Word" name="End Word">63</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>7931</id>
+          <type id="150">Factoid</type>
+          <title>APA Building, Type, Office block</title>
+          <added>2009-06-10 15:58:44</added>
+          <modified>2009-06-10 15:58:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7930</id>
+              <type id="151">Entity</type>
+              <title>APA Building (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-10-13 14:26:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">APA Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office block built in the new extension to Martin Place in 1936-7, in the Art Deco or Jazz Modern style.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">53-63 Martin Place, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7021</id>
+              <type id="91">Role</type>
+              <title>Office block</title>
+              <added>2009-06-10 15:56:17</added>
+              <modified>2009-06-10 15:56:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Office block</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41453</id>
+          <type id="150">Factoid</type>
+          <title>APA Building, Milestone, Constructed</title>
+          <added>2010-07-26 14:48:48</added>
+          <modified>2010-07-26 14:48:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7930</id>
+              <type id="151">Entity</type>
+              <title>APA Building (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-10-13 14:26:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">APA Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office block built in the new extension to Martin Place in 1936-7, in the Art Deco or Jazz Modern style.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">53-63 Martin Place, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1936</raw>
+            <year>1936</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1938</raw>
+            <year>1938</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51705</id>
+          <type id="150">Factoid</type>
+          <title>APA Building, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:20</added>
+          <modified>2011-02-16 16:03:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">APA Building</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7930</id>
+              <type id="151">Entity</type>
+              <title>APA Building (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-10-13 14:26:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">APA Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office block built in the new extension to Martin Place in 1936-7, in the Art Deco or Jazz Modern style.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">53-63 Martin Place, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.21085392193 -33.867990983406)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>73256</id>
+          <type id="150">Factoid</type>
+          <title>Allens Arthur Robinson, Property, Occupied, APA Building</title>
+          <added>2012-02-17 15:24:05</added>
+          <modified>2012-02-17 15:24:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>10042</id>
+              <type id="151">Entity</type>
+              <title>Allens Arthur Robinson (Organisation)</title>
+              <added>2009-06-10 16:02:41</added>
+              <modified>2012-02-17 14:04:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Allens Arthur Robinson</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Law firm dating back to colonial times. Recent growth has been through mergers and acquisitions.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">entity and entry already exist. Add other names | Allen Allen and Hemsley | Allen and Allen</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>7930</id>
+              <type id="151">Entity</type>
+              <title>APA Building (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-10-13 14:26:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">APA Building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office block built in the new extension to Martin Place in 1936-7, in the Art Deco or Jazz Modern style.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">53-63 Martin Place, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1936</raw>
+            <year>1936</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1960</raw>
+            <year>1960</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,1048 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8227" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:30:38+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8227</id>
+      <type id="151">Entity</type>
+      <title>Dymocks building (Building)</title>
+      <added>2009-06-10 15:58:46</added>
+      <modified>2011-05-04 16:50:53</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>32403</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Dymocks building</title>
+          <added>2009-10-22 07:35:00</added>
+          <modified>2009-10-22 07:35:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>397</id>
+              <type id="98">XML Document</type>
+              <title>Jews</title>
+              <added>2008-10-22 13:12:10</added>
+              <modified>2009-10-29 14:58:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>482</id>
+                  <nonce>e9b9b6b6ea52b110a17eb1ff8ff6660632c60d0f</nonce>
+                  <origName>Jews.xml</origName>
+                  <type>application/xml</type>
+                  <size>70.8 kb</size>
+                  <date>2009-02-05 13:13:25</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Jews.xml?file_id=e9b9b6b6ea52b110a17eb1ff8ff6660632c60d0f</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e9b9b6b6ea52b110a17eb1ff8ff6660632c60d0f</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Jews</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">There has been a Jewish community in Sydney since the beginning of European settlement. With the Jewish free settlers who arrived from the 1820s, they built businesses and congregations in Sydney. In the late-nineteenth century, a new group of Jewish immigrants arrived from Eastern Europe, fleeing pogroms and persecution. Jewish Sydneysiders were active in public life and in business, settling in the eastern and inner western suburbs. The community doubled in size after World War II as immigration increased, and the community developed new educational and cultural organisations as well as a broader range of religious congregations.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2940</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">122</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">37</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36124</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Dymocks building</title>
+          <added>2009-11-19 09:17:27</added>
+          <modified>2009-11-19 09:17:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>428</id>
+              <type id="98">XML Document</type>
+              <title>Lightfoot, Louise</title>
+              <added>2008-10-22 13:12:14</added>
+              <modified>2012-02-14 14:42:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7353</id>
+                  <nonce>7d51f2c3e280a097c89eb52d2a7e5ca445cb3cd0</nonce>
+                  <origName>Lightfoot,+Louise.xml</origName>
+                  <type>application/xml</type>
+                  <size>50.1 kb</size>
+                  <date>2012-02-14 14:42:01</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lightfoot%2C%2BLouise.xml?file_id=7d51f2c3e280a097c89eb52d2a7e5ca445cb3cd0</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7d51f2c3e280a097c89eb52d2a7e5ca445cb3cd0</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Lightfoot, Louise</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A trained architect who became a dancer and teacher, Louise Lightfoot made major contributions to two forms of dance, classical ballet and Indian dance. She founded the First Australian Ballet, and later was an advocate, teacher and entrepreneur of Indian dance forms.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2811</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">88</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">14</detail>
+          <detail id="330" type="End Word" name="End Word">15</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>39262</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Dymocks building</title>
+          <added>2010-05-07 12:00:56</added>
+          <modified>2010-05-07 12:00:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>39251</id>
+              <type id="98">XML Document</type>
+              <title>Barnett Levey's Theatre Royal</title>
+              <added>2010-05-07 11:23:08</added>
+              <modified>2010-05-07 11:23:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3386</id>
+                  <nonce>3f6fa58f027ef083125f645213f1e8580322d4f3</nonce>
+                  <origName>Barnett Levey's Theatre Royal.xml</origName>
+                  <type>application/xml</type>
+                  <size>30.8 kb</size>
+                  <date>2010-05-07 10:56:05</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Barnett+Levey%27s+Theatre+Royal.xml?file_id=3f6fa58f027ef083125f645213f1e8580322d4f3</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3f6fa58f027ef083125f645213f1e8580322d4f3</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Barnett Levey's Theatre Royal</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The first commercial theatre in Sydney had a shaky start, and its owner Barnett Levey had problems with licensing, financing and bankruptcy. Despite this, it saw the first professional production of Shakespeare in Australia and formed part of the foundation of Sydney's ongoing theatrical culture.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-05-07</raw>
+                <year>2010</year>
+                <month>5</month>
+                <day>7</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2742</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">34</detail>
+          <detail id="330" type="End Word" name="End Word">35</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>41254</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Dymocks building</title>
+          <added>2010-07-22 16:54:42</added>
+          <modified>2010-07-22 16:54:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>40988</id>
+              <type id="98">XML Document</type>
+              <title>Opera</title>
+              <added>2010-07-20 15:59:19</added>
+              <modified>2010-07-22 16:58:35</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3639</id>
+                  <nonce>5d5ad76e665843dfeb3456ed50bd867dc5356e41</nonce>
+                  <origName>Opera.xml</origName>
+                  <type>application/xml</type>
+                  <size>82.8 kb</size>
+                  <date>2010-07-22 16:58:31</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Opera.xml?file_id=5d5ad76e665843dfeb3456ed50bd867dc5356e41</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5d5ad76e665843dfeb3456ed50bd867dc5356e41</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Opera</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Pioneered by convicts, opera has entertained all classes of Sydneysiders since 1796.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-07-20</raw>
+                <year>2010</year>
+                <month>7</month>
+                <day>20</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3105</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">40987</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">37</detail>
+          <detail id="330" type="End Word" name="End Word">38</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8228</id>
+          <type id="150">Factoid</type>
+          <title>Dymocks building, Type, Office block</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7021</id>
+              <type id="91">Role</type>
+              <title>Office block</title>
+              <added>2009-06-10 15:56:17</added>
+              <modified>2009-06-10 15:56:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Office block</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>39270</id>
+          <type id="150">Factoid</type>
+          <title>Dymocks building, Milestone, Constructed</title>
+          <added>2010-05-07 12:17:51</added>
+          <modified>2010-05-07 12:17:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1926</raw>
+            <year>1926</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1932</raw>
+            <year>1932</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51588</id>
+          <type id="150">Factoid</type>
+          <title>Dymocks building, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:48:45</added>
+          <modified>2011-02-16 16:03:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20723050103 -33.86993245554)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>55741</id>
+          <type id="150">Factoid</type>
+          <title>Dymocks building, Name, Alternate</title>
+          <added>2011-05-04 16:51:14</added>
+          <modified>2011-05-04 16:51:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">The Block</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>48228</id>
+          <type id="52">Record relationship</type>
+          <title>(48227 isOf 8227)</title>
+          <added>2010-12-13 15:33:09</added>
+          <modified>2010-12-13 15:33:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>48227</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</title>
+              <added>2010-12-13 15:33:09</added>
+              <modified>2011-05-20 23:32:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-12-13</raw>
+                <year>2010</year>
+                <month>12</month>
+                <day>13</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</detail>
+              <detail id="365" type="Subject" name="dc.creator">Hood, Sam</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1938</raw>
+                <year>1938</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_09148 / Home and Away - 9148</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4813</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2009-10-29 10:35:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12462 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4337</id>
+                  <nonce>0273d091a60d5807c67735edac8334481a59c31f</nonce>
+                  <origName>hood_09148h.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>219.6 kb</size>
+                  <date>2010-12-13 15:33:09</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/hood_09148h.jpg?file_id=0273d091a60d5807c67735edac8334481a59c31f</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0273d091a60d5807c67735edac8334481a59c31f</thumbURL>
+                </file>
+              </detail>
+              <relationships>
+                <record>
+                  <id>48228</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48227 isOf 8227)</title>
+                  <added>2010-12-13 15:33:09</added>
+                  <modified>2010-12-13 15:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48227</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hood, Sam</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1938</raw>
+                        <year>1938</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_09148 / Home and Away - 9148</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12462 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4337</id>
+                          <nonce>0273d091a60d5807c67735edac8334481a59c31f</nonce>
+                          <origName>hood_09148h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>219.6 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/hood_09148h.jpg?file_id=0273d091a60d5807c67735edac8334481a59c31f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0273d091a60d5807c67735edac8334481a59c31f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8227</id>
+                      <type id="151">Entity</type>
+                      <title>Dymocks building (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2011-05-04 16:50:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>79465</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48227 isOf 55737)</title>
+                  <added>2012-08-09 15:40:37</added>
+                  <modified>2012-08-09 15:40:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48227</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hood, Sam</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1938</raw>
+                        <year>1938</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_09148 / Home and Away - 9148</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12462 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4337</id>
+                          <nonce>0273d091a60d5807c67735edac8334481a59c31f</nonce>
+                          <origName>hood_09148h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>219.6 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/hood_09148h.jpg?file_id=0273d091a60d5807c67735edac8334481a59c31f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0273d091a60d5807c67735edac8334481a59c31f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>55737</id>
+                      <type id="151">Entity</type>
+                      <title>Dymocks (Organisation)</title>
+                      <added>2011-05-04 16:44:41</added>
+                      <modified>2011-06-17 09:31:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Dymocks</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Bookselling business begun by William Dymock in 1879 in Market Street. It moved to its current location in George Street in 1932.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>80762</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48227 hasSubject 5881)</title>
+                  <added>2012-08-28 14:41:04</added>
+                  <modified>2012-08-28 14:41:04</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48227</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hood, Sam</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1938</raw>
+                        <year>1938</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_09148 / Home and Away - 9148</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12462 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4337</id>
+                          <nonce>0273d091a60d5807c67735edac8334481a59c31f</nonce>
+                          <origName>hood_09148h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>219.6 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/hood_09148h.jpg?file_id=0273d091a60d5807c67735edac8334481a59c31f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0273d091a60d5807c67735edac8334481a59c31f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5881</id>
+                      <type id="152">Term</type>
+                      <title>Commercial building</title>
+                      <added>2009-05-25 14:56:19</added>
+                      <modified>2009-05-25 14:56:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commercial building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>80763</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48227 hasSubject 6197)</title>
+                  <added>2012-08-28 14:41:23</added>
+                  <modified>2012-08-28 14:41:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48227</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hood, Sam</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1938</raw>
+                        <year>1938</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_09148 / Home and Away - 9148</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12462 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4337</id>
+                          <nonce>0273d091a60d5807c67735edac8334481a59c31f</nonce>
+                          <origName>hood_09148h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>219.6 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/hood_09148h.jpg?file_id=0273d091a60d5807c67735edac8334481a59c31f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0273d091a60d5807c67735edac8334481a59c31f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6197</id>
+                      <type id="152">Term</type>
+                      <title>Retail</title>
+                      <added>2009-05-25 14:56:55</added>
+                      <modified>2009-05-25 14:56:55</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Retail</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>80798</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48227 hasSubject 6047)</title>
+                  <added>2012-08-28 15:52:08</added>
+                  <modified>2012-08-28 15:52:08</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48227</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hood, Sam</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1938</raw>
+                        <year>1938</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_09148 / Home and Away - 9148</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12462 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4337</id>
+                          <nonce>0273d091a60d5807c67735edac8334481a59c31f</nonce>
+                          <origName>hood_09148h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>219.6 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/hood_09148h.jpg?file_id=0273d091a60d5807c67735edac8334481a59c31f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0273d091a60d5807c67735edac8334481a59c31f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6047</id>
+                      <type id="152">Term</type>
+                      <title>Interior design</title>
+                      <added>2009-05-25 14:56:37</added>
+                      <modified>2009-05-25 14:56:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Interior design</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8227</id>
+              <type id="151">Entity</type>
+              <title>Dymocks building (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2011-05-04 16:50:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>32403</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dymocks building</title>
+                  <added>2009-10-22 07:35:00</added>
+                  <modified>2009-10-22 07:35:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+                  <detail id="199" type="Resource" name="target">8227</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">37</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>36124</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dymocks building</title>
+                  <added>2009-11-19 09:17:27</added>
+                  <modified>2009-11-19 09:17:27</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+                  <detail id="199" type="Resource" name="target">8227</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">428</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">14</detail>
+                  <detail id="330" type="End Word" name="End Word">15</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>39262</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dymocks building</title>
+                  <added>2010-05-07 12:00:56</added>
+                  <modified>2010-05-07 12:00:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+                  <detail id="199" type="Resource" name="target">8227</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">39251</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">34</detail>
+                  <detail id="330" type="End Word" name="End Word">35</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>41254</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dymocks building</title>
+                  <added>2010-07-22 16:54:42</added>
+                  <modified>2010-07-22 16:54:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+                  <detail id="199" type="Resource" name="target">8227</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">40988</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">37</detail>
+                  <detail id="330" type="End Word" name="End Word">38</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8228</id>
+                  <type id="150">Factoid</type>
+                  <title>Dymocks building, Type, Office block</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8227</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7021</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>39270</id>
+                  <type id="150">Factoid</type>
+                  <title>Dymocks building, Milestone, Constructed</title>
+                  <added>2010-05-07 12:17:51</added>
+                  <modified>2010-05-07 12:17:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8227</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1926</raw>
+                    <year>1926</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1932</raw>
+                    <year>1932</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51588</id>
+                  <type id="150">Factoid</type>
+                  <title>Dymocks building, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:48:45</added>
+                  <modified>2011-02-16 16:03:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8227</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20723050103 -33.86993245554)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>55741</id>
+                  <type id="150">Factoid</type>
+                  <title>Dymocks building, Name, Alternate</title>
+                  <added>2011-05-04 16:51:14</added>
+                  <modified>2011-05-04 16:51:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8227</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">The Block</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>48228</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48227 isOf 8227)</title>
+                  <added>2010-12-13 15:33:09</added>
+                  <modified>2010-12-13 15:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48227</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Entrance to Dymock's Book Arcade with Melocco Bros terrazzo paving, April 1938</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hood, Sam</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1938</raw>
+                        <year>1938</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_09148 / Home and Away - 9148</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12462 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=11573</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4337</id>
+                          <nonce>0273d091a60d5807c67735edac8334481a59c31f</nonce>
+                          <origName>hood_09148h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>219.6 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/hood_09148h.jpg?file_id=0273d091a60d5807c67735edac8334481a59c31f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0273d091a60d5807c67735edac8334481a59c31f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8227</id>
+                      <type id="151">Entity</type>
+                      <title>Dymocks building (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2011-05-04 16:50:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Dymocks building</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Office and multistorey retail arcade building in George Street, opened in 1932 on the site occupied in part by Dymocks bookshop since 1890.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">424-430 George Street, Sydney</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

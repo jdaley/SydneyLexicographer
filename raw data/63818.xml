@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:63818" w="a" depth="2" />
+  <dateStamp>2013-02-17T05:10:10+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>63818</id>
+      <type id="151">Entity</type>
+      <title>213 Broadway (Building)</title>
+      <added>2011-09-21 10:06:26</added>
+      <modified>2011-09-28 09:01:32</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>27963</id>
+          <type id="99">TEI Document Reference</type>
+          <title>213 Broadway</title>
+          <added>2009-10-07 10:53:09</added>
+          <modified>2012-06-07 11:24:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>4522</id>
+              <type id="98">XML Document</type>
+              <title>Broadway</title>
+              <added>2009-02-17 16:09:32</added>
+              <modified>2010-10-21 12:15:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>537</id>
+                  <nonce>e60b6b01e642fcbb49020a15974bcaa195d25340</nonce>
+                  <origName>Broadway.xml</origName>
+                  <type>application/xml</type>
+                  <size>60.8 kb</size>
+                  <date>2009-02-17 16:10:08</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Broadway.xml?file_id=e60b6b01e642fcbb49020a15974bcaa195d25340</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e60b6b01e642fcbb49020a15974bcaa195d25340</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Broadway</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">After George Street West was widened in the 1930s, the name Broadway soon caught on, though the road had been the gateway to Sydney since early colonial days. A microscosm of the city, this place has seen industry, poverty, religion, commerce and redevelopment and repurposing of its buildings and surrounding areas.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1742</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">115</detail>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">82</detail>
+          <detail id="330" type="End Word" name="End Word">84</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>63819</id>
+          <type id="99">TEI Document Reference</type>
+          <title>213 Broadway</title>
+          <added>2011-09-21 10:06:38</added>
+          <modified>2011-09-21 10:06:38</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>62485</id>
+              <type id="98">XML Document</type>
+              <title>Grace Brothers</title>
+              <added>2011-09-06 14:43:11</added>
+              <modified>2011-09-06 14:43:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5248</id>
+                  <nonce>61f54ecb7d02f59ab46477898e0feefb75eff2ca</nonce>
+                  <origName>Grace Bros.xml</origName>
+                  <type>application/xml</type>
+                  <size>57.6 kb</size>
+                  <date>2011-09-06 14:39:57</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Grace+Bros.xml?file_id=61f54ecb7d02f59ab46477898e0feefb75eff2ca</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=61f54ecb7d02f59ab46477898e0feefb75eff2ca</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Grace Brothers</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A mainstay of Sydney shopping from the 1880s, Grace Bros was in the forefront of changes in retailing throughout the twentieth century.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-09-06</raw>
+                <year>2011</year>
+                <month>9</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">391</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">59656</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">20</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>63820</id>
+          <type id="150">Factoid</type>
+          <title>213 Broadway, Type, Department store</title>
+          <added>2011-09-21 10:08:15</added>
+          <modified>2011-09-28 10:02:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6933</id>
+              <type id="91">Role</type>
+              <title>Department store</title>
+              <added>2009-06-10 15:56:00</added>
+              <modified>2009-06-10 15:56:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Department store</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>63821</id>
+          <type id="150">Factoid</type>
+          <title>213 Broadway, Milestone, Constructed</title>
+          <added>2011-09-21 10:08:32</added>
+          <modified>2011-09-21 10:08:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1902</raw>
+            <year>1902</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1904</raw>
+            <year>1904</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>63822</id>
+          <type id="150">Factoid</type>
+          <title>Grace Brothers, Property, Occupied, 213 Broadway</title>
+          <added>2011-09-21 10:09:07</added>
+          <modified>2011-09-21 10:09:07</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>11120</id>
+              <type id="151">Entity</type>
+              <title>Grace Brothers (Organisation)</title>
+              <added>2009-06-10 16:02:54</added>
+              <modified>2010-09-15 14:47:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Grace Brothers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store chain founded in 1885 which became the first to expand into suburban locations, and survived when other city retailers closed. It was taken over by Myer in 1983, and rebranded Myer in 2004.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1904</raw>
+            <year>1904</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1994</raw>
+            <year>1994</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>63823</id>
+          <type id="150">Factoid</type>
+          <title>213 Broadway, Name, Alternate</title>
+          <added>2011-09-21 10:11:05</added>
+          <modified>2011-09-21 10:11:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Grace Bros Model and Moxham Store</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1904</raw>
+            <year>1904</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1994</raw>
+            <year>1994</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>63824</id>
+          <type id="150">Factoid</type>
+          <title>213 Broadway, Milestone, Modified</title>
+          <added>2011-09-21 10:11:36</added>
+          <modified>2011-09-21 10:11:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1995</raw>
+            <year>1995</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1995</raw>
+            <year>1995</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>63827</id>
+          <type id="150">Factoid</type>
+          <title>Newman, Walter, Position, Architect, 213 Broadway</title>
+          <added>2011-09-21 10:16:31</added>
+          <modified>2011-09-21 10:16:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>63825</id>
+              <type id="151">Entity</type>
+              <title>Newman, Walter (Person)</title>
+              <added>2011-09-21 10:15:29</added>
+              <modified>2011-09-21 10:15:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Newman, Walter</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1902</raw>
+            <year>1902</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1904</raw>
+            <year>1904</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>63829</id>
+          <type id="150">Factoid</type>
+          <title>213 Broadway, TimePlace</title>
+          <added>2011-09-21 10:20:49</added>
+          <modified>2011-09-21 10:20:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>63818</id>
+              <type id="151">Entity</type>
+              <title>213 Broadway (Building)</title>
+              <added>2011-09-21 10:06:26</added>
+              <modified>2011-09-28 09:01:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">213 Broadway</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Department store topped by a distinctive glass and steel globe which became a symbol of the Grace Brothers empire.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.19476675985 -33.884195353207)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

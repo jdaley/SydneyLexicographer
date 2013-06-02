@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8630" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:54:06+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8630</id>
+      <type id="151">Entity</type>
+      <title>Oddfellows Hall Ryde (Building)</title>
+      <added>2009-06-10 15:58:51</added>
+      <modified>2009-06-10 15:58:51</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Oddfellows Hall Ryde</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36303</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Oddfellows Hall Ryde</title>
+          <added>2009-11-19 12:16:59</added>
+          <modified>2009-11-19 12:16:59</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Oddfellows Hall Ryde</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8630</id>
+              <type id="151">Entity</type>
+              <title>Oddfellows Hall Ryde (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2009-06-10 15:58:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Oddfellows Hall Ryde</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>549</id>
+              <type id="98">XML Document</type>
+              <title>Ryde</title>
+              <added>2008-10-22 13:12:33</added>
+              <modified>2009-11-19 14:01:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3311</id>
+                  <nonce>32cc6567a454967a4af3a89e412808b2363d5d09</nonce>
+                  <origName>Ryde.xml</origName>
+                  <type>application/xml</type>
+                  <size>88.6 kb</size>
+                  <date>2009-11-19 14:01:03</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Ryde.xml?file_id=32cc6567a454967a4af3a89e412808b2363d5d09</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=32cc6567a454967a4af3a89e412808b2363d5d09</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Ryde</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wallumetta to its traditional owners, the Wallumedegal, the land that became Ryde was settled early and provided food to the growing town. From the 1870s, subdivision started, and the railway brought more development from 1886. In the twentieth century, Ryde became suburban and one of Sydney's earliest shopping centres was built there in 1957.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2427</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">6</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">40</detail>
+          <detail id="330" type="End Word" name="End Word">41</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8631</id>
+          <type id="150">Factoid</type>
+          <title>Oddfellows Hall Ryde, Type, Hall</title>
+          <added>2009-06-10 15:58:51</added>
+          <modified>2009-06-10 15:58:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8630</id>
+              <type id="151">Entity</type>
+              <title>Oddfellows Hall Ryde (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2009-06-10 15:58:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Oddfellows Hall Ryde</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6971</id>
+              <type id="91">Role</type>
+              <title>Hall</title>
+              <added>2009-06-10 15:56:07</added>
+              <modified>2009-06-10 15:56:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hall</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51638</id>
+          <type id="150">Factoid</type>
+          <title>Oddfellows Hall Ryde, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:10</added>
+          <modified>2011-02-16 16:03:25</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Oddfellows Hall Ryde</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8630</id>
+              <type id="151">Entity</type>
+              <title>Oddfellows Hall Ryde (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2009-06-10 15:58:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Oddfellows Hall Ryde</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.10441363273 -33.814891549735)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

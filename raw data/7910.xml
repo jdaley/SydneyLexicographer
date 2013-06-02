@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:7910" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:11:28+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>7910</id>
+      <type id="151">Entity</type>
+      <title>Al-Zahra mosque (Building)</title>
+      <added>2009-06-10 15:58:43</added>
+      <modified>2011-02-17 09:38:59</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Arncliffe's Shi'ite mosque, established in 1983.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>40352</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Al-Zahra Mosque, Arncliffe 2005</title>
+          <added>2010-07-07 21:43:17</added>
+          <modified>2011-05-20 23:33:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2010-07-07</raw>
+            <year>2010</year>
+            <month>7</month>
+            <day>7</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Al-Zahra Mosque, Arncliffe 2005</detail>
+          <detail id="365" type="Subject" name="dc.creator">Smith, Bentley</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2005</raw>
+            <year>2005</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+          <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/superciliousness/17056802/</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/superciliousness/17056802/</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4788</id>
+              <type id="153">Contributor</type>
+              <title>Flickr</title>
+              <added>2009-03-24 10:55:18</added>
+              <modified>2009-03-24 10:55:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Flickr</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.flickr.com/</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 11367\nP-Related: Egyptians</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>3428</id>
+              <nonce>c8c594480b129b040d22e698d16327af43a0b390</nonce>
+              <origName>17056802_7af91e54a7_b.jpg</origName>
+              <type>image/jpeg</type>
+              <size>802.2 kb</size>
+              <date>2010-07-07 21:43:17</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/17056802_7af91e54a7_b.jpg?file_id=c8c594480b129b040d22e698d16327af43a0b390</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c8c594480b129b040d22e698d16327af43a0b390</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="199" type="Resource" name="target">
+            <record>
+              <id>4304</id>
+              <type id="99">TEI Document Reference</type>
+              <title>The</title>
+              <added>2009-01-12 09:04:40</added>
+              <modified>2010-08-09 16:56:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="322" type="TEI Document Reference" name="annotates">313</detail>
+              <detail id="199" type="Resource" name="target">40352</detail>
+              <detail id="160" type="Title" name="dc.title">The</detail>
+              <detail id="191" type="Extended description" name="caption">Shi'ite Muslims from Lebanon settled around Arncliffe in Sydney, establishing the Al-Zahra Mosque in the 1980s. The people of the Shi'a Muslim community it now serves come from many different countries, including Egypt.</detail>
+              <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+              <detail id="329" type="Start Word" name="Start Word">34</detail>
+              <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+              <detail id="303" type="Short summary" name="dos.notes">IMG Al-Zahra mosque in Arncliffe.</detail>
+              <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+            </record>
+          </reversePointer>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>7910</id>
+              <type id="151">Entity</type>
+              <title>Al-Zahra mosque (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2011-02-17 09:38:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Arncliffe's Shi'ite mosque, established in 1983.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">40352</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1-3 Wollongong Road, Arncliffe</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>78805</id>
+              <type id="52">Record relationship</type>
+              <title>(40352 hasSubject 6192)</title>
+              <added>2012-07-31 10:26:23</added>
+              <modified>2012-07-31 10:26:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>40352</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Al-Zahra Mosque, Arncliffe 2005</title>
+                  <added>2010-07-07 21:43:17</added>
+                  <modified>2011-05-20 23:33:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-07-07</raw>
+                    <year>2010</year>
+                    <month>7</month>
+                    <day>7</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Al-Zahra Mosque, Arncliffe 2005</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Smith, Bentley</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2005</raw>
+                    <year>2005</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/superciliousness/17056802/</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/superciliousness/17056802/</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11367\nP-Related: Egyptians</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3428</id>
+                      <nonce>c8c594480b129b040d22e698d16327af43a0b390</nonce>
+                      <origName>17056802_7af91e54a7_b.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>802.2 kb</size>
+                      <date>2010-07-07 21:43:17</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/17056802_7af91e54a7_b.jpg?file_id=c8c594480b129b040d22e698d16327af43a0b390</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c8c594480b129b040d22e698d16327af43a0b390</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6192</id>
+                  <type id="152">Term</type>
+                  <title>Religious building</title>
+                  <added>2009-05-25 14:56:54</added>
+                  <modified>2009-05-25 14:56:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>79248</id>
+              <type id="52">Record relationship</type>
+              <title>(40352 hasSubject 78991)</title>
+              <added>2012-08-07 09:13:26</added>
+              <modified>2012-08-07 09:13:26</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>40352</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Al-Zahra Mosque, Arncliffe 2005</title>
+                  <added>2010-07-07 21:43:17</added>
+                  <modified>2011-05-20 23:33:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-07-07</raw>
+                    <year>2010</year>
+                    <month>7</month>
+                    <day>7</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Al-Zahra Mosque, Arncliffe 2005</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Smith, Bentley</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2005</raw>
+                    <year>2005</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/superciliousness/17056802/</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/superciliousness/17056802/</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11367\nP-Related: Egyptians</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3428</id>
+                      <nonce>c8c594480b129b040d22e698d16327af43a0b390</nonce>
+                      <origName>17056802_7af91e54a7_b.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>802.2 kb</size>
+                      <date>2010-07-07 21:43:17</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/17056802_7af91e54a7_b.jpg?file_id=c8c594480b129b040d22e698d16327af43a0b390</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c8c594480b129b040d22e698d16327af43a0b390</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>78991</id>
+                  <type id="152">Term</type>
+                  <title>Islam</title>
+                  <added>2012-08-02 14:18:14</added>
+                  <modified>2012-08-02 14:18:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Islam</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <detail id="303" type="Short summary" name="dos.notes">1-3 Wollongong Road, Arncliffe</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>35162</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Al-Zahra mosque</title>
+          <added>2009-11-12 08:48:00</added>
+          <modified>2009-11-12 08:48:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7910</id>
+              <type id="151">Entity</type>
+              <title>Al-Zahra mosque (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2011-02-17 09:38:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Arncliffe's Shi'ite mosque, established in 1983.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">40352</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1-3 Wollongong Road, Arncliffe</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>419</id>
+              <type id="98">XML Document</type>
+              <title>Lebanese</title>
+              <added>2008-10-22 13:12:13</added>
+              <modified>2009-10-15 15:36:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1625</id>
+                  <nonce>5decbba7050b4c62361c563082487d96f5531dc9</nonce>
+                  <origName>Lebanese.xml</origName>
+                  <type>application/xml</type>
+                  <size>129.7 kb</size>
+                  <date>2009-05-27 16:12:08</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lebanese.xml?file_id=5decbba7050b4c62361c563082487d96f5531dc9</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5decbba7050b4c62361c563082487d96f5531dc9</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Lebanese</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Once called Syrians, and considered Asian, early Lebanese Sydneysiders succeeded in business, politics and the professions, from humble beginnings in Redfern. Chain migration has kept village communities together and newer immigrants have created a diverse range of religious and social organisations.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2943</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">8</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">2422</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">7,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">50</detail>
+          <detail id="330" type="End Word" name="End Word">51</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>35472</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Al-Zahra mosque</title>
+          <added>2009-11-13 15:21:40</added>
+          <modified>2010-08-20 16:44:28</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7910</id>
+              <type id="151">Entity</type>
+              <title>Al-Zahra mosque (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2011-02-17 09:38:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Arncliffe's Shi'ite mosque, established in 1983.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">40352</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1-3 Wollongong Road, Arncliffe</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>313</id>
+              <type id="98">XML Document</type>
+              <title>Egyptians</title>
+              <added>2008-10-22 13:11:56</added>
+              <modified>2009-10-20 13:31:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>302</id>
+                  <nonce>86a228a360679d1f0dab3e9fc82a98b99cb3bd04</nonce>
+                  <origName>Egyptians.xml</origName>
+                  <type>application/xml</type>
+                  <size>45.1 kb</size>
+                  <date>2008-11-24 10:32:43</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Egyptians.xml?file_id=86a228a360679d1f0dab3e9fc82a98b99cb3bd04</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=86a228a360679d1f0dab3e9fc82a98b99cb3bd04</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Egyptians</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's Egyptians came in two waves, with Jews, Coptic Christians, Greek and Armenian Egyptians making up the bulk of the arrivals before 1976, and some Egyptian Muslims arriving in recent years. The Coptic Church is vital to the community, with 10 churches and a theological college. Christian and Muslim Egyptian communities in Sydney share a common heritage and identification with Egypt, and relations between them have been mainly tolerant and peaceful.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2934</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">96</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">118</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">58</detail>
+          <detail id="330" type="End Word" name="End Word">59</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>7911</id>
+          <type id="150">Factoid</type>
+          <title>Al-Zahra mosque, Type, Place of worship</title>
+          <added>2009-06-10 15:58:43</added>
+          <modified>2009-06-10 15:58:43</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7910</id>
+              <type id="151">Entity</type>
+              <title>Al-Zahra mosque (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2011-02-17 09:38:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Arncliffe's Shi'ite mosque, established in 1983.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">40352</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1-3 Wollongong Road, Arncliffe</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41416</id>
+          <type id="150">Factoid</type>
+          <title>Al-Zahra mosque, Milestone, Constructed</title>
+          <added>2010-07-26 12:39:50</added>
+          <modified>2010-07-26 12:39:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7910</id>
+              <type id="151">Entity</type>
+              <title>Al-Zahra mosque (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2011-02-17 09:38:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Arncliffe's Shi'ite mosque, established in 1983.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">40352</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1-3 Wollongong Road, Arncliffe</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1983</raw>
+            <year>1983</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1983</raw>
+            <year>1983</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51475</id>
+          <type id="150">Factoid</type>
+          <title>Al-Zahra mosque, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:46:02</added>
+          <modified>2011-02-16 16:03:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7910</id>
+              <type id="151">Entity</type>
+              <title>Al-Zahra mosque (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2011-02-17 09:38:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Al-Zahra mosque</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Arncliffe's Shi'ite mosque, established in 1983.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">40352</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1-3 Wollongong Road, Arncliffe</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.14863881828 -33.932539255504)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

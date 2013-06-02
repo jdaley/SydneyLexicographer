@@ -1,0 +1,1168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8489" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:45:39+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8489</id>
+      <type id="151">Entity</type>
+      <title>Lidcombe railway station (Building)</title>
+      <added>2009-06-10 15:58:49</added>
+      <modified>2011-11-10 09:36:27</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>60114</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Lidcombe Railway Station</title>
+          <added>2011-07-28 16:37:34</added>
+          <modified>2011-07-28 16:37:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2011-07-28</raw>
+            <year>2011</year>
+            <month>7</month>
+            <day>28</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+          <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2007</raw>
+            <year>2007</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+          <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4768</id>
+              <type id="153">Contributor</type>
+              <title>Wikimedia Commons</title>
+              <added>2009-03-24 10:55:14</added>
+              <modified>2009-03-24 10:55:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wikimedia Commons</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://commons.wikimedia.org/wiki/Main_Page</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>4992</id>
+              <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+              <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+              <type>image/jpeg</type>
+              <size>88 kb</size>
+              <date>2011-07-28 16:37:34</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>60115</id>
+              <type id="52">Record relationship</type>
+              <title>(60114 isOf 8489)</title>
+              <added>2011-07-28 16:37:34</added>
+              <modified>2011-07-28 16:37:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>60114</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Lidcombe Railway Station</title>
+                  <added>2011-07-28 16:37:34</added>
+                  <modified>2011-07-28 16:37:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2011-07-28</raw>
+                    <year>2011</year>
+                    <month>7</month>
+                    <day>28</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+                  <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4992</id>
+                      <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                      <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                      <type>image/jpeg</type>
+                      <size>88 kb</size>
+                      <date>2011-07-28 16:37:34</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>8489</id>
+                  <type id="151">Entity</type>
+                  <title>Lidcombe railway station (Building)</title>
+                  <added>2009-06-10 15:58:49</added>
+                  <modified>2011-11-10 09:36:27</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>60116</id>
+              <type id="52">Record relationship</type>
+              <title>(60114 isOf 16653)</title>
+              <added>2011-07-28 16:37:34</added>
+              <modified>2011-07-28 16:37:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>60114</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Lidcombe Railway Station</title>
+                  <added>2011-07-28 16:37:34</added>
+                  <modified>2011-07-28 16:37:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2011-07-28</raw>
+                    <year>2011</year>
+                    <month>7</month>
+                    <day>28</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+                  <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4992</id>
+                      <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                      <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                      <type>image/jpeg</type>
+                      <size>88 kb</size>
+                      <date>2011-07-28 16:37:34</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>16653</id>
+                  <type id="151">Entity</type>
+                  <title>Lidcombe (Place)</title>
+                  <added>2009-06-10 16:07:30</added>
+                  <modified>2011-02-15 14:33:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Western suburb, 14 kilometres west of central Sydney, nestled around Rookwood Cemetery. Lidcombe has industry and commercial development along with residential areas.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">19904</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Auburn  | St Joseph |</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>82892</id>
+              <type id="52">Record relationship</type>
+              <title>(60114 hasSubject 6184)</title>
+              <added>2012-10-02 13:26:19</added>
+              <modified>2012-10-02 13:26:19</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>60114</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Lidcombe Railway Station</title>
+                  <added>2011-07-28 16:37:34</added>
+                  <modified>2011-07-28 16:37:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2011-07-28</raw>
+                    <year>2011</year>
+                    <month>7</month>
+                    <day>28</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+                  <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4992</id>
+                      <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                      <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                      <type>image/jpeg</type>
+                      <size>88 kb</size>
+                      <date>2011-07-28 16:37:34</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6184</id>
+                  <type id="152">Term</type>
+                  <title>Railway stations</title>
+                  <added>2009-05-25 14:56:54</added>
+                  <modified>2009-05-25 14:56:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Railway stations</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>40088</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lidcombe railway station</title>
+          <added>2010-06-28 10:03:50</added>
+          <modified>2010-06-28 10:03:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>427</id>
+              <type id="98">XML Document</type>
+              <title>Lidcombe</title>
+              <added>2008-10-22 13:12:14</added>
+              <modified>2009-10-19 14:11:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1276</id>
+                  <nonce>297e17ea70a0e96a9f654cbba6a4b62384486c74</nonce>
+                  <origName>Lidcombe.xml</origName>
+                  <type>application/xml</type>
+                  <size>144.9 kb</size>
+                  <date>2009-04-24 15:03:46</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lidcombe.xml?file_id=297e17ea70a0e96a9f654cbba6a4b62384486c74</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=297e17ea70a0e96a9f654cbba6a4b62384486c74</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Lidcombe</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Standing on Dharug land, Lidcombe was settled by 1828 with ex-convicts and free settlers on small grants. With the railway, stockyards and abbatoirs, and the large cemetery, prosperity came to what was then Rookwood. In the twentieth century, industrial development and decline, and new migration have changed the face of the suburb.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2231</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">124</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">17</detail>
+          <detail id="330" type="End Word" name="End Word">18</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>40089</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lidcombe railway station</title>
+          <added>2010-06-28 10:09:57</added>
+          <modified>2010-06-28 10:09:57</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>281</id>
+              <type id="98">XML Document</type>
+              <title>Croydon</title>
+              <added>2008-10-22 13:11:52</added>
+              <modified>2009-10-16 15:00:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>553</id>
+                  <nonce>da5d7ad8c7d0663c67b8a4b5ebd8875d0928e0c4</nonce>
+                  <origName>Croydon.xml</origName>
+                  <type>application/xml</type>
+                  <size>84.9 kb</size>
+                  <date>2009-02-23 11:05:56</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Croydon.xml?file_id=da5d7ad8c7d0663c67b8a4b5ebd8875d0928e0c4</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=da5d7ad8c7d0663c67b8a4b5ebd8875d0928e0c4</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Croydon</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built on Wangal clan land, the Longbottom Government Farm covered most of what is now Croydon by 1821. Other settlers followed the construction of Parramatta and Liverpool roads, but the railway station brought real development from 1875, and subdivision led to suburban development and a village. Brickworks used the clay and shale until their closure in the 1970s.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2308</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">56</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">40</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8490</id>
+          <type id="150">Factoid</type>
+          <title>Lidcombe railway station, Type, Railway station</title>
+          <added>2009-06-10 15:58:49</added>
+          <modified>2009-06-10 15:58:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7059</id>
+              <type id="91">Role</type>
+              <title>Railway station</title>
+              <added>2009-06-10 15:56:24</added>
+              <modified>2009-06-10 15:56:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Railway station</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51667</id>
+          <type id="150">Factoid</type>
+          <title>Lidcombe railway station, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:56</added>
+          <modified>2011-02-16 16:03:22</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.0452008274 -33.863802311219)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65294</id>
+          <type id="150">Factoid</type>
+          <title>Lidcombe railway station, Name, Alternate</title>
+          <added>2011-11-10 09:31:44</added>
+          <modified>2011-11-10 09:32:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Haslam Creek railway station</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1858</raw>
+            <year>1858</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1878</raw>
+            <year>1878</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65295</id>
+          <type id="150">Factoid</type>
+          <title>Lidcombe railway station, Name, Alternate</title>
+          <added>2011-11-10 09:32:36</added>
+          <modified>2011-11-10 09:32:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Rookwood railway station</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1878</raw>
+            <year>1878</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1914</raw>
+            <year>1914</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65296</id>
+          <type id="150">Factoid</type>
+          <title>Lidcombe railway station, Milestone, Opened</title>
+          <added>2011-11-10 09:33:12</added>
+          <modified>2011-11-10 09:33:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1858</raw>
+            <year>1858</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1858</raw>
+            <year>1858</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>60115</id>
+          <type id="52">Record relationship</type>
+          <title>(60114 isOf 8489)</title>
+          <added>2011-07-28 16:37:34</added>
+          <modified>2011-07-28 16:37:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>60114</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Lidcombe Railway Station</title>
+              <added>2011-07-28 16:37:34</added>
+              <modified>2011-07-28 16:37:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-28</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>28</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+              <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>2007</raw>
+                <year>2007</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4768</id>
+                  <type id="153">Contributor</type>
+                  <title>Wikimedia Commons</title>
+                  <added>2009-03-24 10:55:14</added>
+                  <modified>2009-03-24 10:55:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Wikimedia Commons</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://commons.wikimedia.org/wiki/Main_Page</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4992</id>
+                  <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                  <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                  <type>image/jpeg</type>
+                  <size>88 kb</size>
+                  <date>2011-07-28 16:37:34</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>8489</id>
+                  <type id="151">Entity</type>
+                  <title>Lidcombe railway station (Building)</title>
+                  <added>2009-06-10 15:58:49</added>
+                  <modified>2011-11-10 09:36:27</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>60115</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60114 isOf 8489)</title>
+                  <added>2011-07-28 16:37:34</added>
+                  <modified>2011-07-28 16:37:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60114</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Lidcombe Railway Station</title>
+                      <added>2011-07-28 16:37:34</added>
+                      <modified>2011-07-28 16:37:34</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+                      <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2007</raw>
+                        <year>2007</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4992</id>
+                          <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                          <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>88 kb</size>
+                          <date>2011-07-28 16:37:34</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8489</id>
+                      <type id="151">Entity</type>
+                      <title>Lidcombe railway station (Building)</title>
+                      <added>2009-06-10 15:58:49</added>
+                      <modified>2011-11-10 09:36:27</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>60116</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60114 isOf 16653)</title>
+                  <added>2011-07-28 16:37:34</added>
+                  <modified>2011-07-28 16:37:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60114</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Lidcombe Railway Station</title>
+                      <added>2011-07-28 16:37:34</added>
+                      <modified>2011-07-28 16:37:34</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+                      <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2007</raw>
+                        <year>2007</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4992</id>
+                          <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                          <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>88 kb</size>
+                          <date>2011-07-28 16:37:34</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>16653</id>
+                      <type id="151">Entity</type>
+                      <title>Lidcombe (Place)</title>
+                      <added>2009-06-10 16:07:30</added>
+                      <modified>2011-02-15 14:33:18</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Lidcombe</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Western suburb, 14 kilometres west of central Sydney, nestled around Rookwood Cemetery. Lidcombe has industry and commercial development along with residential areas.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">19904</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Auburn  | St Joseph |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>82892</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60114 hasSubject 6184)</title>
+                  <added>2012-10-02 13:26:19</added>
+                  <modified>2012-10-02 13:26:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60114</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Lidcombe Railway Station</title>
+                      <added>2011-07-28 16:37:34</added>
+                      <modified>2011-07-28 16:37:34</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+                      <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2007</raw>
+                        <year>2007</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4992</id>
+                          <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                          <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>88 kb</size>
+                          <date>2011-07-28 16:37:34</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6184</id>
+                      <type id="152">Term</type>
+                      <title>Railway stations</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Railway stations</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8489</id>
+              <type id="151">Entity</type>
+              <title>Lidcombe railway station (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-11-10 09:36:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>60114</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Lidcombe Railway Station</title>
+                  <added>2011-07-28 16:37:34</added>
+                  <modified>2011-07-28 16:37:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2011-07-28</raw>
+                    <year>2011</year>
+                    <month>7</month>
+                    <day>28</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+                  <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2007</raw>
+                    <year>2007</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4992</id>
+                      <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                      <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                      <type>image/jpeg</type>
+                      <size>88 kb</size>
+                      <date>2011-07-28 16:37:34</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>40088</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lidcombe railway station</title>
+                  <added>2010-06-28 10:03:50</added>
+                  <modified>2010-06-28 10:03:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+                  <detail id="199" type="Resource" name="target">8489</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">427</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">17</detail>
+                  <detail id="330" type="End Word" name="End Word">18</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>40089</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lidcombe railway station</title>
+                  <added>2010-06-28 10:09:57</added>
+                  <modified>2010-06-28 10:09:57</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+                  <detail id="199" type="Resource" name="target">8489</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">281</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">40</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8490</id>
+                  <type id="150">Factoid</type>
+                  <title>Lidcombe railway station, Type, Railway station</title>
+                  <added>2009-06-10 15:58:49</added>
+                  <modified>2009-06-10 15:58:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8489</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7059</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51667</id>
+                  <type id="150">Factoid</type>
+                  <title>Lidcombe railway station, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:50:56</added>
+                  <modified>2011-02-16 16:03:22</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8489</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.0452008274 -33.863802311219)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65294</id>
+                  <type id="150">Factoid</type>
+                  <title>Lidcombe railway station, Name, Alternate</title>
+                  <added>2011-11-10 09:31:44</added>
+                  <modified>2011-11-10 09:32:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8489</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Haslam Creek railway station</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1858</raw>
+                    <year>1858</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1878</raw>
+                    <year>1878</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65295</id>
+                  <type id="150">Factoid</type>
+                  <title>Lidcombe railway station, Name, Alternate</title>
+                  <added>2011-11-10 09:32:36</added>
+                  <modified>2011-11-10 09:32:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8489</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Rookwood railway station</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1878</raw>
+                    <year>1878</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1914</raw>
+                    <year>1914</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>65296</id>
+                  <type id="150">Factoid</type>
+                  <title>Lidcombe railway station, Milestone, Opened</title>
+                  <added>2011-11-10 09:33:12</added>
+                  <modified>2011-11-10 09:33:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8489</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">42396</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1858</raw>
+                    <year>1858</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1858</raw>
+                    <year>1858</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>60115</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60114 isOf 8489)</title>
+                  <added>2011-07-28 16:37:34</added>
+                  <modified>2011-07-28 16:37:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60114</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Lidcombe Railway Station</title>
+                      <added>2011-07-28 16:37:34</added>
+                      <modified>2011-07-28 16:37:34</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Lidcombe Railway Station</detail>
+                      <detail id="365" type="Subject" name="dc.creator">J Bar</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2007</raw>
+                        <year>2007</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:Lidcombe_Railway_Station_1.JPG</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13420
+P-DoS Notes: CC 3.0  DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4992</id>
+                          <nonce>71bd5fa029265f2d198df989fd0ae1e7b2828747</nonce>
+                          <origName>800px-Lidcombe_Railway_Station_1.1.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>88 kb</size>
+                          <date>2011-07-28 16:37:34</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-Lidcombe_Railway_Station_1.1.JPG?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=71bd5fa029265f2d198df989fd0ae1e7b2828747</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8489</id>
+                      <type id="151">Entity</type>
+                      <title>Lidcombe railway station (Building)</title>
+                      <added>2009-06-10 15:58:49</added>
+                      <modified>2011-11-10 09:36:27</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Lidcombe railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Major junction station on the CityRail network which was enlarged to accommodate the line to Olympic Park in 1999.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">60114</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

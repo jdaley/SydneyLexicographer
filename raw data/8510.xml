@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8510" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:46:52+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8510</id>
+      <type id="151">Entity</type>
+      <title>Lyndhurst (Building)</title>
+      <added>2009-06-10 15:58:50</added>
+      <modified>2011-06-23 15:39:29</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>24300</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lyndhurst</title>
+          <added>2009-09-02 14:16:00</added>
+          <modified>2009-09-02 14:16:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>660</id>
+              <type id="98">XML Document</type>
+              <title>Yasmar</title>
+              <added>2008-10-22 13:12:52</added>
+              <modified>2011-10-27 14:39:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5274</id>
+                  <nonce>acf380dfd9437b3fe2d10ec0227e6e5492a57075</nonce>
+                  <origName>Yasmar.xml</origName>
+                  <type>application/xml</type>
+                  <size>123.7 kb</size>
+                  <date>2011-10-27 10:02:27</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Yasmar.xml?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=acf380dfd9437b3fe2d10ec0227e6e5492a57075</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Yasmar</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Yasmar is a rare surviving example of a mid-nineteenth century great house and garden. The estate had only three owners before it was transferred to government control during World War II, and has been empty since 1994.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2855</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">121</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">16</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>28060</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lyndhurst</title>
+          <added>2009-10-07 15:27:00</added>
+          <modified>2009-10-07 15:27:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>224</id>
+              <type id="98">XML Document</type>
+              <title>Broughton, William Grant</title>
+              <added>2008-10-22 13:11:41</added>
+              <modified>2009-11-09 11:41:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3280</id>
+                  <nonce>05f6107e3808529a1b406ce3060be2378e53cece</nonce>
+                  <origName>Broughton, William Grant.xml</origName>
+                  <type>application/xml</type>
+                  <size>41.5 kb</size>
+                  <date>2009-11-09 11:41:47</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Broughton%2C+William+Grant.xml?file_id=05f6107e3808529a1b406ce3060be2378e53cece</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=05f6107e3808529a1b406ce3060be2378e53cece</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Broughton, William Grant</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A retiring, even-tempered man, William Broughton won the respect of his peers, and showed concern for all his parishioners, including convicts and Aboriginal people, while travelling extensively throughout his jurisdiction.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1153</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">122</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>37306</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lyndhurst</title>
+          <added>2009-11-26 10:45:40</added>
+          <modified>2009-11-26 10:45:40</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>471</id>
+              <type id="98">XML Document</type>
+              <title>Moore College</title>
+              <added>2008-10-22 13:12:21</added>
+              <modified>2009-10-22 11:43:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1258</id>
+                  <nonce>7528407c0fbd7028e65a297b55e9717606eb7079</nonce>
+                  <origName>Moore College.xml</origName>
+                  <type>application/xml</type>
+                  <size>48 kb</size>
+                  <date>2009-04-23 14:52:36</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Moore+College.xml?file_id=7528407c0fbd7028e65a297b55e9717606eb7079</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7528407c0fbd7028e65a297b55e9717606eb7079</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Moore College</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Endowed with the estate of Thomas Moore, who died in 1840, the college began operation in 1856, in Moore's house at Liverpool. By the end of the nineteenth century it had moved to Newtown, near the University of Sydney, and had trained 199 ministers.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3017</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">97</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">101</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>37540</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lyndhurst</title>
+          <added>2009-11-30 11:15:24</added>
+          <modified>2009-11-30 11:15:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>312</id>
+              <type id="98">XML Document</type>
+              <title>Education</title>
+              <added>2008-10-22 13:11:56</added>
+              <modified>2010-11-05 10:24:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4002</id>
+                  <nonce>443f7c0ba33de6bb1280fce01a54fde89bca7852</nonce>
+                  <origName>Education.xml</origName>
+                  <type>application/xml</type>
+                  <size>364.4 kb</size>
+                  <date>2010-11-05 10:24:40</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Education.xml?file_id=443f7c0ba33de6bb1280fce01a54fde89bca7852</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=443f7c0ba33de6bb1280fce01a54fde89bca7852</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Education</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Education in Sydney started with Aboriginal society and the everyday learning and formal initiation of young Aboriginal people. Institutionalised education came with the Europeans, who first created schools for convicts' children, and later for the children of the new gentry and middle classes. Sydney became the centre of education in the colony, with a university, and eventually in 1880, universal education throughout the suburbs of the growing city.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2959</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">35</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">25</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">47</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>44572</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lyndhurst</title>
+          <added>2010-10-07 15:37:59</added>
+          <modified>2010-10-07 15:37:59</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>44283</id>
+              <type id="98">XML Document</type>
+              <title>Fowles, Joseph</title>
+              <added>2010-10-06 15:26:34</added>
+              <modified>2011-05-19 14:33:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4387</id>
+                  <nonce>e44b085fd4d50e3b69d25c994f0cdd2812c53033</nonce>
+                  <origName>Fowles,+Joseph.xml</origName>
+                  <type>application/xml</type>
+                  <size>133.2 kb</size>
+                  <date>2010-12-16 09:59:55</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Fowles%2C%2BJoseph.xml?file_id=e44b085fd4d50e3b69d25c994f0cdd2812c53033</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e44b085fd4d50e3b69d25c994f0cdd2812c53033</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Fowles, Joseph</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Farmer, businessman, racing enthusiast, Joseph Fowles was also a successful artist, who left a visual record of Sydney in 1848 that remains invaluable to historians.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-10-06</raw>
+                <year>2010</year>
+                <month>10</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">607</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">57083</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">7</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>58310</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lyndhurst</title>
+          <added>2011-06-23 15:38:27</added>
+          <modified>2011-06-23 15:38:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>58192</id>
+              <type id="98">XML Document</type>
+              <title>Glebe</title>
+              <added>2011-06-17 15:04:39</added>
+              <modified>2011-07-20 13:48:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4900</id>
+                  <nonce>d1e8f887dd31a6b2ecdb5f3e95421694805e3161</nonce>
+                  <origName>Glebe.xml</origName>
+                  <type>application/xml</type>
+                  <size>89.2 kb</size>
+                  <date>2011-07-20 13:48:55</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Glebe.xml?file_id=d1e8f887dd31a6b2ecdb5f3e95421694805e3161</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d1e8f887dd31a6b2ecdb5f3e95421694805e3161</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Glebe</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cadigal and Wangal country that was parcelled out to the Church of England soon after the Europeans arrived, Glebe became a retreat for the gentry and later a gritty working-class enclave. The late twentieth century saw it transformed again into a heritage precinct, saved from redevelopment by resident action.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-06-17</raw>
+                <year>2011</year>
+                <month>6</month>
+                <day>17</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1758</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">58191</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">7,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">118</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8511</id>
+          <type id="150">Factoid</type>
+          <title>Lyndhurst, Type, House</title>
+          <added>2009-06-10 15:58:50</added>
+          <modified>2009-06-10 15:58:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>46768</id>
+          <type id="150">Factoid</type>
+          <title>Lyndhurst, Milestone, Constructed</title>
+          <added>2010-11-12 11:45:48</added>
+          <modified>2010-11-12 11:45:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1833</raw>
+            <year>1833</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1837</raw>
+            <year>1837</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>46769</id>
+          <type id="150">Factoid</type>
+          <title>Verge, John, Position, Architect, Lyndhurst</title>
+          <added>2010-11-12 11:46:32</added>
+          <modified>2010-11-12 11:46:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14851</id>
+              <type id="151">Entity</type>
+              <title>Verge, John (Person)</title>
+              <added>2009-06-10 16:04:21</added>
+              <modified>2010-09-16 15:00:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Verge, John</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect and builder who came to Sydney as a free settler and designed and built many of the colony's grandest houses before retiring to his farm on the Macleay River in northern New South Wales.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1833</raw>
+            <year>1833</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1833</raw>
+            <year>1833</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>77945</id>
+          <type id="150">Factoid</type>
+          <title>Lyndhurst, TimePlace</title>
+          <added>2012-06-29 15:29:15</added>
+          <modified>2012-06-29 15:29:15</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8510</id>
+              <type id="151">Entity</type>
+              <title>Lyndhurst (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-06-23 15:39:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lyndhurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for Colonial Surgeon James Bowman and designed by John Verge. It was later used as a theological college and Catholic school, along with many other uses, and was almost derelict by 1972. Saved by community action from demolition for a proposed freeway, the house was restored by the Heritage Council and Historic Houses Trust.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://www.hht.net.au/discover/highlights/insites/lyndhurst
+
+Address Darghan St Glebe</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1833</raw>
+            <year>1833</year>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.19013248383 -33.877421526787)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

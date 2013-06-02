@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:41729" w="a" depth="2" />
+  <dateStamp>2013-02-16T23:44:57+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>41729</id>
+      <type id="151">Entity</type>
+      <title>Wat Khemarangsaram (Building)</title>
+      <added>2010-08-09 13:29:59</added>
+      <modified>2012-08-02 14:30:45</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Buddhist temple built by the Khmer community.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">cnr Bonnyrigg Avenue and Tarlington Pde Bonnyrigg NSW 2177</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>41735</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Wat Khemarangsaram</title>
+          <added>2010-08-09 15:16:50</added>
+          <modified>2010-08-09 15:16:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>41729</id>
+              <type id="151">Entity</type>
+              <title>Wat Khemarangsaram (Building)</title>
+              <added>2010-08-09 13:29:59</added>
+              <modified>2012-08-02 14:30:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Buddhist temple built by the Khmer community.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">cnr Bonnyrigg Avenue and Tarlington Pde Bonnyrigg NSW 2177</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>235</id>
+              <type id="98">XML Document</type>
+              <title>Cambodians</title>
+              <added>2008-10-22 13:11:44</added>
+              <modified>2010-06-11 15:23:27</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3392</id>
+                  <nonce>2e3880770fb2f48efb397f3d8187a6410ddb3edf</nonce>
+                  <origName>Cambodians.xml</origName>
+                  <type>application/xml</type>
+                  <size>149.7 kb</size>
+                  <date>2010-06-11 15:23:23</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Cambodians.xml?file_id=2e3880770fb2f48efb397f3d8187a6410ddb3edf</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2e3880770fb2f48efb397f3d8187a6410ddb3edf</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Cambodians</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cambodians began coming to Australian in the 1970s, after the fall of their country's genocidal Khmer Rouge regime. A large part of the existing community arrived in the 1980s as refugees or as family reunion migrants. Most Cambodian Sydneysiders live in the Fairfield area, and community life centres on the Khmer temples found there and on the commercial and cultural centre of Cabramatta.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2930</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">11</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4419</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">142</detail>
+          <detail id="330" type="End Word" name="End Word">143</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41730</id>
+          <type id="150">Factoid</type>
+          <title>Wat Khemarangsaram, Type, Place of worship</title>
+          <added>2010-08-09 13:30:34</added>
+          <modified>2010-08-09 13:30:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>41729</id>
+              <type id="151">Entity</type>
+              <title>Wat Khemarangsaram (Building)</title>
+              <added>2010-08-09 13:29:59</added>
+              <modified>2012-08-02 14:30:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Buddhist temple built by the Khmer community.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">cnr Bonnyrigg Avenue and Tarlington Pde Bonnyrigg NSW 2177</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41734</id>
+          <type id="150">Factoid</type>
+          <title>Wat Khemarangsaram, Milestone, Constructed</title>
+          <added>2010-08-09 15:16:39</added>
+          <modified>2010-08-09 15:16:39</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>41729</id>
+              <type id="151">Entity</type>
+              <title>Wat Khemarangsaram (Building)</title>
+              <added>2010-08-09 13:29:59</added>
+              <modified>2012-08-02 14:30:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Buddhist temple built by the Khmer community.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">cnr Bonnyrigg Avenue and Tarlington Pde Bonnyrigg NSW 2177</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1989</raw>
+            <year>1989</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1989</raw>
+            <year>1989</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>79002</id>
+          <type id="150">Factoid</type>
+          <title>Wat Khemarangsaram, TimePlace</title>
+          <added>2012-08-02 14:31:37</added>
+          <modified>2012-08-02 14:31:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>41729</id>
+              <type id="151">Entity</type>
+              <title>Wat Khemarangsaram (Building)</title>
+              <added>2010-08-09 13:29:59</added>
+              <modified>2012-08-02 14:30:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Buddhist temple built by the Khmer community.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">cnr Bonnyrigg Avenue and Tarlington Pde Bonnyrigg NSW 2177</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(150.8887618482 -33.888198828124)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>54123</id>
+          <type id="52">Record relationship</type>
+          <title>(54121 isOf 41729)</title>
+          <added>2011-04-08 15:43:26</added>
+          <modified>2011-04-08 15:43:26</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>54121</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Wat Khemarangsaram, Bonnyrigg 2010</title>
+              <added>2011-04-08 15:43:26</added>
+              <modified>2011-05-20 23:33:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4589</id>
+                  <nonce>0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</nonce>
+                  <origName>Flickr_5239523820_5e51b5a188_b.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>879 kb</size>
+                  <date>2011-04-08 15:43:26</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_5239523820_5e51b5a188_b.jpg?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</thumbURL>
+                </file>
+              </detail>
+              <detail id="365" type="Subject" name="dc.creator">soapngeth</detail>
+              <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram, Bonnyrigg 2010</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-04-08</raw>
+                <year>2011</year>
+                <month>4</month>
+                <day>8</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>2010</raw>
+                <year>2010</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4788</id>
+                  <type id="153">Contributor</type>
+                  <title>Flickr</title>
+                  <added>2009-03-24 10:55:18</added>
+                  <modified>2009-03-24 10:55:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Flickr</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.flickr.com/</detail>
+                </record>
+              </detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12985\nP-DoS Notes: Photographer gave us permission to use on Dictionary only, 2/3/11 - dc.source: http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>54043</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>first</title>
+                  <added>2011-04-08 14:00:55</added>
+                  <modified>2011-05-04 15:39:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="199" type="Resource" name="target">54121</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">235</detail>
+                  <detail id="160" type="Title" name="dc.title">first</detail>
+                  <detail id="191" type="Extended description" name="caption">The imposing Theravada Buddhist temple of Wat Khemarangsaram is a focus for Bonnyrigg's Khmer community. A monastery houses monks conducting study and meditation, and the office of the Khmer Community of New South Wales provides a referral and interpreting service for local Cambodian residents.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">3</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54122</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54121 isOf 15357)</title>
+                  <added>2011-04-08 15:43:26</added>
+                  <modified>2011-04-08 15:43:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wat Khemarangsaram, Bonnyrigg 2010</title>
+                      <added>2011-04-08 15:43:26</added>
+                      <modified>2011-05-20 23:33:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4589</id>
+                          <nonce>0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</nonce>
+                          <origName>Flickr_5239523820_5e51b5a188_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>879 kb</size>
+                          <date>2011-04-08 15:43:26</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_5239523820_5e51b5a188_b.jpg?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">soapngeth</detail>
+                      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram, Bonnyrigg 2010</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2010</raw>
+                        <year>2010</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12985\nP-DoS Notes: Photographer gave us permission to use on Dictionary only, 2/3/11 - dc.source: http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>15357</id>
+                      <type id="151">Entity</type>
+                      <title>Bonnyrigg (Place)</title>
+                      <added>2009-06-10 16:06:50</added>
+                      <modified>2011-02-23 10:20:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Bonnyrigg</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Residential suburb in Sydney's west.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Fairfield
+http://en.wikipedia.org/wiki/Bonnyrigg,_New_South_Wales</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54123</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54121 isOf 41729)</title>
+                  <added>2011-04-08 15:43:26</added>
+                  <modified>2011-04-08 15:43:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wat Khemarangsaram, Bonnyrigg 2010</title>
+                      <added>2011-04-08 15:43:26</added>
+                      <modified>2011-05-20 23:33:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4589</id>
+                          <nonce>0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</nonce>
+                          <origName>Flickr_5239523820_5e51b5a188_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>879 kb</size>
+                          <date>2011-04-08 15:43:26</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_5239523820_5e51b5a188_b.jpg?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">soapngeth</detail>
+                      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram, Bonnyrigg 2010</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2010</raw>
+                        <year>2010</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12985\nP-DoS Notes: Photographer gave us permission to use on Dictionary only, 2/3/11 - dc.source: http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>41729</id>
+                      <type id="151">Entity</type>
+                      <title>Wat Khemarangsaram (Building)</title>
+                      <added>2010-08-09 13:29:59</added>
+                      <modified>2012-08-02 14:30:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Buddhist temple built by the Khmer community.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">cnr Bonnyrigg Avenue and Tarlington Pde Bonnyrigg NSW 2177</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>86562</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54121 hasSubject 6192)</title>
+                  <added>2012-12-07 08:34:07</added>
+                  <modified>2012-12-07 08:34:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wat Khemarangsaram, Bonnyrigg 2010</title>
+                      <added>2011-04-08 15:43:26</added>
+                      <modified>2011-05-20 23:33:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4589</id>
+                          <nonce>0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</nonce>
+                          <origName>Flickr_5239523820_5e51b5a188_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>879 kb</size>
+                          <date>2011-04-08 15:43:26</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_5239523820_5e51b5a188_b.jpg?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">soapngeth</detail>
+                      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram, Bonnyrigg 2010</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2010</raw>
+                        <year>2010</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12985\nP-DoS Notes: Photographer gave us permission to use on Dictionary only, 2/3/11 - dc.source: http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>86563</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54121 hasSubject 5847)</title>
+                  <added>2012-12-07 08:34:32</added>
+                  <modified>2012-12-07 08:34:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wat Khemarangsaram, Bonnyrigg 2010</title>
+                      <added>2011-04-08 15:43:26</added>
+                      <modified>2011-05-20 23:33:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4589</id>
+                          <nonce>0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</nonce>
+                          <origName>Flickr_5239523820_5e51b5a188_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>879 kb</size>
+                          <date>2011-04-08 15:43:26</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_5239523820_5e51b5a188_b.jpg?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">soapngeth</detail>
+                      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram, Bonnyrigg 2010</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2010</raw>
+                        <year>2010</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12985\nP-DoS Notes: Photographer gave us permission to use on Dictionary only, 2/3/11 - dc.source: http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5847</id>
+                      <type id="152">Term</type>
+                      <title>Buddhism</title>
+                      <added>2009-05-25 14:56:14</added>
+                      <modified>2012-08-02 14:43:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Buddhism</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>86564</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54121 hasSubject 5858)</title>
+                  <added>2012-12-07 08:35:00</added>
+                  <modified>2012-12-07 08:35:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wat Khemarangsaram, Bonnyrigg 2010</title>
+                      <added>2011-04-08 15:43:26</added>
+                      <modified>2011-05-20 23:33:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4589</id>
+                          <nonce>0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</nonce>
+                          <origName>Flickr_5239523820_5e51b5a188_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>879 kb</size>
+                          <date>2011-04-08 15:43:26</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_5239523820_5e51b5a188_b.jpg?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">soapngeth</detail>
+                      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram, Bonnyrigg 2010</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2010</raw>
+                        <year>2010</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12985\nP-DoS Notes: Photographer gave us permission to use on Dictionary only, 2/3/11 - dc.source: http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5858</id>
+                      <type id="152">Term</type>
+                      <title>Cambodians</title>
+                      <added>2009-05-25 14:56:16</added>
+                      <modified>2009-05-25 14:56:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Cambodians</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>41729</id>
+              <type id="151">Entity</type>
+              <title>Wat Khemarangsaram (Building)</title>
+              <added>2010-08-09 13:29:59</added>
+              <modified>2012-08-02 14:30:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Buddhist temple built by the Khmer community.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">cnr Bonnyrigg Avenue and Tarlington Pde Bonnyrigg NSW 2177</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>41735</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Wat Khemarangsaram</title>
+                  <added>2010-08-09 15:16:50</added>
+                  <modified>2010-08-09 15:16:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+                  <detail id="199" type="Resource" name="target">41729</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">235</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">142</detail>
+                  <detail id="330" type="End Word" name="End Word">143</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>41730</id>
+                  <type id="150">Factoid</type>
+                  <title>Wat Khemarangsaram, Type, Place of worship</title>
+                  <added>2010-08-09 13:30:34</added>
+                  <modified>2010-08-09 13:30:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">41729</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>41734</id>
+                  <type id="150">Factoid</type>
+                  <title>Wat Khemarangsaram, Milestone, Constructed</title>
+                  <added>2010-08-09 15:16:39</added>
+                  <modified>2010-08-09 15:16:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">41729</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1989</raw>
+                    <year>1989</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1989</raw>
+                    <year>1989</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>79002</id>
+                  <type id="150">Factoid</type>
+                  <title>Wat Khemarangsaram, TimePlace</title>
+                  <added>2012-08-02 14:31:37</added>
+                  <modified>2012-08-02 14:31:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">41729</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(150.8887618482 -33.888198828124)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54123</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54121 isOf 41729)</title>
+                  <added>2011-04-08 15:43:26</added>
+                  <modified>2011-04-08 15:43:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54121</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Wat Khemarangsaram, Bonnyrigg 2010</title>
+                      <added>2011-04-08 15:43:26</added>
+                      <modified>2011-05-20 23:33:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4589</id>
+                          <nonce>0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</nonce>
+                          <origName>Flickr_5239523820_5e51b5a188_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>879 kb</size>
+                          <date>2011-04-08 15:43:26</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_5239523820_5e51b5a188_b.jpg?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0988b39bee76a8b7ac672971bdd5b1c5f1bb64ed</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="365" type="Subject" name="dc.creator">soapngeth</detail>
+                      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram, Bonnyrigg 2010</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2010</raw>
+                        <year>2010</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4788</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12985\nP-DoS Notes: Photographer gave us permission to use on Dictionary only, 2/3/11 - dc.source: http://www.flickr.com/photos/soapngeth/5239523820/</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>41729</id>
+                      <type id="151">Entity</type>
+                      <title>Wat Khemarangsaram (Building)</title>
+                      <added>2010-08-09 13:29:59</added>
+                      <modified>2012-08-02 14:30:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Wat Khemarangsaram</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Buddhist temple built by the Khmer community.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">cnr Bonnyrigg Avenue and Tarlington Pde Bonnyrigg NSW 2177</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

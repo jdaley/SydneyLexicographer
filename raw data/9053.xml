@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:9053" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:18:43+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>9053</id>
+      <type id="151">Entity</type>
+      <title>Warringah Mall (Building)</title>
+      <added>2009-06-10 15:58:56</added>
+      <modified>2011-02-23 10:13:37</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>26131</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Warringah Mall</title>
+          <added>2009-09-23 14:11:48</added>
+          <modified>2009-09-23 14:11:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9053</id>
+              <type id="151">Entity</type>
+              <title>Warringah Mall (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 10:13:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>605</id>
+              <type id="98">XML Document</type>
+              <title>The Corso</title>
+              <added>2008-10-22 13:12:42</added>
+              <modified>2009-09-23 14:16:28</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>57</id>
+                  <nonce>20fc403071f00418a1d66a03c955eab117e8d381</nonce>
+                  <origName>The Corso.xml</origName>
+                  <type>application/xml</type>
+                  <size>30.5 kb</size>
+                  <date>2008-10-24 10:42:05</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/The+Corso.xml?file_id=20fc403071f00418a1d66a03c955eab117e8d381</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=20fc403071f00418a1d66a03c955eab117e8d381</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">The Corso</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Kay-ye-my people walked for thousands of years along the track between the cove and the beach at Manly, but the first boardwalk was only built in 1855 when Henry Gilbert Smith began developing Manly as a resort. The Corso had a hotel at each end, and most of Manly's commerce along its length, until the rise of the car and the shopping mall in the twentieth century.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1600</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">58</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,8</detail>
+          <detail id="329" type="Start Word" name="Start Word">2</detail>
+          <detail id="330" type="End Word" name="End Word">3</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>28267</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Warringah Mall</title>
+          <added>2009-10-08 12:26:29</added>
+          <modified>2009-10-08 12:26:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9053</id>
+              <type id="151">Entity</type>
+              <title>Warringah Mall (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 10:13:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>222</id>
+              <type id="98">XML Document</type>
+              <title>Brookvale</title>
+              <added>2008-10-22 13:11:41</added>
+              <modified>2012-06-28 08:29:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7792</id>
+                  <nonce>0ea898715a9e746262d6fab81a8ca7ea0807fb70</nonce>
+                  <origName>Brookvale.xml</origName>
+                  <type>application/xml</type>
+                  <size>173.3 kb</size>
+                  <date>2012-06-28 08:29:43</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Brookvale.xml?file_id=0ea898715a9e746262d6fab81a8ca7ea0807fb70</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0ea898715a9e746262d6fab81a8ca7ea0807fb70</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Brookvale</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Guringai people were traditional owners of the area that became Brookvale, but it was granted and sold to settlers from the 1830s, becoming farms, market gardens and brickyards. The gardens were worked by Chinese and later Italian gardeners. Industrial growth during the 1960s covered the gardens with factories and a bus depot, and some industry remains, amid residential development.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2451</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">125</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">93</detail>
+          <detail id="330" type="End Word" name="End Word">94</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>28332</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Warringah Mall</title>
+          <added>2009-10-08 13:29:49</added>
+          <modified>2009-10-08 13:29:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9053</id>
+              <type id="151">Entity</type>
+              <title>Warringah Mall (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 10:13:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>222</id>
+              <type id="98">XML Document</type>
+              <title>Brookvale</title>
+              <added>2008-10-22 13:11:41</added>
+              <modified>2012-06-28 08:29:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7792</id>
+                  <nonce>0ea898715a9e746262d6fab81a8ca7ea0807fb70</nonce>
+                  <origName>Brookvale.xml</origName>
+                  <type>application/xml</type>
+                  <size>173.3 kb</size>
+                  <date>2012-06-28 08:29:43</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Brookvale.xml?file_id=0ea898715a9e746262d6fab81a8ca7ea0807fb70</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0ea898715a9e746262d6fab81a8ca7ea0807fb70</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Brookvale</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Guringai people were traditional owners of the area that became Brookvale, but it was granted and sold to settlers from the 1830s, becoming farms, market gardens and brickyards. The gardens were worked by Chinese and later Italian gardeners. Industrial growth during the 1960s covered the gardens with factories and a bus depot, and some industry remains, amid residential development.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2451</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">125</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">9,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">1</detail>
+          <detail id="330" type="End Word" name="End Word">2</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>34630</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Warringah Mall</title>
+          <added>2009-11-09 10:55:13</added>
+          <modified>2009-11-09 10:55:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9053</id>
+              <type id="151">Entity</type>
+              <title>Warringah Mall (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 10:13:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>295</id>
+              <type id="98">XML Document</type>
+              <title>Dee Why</title>
+              <added>2008-10-22 13:11:54</added>
+              <modified>2011-04-29 14:57:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4808</id>
+                  <nonce>0b1b37f07047fd9e75a947f3f20ce4c0d4cacb03</nonce>
+                  <origName>Dee+Why.xml</origName>
+                  <type>application/xml</type>
+                  <size>146.5 kb</size>
+                  <date>2011-04-29 14:57:08</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Dee%2BWhy.xml?file_id=0b1b37f07047fd9e75a947f3f20ce4c0d4cacb03</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0b1b37f07047fd9e75a947f3f20ce4c0d4cacb03</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Dee Why</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Guringai people who lived in this area left rock engravings along the coast and high points. The Jenkins family consolidated grants and purchases and in the 1880s Elizabeth Jenkins passed her land to the Salvation Army, delaying town development until the Salvation Army sold land in the 1910s. Dee Why grew fast after World War II, with flats and units, and some industry established. The beach, lagoon and Stony Range Botanic Garden remain attractions.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2459</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">24163</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">86</detail>
+          <detail id="330" type="End Word" name="End Word">87</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>51430</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Brookvale</title>
+          <added>2011-02-16 12:06:10</added>
+          <modified>2011-02-16 12:06:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Brookvale</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>9053</id>
+              <type id="151">Entity</type>
+              <title>Warringah Mall (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 10:13:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>310</id>
+              <type id="98">XML Document</type>
+              <title>Economy</title>
+              <added>2008-10-22 13:11:56</added>
+              <modified>2010-08-25 15:16:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3664</id>
+                  <nonce>c2e5f8e832331b356532bc0ce832bd371ef21bcd</nonce>
+                  <origName>Economy.xml</origName>
+                  <type>application/xml</type>
+                  <size>539.6 kb</size>
+                  <date>2010-08-25 15:16:30</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Economy.xml?file_id=c2e5f8e832331b356532bc0ce832bd371ef21bcd</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c2e5f8e832331b356532bc0ce832bd371ef21bcd</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Economy</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">With the arrival of Europeans, the traditional economy of Aboriginal clans was disrupted, and gave way to the convict economy of the Commissariat and government stores. But this closed economy was soon opened by free settlement, whaling and sealing, shipping and farming success, making Sydney the port for a vast hinterland. Depressions and booms alternated, bringing poverty and prosperity to the city. Sydney's growth and diversity mean that regional economies now exist within the Sydney region.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2960</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">21,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">46</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>9054</id>
+          <type id="150">Factoid</type>
+          <title>Warringah Mall, Type, Shopping centre or Retail</title>
+          <added>2009-06-10 15:58:56</added>
+          <modified>2009-06-10 15:58:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9053</id>
+              <type id="151">Entity</type>
+              <title>Warringah Mall (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 10:13:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7085</id>
+              <type id="91">Role</type>
+              <title>Shopping centre or retail premises</title>
+              <added>2009-06-10 15:56:29</added>
+              <modified>2012-05-30 11:16:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Shopping centre or retail premises</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51654</id>
+          <type id="150">Factoid</type>
+          <title>Warringah Mall, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:37</added>
+          <modified>2011-02-16 16:03:30</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9053</id>
+              <type id="151">Entity</type>
+              <title>Warringah Mall (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 10:13:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.26617256114 -33.767892560902)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>77768</id>
+          <type id="150">Factoid</type>
+          <title>Warringah Mall, Milestone, Opened</title>
+          <added>2012-06-28 11:04:19</added>
+          <modified>2012-06-28 11:04:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>9053</id>
+              <type id="151">Entity</type>
+              <title>Warringah Mall (Building)</title>
+              <added>2009-06-10 15:58:56</added>
+              <modified>2011-02-23 10:13:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warringah Mall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Large shopping centre in the suburb of Brookvale on Sydney's northern beaches.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://en.wikipedia.org/wiki/Warringah_Mall</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1963-04-03</raw>
+            <year>1963</year>
+            <month>4</month>
+            <day>3</day>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1963-04-03</raw>
+            <year>1963</year>
+            <month>4</month>
+            <day>3</day>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

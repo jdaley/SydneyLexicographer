@@ -1,0 +1,1328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:75491" w="a" depth="2" />
+  <dateStamp>2013-02-17T07:02:35+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>75491</id>
+      <type id="151">Entity</type>
+      <title>Culwulla Chambers (Building)</title>
+      <added>2012-05-11 10:00:38</added>
+      <modified>2013-01-25 08:31:29</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>88097</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+          <added>2013-01-25 08:31:29</added>
+          <modified>2013-01-25 08:31:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2013-01-25</raw>
+            <year>2013</year>
+            <month>1</month>
+            <day>25</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+          <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1918</raw>
+            <year>1918</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1932</raw>
+            <year>1932</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+          <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4813</id>
+              <type id="153">Contributor</type>
+              <title>State Library of New South Wales</title>
+              <added>2009-03-24 10:55:22</added>
+              <modified>2009-10-29 10:35:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+              <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>8059</id>
+              <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+              <origName>SLNSW_hall_34761h.jpg</origName>
+              <type>image/jpeg</type>
+              <size>605.5 kb</size>
+              <date>2013-01-25 08:31:29</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>75491</id>
+              <type id="151">Entity</type>
+              <title>Culwulla Chambers (Building)</title>
+              <added>2012-05-11 10:00:38</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>88098</id>
+              <type id="52">Record relationship</type>
+              <title>(88097 isOf 75491)</title>
+              <added>2013-01-25 08:31:29</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>88097</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                  <added>2013-01-25 08:31:29</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1918</raw>
+                    <year>1918</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1932</raw>
+                    <year>1932</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8059</id>
+                      <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                      <origName>SLNSW_hall_34761h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>605.5 kb</size>
+                      <date>2013-01-25 08:31:29</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>75491</id>
+                  <type id="151">Entity</type>
+                  <title>Culwulla Chambers (Building)</title>
+                  <added>2012-05-11 10:00:38</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>89034</id>
+              <type id="52">Record relationship</type>
+              <title>(88097 hasSubject 5881)</title>
+              <added>2013-02-01 13:11:28</added>
+              <modified>2013-02-01 13:11:28</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>88097</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                  <added>2013-01-25 08:31:29</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1918</raw>
+                    <year>1918</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1932</raw>
+                    <year>1932</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8059</id>
+                      <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                      <origName>SLNSW_hall_34761h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>605.5 kb</size>
+                      <date>2013-01-25 08:31:29</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5881</id>
+                  <type id="152">Term</type>
+                  <title>Commercial building</title>
+                  <added>2009-05-25 14:56:19</added>
+                  <modified>2009-05-25 14:56:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commercial building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>89035</id>
+              <type id="52">Record relationship</type>
+              <title>(88097 hasSubject 78895)</title>
+              <added>2013-02-01 13:11:47</added>
+              <modified>2013-02-01 13:11:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>88097</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                  <added>2013-01-25 08:31:29</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1918</raw>
+                    <year>1918</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1932</raw>
+                    <year>1932</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8059</id>
+                      <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                      <origName>SLNSW_hall_34761h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>605.5 kb</size>
+                      <date>2013-01-25 08:31:29</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>78895</id>
+                  <type id="152">Term</type>
+                  <title>Hotels and Pubs</title>
+                  <added>2012-07-31 14:20:34</added>
+                  <modified>2012-07-31 14:20:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Hotels and Pubs</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>89036</id>
+              <type id="52">Record relationship</type>
+              <title>(88097 hasSubject 6202)</title>
+              <added>2013-02-01 13:12:34</added>
+              <modified>2013-02-01 13:12:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>88097</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                  <added>2013-01-25 08:31:29</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1918</raw>
+                    <year>1918</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1932</raw>
+                    <year>1932</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8059</id>
+                      <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                      <origName>SLNSW_hall_34761h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>605.5 kb</size>
+                      <date>2013-01-25 08:31:29</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6202</id>
+                  <type id="152">Term</type>
+                  <title>Roads</title>
+                  <added>2009-05-25 14:56:55</added>
+                  <modified>2009-05-25 14:56:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Roads</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>89037</id>
+              <type id="52">Record relationship</type>
+              <title>(88097 hasSubject 6284)</title>
+              <added>2013-02-01 13:12:54</added>
+              <modified>2013-02-01 13:12:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>88097</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                  <added>2013-01-25 08:31:29</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1918</raw>
+                    <year>1918</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1932</raw>
+                    <year>1932</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8059</id>
+                      <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                      <origName>SLNSW_hall_34761h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>605.5 kb</size>
+                      <date>2013-01-25 08:31:29</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6284</id>
+                  <type id="152">Term</type>
+                  <title>Trams</title>
+                  <added>2009-05-25 14:57:06</added>
+                  <modified>2009-05-25 14:57:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Trams</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>75492</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Culwulla Chambers</title>
+          <added>2012-05-11 10:00:49</added>
+          <modified>2012-05-11 10:00:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>75491</id>
+              <type id="151">Entity</type>
+              <title>Culwulla Chambers (Building)</title>
+              <added>2012-05-11 10:00:38</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>75086</id>
+              <type id="98">XML Document</type>
+              <title>Lincoln House</title>
+              <added>2012-05-02 15:15:58</added>
+              <modified>2012-05-11 09:11:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7412</id>
+                  <nonce>33df9b4d55a379963300addec5b88f16e58b7d34</nonce>
+                  <origName>Lincoln+House.xml</origName>
+                  <type>application/xml</type>
+                  <size>47.5 kb</size>
+                  <date>2012-05-11 09:11:25</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lincoln%2BHouse.xml?file_id=33df9b4d55a379963300addec5b88f16e58b7d34</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=33df9b4d55a379963300addec5b88f16e58b7d34</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built as a commercial building in the 1920s, Lincoln House has had a second life as the headquarters of the Sydney Mechanics' School of Arts.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-02</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>2</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3231</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">57083</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">72</detail>
+          <detail id="330" type="End Word" name="End Word">73</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>75493</id>
+          <type id="150">Factoid</type>
+          <title>Culwulla Chambers, Type, Office block</title>
+          <added>2012-05-11 10:07:26</added>
+          <modified>2012-05-11 10:07:26</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>75491</id>
+              <type id="151">Entity</type>
+              <title>Culwulla Chambers (Building)</title>
+              <added>2012-05-11 10:00:38</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7021</id>
+              <type id="91">Role</type>
+              <title>Office block</title>
+              <added>2009-06-10 15:56:17</added>
+              <modified>2009-06-10 15:56:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Office block</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>75494</id>
+          <type id="150">Factoid</type>
+          <title>Culwulla Chambers, Milestone, Constructed</title>
+          <added>2012-05-11 10:08:17</added>
+          <modified>2012-05-11 10:08:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>75491</id>
+              <type id="151">Entity</type>
+              <title>Culwulla Chambers (Building)</title>
+              <added>2012-05-11 10:00:38</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1911</raw>
+            <year>1911</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1912</raw>
+            <year>1912</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>75495</id>
+          <type id="150">Factoid</type>
+          <title>Spain &amp; Cosh, Position, Architect, Culwulla Chambers</title>
+          <added>2012-05-11 10:08:58</added>
+          <modified>2012-05-11 10:08:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61637</id>
+              <type id="151">Entity</type>
+              <title>Spain &amp; Cosh (Organisation)</title>
+              <added>2011-08-18 09:20:09</added>
+              <modified>2011-09-02 09:34:22</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Spain &amp; Cosh</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architectural practice formed in 1904 by Alfred Spain and Thomas Frame Cosh.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>75491</id>
+              <type id="151">Entity</type>
+              <title>Culwulla Chambers (Building)</title>
+              <added>2012-05-11 10:00:38</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1911</raw>
+            <year>1911</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1911</raw>
+            <year>1911</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>75508</id>
+          <type id="150">Factoid</type>
+          <title>Culwulla Chambers, TimePlace</title>
+          <added>2012-05-11 10:54:44</added>
+          <modified>2012-05-11 10:54:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>75491</id>
+              <type id="151">Entity</type>
+              <title>Culwulla Chambers (Building)</title>
+              <added>2012-05-11 10:00:38</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20945511758 -33.869308705589)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>88098</id>
+          <type id="52">Record relationship</type>
+          <title>(88097 isOf 75491)</title>
+          <added>2013-01-25 08:31:29</added>
+          <modified>2013-01-25 08:31:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>88097</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+              <added>2013-01-25 08:31:29</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2013-01-25</raw>
+                <year>2013</year>
+                <month>1</month>
+                <day>25</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+              <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1918</raw>
+                <year>1918</year>
+              </detail>
+              <detail id="178" type="End Date" name="dc.coverage.finish">
+                <raw>1932</raw>
+                <year>1932</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4813</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2009-10-29 10:35:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>8059</id>
+                  <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                  <origName>SLNSW_hall_34761h.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>605.5 kb</size>
+                  <date>2013-01-25 08:31:29</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>75491</id>
+                  <type id="151">Entity</type>
+                  <title>Culwulla Chambers (Building)</title>
+                  <added>2012-05-11 10:00:38</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>88098</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88097 isOf 75491)</title>
+                  <added>2013-01-25 08:31:29</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88097</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                      <added>2013-01-25 08:31:29</added>
+                      <modified>2013-01-25 08:31:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1918</raw>
+                        <year>1918</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1932</raw>
+                        <year>1932</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8059</id>
+                          <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                          <origName>SLNSW_hall_34761h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>605.5 kb</size>
+                          <date>2013-01-25 08:31:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>75491</id>
+                      <type id="151">Entity</type>
+                      <title>Culwulla Chambers (Building)</title>
+                      <added>2012-05-11 10:00:38</added>
+                      <modified>2013-01-25 08:31:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>89034</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88097 hasSubject 5881)</title>
+                  <added>2013-02-01 13:11:28</added>
+                  <modified>2013-02-01 13:11:28</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88097</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                      <added>2013-01-25 08:31:29</added>
+                      <modified>2013-01-25 08:31:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1918</raw>
+                        <year>1918</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1932</raw>
+                        <year>1932</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8059</id>
+                          <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                          <origName>SLNSW_hall_34761h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>605.5 kb</size>
+                          <date>2013-01-25 08:31:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5881</id>
+                      <type id="152">Term</type>
+                      <title>Commercial building</title>
+                      <added>2009-05-25 14:56:19</added>
+                      <modified>2009-05-25 14:56:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commercial building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>89035</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88097 hasSubject 78895)</title>
+                  <added>2013-02-01 13:11:47</added>
+                  <modified>2013-02-01 13:11:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88097</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                      <added>2013-01-25 08:31:29</added>
+                      <modified>2013-01-25 08:31:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1918</raw>
+                        <year>1918</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1932</raw>
+                        <year>1932</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8059</id>
+                          <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                          <origName>SLNSW_hall_34761h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>605.5 kb</size>
+                          <date>2013-01-25 08:31:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>78895</id>
+                      <type id="152">Term</type>
+                      <title>Hotels and Pubs</title>
+                      <added>2012-07-31 14:20:34</added>
+                      <modified>2012-07-31 14:20:34</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Hotels and Pubs</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>89036</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88097 hasSubject 6202)</title>
+                  <added>2013-02-01 13:12:34</added>
+                  <modified>2013-02-01 13:12:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88097</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                      <added>2013-01-25 08:31:29</added>
+                      <modified>2013-01-25 08:31:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1918</raw>
+                        <year>1918</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1932</raw>
+                        <year>1932</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8059</id>
+                          <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                          <origName>SLNSW_hall_34761h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>605.5 kb</size>
+                          <date>2013-01-25 08:31:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6202</id>
+                      <type id="152">Term</type>
+                      <title>Roads</title>
+                      <added>2009-05-25 14:56:55</added>
+                      <modified>2009-05-25 14:56:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Roads</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>89037</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88097 hasSubject 6284)</title>
+                  <added>2013-02-01 13:12:54</added>
+                  <modified>2013-02-01 13:12:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88097</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                      <added>2013-01-25 08:31:29</added>
+                      <modified>2013-01-25 08:31:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1918</raw>
+                        <year>1918</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1932</raw>
+                        <year>1932</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8059</id>
+                          <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                          <origName>SLNSW_hall_34761h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>605.5 kb</size>
+                          <date>2013-01-25 08:31:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6284</id>
+                      <type id="152">Term</type>
+                      <title>Trams</title>
+                      <added>2009-05-25 14:57:06</added>
+                      <modified>2009-05-25 14:57:06</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Trams</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>75491</id>
+              <type id="151">Entity</type>
+              <title>Culwulla Chambers (Building)</title>
+              <added>2012-05-11 10:00:38</added>
+              <modified>2013-01-25 08:31:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>88097</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                  <added>2013-01-25 08:31:29</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1918</raw>
+                    <year>1918</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1932</raw>
+                    <year>1932</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8059</id>
+                      <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                      <origName>SLNSW_hall_34761h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>605.5 kb</size>
+                      <date>2013-01-25 08:31:29</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>75492</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Culwulla Chambers</title>
+                  <added>2012-05-11 10:00:49</added>
+                  <modified>2012-05-11 10:00:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+                  <detail id="199" type="Resource" name="target">75491</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">72</detail>
+                  <detail id="330" type="End Word" name="End Word">73</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>75493</id>
+                  <type id="150">Factoid</type>
+                  <title>Culwulla Chambers, Type, Office block</title>
+                  <added>2012-05-11 10:07:26</added>
+                  <modified>2012-05-11 10:07:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">75491</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7021</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>75494</id>
+                  <type id="150">Factoid</type>
+                  <title>Culwulla Chambers, Milestone, Constructed</title>
+                  <added>2012-05-11 10:08:17</added>
+                  <modified>2012-05-11 10:08:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">75491</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1911</raw>
+                    <year>1911</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1912</raw>
+                    <year>1912</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>75495</id>
+                  <type id="150">Factoid</type>
+                  <title>Spain &amp; Cosh, Position, Architect, Culwulla Chambers</title>
+                  <added>2012-05-11 10:08:58</added>
+                  <modified>2012-05-11 10:08:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">61637</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">75491</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1911</raw>
+                    <year>1911</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1911</raw>
+                    <year>1911</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>75508</id>
+                  <type id="150">Factoid</type>
+                  <title>Culwulla Chambers, TimePlace</title>
+                  <added>2012-05-11 10:54:44</added>
+                  <modified>2012-05-11 10:54:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">75491</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20945511758 -33.869308705589)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>88098</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88097 isOf 75491)</title>
+                  <added>2013-01-25 08:31:29</added>
+                  <modified>2013-01-25 08:31:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88097</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</title>
+                      <added>2013-01-25 08:31:29</added>
+                      <modified>2013-01-25 08:31:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Culwulla Chambers and the Surrey Hotel on the corner of King and Castelreagh Streets c1925</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hall &amp; Co</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1918</raw>
+                        <year>1918</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1932</raw>
+                        <year>1932</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=53175</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hall_34761 / Home and Away 34761</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18529
+P-DoS Notes: DEFAULT IMG</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8059</id>
+                          <nonce>6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</nonce>
+                          <origName>SLNSW_hall_34761h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>605.5 kb</size>
+                          <date>2013-01-25 08:31:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hall_34761h.jpg?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f65bacdd146e26c4b07bc3e7d9e303d226c41b0</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>75491</id>
+                      <type id="151">Entity</type>
+                      <title>Culwulla Chambers (Building)</title>
+                      <added>2012-05-11 10:00:38</added>
+                      <modified>2013-01-25 08:31:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Sydney's first skyscraper which caused such an outcry that a height limit for buildings of 150 feet was imposed which was not repealed until 1957.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">88097</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

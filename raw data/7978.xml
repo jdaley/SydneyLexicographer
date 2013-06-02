@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:7978" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:15:24+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>7978</id>
+      <type id="151">Entity</type>
+      <title>Belvoir Street Theatre (Building)</title>
+      <added>2009-06-10 15:58:44</added>
+      <modified>2011-08-31 14:49:34</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Theatre venue founded in 1984 in what was previously a leather factory. The building was purchased by a syndicate when demolition was threatened and currently has 600 owners including actors, writers and playwrights.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>25684</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Belvoir Street Theatre</title>
+          <added>2009-09-17 16:30:27</added>
+          <modified>2009-09-17 16:30:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7978</id>
+              <type id="151">Entity</type>
+              <title>Belvoir Street Theatre (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-08-31 14:49:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre venue founded in 1984 in what was previously a leather factory. The building was purchased by a syndicate when demolition was threatened and currently has 600 owners including actors, writers and playwrights.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>617</id>
+              <type id="98">XML Document</type>
+              <title>Theatre</title>
+              <added>2008-10-22 13:12:44</added>
+              <modified>2009-09-23 14:02:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>73</id>
+                  <nonce>d124736cf93b87ef778bbd7e89ca3ccf5b8d146f</nonce>
+                  <origName>Theatre.xml</origName>
+                  <type>application/xml</type>
+                  <size>67.2 kb</size>
+                  <date>2008-10-24 10:45:43</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Theatre.xml?file_id=d124736cf93b87ef778bbd7e89ca3ccf5b8d146f</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d124736cf93b87ef778bbd7e89ca3ccf5b8d146f</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">European theatre in Sydney began before the first Fleet made landfall, with a convict play on board the Scarborough. While theatre was always popular, a commercial theatre scene did not emerge until the 1830s, and theatrical fortunes rose and fell with the city's prosperity.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2857</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">99</detail>
+          <detail id="330" type="End Word" name="End Word">100</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>34007</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Belvoir Street Theatre</title>
+          <added>2009-11-04 15:04:06</added>
+          <modified>2009-11-04 15:04:06</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7978</id>
+              <type id="151">Entity</type>
+              <title>Belvoir Street Theatre (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-08-31 14:49:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre venue founded in 1984 in what was previously a leather factory. The building was purchased by a syndicate when demolition was threatened and currently has 600 owners including actors, writers and playwrights.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>283</id>
+              <type id="98">XML Document</type>
+              <title>Culture and customs</title>
+              <added>2008-10-22 13:11:52</added>
+              <modified>2009-10-29 10:26:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>484</id>
+                  <nonce>bfec6b41edf38919df99b723c3c8e3d376ce6342</nonce>
+                  <origName>Culture and customs.xml</origName>
+                  <type>application/xml</type>
+                  <size>145.7 kb</size>
+                  <date>2009-02-06 15:47:03</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Culture+and+customs.xml?file_id=bfec6b41edf38919df99b723c3c8e3d376ce6342</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=bfec6b41edf38919df99b723c3c8e3d376ce6342</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Culture and customs</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney’s pre-industrial culture was comprehensive and public, and most European inhabitants were players, performers or spectators. After 1850, distinct but overlapping cultures emerged, imported and adapted from Europe and America. New forms of cultural transmission after World War I enabled the elaboration of new cultures based on ethnicity, age and gender, which have combined to produce Sydney's cultural diversity.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2904</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">101</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">18,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">38</detail>
+          <detail id="330" type="End Word" name="End Word">40</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>7979</id>
+          <type id="150">Factoid</type>
+          <title>Belvoir Street Theatre, Type, Theatre</title>
+          <added>2009-06-10 15:58:44</added>
+          <modified>2009-06-10 15:58:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7978</id>
+              <type id="151">Entity</type>
+              <title>Belvoir Street Theatre (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-08-31 14:49:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre venue founded in 1984 in what was previously a leather factory. The building was purchased by a syndicate when demolition was threatened and currently has 600 owners including actors, writers and playwrights.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7112</id>
+              <type id="91">Role</type>
+              <title>Theatre</title>
+              <added>2009-06-10 15:56:32</added>
+              <modified>2009-06-10 15:56:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51692</id>
+          <type id="150">Factoid</type>
+          <title>Belvoir Street Theatre, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:13</added>
+          <modified>2011-02-16 16:03:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7978</id>
+              <type id="151">Entity</type>
+              <title>Belvoir Street Theatre (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-08-31 14:49:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre venue founded in 1984 in what was previously a leather factory. The building was purchased by a syndicate when demolition was threatened and currently has 600 owners including actors, writers and playwrights.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20912617835 -33.88907751829)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>65397</id>
+          <type id="150">Factoid</type>
+          <title>Nimrod Theatre Company, Property, Occupied, Belvoir Street Theatre</title>
+          <added>2011-11-10 16:03:03</added>
+          <modified>2011-11-10 16:03:03</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>11836</id>
+              <type id="151">Entity</type>
+              <title>Nimrod Theatre Company (Organisation)</title>
+              <added>2009-06-10 16:03:02</added>
+              <modified>2011-11-10 16:01:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Nimrod Theatre Company</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Company formed by John Bell, Richard Wherrett and Ken Horler to produce Australian drama.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>7978</id>
+              <type id="151">Entity</type>
+              <title>Belvoir Street Theatre (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-08-31 14:49:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belvoir Street Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre venue founded in 1984 in what was previously a leather factory. The building was purchased by a syndicate when demolition was threatened and currently has 600 owners including actors, writers and playwrights.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1974</raw>
+            <year>1974</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1988</raw>
+            <year>1988</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

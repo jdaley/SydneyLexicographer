@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8002" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:16:53+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8002</id>
+      <type id="151">Entity</type>
+      <title>Bondi Mizrachi synagogue (Building)</title>
+      <added>2009-06-10 15:58:44</added>
+      <modified>2010-08-02 14:56:13</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Bondi Mizrachi synagogue</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Modern Orthodox synagogue in Bondi.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">339 Old South Head Road, Bondi</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>32428</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Bondi Mizrachi synagogue</title>
+          <added>2009-10-22 08:00:48</added>
+          <modified>2009-10-22 08:00:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Bondi Mizrachi synagogue</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8002</id>
+              <type id="151">Entity</type>
+              <title>Bondi Mizrachi synagogue (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-08-02 14:56:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Bondi Mizrachi synagogue</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Modern Orthodox synagogue in Bondi.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">339 Old South Head Road, Bondi</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>397</id>
+              <type id="98">XML Document</type>
+              <title>Jews</title>
+              <added>2008-10-22 13:12:10</added>
+              <modified>2009-10-29 14:58:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>482</id>
+                  <nonce>e9b9b6b6ea52b110a17eb1ff8ff6660632c60d0f</nonce>
+                  <origName>Jews.xml</origName>
+                  <type>application/xml</type>
+                  <size>70.8 kb</size>
+                  <date>2009-02-05 13:13:25</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Jews.xml?file_id=e9b9b6b6ea52b110a17eb1ff8ff6660632c60d0f</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e9b9b6b6ea52b110a17eb1ff8ff6660632c60d0f</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Jews</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">There has been a Jewish community in Sydney since the beginning of European settlement. With the Jewish free settlers who arrived from the 1820s, they built businesses and congregations in Sydney. In the late-nineteenth century, a new group of Jewish immigrants arrived from Eastern Europe, fleeing pogroms and persecution. Jewish Sydneysiders were active in public life and in business, settling in the eastern and inner western suburbs. The community doubled in size after World War II as immigration increased, and the community developed new educational and cultural organisations as well as a broader range of religious congregations.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2940</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">122</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">40</detail>
+          <detail id="330" type="End Word" name="End Word">41</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8003</id>
+          <type id="150">Factoid</type>
+          <title>Bondi Mizrachi synagogue, Type, Place of worship</title>
+          <added>2009-06-10 15:58:44</added>
+          <modified>2009-06-10 15:58:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8002</id>
+              <type id="151">Entity</type>
+              <title>Bondi Mizrachi synagogue (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-08-02 14:56:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Bondi Mizrachi synagogue</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Modern Orthodox synagogue in Bondi.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">339 Old South Head Road, Bondi</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51473</id>
+          <type id="150">Factoid</type>
+          <title>Bondi Mizrachi synagogue, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:46:00</added>
+          <modified>2011-02-16 16:03:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Bondi Mizrachi synagogue</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8002</id>
+              <type id="151">Entity</type>
+              <title>Bondi Mizrachi synagogue (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-08-02 14:56:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Bondi Mizrachi synagogue</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Modern Orthodox synagogue in Bondi.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">339 Old South Head Road, Bondi</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.26914548827 -33.884086100411)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

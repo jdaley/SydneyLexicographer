@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8518" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:47:24+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8518</id>
+      <type id="151">Entity</type>
+      <title>Macquarie Centre (Building)</title>
+      <added>2009-06-10 15:58:50</added>
+      <modified>2011-04-28 15:00:29</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Shopping centre opened at Ryde in 1981.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36380</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Macquarie Centre</title>
+          <added>2009-11-19 13:44:10</added>
+          <modified>2009-11-19 13:44:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8518</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Centre (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-04-28 15:00:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping centre opened at Ryde in 1981.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>549</id>
+              <type id="98">XML Document</type>
+              <title>Ryde</title>
+              <added>2008-10-22 13:12:33</added>
+              <modified>2009-11-19 14:01:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3311</id>
+                  <nonce>32cc6567a454967a4af3a89e412808b2363d5d09</nonce>
+                  <origName>Ryde.xml</origName>
+                  <type>application/xml</type>
+                  <size>88.6 kb</size>
+                  <date>2009-11-19 14:01:03</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Ryde.xml?file_id=32cc6567a454967a4af3a89e412808b2363d5d09</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=32cc6567a454967a4af3a89e412808b2363d5d09</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Ryde</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wallumetta to its traditional owners, the Wallumedegal, the land that became Ryde was settled early and provided food to the growing town. From the 1870s, subdivision started, and the railway brought more development from 1886. In the twentieth century, Ryde became suburban and one of Sydney's earliest shopping centres was built there in 1957.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2427</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">6</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">82</detail>
+          <detail id="330" type="End Word" name="End Word">83</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>37095</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Macquarie Centre</title>
+          <added>2009-11-25 15:02:27</added>
+          <modified>2009-11-25 15:02:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8518</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Centre (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-04-28 15:00:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping centre opened at Ryde in 1981.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>495</id>
+              <type id="98">XML Document</type>
+              <title>North Ryde</title>
+              <added>2008-10-22 13:12:26</added>
+              <modified>2009-10-20 14:45:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1261</id>
+                  <nonce>5a42b349001129c2f350b342ba1904fd0cc90479</nonce>
+                  <origName>North Ryde.xml</origName>
+                  <type>application/xml</type>
+                  <size>116.5 kb</size>
+                  <date>2009-04-23 15:59:09</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/North+Ryde.xml?file_id=5a42b349001129c2f350b342ba1904fd0cc90479</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5a42b349001129c2f350b342ba1904fd0cc90479</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">North Ryde</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Called Wallumetta by the Wallumedegal people who lived there, the area that became North Ryde was part of the Field of Mars common from 1804, with surrounding farms granted to settlers. When the common was subdivided and sold from the 1880s, small blocks led to residential development, gradually driving out the farms and orchards. By the 1960s, the district's increasing commercial expansion led to the farming and picnicking areas being developed into shops, showrooms and an industrial park.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2425</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">82</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">7,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">19</detail>
+          <detail id="330" type="End Word" name="End Word">20</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>63866</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Macquarie Centre</title>
+          <added>2011-09-21 11:12:25</added>
+          <modified>2011-09-21 11:12:25</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8518</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Centre (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-04-28 15:00:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping centre opened at Ryde in 1981.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>62485</id>
+              <type id="98">XML Document</type>
+              <title>Grace Brothers</title>
+              <added>2011-09-06 14:43:11</added>
+              <modified>2011-09-06 14:43:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5248</id>
+                  <nonce>61f54ecb7d02f59ab46477898e0feefb75eff2ca</nonce>
+                  <origName>Grace Bros.xml</origName>
+                  <type>application/xml</type>
+                  <size>57.6 kb</size>
+                  <date>2011-09-06 14:39:57</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Grace+Bros.xml?file_id=61f54ecb7d02f59ab46477898e0feefb75eff2ca</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=61f54ecb7d02f59ab46477898e0feefb75eff2ca</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Grace Brothers</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A mainstay of Sydney shopping from the 1880s, Grace Bros was in the forefront of changes in retailing throughout the twentieth century.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-09-06</raw>
+                <year>2011</year>
+                <month>9</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">391</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">59656</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">71</detail>
+          <detail id="330" type="End Word" name="End Word">72</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76011</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Macquarie Centre</title>
+          <added>2012-05-22 09:19:08</added>
+          <modified>2012-05-22 09:19:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8518</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Centre (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-04-28 15:00:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping centre opened at Ryde in 1981.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>75088</id>
+              <type id="98">XML Document</type>
+              <title>West Pymble</title>
+              <added>2012-05-03 09:48:38</added>
+              <modified>2012-05-23 15:31:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7549</id>
+                  <nonce>4151e28f1fc111335b115f1336748d0ca1339c5b</nonce>
+                  <origName>West+Pymble.xml</origName>
+                  <type>application/xml</type>
+                  <size>326.8 kb</size>
+                  <date>2012-05-23 15:31:34</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/West%2BPymble.xml?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">West Pymble</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of the later suburbs on Sydney's north shore, West Pymble remained semi-rural into the 1950s, with original settler families remaining important in the district. War service homes began changed things in the 1950s, bringing a whole new group into the bushland surroundings.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-03</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>3</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2576</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">75087</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">12,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">71</detail>
+          <detail id="330" type="End Word" name="End Word">73</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8519</id>
+          <type id="150">Factoid</type>
+          <title>Macquarie Centre, Type, Shopping centre or Retail</title>
+          <added>2009-06-10 15:58:50</added>
+          <modified>2009-06-10 15:58:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8518</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Centre (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-04-28 15:00:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping centre opened at Ryde in 1981.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7085</id>
+              <type id="91">Role</type>
+              <title>Shopping centre or retail premises</title>
+              <added>2009-06-10 15:56:29</added>
+              <modified>2012-05-30 11:16:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Shopping centre or retail premises</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51647</id>
+          <type id="150">Factoid</type>
+          <title>Macquarie Centre, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:24</added>
+          <modified>2011-02-16 16:03:22</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8518</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Centre (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-04-28 15:00:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping centre opened at Ryde in 1981.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.12023662769 -33.776808330248)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>55398</id>
+          <type id="150">Factoid</type>
+          <title>Macquarie Centre, Milestone, Opened</title>
+          <added>2011-04-28 15:01:02</added>
+          <modified>2011-04-28 15:01:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8518</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Centre (Building)</title>
+              <added>2009-06-10 15:58:50</added>
+              <modified>2011-04-28 15:00:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Centre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shopping centre opened at Ryde in 1981.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1981</raw>
+            <year>1981</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1981</raw>
+            <year>1981</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:76311" w="a" depth="2" />
+  <dateStamp>2013-02-17T07:13:18+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>76311</id>
+      <type id="151">Entity</type>
+      <title>Belmore Paragon No 2 (Building)</title>
+      <added>2012-05-24 14:49:54</added>
+      <modified>2012-05-24 14:49:54</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Belmore Paragon No 2</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Cinema seating over 1000 patrons which operated between 1928 and 1958.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76312</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Belmore Paragon No 2</title>
+          <added>2012-05-24 14:50:05</added>
+          <modified>2012-05-24 14:50:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Belmore Paragon No 2</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>76311</id>
+              <type id="151">Entity</type>
+              <title>Belmore Paragon No 2 (Building)</title>
+              <added>2012-05-24 14:49:54</added>
+              <modified>2012-05-24 14:49:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belmore Paragon No 2</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cinema seating over 1000 patrons which operated between 1928 and 1958.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>4525</id>
+              <type id="98">XML Document</type>
+              <title>Belmore</title>
+              <added>2009-02-17 16:14:27</added>
+              <modified>2012-05-23 10:40:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3393</id>
+                  <nonce>a604fd2bad3fe61f77172498052158396d9c2286</nonce>
+                  <origName>Belmore.xml</origName>
+                  <type>application/xml</type>
+                  <size>65.6 kb</size>
+                  <date>2010-06-16 11:38:32</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Belmore.xml?file_id=a604fd2bad3fe61f77172498052158396d9c2286</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a604fd2bad3fe61f77172498052158396d9c2286</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Belmore</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditional land of the Bediagal people, Belmore was once all forest. Early European settlers cut the timber for firewood and later for railway sleepers, and farmed crops and poultry. In 1869 the district was named Belmore in honour of the new governor of New South Wales. When the railway came through in 1895, subdivision accelerated and after World War I surburban development was rapid. Migration and home units have changed Belmore since the 1960s.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2009-06-06</raw>
+                <year>2009</year>
+                <month>6</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1505</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">75</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">76098</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">78</detail>
+          <detail id="330" type="End Word" name="End Word">80</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76313</id>
+          <type id="150">Factoid</type>
+          <title>Belmore Paragon No 2, Type, Theatre</title>
+          <added>2012-05-24 14:50:48</added>
+          <modified>2012-05-24 14:50:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76311</id>
+              <type id="151">Entity</type>
+              <title>Belmore Paragon No 2 (Building)</title>
+              <added>2012-05-24 14:49:54</added>
+              <modified>2012-05-24 14:49:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belmore Paragon No 2</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cinema seating over 1000 patrons which operated between 1928 and 1958.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7112</id>
+              <type id="91">Role</type>
+              <title>Theatre</title>
+              <added>2009-06-10 15:56:32</added>
+              <modified>2009-06-10 15:56:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76314</id>
+          <type id="150">Factoid</type>
+          <title>Belmore Paragon No 2, Milestone, Opened</title>
+          <added>2012-05-24 14:51:26</added>
+          <modified>2012-05-24 14:51:26</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76311</id>
+              <type id="151">Entity</type>
+              <title>Belmore Paragon No 2 (Building)</title>
+              <added>2012-05-24 14:49:54</added>
+              <modified>2012-05-24 14:49:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belmore Paragon No 2</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cinema seating over 1000 patrons which operated between 1928 and 1958.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76315</id>
+          <type id="150">Factoid</type>
+          <title>Belmore Paragon No 2, Milestone, Closed</title>
+          <added>2012-05-24 14:52:48</added>
+          <modified>2012-05-24 14:52:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76311</id>
+              <type id="151">Entity</type>
+              <title>Belmore Paragon No 2 (Building)</title>
+              <added>2012-05-24 14:49:54</added>
+              <modified>2012-05-24 14:49:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belmore Paragon No 2</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cinema seating over 1000 patrons which operated between 1928 and 1958.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42397</id>
+              <type id="91">Role</type>
+              <title>Closed</title>
+              <added>2010-08-20 11:34:35</added>
+              <modified>2010-08-20 11:34:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Closed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1958</raw>
+            <year>1958</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1958</raw>
+            <year>1958</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76318</id>
+          <type id="150">Factoid</type>
+          <title>Belmore Paragon No 2, TimePlace</title>
+          <added>2012-05-24 14:56:19</added>
+          <modified>2012-05-24 14:56:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76311</id>
+              <type id="151">Entity</type>
+              <title>Belmore Paragon No 2 (Building)</title>
+              <added>2012-05-24 14:49:54</added>
+              <modified>2012-05-24 14:49:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Belmore Paragon No 2</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cinema seating over 1000 patrons which operated between 1928 and 1958.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1928</raw>
+            <year>1928</year>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.08406519881 -33.91038598326)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

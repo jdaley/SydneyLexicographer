@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:76012" w="a" depth="2" />
+  <dateStamp>2013-02-17T07:05:41+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>76012</id>
+      <type id="151">Entity</type>
+      <title>Pymble railway station (Building)</title>
+      <added>2012-05-22 09:35:18</added>
+      <modified>2012-05-22 09:36:29</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Pymble railway station</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">North shore line station.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>25962</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Pymble train station 1968</title>
+          <added>2009-09-21 14:36:52</added>
+          <modified>2011-05-20 23:32:15</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2009-09-21</raw>
+            <year>2009</year>
+            <month>9</month>
+            <day>21</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Pymble train station 1968</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1968</raw>
+            <year>1968</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L70906</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4798</id>
+              <type id="153">Contributor</type>
+              <title>National Archives of Australia</title>
+              <added>2009-03-24 10:55:19</added>
+              <modified>2009-10-29 10:32:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">National Archives of Australia</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.naa.gov.au/</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 10908\nP-DoS Notes: Transport - Rail - A crowd of people waiting for an electric train at Pymble Station in Sydney, New South Wales, 1968\nP-Related: Trains</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>3151</id>
+              <nonce>ce06d2570345133c2a039e64746675ccd2530d43</nonce>
+              <origName>11961845.jpg</origName>
+              <type>image/jpeg</type>
+              <size>409.1 kb</size>
+              <date>2009-09-21 14:36:52</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/11961845.jpg?file_id=ce06d2570345133c2a039e64746675ccd2530d43</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ce06d2570345133c2a039e64746675ccd2530d43</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="199" type="Resource" name="target">
+            <record>
+              <id>54553</id>
+              <type id="99">TEI Document Reference</type>
+              <title>As</title>
+              <added>2011-04-08 20:05:52</added>
+              <modified>2011-05-06 14:20:03</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="199" type="Resource" name="target">25962</detail>
+              <detail id="322" type="TEI Document Reference" name="annotates">42540</detail>
+              <detail id="160" type="Title" name="dc.title">As</detail>
+              <detail id="191" type="Extended description" name="caption">Pymble's growth was based on its railway connections, with the best houses and businesses built close to the station. Here, a crowd of smartly dressed commuters wait for the morning train to town.</detail>
+              <detail id="539" type="Start Element" name="Start Element">2,8</detail>
+              <detail id="329" type="Start Word" name="Start Word">1</detail>
+              <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+              <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+            </record>
+          </reversePointer>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>76012</id>
+              <type id="151">Entity</type>
+              <title>Pymble railway station (Building)</title>
+              <added>2012-05-22 09:35:18</added>
+              <modified>2012-05-22 09:36:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Pymble railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">North shore line station.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">25962</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>25963</id>
+              <type id="52">Record relationship</type>
+              <title>(25962 isOf 17290)</title>
+              <added>2009-09-21 14:36:52</added>
+              <modified>2009-09-21 14:36:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>25962</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Pymble train station 1968</title>
+                  <added>2009-09-21 14:36:52</added>
+                  <modified>2011-05-20 23:32:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2009-09-21</raw>
+                    <year>2009</year>
+                    <month>9</month>
+                    <day>21</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Pymble train station 1968</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1968</raw>
+                    <year>1968</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L70906</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 10908\nP-DoS Notes: Transport - Rail - A crowd of people waiting for an electric train at Pymble Station in Sydney, New South Wales, 1968\nP-Related: Trains</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3151</id>
+                      <nonce>ce06d2570345133c2a039e64746675ccd2530d43</nonce>
+                      <origName>11961845.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>409.1 kb</size>
+                      <date>2009-09-21 14:36:52</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/11961845.jpg?file_id=ce06d2570345133c2a039e64746675ccd2530d43</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ce06d2570345133c2a039e64746675ccd2530d43</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>17290</id>
+                  <type id="151">Entity</type>
+                  <title>Pymble (Place)</title>
+                  <added>2009-06-10 16:07:38</added>
+                  <modified>2011-02-18 15:25:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Pymble</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Suburb 16 kilometres north of central Sydney between the suburbs of Gordon and Turramurra in Ku-ring-gai Council area.</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Ku-ring-gai</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>84437</id>
+              <type id="52">Record relationship</type>
+              <title>(25962 hasSubject 6184)</title>
+              <added>2012-10-30 11:06:36</added>
+              <modified>2012-10-30 11:06:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>25962</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Pymble train station 1968</title>
+                  <added>2009-09-21 14:36:52</added>
+                  <modified>2011-05-20 23:32:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2009-09-21</raw>
+                    <year>2009</year>
+                    <month>9</month>
+                    <day>21</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Pymble train station 1968</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1968</raw>
+                    <year>1968</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L70906</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 10908\nP-DoS Notes: Transport - Rail - A crowd of people waiting for an electric train at Pymble Station in Sydney, New South Wales, 1968\nP-Related: Trains</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3151</id>
+                      <nonce>ce06d2570345133c2a039e64746675ccd2530d43</nonce>
+                      <origName>11961845.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>409.1 kb</size>
+                      <date>2009-09-21 14:36:52</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/11961845.jpg?file_id=ce06d2570345133c2a039e64746675ccd2530d43</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ce06d2570345133c2a039e64746675ccd2530d43</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6184</id>
+                  <type id="152">Term</type>
+                  <title>Railway stations</title>
+                  <added>2009-05-25 14:56:54</added>
+                  <modified>2009-05-25 14:56:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Railway stations</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>84438</id>
+              <type id="52">Record relationship</type>
+              <title>(25962 hasSubject 5886)</title>
+              <added>2012-10-30 11:07:06</added>
+              <modified>2012-10-30 11:07:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>25962</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Pymble train station 1968</title>
+                  <added>2009-09-21 14:36:52</added>
+                  <modified>2011-05-20 23:32:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2009-09-21</raw>
+                    <year>2009</year>
+                    <month>9</month>
+                    <day>21</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Pymble train station 1968</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1968</raw>
+                    <year>1968</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L70906</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 10908\nP-DoS Notes: Transport - Rail - A crowd of people waiting for an electric train at Pymble Station in Sydney, New South Wales, 1968\nP-Related: Trains</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3151</id>
+                      <nonce>ce06d2570345133c2a039e64746675ccd2530d43</nonce>
+                      <origName>11961845.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>409.1 kb</size>
+                      <date>2009-09-21 14:36:52</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/11961845.jpg?file_id=ce06d2570345133c2a039e64746675ccd2530d43</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ce06d2570345133c2a039e64746675ccd2530d43</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>5886</id>
+                  <type id="152">Term</type>
+                  <title>Commuting</title>
+                  <added>2009-05-25 14:56:19</added>
+                  <modified>2009-05-25 14:56:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commuting</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>84439</id>
+              <type id="52">Record relationship</type>
+              <title>(25962 hasSubject 6282)</title>
+              <added>2012-10-30 11:07:36</added>
+              <modified>2012-10-30 11:07:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>25962</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Pymble train station 1968</title>
+                  <added>2009-09-21 14:36:52</added>
+                  <modified>2011-05-20 23:32:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2009-09-21</raw>
+                    <year>2009</year>
+                    <month>9</month>
+                    <day>21</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Pymble train station 1968</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1968</raw>
+                    <year>1968</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">A1200, L70906</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4798</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 10908\nP-DoS Notes: Transport - Rail - A crowd of people waiting for an electric train at Pymble Station in Sydney, New South Wales, 1968\nP-Related: Trains</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3151</id>
+                      <nonce>ce06d2570345133c2a039e64746675ccd2530d43</nonce>
+                      <origName>11961845.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>409.1 kb</size>
+                      <date>2009-09-21 14:36:52</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/11961845.jpg?file_id=ce06d2570345133c2a039e64746675ccd2530d43</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ce06d2570345133c2a039e64746675ccd2530d43</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6282</id>
+                  <type id="152">Term</type>
+                  <title>Trains</title>
+                  <added>2009-05-25 14:57:05</added>
+                  <modified>2009-05-25 14:57:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Trains</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76015</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Pymble railway station</title>
+          <added>2012-05-22 09:40:41</added>
+          <modified>2012-05-22 09:40:41</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Pymble railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>76012</id>
+              <type id="151">Entity</type>
+              <title>Pymble railway station (Building)</title>
+              <added>2012-05-22 09:35:18</added>
+              <modified>2012-05-22 09:36:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Pymble railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">North shore line station.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">25962</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>42540</id>
+              <type id="98">XML Document</type>
+              <title>Pymble</title>
+              <added>2010-09-01 15:32:15</added>
+              <modified>2010-09-01 15:32:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3672</id>
+                  <nonce>707582aeb0b5e23d96b57804c0560959e19eea7c</nonce>
+                  <origName>Pymble.xml</origName>
+                  <type>application/xml</type>
+                  <size>29.4 kb</size>
+                  <date>2010-09-01 15:29:10</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Pymble.xml?file_id=707582aeb0b5e23d96b57804c0560959e19eea7c</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=707582aeb0b5e23d96b57804c0560959e19eea7c</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Pymble</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Granted to Robert Pymble, a free settler from Hertfordshire, the area which was to become Pymble was farmland and orchards for most of the nineteenth century. Development followed the railway line, and Pymble became a desirable leafy suburb.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-09-01</raw>
+                <year>2010</year>
+                <month>9</month>
+                <day>1</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2652</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">131</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">54</detail>
+          <detail id="330" type="End Word" name="End Word">55</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76016</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Pymble railway station</title>
+          <added>2012-05-22 09:41:04</added>
+          <modified>2012-05-22 09:41:04</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Pymble railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>76012</id>
+              <type id="151">Entity</type>
+              <title>Pymble railway station (Building)</title>
+              <added>2012-05-22 09:35:18</added>
+              <modified>2012-05-22 09:36:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Pymble railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">North shore line station.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">25962</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>75088</id>
+              <type id="98">XML Document</type>
+              <title>West Pymble</title>
+              <added>2012-05-03 09:48:38</added>
+              <modified>2012-05-23 15:31:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7549</id>
+                  <nonce>4151e28f1fc111335b115f1336748d0ca1339c5b</nonce>
+                  <origName>West+Pymble.xml</origName>
+                  <type>application/xml</type>
+                  <size>326.8 kb</size>
+                  <date>2012-05-23 15:31:34</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/West%2BPymble.xml?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">West Pymble</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of the later suburbs on Sydney's north shore, West Pymble remained semi-rural into the 1950s, with original settler families remaining important in the district. War service homes began changed things in the 1950s, bringing a whole new group into the bushland surroundings.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-03</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>3</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2576</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">75087</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">30</detail>
+          <detail id="330" type="End Word" name="End Word">32</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76013</id>
+          <type id="150">Factoid</type>
+          <title>Pymble railway station, Type, Railway station</title>
+          <added>2012-05-22 09:35:59</added>
+          <modified>2012-05-22 09:35:59</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76012</id>
+              <type id="151">Entity</type>
+              <title>Pymble railway station (Building)</title>
+              <added>2012-05-22 09:35:18</added>
+              <modified>2012-05-22 09:36:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Pymble railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">North shore line station.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">25962</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7059</id>
+              <type id="91">Role</type>
+              <title>Railway station</title>
+              <added>2009-06-10 15:56:24</added>
+              <modified>2009-06-10 15:56:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Railway station</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76014</id>
+          <type id="150">Factoid</type>
+          <title>Pymble railway station, TimePlace</title>
+          <added>2012-05-22 09:39:49</added>
+          <modified>2012-05-22 09:39:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76012</id>
+              <type id="151">Entity</type>
+              <title>Pymble railway station (Building)</title>
+              <added>2012-05-22 09:35:18</added>
+              <modified>2012-05-22 09:36:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Pymble railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">North shore line station.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">25962</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.14208674422 -33.744968012983)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,1568 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8096" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:22:46+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8096</id>
+      <type id="151">Entity</type>
+      <title>Central Baptist church George St (Building)</title>
+      <added>2009-06-10 15:58:45</added>
+      <modified>2012-01-12 13:34:24</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>71637</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+          <added>2012-01-12 13:34:24</added>
+          <modified>2012-01-12 13:34:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2012-01-12</raw>
+            <year>2012</year>
+            <month>1</month>
+            <day>12</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1961</raw>
+            <year>1961</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4755</id>
+              <type id="153">Contributor</type>
+              <title>City of Sydney Archives</title>
+              <added>2009-03-24 10:55:13</added>
+              <modified>2009-10-29 10:32:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">City of Sydney Archives</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.cityofsydney.nsw.gov.au/AboutSydney/HistoryAndArchives/Archives/Default.asp</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>7079</id>
+              <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+              <origName>cosLib_JSmall_032_032477.jpg</origName>
+              <type>image/jpeg</type>
+              <size>425.4 kb</size>
+              <date>2012-01-12 13:34:24</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>8096</id>
+              <type id="151">Entity</type>
+              <title>Central Baptist church George St (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>71638</id>
+              <type id="52">Record relationship</type>
+              <title>(71637 isOf 8096)</title>
+              <added>2012-01-12 13:34:24</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>71637</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7079</id>
+                      <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                      <origName>cosLib_JSmall_032_032477.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>425.4 kb</size>
+                      <date>2012-01-12 13:34:24</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>8096</id>
+                  <type id="151">Entity</type>
+                  <title>Central Baptist church George St (Building)</title>
+                  <added>2009-06-10 15:58:45</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>79673</id>
+              <type id="52">Record relationship</type>
+              <title>(71637 hasSubject 6192)</title>
+              <added>2012-08-14 13:20:29</added>
+              <modified>2012-08-14 13:20:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>71637</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7079</id>
+                      <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                      <origName>cosLib_JSmall_032_032477.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>425.4 kb</size>
+                      <date>2012-01-12 13:34:24</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6192</id>
+                  <type id="152">Term</type>
+                  <title>Religious building</title>
+                  <added>2009-05-25 14:56:54</added>
+                  <modified>2009-05-25 14:56:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>79674</id>
+              <type id="52">Record relationship</type>
+              <title>(71637 hasSubject 79012)</title>
+              <added>2012-08-14 13:20:49</added>
+              <modified>2012-08-14 13:20:49</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>71637</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7079</id>
+                      <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                      <origName>cosLib_JSmall_032_032477.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>425.4 kb</size>
+                      <date>2012-01-12 13:34:24</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>79012</id>
+                  <type id="152">Term</type>
+                  <title>Baptist</title>
+                  <added>2012-08-02 14:38:16</added>
+                  <modified>2012-08-02 14:38:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Baptist</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>34384</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Central Baptist church George St</title>
+          <added>2009-11-06 10:26:37</added>
+          <modified>2009-11-06 10:26:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8096</id>
+              <type id="151">Entity</type>
+              <title>Central Baptist church George St (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>578</id>
+              <type id="98">XML Document</type>
+              <title>St Stephen's Presbyterian church Macquarie Street</title>
+              <added>2008-10-22 13:12:38</added>
+              <modified>2009-10-19 08:57:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>546</id>
+                  <nonce>a4348f01a13238bd660046c8cde300421aeee915</nonce>
+                  <origName>St Stephen's Presbyterian church Macquarie Street.xml</origName>
+                  <type>application/xml</type>
+                  <size>39.1 kb</size>
+                  <date>2009-02-18 11:42:22</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/St+Stephen%27s+Presbyterian+church+Macquarie+Street.xml?file_id=a4348f01a13238bd660046c8cde300421aeee915</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4348f01a13238bd660046c8cde300421aeee915</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">St Stephen's Presbyterian church Macquarie Street</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">This interwar Gothic building, opened in 1935, became the home of Sydney's oldest Presbyterian congregation, after the extension of Martin Place to Macquarie Street led to the demolition of the previous St Stephen's in Phillip Street.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1183</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Written by Mark Dunn</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">27</detail>
+          <detail id="330" type="End Word" name="End Word">29</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8097</id>
+          <type id="150">Factoid</type>
+          <title>Central Baptist church George St, Type, Place of worship</title>
+          <added>2009-06-10 15:58:45</added>
+          <modified>2009-06-10 15:58:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8096</id>
+              <type id="151">Entity</type>
+              <title>Central Baptist church George St (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51471</id>
+          <type id="150">Factoid</type>
+          <title>Central Baptist church George St, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:45:56</added>
+          <modified>2011-02-16 16:03:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8096</id>
+              <type id="151">Entity</type>
+              <title>Central Baptist church George St (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20540592821 -33.87809070662)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66643</id>
+          <type id="150">Factoid</type>
+          <title>Central Baptist church George St, Milestone, Opened</title>
+          <added>2011-12-09 10:41:40</added>
+          <modified>2011-12-09 10:41:40</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8096</id>
+              <type id="151">Entity</type>
+              <title>Central Baptist church George St (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1836</raw>
+            <year>1836</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1836</raw>
+            <year>1836</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>71636</id>
+          <type id="52">Record relationship</type>
+          <title>(71635 isOf 8096)</title>
+          <added>2012-01-12 13:34:24</added>
+          <modified>2012-01-12 13:34:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>71635</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</title>
+              <added>2012-01-12 13:34:23</added>
+              <modified>2012-01-12 13:34:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-01-12</raw>
+                <year>2012</year>
+                <month>1</month>
+                <day>12</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1961</raw>
+                <year>1961</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477 (detail)</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4755</id>
+                  <type id="153">Contributor</type>
+                  <title>City of Sydney Archives</title>
+                  <added>2009-03-24 10:55:13</added>
+                  <modified>2009-10-29 10:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">City of Sydney Archives</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.cityofsydney.nsw.gov.au/AboutSydney/HistoryAndArchives/Archives/Default.asp</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 14060
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>7078</id>
+                  <nonce>2e008a128a3c6889a2adfceec66995ab7575f7d4</nonce>
+                  <origName>cosLib_JSmall_032_032477_detail.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>181.4 kb</size>
+                  <date>2012-01-12 13:34:23</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477_detail.jpg?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</thumbURL>
+                </file>
+              </detail>
+              <relationships>
+                <record>
+                  <id>71636</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71635 isOf 8096)</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71635</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:23</added>
+                      <modified>2012-01-12 13:34:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477 (detail)</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14060
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7078</id>
+                          <nonce>2e008a128a3c6889a2adfceec66995ab7575f7d4</nonce>
+                          <origName>cosLib_JSmall_032_032477_detail.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>181.4 kb</size>
+                          <date>2012-01-12 13:34:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477_detail.jpg?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8096</id>
+                      <type id="151">Entity</type>
+                      <title>Central Baptist church George St (Building)</title>
+                      <added>2009-06-10 15:58:45</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>83682</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71635 hasSubject 5795)</title>
+                  <added>2012-10-16 11:49:30</added>
+                  <modified>2012-10-16 11:49:30</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71635</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:23</added>
+                      <modified>2012-01-12 13:34:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477 (detail)</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14060
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7078</id>
+                          <nonce>2e008a128a3c6889a2adfceec66995ab7575f7d4</nonce>
+                          <origName>cosLib_JSmall_032_032477_detail.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>181.4 kb</size>
+                          <date>2012-01-12 13:34:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477_detail.jpg?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5795</id>
+                      <type id="152">Term</type>
+                      <title>Advertising</title>
+                      <added>2009-05-25 14:56:08</added>
+                      <modified>2009-05-25 14:56:08</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Advertising</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>83683</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71635 hasSubject 6192)</title>
+                  <added>2012-10-16 11:49:49</added>
+                  <modified>2012-10-16 11:49:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71635</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:23</added>
+                      <modified>2012-01-12 13:34:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477 (detail)</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14060
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7078</id>
+                          <nonce>2e008a128a3c6889a2adfceec66995ab7575f7d4</nonce>
+                          <origName>cosLib_JSmall_032_032477_detail.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>181.4 kb</size>
+                          <date>2012-01-12 13:34:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477_detail.jpg?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>83684</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71635 hasSubject 79012)</title>
+                  <added>2012-10-16 11:50:08</added>
+                  <modified>2012-10-16 11:50:08</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71635</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:23</added>
+                      <modified>2012-01-12 13:34:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477 (detail)</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14060
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7078</id>
+                          <nonce>2e008a128a3c6889a2adfceec66995ab7575f7d4</nonce>
+                          <origName>cosLib_JSmall_032_032477_detail.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>181.4 kb</size>
+                          <date>2012-01-12 13:34:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477_detail.jpg?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>79012</id>
+                      <type id="152">Term</type>
+                      <title>Baptist</title>
+                      <added>2012-08-02 14:38:16</added>
+                      <modified>2012-08-02 14:38:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Baptist</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8096</id>
+              <type id="151">Entity</type>
+              <title>Central Baptist church George St (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>71637</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7079</id>
+                      <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                      <origName>cosLib_JSmall_032_032477.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>425.4 kb</size>
+                      <date>2012-01-12 13:34:24</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>34384</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Central Baptist church George St</title>
+                  <added>2009-11-06 10:26:37</added>
+                  <modified>2009-11-06 10:26:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                  <detail id="199" type="Resource" name="target">8096</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">578</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">27</detail>
+                  <detail id="330" type="End Word" name="End Word">29</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8097</id>
+                  <type id="150">Factoid</type>
+                  <title>Central Baptist church George St, Type, Place of worship</title>
+                  <added>2009-06-10 15:58:45</added>
+                  <modified>2009-06-10 15:58:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8096</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51471</id>
+                  <type id="150">Factoid</type>
+                  <title>Central Baptist church George St, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:45:56</added>
+                  <modified>2011-02-16 16:03:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8096</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20540592821 -33.87809070662)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>66643</id>
+                  <type id="150">Factoid</type>
+                  <title>Central Baptist church George St, Milestone, Opened</title>
+                  <added>2011-12-09 10:41:40</added>
+                  <modified>2011-12-09 10:41:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8096</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">42396</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1836</raw>
+                    <year>1836</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1836</raw>
+                    <year>1836</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>71636</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71635 isOf 8096)</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71635</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:23</added>
+                      <modified>2012-01-12 13:34:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477 (detail)</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14060
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7078</id>
+                          <nonce>2e008a128a3c6889a2adfceec66995ab7575f7d4</nonce>
+                          <origName>cosLib_JSmall_032_032477_detail.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>181.4 kb</size>
+                          <date>2012-01-12 13:34:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477_detail.jpg?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8096</id>
+                      <type id="151">Entity</type>
+                      <title>Central Baptist church George St (Building)</title>
+                      <added>2009-06-10 15:58:45</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>71638</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71637 isOf 8096)</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71637</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:24</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7079</id>
+                          <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                          <origName>cosLib_JSmall_032_032477.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>425.4 kb</size>
+                          <date>2012-01-12 13:34:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8096</id>
+                      <type id="151">Entity</type>
+                      <title>Central Baptist church George St (Building)</title>
+                      <added>2009-06-10 15:58:45</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+        <record>
+          <id>71638</id>
+          <type id="52">Record relationship</type>
+          <title>(71637 isOf 8096)</title>
+          <added>2012-01-12 13:34:24</added>
+          <modified>2012-01-12 13:34:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>71637</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+              <added>2012-01-12 13:34:24</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-01-12</raw>
+                <year>2012</year>
+                <month>1</month>
+                <day>12</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1961</raw>
+                <year>1961</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4755</id>
+                  <type id="153">Contributor</type>
+                  <title>City of Sydney Archives</title>
+                  <added>2009-03-24 10:55:13</added>
+                  <modified>2009-10-29 10:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">City of Sydney Archives</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.cityofsydney.nsw.gov.au/AboutSydney/HistoryAndArchives/Archives/Default.asp</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>7079</id>
+                  <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                  <origName>cosLib_JSmall_032_032477.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>425.4 kb</size>
+                  <date>2012-01-12 13:34:24</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>8096</id>
+                  <type id="151">Entity</type>
+                  <title>Central Baptist church George St (Building)</title>
+                  <added>2009-06-10 15:58:45</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>71638</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71637 isOf 8096)</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71637</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:24</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7079</id>
+                          <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                          <origName>cosLib_JSmall_032_032477.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>425.4 kb</size>
+                          <date>2012-01-12 13:34:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8096</id>
+                      <type id="151">Entity</type>
+                      <title>Central Baptist church George St (Building)</title>
+                      <added>2009-06-10 15:58:45</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>79673</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71637 hasSubject 6192)</title>
+                  <added>2012-08-14 13:20:29</added>
+                  <modified>2012-08-14 13:20:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71637</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:24</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7079</id>
+                          <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                          <origName>cosLib_JSmall_032_032477.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>425.4 kb</size>
+                          <date>2012-01-12 13:34:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>79674</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71637 hasSubject 79012)</title>
+                  <added>2012-08-14 13:20:49</added>
+                  <modified>2012-08-14 13:20:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71637</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:24</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7079</id>
+                          <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                          <origName>cosLib_JSmall_032_032477.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>425.4 kb</size>
+                          <date>2012-01-12 13:34:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>79012</id>
+                      <type id="152">Term</type>
+                      <title>Baptist</title>
+                      <added>2012-08-02 14:38:16</added>
+                      <modified>2012-08-02 14:38:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Baptist</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8096</id>
+              <type id="151">Entity</type>
+              <title>Central Baptist church George St (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2012-01-12 13:34:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>71637</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2012-01-12</raw>
+                    <year>2012</year>
+                    <month>1</month>
+                    <day>12</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1961</raw>
+                    <year>1961</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>7079</id>
+                      <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                      <origName>cosLib_JSmall_032_032477.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>425.4 kb</size>
+                      <date>2012-01-12 13:34:24</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>34384</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Central Baptist church George St</title>
+                  <added>2009-11-06 10:26:37</added>
+                  <modified>2009-11-06 10:26:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                  <detail id="199" type="Resource" name="target">8096</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">578</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">27</detail>
+                  <detail id="330" type="End Word" name="End Word">29</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8097</id>
+                  <type id="150">Factoid</type>
+                  <title>Central Baptist church George St, Type, Place of worship</title>
+                  <added>2009-06-10 15:58:45</added>
+                  <modified>2009-06-10 15:58:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8096</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51471</id>
+                  <type id="150">Factoid</type>
+                  <title>Central Baptist church George St, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:45:56</added>
+                  <modified>2011-02-16 16:03:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8096</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20540592821 -33.87809070662)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>66643</id>
+                  <type id="150">Factoid</type>
+                  <title>Central Baptist church George St, Milestone, Opened</title>
+                  <added>2011-12-09 10:41:40</added>
+                  <modified>2011-12-09 10:41:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8096</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">42396</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1836</raw>
+                    <year>1836</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1836</raw>
+                    <year>1836</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>71636</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71635 isOf 8096)</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71635</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:23</added>
+                      <modified>2012-01-12 13:34:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Notice board outside Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477 (detail)</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14060
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7078</id>
+                          <nonce>2e008a128a3c6889a2adfceec66995ab7575f7d4</nonce>
+                          <origName>cosLib_JSmall_032_032477_detail.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>181.4 kb</size>
+                          <date>2012-01-12 13:34:23</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477_detail.jpg?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2e008a128a3c6889a2adfceec66995ab7575f7d4</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8096</id>
+                      <type id="151">Entity</type>
+                      <title>Central Baptist church George St (Building)</title>
+                      <added>2009-06-10 15:58:45</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>71638</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71637 isOf 8096)</title>
+                  <added>2012-01-12 13:34:24</added>
+                  <modified>2012-01-12 13:34:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71637</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Central Baptist church, George Street, Haymarket 22 May 1961</title>
+                      <added>2012-01-12 13:34:24</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church, George Street, Haymarket 22 May 1961</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1961</raw>
+                        <year>1961</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC6068</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">032\032477</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12903
+P-DoS Notes: DEFAULT IMG http://www3.photosau.com/cos1/scripts/ExtSearch.asp?SearchTerm=032477 MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7079</id>
+                          <nonce>0287216fc19bf414d1388e3738ceb676698b7bfd</nonce>
+                          <origName>cosLib_JSmall_032_032477.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>425.4 kb</size>
+                          <date>2012-01-12 13:34:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/cosLib_JSmall_032_032477.jpg?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=0287216fc19bf414d1388e3738ceb676698b7bfd</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8096</id>
+                      <type id="151">Entity</type>
+                      <title>Central Baptist church George St (Building)</title>
+                      <added>2009-06-10 15:58:45</added>
+                      <modified>2012-01-12 13:34:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Central Baptist church George St</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">First Baptist church established in Australia.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">to be fixed</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71637</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:78336" w="a" depth="2" />
+  <dateStamp>2013-02-17T07:32:47+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>78336</id>
+      <type id="151">Entity</type>
+      <title>Buhrich House I (Building)</title>
+      <added>2012-07-16 09:10:41</added>
+      <modified>2012-07-16 09:10:41</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Buhrich House I</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">First Modernist house designed for his family by Hugh Buhrich using a range of materials that were cheaply available.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>78337</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Buhrich House I</title>
+          <added>2012-07-16 09:10:53</added>
+          <modified>2012-07-16 09:10:53</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Buhrich House I</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>78336</id>
+              <type id="151">Entity</type>
+              <title>Buhrich House I (Building)</title>
+              <added>2012-07-16 09:10:41</added>
+              <modified>2012-07-16 09:10:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich House I</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Modernist house designed for his family by Hugh Buhrich using a range of materials that were cheaply available.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>225</id>
+              <type id="98">XML Document</type>
+              <title>Buhrich, Eva</title>
+              <added>2008-10-22 13:11:42</added>
+              <modified>2009-10-21 10:21:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>78</id>
+                  <nonce>49d58e92f9930e24c76ee115bc58294d3bb36da3</nonce>
+                  <origName>Buhrich, Eva.xml</origName>
+                  <type>application/xml</type>
+                  <size>57.5 kb</size>
+                  <date>2008-10-24 10:46:40</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Buhrich%2C+Eva.xml?file_id=49d58e92f9930e24c76ee115bc58294d3bb36da3</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d58e92f9930e24c76ee115bc58294d3bb36da3</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Buhrich, Eva</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Arriving in Sydney in 1939, Eva Buhrich worked in architectural design until the poor pay rates for women architects drove her to writing. She became a well-known commentator on architecture and design, writing for magazines, industry journals and the Sydney Morning Herald.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2842</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">16</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">104</detail>
+          <detail id="330" type="End Word" name="End Word">106</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>78338</id>
+          <type id="150">Factoid</type>
+          <title>Buhrich House I, Type, House</title>
+          <added>2012-07-16 09:11:25</added>
+          <modified>2012-07-16 09:11:25</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>78336</id>
+              <type id="151">Entity</type>
+              <title>Buhrich House I (Building)</title>
+              <added>2012-07-16 09:10:41</added>
+              <modified>2012-07-16 09:10:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich House I</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Modernist house designed for his family by Hugh Buhrich using a range of materials that were cheaply available.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>78339</id>
+          <type id="150">Factoid</type>
+          <title>Buhrich, Hugh, Position, Architect, Buhrich House I</title>
+          <added>2012-07-16 09:12:15</added>
+          <modified>2012-07-16 09:12:15</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13130</id>
+              <type id="151">Entity</type>
+              <title>Buhrich, Hugh (Person)</title>
+              <added>2009-06-10 16:04:09</added>
+              <modified>2009-10-15 10:52:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich, Hugh</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect who designed two landmark modernist houses at Castlecrag.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>78336</id>
+              <type id="151">Entity</type>
+              <title>Buhrich House I (Building)</title>
+              <added>2012-07-16 09:10:41</added>
+              <modified>2012-07-16 09:10:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich House I</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Modernist house designed for his family by Hugh Buhrich using a range of materials that were cheaply available.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1939</raw>
+            <year>1939</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1949</raw>
+            <year>1949</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>78340</id>
+          <type id="150">Factoid</type>
+          <title>Buhrich, Hugh, Property, Owned, Buhrich House I</title>
+          <added>2012-07-16 09:12:52</added>
+          <modified>2012-07-16 09:12:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13130</id>
+              <type id="151">Entity</type>
+              <title>Buhrich, Hugh (Person)</title>
+              <added>2009-06-10 16:04:09</added>
+              <modified>2009-10-15 10:52:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich, Hugh</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect who designed two landmark modernist houses at Castlecrag.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>78336</id>
+              <type id="151">Entity</type>
+              <title>Buhrich House I (Building)</title>
+              <added>2012-07-16 09:10:41</added>
+              <modified>2012-07-16 09:10:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich House I</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Modernist house designed for his family by Hugh Buhrich using a range of materials that were cheaply available.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1939</raw>
+            <year>1939</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1972</raw>
+            <year>1972</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>78341</id>
+          <type id="150">Factoid</type>
+          <title>Buhrich, Eva, Property, Owned, Buhrich House I</title>
+          <added>2012-07-16 09:13:22</added>
+          <modified>2012-07-16 09:13:22</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13128</id>
+              <type id="151">Entity</type>
+              <title>Buhrich, Eva (Person)</title>
+              <added>2009-06-10 16:04:09</added>
+              <modified>2009-10-21 10:19:04</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich, Eva</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">German-born architect and writer who was a champion of modernist design in Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>78336</id>
+              <type id="151">Entity</type>
+              <title>Buhrich House I (Building)</title>
+              <added>2012-07-16 09:10:41</added>
+              <modified>2012-07-16 09:10:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich House I</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Modernist house designed for his family by Hugh Buhrich using a range of materials that were cheaply available.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1939</raw>
+            <year>1939</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1972</raw>
+            <year>1972</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>78342</id>
+          <type id="150">Factoid</type>
+          <title>Buhrich House I, TimePlace</title>
+          <added>2012-07-16 09:14:14</added>
+          <modified>2012-07-16 09:14:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>78336</id>
+              <type id="151">Entity</type>
+              <title>Buhrich House I (Building)</title>
+              <added>2012-07-16 09:10:41</added>
+              <modified>2012-07-16 09:10:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Buhrich House I</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">First Modernist house designed for his family by Hugh Buhrich using a range of materials that were cheaply available.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.22787892074 -33.79729509148)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

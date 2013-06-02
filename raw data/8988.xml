@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8988" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:14:54+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8988</id>
+      <type id="151">Entity</type>
+      <title>The Lodge (Building)</title>
+      <added>2009-06-10 15:58:55</added>
+      <modified>2012-09-14 14:39:45</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">The Lodge</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Gothic style house with steeply pitched gables and decorative timber work.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>38142</id>
+          <type id="99">TEI Document Reference</type>
+          <title>The Lodge</title>
+          <added>2010-02-02 16:05:51</added>
+          <modified>2010-02-02 16:05:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">The Lodge</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8988</id>
+              <type id="151">Entity</type>
+              <title>The Lodge (Building)</title>
+              <added>2009-06-10 15:58:55</added>
+              <modified>2012-09-14 14:39:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Lodge</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Gothic style house with steeply pitched gables and decorative timber work.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>580</id>
+              <type id="98">XML Document</type>
+              <title>Stanmore</title>
+              <added>2008-10-22 13:12:39</added>
+              <modified>2012-09-14 14:48:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7945</id>
+                  <nonce>392be54d7d61284f894487acbcae6ffc56c3dc34</nonce>
+                  <origName>Stanmore.xml</origName>
+                  <type>application/xml</type>
+                  <size>174.6 kb</size>
+                  <date>2012-09-14 14:48:52</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stanmore.xml?file_id=392be54d7d61284f894487acbcae6ffc56c3dc34</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=392be54d7d61284f894487acbcae6ffc56c3dc34</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Stanmore</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cadigal people walked the ridge line, which later became Stanmore Road, before the Europeans arrived. The land was granted to officers of the New South Wales Corps in 1792, and became farms, orchards and grazing land. Subdivided in the 1880s and 1890s, Stanmore developed around the railway station with Victorian villas and Federation houses. In the twentieth century, the suburb's fortunes declined, but by the 1970s gentrification was beginning to change Stanmore again.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2357</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">23</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">9,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">20</detail>
+          <detail id="330" type="End Word" name="End Word">21</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8989</id>
+          <type id="150">Factoid</type>
+          <title>The Lodge, Type, House</title>
+          <added>2009-06-10 15:58:55</added>
+          <modified>2009-06-10 15:58:55</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8988</id>
+              <type id="151">Entity</type>
+              <title>The Lodge (Building)</title>
+              <added>2009-06-10 15:58:55</added>
+              <modified>2012-09-14 14:39:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Lodge</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Gothic style house with steeply pitched gables and decorative timber work.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>82263</id>
+          <type id="150">Factoid</type>
+          <title>The Lodge, TimePlace</title>
+          <added>2012-09-14 14:41:15</added>
+          <modified>2012-09-14 14:41:15</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8988</id>
+              <type id="151">Entity</type>
+              <title>The Lodge (Building)</title>
+              <added>2009-06-10 15:58:55</added>
+              <modified>2012-09-14 14:39:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Lodge</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Gothic style house with steeply pitched gables and decorative timber work.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.16825875639 -33.895946955505)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>82264</id>
+          <type id="150">Factoid</type>
+          <title>Paling, William Henry, Property, Owned, The Lodge</title>
+          <added>2012-09-14 14:42:08</added>
+          <modified>2012-09-14 14:42:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14372</id>
+              <type id="151">Entity</type>
+              <title>Paling, William Henry (Person)</title>
+              <added>2009-06-10 16:04:18</added>
+              <modified>2009-10-28 11:26:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Paling, William Henry</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Musician and teacher who became a businessman, selling instruments, publishing music and promoting concerts.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8988</id>
+              <type id="151">Entity</type>
+              <title>The Lodge (Building)</title>
+              <added>2009-06-10 15:58:55</added>
+              <modified>2012-09-14 14:39:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Lodge</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Gothic style house with steeply pitched gables and decorative timber work.</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>82265</id>
+          <type id="150">Factoid</type>
+          <title>Stuart, Alexander, Property, Owned, The Lodge</title>
+          <added>2012-09-14 14:42:58</added>
+          <modified>2012-09-14 14:42:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14734</id>
+              <type id="151">Entity</type>
+              <title>Stuart, Alexander (Person)</title>
+              <added>2009-06-10 16:04:20</added>
+              <modified>2011-10-19 15:17:35</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Stuart, Alexander</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Scottish-born merchant and politician who became Premier of New South Wales in 1883.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+              <detail id="303" type="Short summary" name="dos.notes">http://adb.anu.edu.au/biography/stuart-sir-alexander-4661</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8988</id>
+              <type id="151">Entity</type>
+              <title>The Lodge (Building)</title>
+              <added>2009-06-10 15:58:55</added>
+              <modified>2012-09-14 14:39:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Lodge</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Gothic style house with steeply pitched gables and decorative timber work.</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:7937" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:13:05+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>7937</id>
+      <type id="151">Entity</type>
+      <title>Argyle Stores (Building)</title>
+      <added>2009-06-10 15:58:44</added>
+      <modified>2011-02-14 17:29:47</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Warehouse in The Rocks, incorporating parts of very early commercial buildings in Sydney and built in stages, the south wing being completed in 1826. In the 1970s it was repurposed as a retail centre.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">12-20 Argyle Street, The Rocks</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>26074</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Argyle Stores</title>
+          <added>2009-09-23 11:23:27</added>
+          <modified>2009-09-23 11:23:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7937</id>
+              <type id="151">Entity</type>
+              <title>Argyle Stores (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-02-14 17:29:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse in The Rocks, incorporating parts of very early commercial buildings in Sydney and built in stages, the south wing being completed in 1826. In the 1970s it was repurposed as a retail centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">12-20 Argyle Street, The Rocks</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>615</id>
+              <type id="98">XML Document</type>
+              <title>The Rocks</title>
+              <added>2008-10-22 13:12:44</added>
+              <modified>2009-09-23 12:05:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1260</id>
+                  <nonce>c10937cd442a01fcef0e83c284e72c1e4b457fd5</nonce>
+                  <origName>The Rocks.xml</origName>
+                  <type>application/xml</type>
+                  <size>112.3 kb</size>
+                  <date>2009-04-23 15:43:49</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/The+Rocks.xml?file_id=c10937cd442a01fcef0e83c284e72c1e4b457fd5</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c10937cd442a01fcef0e83c284e72c1e4b457fd5</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">The Rocks</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Called Tallawoladah by the Cadigal, The Rocks was the convicts' side of town after Europeans arrived, and kept some of its unruly, disreputable air into the twentieth century. Residents' action saved it from destruction in the 1970s, and now a tourist attraction, The Rocks miraculously escaped both high-rise and grid.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1776</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">38</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">114</detail>
+          <detail id="330" type="End Word" name="End Word">115</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>33180</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Argyle Stores</title>
+          <added>2009-10-26 09:34:14</added>
+          <modified>2009-10-26 09:34:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7937</id>
+              <type id="151">Entity</type>
+              <title>Argyle Stores (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-02-14 17:29:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse in The Rocks, incorporating parts of very early commercial buildings in Sydney and built in stages, the south wing being completed in 1826. In the 1970s it was repurposed as a retail centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">12-20 Argyle Street, The Rocks</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>284</id>
+              <type id="98">XML Document</type>
+              <title>Customs House</title>
+              <added>2008-10-22 13:11:52</added>
+              <modified>2009-10-26 10:59:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>115</id>
+                  <nonce>14f4055478d7351b6f935ea408e1d72124583c51</nonce>
+                  <origName>Customs House.xml</origName>
+                  <type>application/xml</type>
+                  <size>44 kb</size>
+                  <date>2008-10-24 10:52:13</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Customs+House.xml?file_id=14f4055478d7351b6f935ea408e1d72124583c51</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=14f4055478d7351b6f935ea408e1d72124583c51</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Customs House</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Designed and redesigned by three government architects, Customs House has presided over Circular Quay since 1845. It has always been a government building, although its functions have changed over time.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">236</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">72</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">15</detail>
+          <detail id="330" type="End Word" name="End Word">16</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>7938</id>
+          <type id="150">Factoid</type>
+          <title>Argyle Stores, Type, Warehouse or Bond store</title>
+          <added>2009-06-10 15:58:44</added>
+          <modified>2009-06-10 15:58:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7937</id>
+              <type id="151">Entity</type>
+              <title>Argyle Stores (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-02-14 17:29:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse in The Rocks, incorporating parts of very early commercial buildings in Sydney and built in stages, the south wing being completed in 1826. In the 1970s it was repurposed as a retail centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">12-20 Argyle Street, The Rocks</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7129</id>
+              <type id="91">Role</type>
+              <title>Warehouse or bond store</title>
+              <added>2009-06-10 15:56:36</added>
+              <modified>2012-05-30 11:19:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warehouse or bond store</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41465</id>
+          <type id="150">Factoid</type>
+          <title>Argyle Stores, Milestone, Constructed</title>
+          <added>2010-07-26 15:17:22</added>
+          <modified>2010-07-26 15:17:22</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7937</id>
+              <type id="151">Entity</type>
+              <title>Argyle Stores (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-02-14 17:29:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse in The Rocks, incorporating parts of very early commercial buildings in Sydney and built in stages, the south wing being completed in 1826. In the 1970s it was repurposed as a retail centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">12-20 Argyle Street, The Rocks</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1826</raw>
+            <year>1826</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1840</raw>
+            <year>1840</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51682</id>
+          <type id="150">Factoid</type>
+          <title>Argyle Stores, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:07</added>
+          <modified>2011-02-16 16:03:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7937</id>
+              <type id="151">Entity</type>
+              <title>Argyle Stores (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2011-02-14 17:29:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Argyle Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse in The Rocks, incorporating parts of very early commercial buildings in Sydney and built in stages, the south wing being completed in 1826. In the 1970s it was repurposed as a retail centre.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">12-20 Argyle Street, The Rocks</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20786935196 -33.859039903818)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

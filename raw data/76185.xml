@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:76185" w="a" depth="2" />
+  <dateStamp>2013-02-17T07:10:29+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>76185</id>
+      <type id="151">Entity</type>
+      <title>Wood-Martin (Building)</title>
+      <added>2012-05-24 09:19:09</added>
+      <modified>2012-05-24 09:19:09</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Wood-Martin</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">House built for the Hamilton family of Pymble, and later used as a Methodist children's home.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76186</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Wood-Martin</title>
+          <added>2012-05-24 09:19:18</added>
+          <modified>2012-05-24 09:20:30</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>76185</id>
+              <type id="151">Entity</type>
+              <title>Wood-Martin (Building)</title>
+              <added>2012-05-24 09:19:09</added>
+              <modified>2012-05-24 09:19:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wood-Martin</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for the Hamilton family of Pymble, and later used as a Methodist children's home.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>75088</id>
+              <type id="98">XML Document</type>
+              <title>West Pymble</title>
+              <added>2012-05-03 09:48:38</added>
+              <modified>2012-05-23 15:31:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7549</id>
+                  <nonce>4151e28f1fc111335b115f1336748d0ca1339c5b</nonce>
+                  <origName>West+Pymble.xml</origName>
+                  <type>application/xml</type>
+                  <size>326.8 kb</size>
+                  <date>2012-05-23 15:31:34</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/West%2BPymble.xml?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">West Pymble</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of the later suburbs on Sydney's north shore, West Pymble remained semi-rural into the 1950s, with original settler families remaining important in the district. War service homes began changed things in the 1950s, bringing a whole new group into the bushland surroundings.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-03</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>3</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2576</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">75087</detail>
+            </record>
+          </detail>
+          <detail id="330" type="End Word" name="End Word">7</detail>
+          <detail id="160" type="Title" name="dc.title">Wood-Martin</detail>
+          <detail id="539" type="Start Element" name="Start Element">8,8</detail>
+          <detail id="329" type="Start Word" name="Start Word">7</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76187</id>
+          <type id="150">Factoid</type>
+          <title>Wood-Martin, Milestone, Constructed</title>
+          <added>2012-05-24 09:36:57</added>
+          <modified>2012-05-24 09:36:57</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76185</id>
+              <type id="151">Entity</type>
+              <title>Wood-Martin (Building)</title>
+              <added>2012-05-24 09:19:09</added>
+              <modified>2012-05-24 09:19:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wood-Martin</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for the Hamilton family of Pymble, and later used as a Methodist children's home.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1905</raw>
+            <year>1905</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1905</raw>
+            <year>1905</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76188</id>
+          <type id="150">Factoid</type>
+          <title>Wood-Martin, Type, House</title>
+          <added>2012-05-24 09:37:35</added>
+          <modified>2012-05-24 09:37:35</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76185</id>
+              <type id="151">Entity</type>
+              <title>Wood-Martin (Building)</title>
+              <added>2012-05-24 09:19:09</added>
+              <modified>2012-05-24 09:19:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wood-Martin</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for the Hamilton family of Pymble, and later used as a Methodist children's home.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76189</id>
+          <type id="150">Factoid</type>
+          <title>Wood-Martin, TimePlace</title>
+          <added>2012-05-24 09:38:52</added>
+          <modified>2012-05-31 08:55:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76185</id>
+              <type id="151">Entity</type>
+              <title>Wood-Martin (Building)</title>
+              <added>2012-05-24 09:19:09</added>
+              <modified>2012-05-24 09:19:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wood-Martin</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for the Hamilton family of Pymble, and later used as a Methodist children's home.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.1362502574 -33.755244647949)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>76190</id>
+          <type id="150">Factoid</type>
+          <title>Hamilton, Frederick J, Property, Owned, Wood-Martin</title>
+          <added>2012-05-24 09:42:02</added>
+          <modified>2012-05-24 09:42:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76088</id>
+              <type id="151">Entity</type>
+              <title>Hamilton, Frederick J (Person)</title>
+              <added>2012-05-23 10:02:01</added>
+              <modified>2012-05-23 10:02:01</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hamilton, Frederick J</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Retailer and landowner in the Pymble area.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>76185</id>
+              <type id="151">Entity</type>
+              <title>Wood-Martin (Building)</title>
+              <added>2012-05-24 09:19:09</added>
+              <modified>2012-05-24 09:19:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wood-Martin</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for the Hamilton family of Pymble, and later used as a Methodist children's home.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1905</raw>
+            <year>1905</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1916</raw>
+            <year>1916</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>76191</id>
+          <type id="150">Factoid</type>
+          <title>Bernard Smith Children's Home, Property, Owned, Wood-Martin</title>
+          <added>2012-05-24 09:43:14</added>
+          <modified>2012-05-24 09:43:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76160</id>
+              <type id="151">Entity</type>
+              <title>Bernard Smith Children's Home (Organisation)</title>
+              <added>2012-05-23 15:35:07</added>
+              <modified>2012-05-23 15:35:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Bernard Smith Children's Home</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Children's home established by the Wesley Mission in the former home of the Hamilton family in West Pymble.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>76185</id>
+              <type id="151">Entity</type>
+              <title>Wood-Martin (Building)</title>
+              <added>2012-05-24 09:19:09</added>
+              <modified>2012-05-24 09:19:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wood-Martin</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built for the Hamilton family of Pymble, and later used as a Methodist children's home.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1960</raw>
+            <year>1960</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1988</raw>
+            <year>1988</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

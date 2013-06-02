@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:65905" w="a" depth="2" />
+  <dateStamp>2013-02-17T05:40:49+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>65905</id>
+      <type id="151">Entity</type>
+      <title>St Spyridon Greek Orthodox church Kingsford (Building)</title>
+      <added>2011-11-18 11:43:43</added>
+      <modified>2011-11-18 11:43:43</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St Spyridon Greek Orthodox church Kingsford</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Orthodox church serving the Greek community in south east Sydney.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>65906</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St Spyridon Greek Orthodox church Kingsford</title>
+          <added>2011-11-18 11:43:54</added>
+          <modified>2011-11-18 11:43:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St Spyridon Greek Orthodox church Kingsford</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>65905</id>
+              <type id="151">Entity</type>
+              <title>St Spyridon Greek Orthodox church Kingsford (Building)</title>
+              <added>2011-11-18 11:43:43</added>
+              <modified>2011-11-18 11:43:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Spyridon Greek Orthodox church Kingsford</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Orthodox church serving the Greek community in south east Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>58830</id>
+              <type id="98">XML Document</type>
+              <title>Greeks</title>
+              <added>2011-07-06 10:10:56</added>
+              <modified>2011-11-24 14:24:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5309</id>
+                  <nonce>5e7aad0f5df29adec14936990ad0baafd6111140</nonce>
+                  <origName>Greeks.xml</origName>
+                  <type>application/xml</type>
+                  <size>258.3 kb</size>
+                  <date>2011-11-24 14:24:33</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Greeks.xml?file_id=5e7aad0f5df29adec14936990ad0baafd6111140</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5e7aad0f5df29adec14936990ad0baafd6111140</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Greeks</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's Hellenic community is one of the city's largest and most influential, with a long and complex history. Greek-speaking people came from many parts of the Mediterranean, as well as Hellas itself, and have maintained their diverse cultural traditions at the same time as becoming part of Sydney's institutions and cultural and business life.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-06</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2990</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">58829</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">9,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">2</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65907</id>
+          <type id="150">Factoid</type>
+          <title>St Spyridon Greek Orthodox church Kingsford, Milestone, Opened</title>
+          <added>2011-11-18 11:45:17</added>
+          <modified>2011-11-18 11:45:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>65905</id>
+              <type id="151">Entity</type>
+              <title>St Spyridon Greek Orthodox church Kingsford (Building)</title>
+              <added>2011-11-18 11:43:43</added>
+              <modified>2011-11-18 11:43:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Spyridon Greek Orthodox church Kingsford</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Orthodox church serving the Greek community in south east Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1973</raw>
+            <year>1973</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1973</raw>
+            <year>1973</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65908</id>
+          <type id="150">Factoid</type>
+          <title>St Spyridon Greek Orthodox church Kingsford, Type, Place of worship</title>
+          <added>2011-11-18 11:45:29</added>
+          <modified>2011-11-18 11:45:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>65905</id>
+              <type id="151">Entity</type>
+              <title>St Spyridon Greek Orthodox church Kingsford (Building)</title>
+              <added>2011-11-18 11:43:43</added>
+              <modified>2011-11-18 11:43:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Spyridon Greek Orthodox church Kingsford</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Orthodox church serving the Greek community in south east Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>65909</id>
+          <type id="150">Factoid</type>
+          <title>St Spyridon Greek Orthodox church Kingsford, TimePlace</title>
+          <added>2011-11-18 11:47:05</added>
+          <modified>2011-11-18 11:47:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>65905</id>
+              <type id="151">Entity</type>
+              <title>St Spyridon Greek Orthodox church Kingsford (Building)</title>
+              <added>2011-11-18 11:43:43</added>
+              <modified>2011-11-18 11:43:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Spyridon Greek Orthodox church Kingsford</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Orthodox church serving the Greek community in south east Sydney.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.22461496293 -33.925169761044)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

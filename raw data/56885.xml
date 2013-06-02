@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:56885" w="a" depth="2" />
+  <dateStamp>2013-02-17T03:25:31+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>56885</id>
+      <type id="151">Entity</type>
+      <title>Central Court House and Police Station Liverpool Street (Building)</title>
+      <added>2011-05-17 15:27:06</added>
+      <modified>2011-11-25 13:51:23</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Court complex constructed in 1893, possibly designed by Walter Liberty Vernon, between Central and Liverpool streets, with access from both sides. The complex is still in use in 2011.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>25413</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Central Court House and Police Station Liverpool Street</title>
+          <added>2009-09-17 12:32:30</added>
+          <modified>2011-11-25 13:52:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>622</id>
+              <type id="98">XML Document</type>
+              <title>Tram deaths</title>
+              <added>2008-10-22 13:12:45</added>
+              <modified>2013-02-08 13:28:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8267</id>
+                  <nonce>d94b33e67ee1ec37871f94f9d8f889de0627eaa0</nonce>
+                  <origName>Tram+deaths.xml</origName>
+                  <type>application/xml</type>
+                  <size>54.5 kb</size>
+                  <date>2013-02-08 10:52:27</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Tram%2Bdeaths.xml?file_id=d94b33e67ee1ec37871f94f9d8f889de0627eaa0</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d94b33e67ee1ec37871f94f9d8f889de0627eaa0</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Tram deaths</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Trams, like other forms of transport, can be dangerous.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2897</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Text amended 8/2/2013 to correct first death by tram as per information received from reader Bill McGowan.</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>56885</id>
+              <type id="151">Entity</type>
+              <title>Central Court House and Police Station Liverpool Street (Building)</title>
+              <added>2011-05-17 15:27:06</added>
+              <modified>2011-11-25 13:51:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Court complex constructed in 1893, possibly designed by Walter Liberty Vernon, between Central and Liverpool streets, with access from both sides. The complex is still in use in 2011.</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">56</detail>
+          <detail id="330" type="End Word" name="End Word">58</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>66350</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Central Court House and Police Station Liverpool Street</title>
+          <added>2011-11-25 13:51:41</added>
+          <modified>2011-11-25 13:51:41</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>56885</id>
+              <type id="151">Entity</type>
+              <title>Central Court House and Police Station Liverpool Street (Building)</title>
+              <added>2011-05-17 15:27:06</added>
+              <modified>2011-11-25 13:51:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Court complex constructed in 1893, possibly designed by Walter Liberty Vernon, between Central and Liverpool streets, with access from both sides. The complex is still in use in 2011.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>44711</id>
+              <type id="98">XML Document</type>
+              <title>Shark Arm murder 1935</title>
+              <added>2010-10-11 14:58:21</added>
+              <modified>2010-11-18 12:15:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3957</id>
+                  <nonce>3888f3a9ee2ab1ecb727f1993cba7ab2c3731d0b</nonce>
+                  <origName>Shark+Arm+murder.xml</origName>
+                  <type>application/xml</type>
+                  <size>53.2 kb</size>
+                  <date>2010-10-12 09:47:06</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Shark%2BArm%2Bmurder.xml?file_id=3888f3a9ee2ab1ecb727f1993cba7ab2c3731d0b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3888f3a9ee2ab1ecb727f1993cba7ab2c3731d0b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Shark Arm murder 1935</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of Sydney's most sensational crimes, the Shark Arm murder was never solved.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-10-11</raw>
+                <year>2010</year>
+                <month>10</month>
+                <day>11</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">426</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">30</detail>
+          <detail id="330" type="End Word" name="End Word">32</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>87003</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Central Court House and Police Station Liverpool Street</title>
+          <added>2012-12-20 08:21:33</added>
+          <modified>2012-12-20 08:21:33</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>56885</id>
+              <type id="151">Entity</type>
+              <title>Central Court House and Police Station Liverpool Street (Building)</title>
+              <added>2011-05-17 15:27:06</added>
+              <modified>2011-11-25 13:51:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Court complex constructed in 1893, possibly designed by Walter Liberty Vernon, between Central and Liverpool streets, with access from both sides. The complex is still in use in 2011.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>85571</id>
+              <type id="98">XML Document</type>
+              <title>Hammond, Robert Brodribb Stewart</title>
+              <added>2012-11-22 10:24:29</added>
+              <modified>2012-11-22 10:24:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7965</id>
+                  <nonce>2ed5906cae6b5fba46bf0ca2a922ce75e7eda59c</nonce>
+                  <origName>Hammond, RBS.xml</origName>
+                  <type>application/xml</type>
+                  <size>88.5 kb</size>
+                  <date>2012-11-22 10:19:14</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Hammond%2C+RBS.xml?file_id=2ed5906cae6b5fba46bf0ca2a922ce75e7eda59c</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2ed5906cae6b5fba46bf0ca2a922ce75e7eda59c</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Hammond, Robert Brodribb Stewart</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of the best-known clergymen in Sydney during the first half of the twentieth century, RBS Hammond was a passionate advocate of temperance and 'practical Christianity'. His philanthropic endeavours, involving housing, feeding and finding employment for the poor, survived him in the suburb of Hammondville, and the institution of HammondCare.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-11-22</raw>
+                <year>2012</year>
+                <month>11</month>
+                <day>22</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1156</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">85570</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">132</detail>
+          <detail id="330" type="End Word" name="End Word">134</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>56886</id>
+          <type id="150">Factoid</type>
+          <title>Central Police Station and Court, Type, Court</title>
+          <added>2011-05-17 15:28:28</added>
+          <modified>2011-05-17 15:28:28</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>56885</id>
+              <type id="151">Entity</type>
+              <title>Central Court House and Police Station Liverpool Street (Building)</title>
+              <added>2011-05-17 15:27:06</added>
+              <modified>2011-11-25 13:51:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Court complex constructed in 1893, possibly designed by Walter Liberty Vernon, between Central and Liverpool streets, with access from both sides. The complex is still in use in 2011.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6926</id>
+              <type id="91">Role</type>
+              <title>Court</title>
+              <added>2009-06-10 15:55:59</added>
+              <modified>2009-06-10 15:55:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Court</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>56887</id>
+          <type id="150">Factoid</type>
+          <title>Central Police Station and Court, Milestone, Constructed</title>
+          <added>2011-05-17 15:28:49</added>
+          <modified>2011-05-17 15:28:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>56885</id>
+              <type id="151">Entity</type>
+              <title>Central Court House and Police Station Liverpool Street (Building)</title>
+              <added>2011-05-17 15:27:06</added>
+              <modified>2011-11-25 13:51:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Court complex constructed in 1893, possibly designed by Walter Liberty Vernon, between Central and Liverpool streets, with access from both sides. The complex is still in use in 2011.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1893</raw>
+            <year>1893</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1893</raw>
+            <year>1893</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66223</id>
+          <type id="150">Factoid</type>
+          <title>Central Court House, TimePlace</title>
+          <added>2011-11-24 15:38:13</added>
+          <modified>2011-11-24 15:38:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>56885</id>
+              <type id="151">Entity</type>
+              <title>Central Court House and Police Station Liverpool Street (Building)</title>
+              <added>2011-05-17 15:27:06</added>
+              <modified>2011-11-25 13:51:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Central Court House and Police Station Liverpool Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Court complex constructed in 1893, possibly designed by Walter Liberty Vernon, between Central and Liverpool streets, with access from both sides. The complex is still in use in 2011.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20701162517 -33.876040865033)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

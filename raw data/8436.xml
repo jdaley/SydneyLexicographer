@@ -1,0 +1,1620 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8436" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:42:56+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8436</id>
+      <type id="151">Entity</type>
+      <title>Independent Theatre (Building)</title>
+      <added>2009-06-10 15:58:48</added>
+      <modified>2011-02-24 12:03:14</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>40261</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Independent Theatre</title>
+          <added>2010-07-01 15:01:02</added>
+          <modified>2010-07-01 15:01:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8436</id>
+              <type id="151">Entity</type>
+              <title>Independent Theatre (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-24 12:03:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>39532</id>
+              <type id="98">XML Document</type>
+              <title>North Sydney</title>
+              <added>2010-06-17 12:18:03</added>
+              <modified>2010-07-22 10:49:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3635</id>
+                  <nonce>5ea86df6ac5fe923e97a564fedeef5be171e3707</nonce>
+                  <origName>North+Sydney.xml</origName>
+                  <type>application/xml</type>
+                  <size>65.1 kb</size>
+                  <date>2010-07-22 10:49:11</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/North%2BSydney.xml?file_id=5ea86df6ac5fe923e97a564fedeef5be171e3707</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5ea86df6ac5fe923e97a564fedeef5be171e3707</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">North Sydney</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Part of Cammeraygal country, North Sydney was established by the 1840s as a township on the northern shore of the harbour. It became popular with professionals and skilled tradespeople, developing as a commercial centre for the north shore. Postwar development transformed the central business district with high rise and the loss of many nineteenth-century buildings.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-06-17</raw>
+                <year>2010</year>
+                <month>6</month>
+                <day>17</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1623</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">74</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,9</detail>
+          <detail id="329" type="Start Word" name="Start Word">92</detail>
+          <detail id="330" type="End Word" name="End Word">93</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>45364</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Independent Theatre</title>
+          <added>2010-10-22 10:58:35</added>
+          <modified>2010-10-22 10:58:35</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8436</id>
+              <type id="151">Entity</type>
+              <title>Independent Theatre (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-24 12:03:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>44256</id>
+              <type id="98">XML Document</type>
+              <title>Fitton, Doris</title>
+              <added>2010-10-05 09:02:09</added>
+              <modified>2010-10-05 09:02:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3936</id>
+                  <nonce>6f5fb5fc99fc0848b25d6a64ef8ce52ba8fc91fc</nonce>
+                  <origName>Fitton, Doris.xml</origName>
+                  <type>application/xml</type>
+                  <size>47.1 kb</size>
+                  <date>2010-10-05 08:57:26</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Fitton%2C+Doris.xml?file_id=6f5fb5fc99fc0848b25d6a64ef8ce52ba8fc91fc</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6f5fb5fc99fc0848b25d6a64ef8ce52ba8fc91fc</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Fitton, Doris</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A pioneer of twentieth-century theatre in Sydney, Doris Fitton created the Independent Theatre and produced both classic and new Australian plays for more than four decades.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-10-05</raw>
+                <year>2010</year>
+                <month>10</month>
+                <day>5</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">511</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">42</detail>
+          <detail id="330" type="End Word" name="End Word">43</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8437</id>
+          <type id="150">Factoid</type>
+          <title>Independent Theatre, Type, Theatre</title>
+          <added>2009-06-10 15:58:48</added>
+          <modified>2009-06-10 15:58:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8436</id>
+              <type id="151">Entity</type>
+              <title>Independent Theatre (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-24 12:03:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7112</id>
+              <type id="91">Role</type>
+              <title>Theatre</title>
+              <added>2009-06-10 15:56:32</added>
+              <modified>2009-06-10 15:56:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8438</id>
+          <type id="150">Factoid</type>
+          <title>Independent Theatre, Name, Alternate</title>
+          <added>2009-06-10 15:58:48</added>
+          <modified>2009-06-10 15:58:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8436</id>
+              <type id="151">Entity</type>
+              <title>Independent Theatre (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-24 12:03:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">North Sydney Stadium</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8439</id>
+          <type id="150">Factoid</type>
+          <title>Independent Theatre, Name, Alternate</title>
+          <added>2009-06-10 15:58:48</added>
+          <modified>2009-06-10 15:58:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8436</id>
+              <type id="151">Entity</type>
+              <title>Independent Theatre (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-24 12:03:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Coliseum Picture Hall</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51694</id>
+          <type id="150">Factoid</type>
+          <title>Independent Theatre, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:15</added>
+          <modified>2011-02-16 16:03:21</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8436</id>
+              <type id="151">Entity</type>
+              <title>Independent Theatre (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-24 12:03:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20812894531 -33.833279327157)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>8440</id>
+          <type id="52">Record relationship</type>
+          <title>(390 isAbout 8436)</title>
+          <added>2009-06-10 15:58:48</added>
+          <modified>2009-06-10 15:58:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>390</id>
+              <type id="98">XML Document</type>
+              <title>Independent Theatre</title>
+              <added>2008-10-22 13:12:09</added>
+              <modified>2009-10-29 14:50:49</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1622</id>
+                  <nonce>cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</nonce>
+                  <origName>Independent Theatre.xml</origName>
+                  <type>application/xml</type>
+                  <size>35 kb</size>
+                  <date>2009-05-27 16:02:46</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.xml?file_id=cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">From tram shed to picture hall to boxing venue to drama theatre, The Independent has been part of Sydney's theatre scene since 1911.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2750</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>1</id>
+                  <type id="153">Contributor</type>
+                  <title>Ailsa McPherson</title>
+                  <added>2008-10-22 12:48:46</added>
+                  <modified>2009-10-20 14:39:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ailsa McPherson</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Ailsa McPherson is an independent scholar</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">author</detail>
+                </record>
+              </detail>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28851</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Breillat, Thomas Chaplin</title>
+                  <added>2009-10-15 10:04:51</added>
+                  <modified>2009-10-15 10:04:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Breillat, Thomas Chaplin</detail>
+                  <detail id="199" type="Resource" name="target">13085</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">26</detail>
+                  <detail id="330" type="End Word" name="End Word">28</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28852</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lane, William</title>
+                  <added>2009-10-15 10:05:12</added>
+                  <modified>2009-10-15 10:05:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lane, William</detail>
+                  <detail id="199" type="Resource" name="target">13975</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">37</detail>
+                  <detail id="330" type="End Word" name="End Word">38</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28853</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Milsons Point</title>
+                  <added>2009-10-15 10:05:42</added>
+                  <modified>2009-10-15 10:05:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Milsons Point</detail>
+                  <detail id="199" type="Resource" name="target">16878</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">70</detail>
+                  <detail id="330" type="End Word" name="End Word">71</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28854</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Neutral Bay</title>
+                  <added>2009-10-15 10:06:06</added>
+                  <modified>2009-10-15 10:06:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Neutral Bay</detail>
+                  <detail id="199" type="Resource" name="target">17014</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">110</detail>
+                  <detail id="330" type="End Word" name="End Word">111</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28855</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>North Sydney Coliseum Pty Ltd</title>
+                  <added>2009-10-15 10:06:30</added>
+                  <modified>2009-10-15 10:06:30</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">North Sydney Coliseum Pty Ltd</detail>
+                  <detail id="199" type="Resource" name="target">11871</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">4</detail>
+                  <detail id="330" type="End Word" name="End Word">8</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28856</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Kethel, Joseph</title>
+                  <added>2009-10-15 10:06:49</added>
+                  <modified>2009-10-15 10:06:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Kethel, Joseph</detail>
+                  <detail id="199" type="Resource" name="target">13931</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">23</detail>
+                  <detail id="330" type="End Word" name="End Word">24</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28857</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Coliseum Picture Hall</title>
+                  <added>2009-10-15 10:07:20</added>
+                  <modified>2009-10-15 10:07:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Coliseum Picture Hall</detail>
+                  <detail id="199" type="Resource" name="target">8144</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">36</detail>
+                  <detail id="330" type="End Word" name="End Word">38</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28858</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Coliseum Picture Theatre</title>
+                  <added>2009-10-15 10:07:39</added>
+                  <modified>2009-10-15 10:07:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Coliseum Picture Theatre</detail>
+                  <detail id="199" type="Resource" name="target">8146</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">49</detail>
+                  <detail id="330" type="End Word" name="End Word">51</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28859</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Bertie, CM</title>
+                  <added>2009-10-15 10:07:59</added>
+                  <modified>2009-10-15 10:07:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Bertie, CM</detail>
+                  <detail id="199" type="Resource" name="target">28604</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">5</detail>
+                  <detail id="330" type="End Word" name="End Word">6</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28860</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Bain, JC</title>
+                  <added>2009-10-15 10:08:16</added>
+                  <modified>2009-10-15 10:08:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Bain, JC</detail>
+                  <detail id="199" type="Resource" name="target">12937</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">14</detail>
+                  <detail id="330" type="End Word" name="End Word">15</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28861</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Clay, Harry</title>
+                  <added>2009-10-15 10:08:36</added>
+                  <modified>2009-10-15 10:08:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Clay, Harry</detail>
+                  <detail id="199" type="Resource" name="target">13258</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">26</detail>
+                  <detail id="330" type="End Word" name="End Word">27</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28862</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Theatres and Public Halls Act</title>
+                  <added>2009-10-15 10:09:08</added>
+                  <modified>2009-10-15 10:09:08</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Theatres and Public Halls Act</detail>
+                  <detail id="199" type="Resource" name="target">7820</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3,1</detail>
+                  <detail id="540" type="End Element" name="End Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="330" type="End Word" name="End Word">54</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28863</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Shipp, Les</title>
+                  <added>2009-10-15 10:10:57</added>
+                  <modified>2009-10-15 10:10:57</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Shipp, Les</detail>
+                  <detail id="199" type="Resource" name="target">14643</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">14</detail>
+                  <detail id="330" type="End Word" name="End Word">15</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28864</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>JC Williamson</title>
+                  <added>2009-10-15 10:13:41</added>
+                  <modified>2009-10-15 10:13:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">JC Williamson</detail>
+                  <detail id="199" type="Resource" name="target">11302</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">35</detail>
+                  <detail id="330" type="End Word" name="End Word">36</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28865</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Fitton, Doris</title>
+                  <added>2009-10-15 10:14:03</added>
+                  <modified>2009-10-15 10:14:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Fitton, Doris</detail>
+                  <detail id="199" type="Resource" name="target">13543</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">52</detail>
+                  <detail id="330" type="End Word" name="End Word">53</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28866</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ratcliffe, Ivan</title>
+                  <added>2009-10-15 10:15:08</added>
+                  <modified>2009-10-15 10:15:08</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ratcliffe, Ivan</detail>
+                  <detail id="199" type="Resource" name="target">14473</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">175</detail>
+                  <detail id="330" type="End Word" name="End Word">176</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28867</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Theatre Freeholds Ltd</title>
+                  <added>2009-10-15 10:16:49</added>
+                  <modified>2009-10-15 10:16:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Theatre Freeholds Ltd</detail>
+                  <detail id="199" type="Resource" name="target">12602</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">91</detail>
+                  <detail id="330" type="End Word" name="End Word">93</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28868</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Howitt, John</title>
+                  <added>2009-10-15 10:17:19</added>
+                  <modified>2009-10-15 10:17:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Howitt, John</detail>
+                  <detail id="199" type="Resource" name="target">13824</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">22</detail>
+                  <detail id="330" type="End Word" name="End Word">23</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28869</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Killara</title>
+                  <added>2009-10-15 10:18:21</added>
+                  <modified>2009-10-15 10:18:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Killara</detail>
+                  <detail id="199" type="Resource" name="target">16509</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">29</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28870</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Gordon, Hayes</title>
+                  <added>2009-10-15 10:18:43</added>
+                  <modified>2009-10-15 10:18:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Gordon, Hayes</detail>
+                  <detail id="199" type="Resource" name="target">13653</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">47</detail>
+                  <detail id="330" type="End Word" name="End Word">48</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28871</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Ensemble Theatre</title>
+                  <added>2009-10-15 10:19:03</added>
+                  <modified>2009-10-15 10:19:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Ensemble Theatre</detail>
+                  <detail id="199" type="Resource" name="target">10951</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">51</detail>
+                  <detail id="330" type="End Word" name="End Word">52</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28872</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Australian Elizabethan Theatre Trust</title>
+                  <added>2009-10-15 10:19:26</added>
+                  <modified>2009-10-15 10:19:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Australian Elizabethan Theatre Trust</detail>
+                  <detail id="199" type="Resource" name="target">10210</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">73</detail>
+                  <detail id="330" type="End Word" name="End Word">76</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28873</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Roncord Pty Ltd</title>
+                  <added>2009-10-15 10:19:46</added>
+                  <modified>2009-10-15 10:19:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Roncord Pty Ltd</detail>
+                  <detail id="199" type="Resource" name="target">12103</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">64</detail>
+                  <detail id="330" type="End Word" name="End Word">66</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28874</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Seaborn Broughton &amp; Walford Foundation</title>
+                  <added>2009-10-15 10:20:10</added>
+                  <modified>2009-10-15 10:20:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Seaborn Broughton &amp; Walford Foundation</detail>
+                  <detail id="199" type="Resource" name="target">12223</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">104</detail>
+                  <detail id="330" type="End Word" name="End Word">108</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28875</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Seaborn, Rodney</title>
+                  <added>2009-10-15 10:20:40</added>
+                  <modified>2009-10-15 10:20:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Seaborn, Rodney</detail>
+                  <detail id="199" type="Resource" name="target">14615</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">113</detail>
+                  <detail id="330" type="End Word" name="End Word">115</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>28876</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>North Sydney Council</title>
+                  <added>2009-10-15 10:22:01</added>
+                  <modified>2009-10-15 10:22:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">North Sydney Council</detail>
+                  <detail id="199" type="Resource" name="target">11877</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">390</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">123</detail>
+                  <detail id="330" type="End Word" name="End Word">125</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>8440</id>
+                  <type id="52">Record relationship</type>
+                  <title>(390 isAbout 8436)</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>390</id>
+                      <type id="98">XML Document</type>
+                      <title>Independent Theatre</title>
+                      <added>2008-10-22 13:12:09</added>
+                      <modified>2009-10-29 14:50:49</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>1622</id>
+                          <nonce>cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</nonce>
+                          <origName>Independent Theatre.xml</origName>
+                          <type>application/xml</type>
+                          <size>35 kb</size>
+                          <date>2009-05-27 16:02:46</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.xml?file_id=cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">From tram shed to picture hall to boxing venue to drama theatre, The Independent has been part of Sydney's theatre scene since 1911.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2750</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8436</id>
+                      <type id="151">Entity</type>
+                      <title>Independent Theatre (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-24 12:03:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8436</id>
+              <type id="151">Entity</type>
+              <title>Independent Theatre (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-24 12:03:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>40261</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Independent Theatre</title>
+                  <added>2010-07-01 15:01:02</added>
+                  <modified>2010-07-01 15:01:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                  <detail id="199" type="Resource" name="target">8436</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">39532</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,9</detail>
+                  <detail id="329" type="Start Word" name="Start Word">92</detail>
+                  <detail id="330" type="End Word" name="End Word">93</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>45364</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Independent Theatre</title>
+                  <added>2010-10-22 10:58:35</added>
+                  <modified>2010-10-22 10:58:35</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                  <detail id="199" type="Resource" name="target">8436</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">44256</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">42</detail>
+                  <detail id="330" type="End Word" name="End Word">43</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8437</id>
+                  <type id="150">Factoid</type>
+                  <title>Independent Theatre, Type, Theatre</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8436</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7112</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8438</id>
+                  <type id="150">Factoid</type>
+                  <title>Independent Theatre, Name, Alternate</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8436</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">North Sydney Stadium</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8439</id>
+                  <type id="150">Factoid</type>
+                  <title>Independent Theatre, Name, Alternate</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8436</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Coliseum Picture Hall</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51694</id>
+                  <type id="150">Factoid</type>
+                  <title>Independent Theatre, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:51:15</added>
+                  <modified>2011-02-16 16:03:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8436</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20812894531 -33.833279327157)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>8440</id>
+                  <type id="52">Record relationship</type>
+                  <title>(390 isAbout 8436)</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>390</id>
+                      <type id="98">XML Document</type>
+                      <title>Independent Theatre</title>
+                      <added>2008-10-22 13:12:09</added>
+                      <modified>2009-10-29 14:50:49</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>1622</id>
+                          <nonce>cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</nonce>
+                          <origName>Independent Theatre.xml</origName>
+                          <type>application/xml</type>
+                          <size>35 kb</size>
+                          <date>2009-05-27 16:02:46</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.xml?file_id=cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">From tram shed to picture hall to boxing venue to drama theatre, The Independent has been part of Sydney's theatre scene since 1911.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2750</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8436</id>
+                      <type id="151">Entity</type>
+                      <title>Independent Theatre (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-24 12:03:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>20988</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20987 isOf 8436)</title>
+                  <added>2009-07-17 14:18:29</added>
+                  <modified>2009-07-17 14:18:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20987</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</title>
+                      <added>2009-07-17 14:18:29</added>
+                      <modified>2011-05-20 23:34:58</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1941</raw>
+                        <year>1941</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1953</raw>
+                        <year>1953</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn3546201</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2377\nP-Location: North Sydney\nP-Related: Topic - Theatre - dc.source: http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2677</id>
+                          <nonce>19df642d71615cbfe4bf82c759922387a4e2ba34</nonce>
+                          <origName>Independent Theatre.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>65.6 kb</size>
+                          <date>2009-07-17 14:18:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.jpg?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8436</id>
+                      <type id="151">Entity</type>
+                      <title>Independent Theatre (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-24 12:03:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+        <record>
+          <id>20988</id>
+          <type id="52">Record relationship</type>
+          <title>(20987 isOf 8436)</title>
+          <added>2009-07-17 14:18:29</added>
+          <modified>2009-07-17 14:18:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>20987</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</title>
+              <added>2009-07-17 14:18:29</added>
+              <modified>2011-05-20 23:34:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2009-07-17</raw>
+                <year>2009</year>
+                <month>7</month>
+                <day>17</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1941</raw>
+                <year>1941</year>
+              </detail>
+              <detail id="178" type="End Date" name="dc.coverage.finish">
+                <raw>1953</raw>
+                <year>1953</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn3546201</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn3546201</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4800</id>
+                  <type id="153">Contributor</type>
+                  <title>National Library of Australia</title>
+                  <added>2009-03-24 10:55:20</added>
+                  <modified>2012-03-21 11:24:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">National Library of Australia</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://catalogue.nla.gov.au</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Items sourced from the NLA have persistent web addresses and, where they appear in Entries, further information can be accessed by clicking on the item identifier between the square brackets [].</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 2377\nP-Location: North Sydney\nP-Related: Topic - Theatre - dc.source: http://nla.gov.au/nla.pic-vn3546201</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>2677</id>
+                  <nonce>19df642d71615cbfe4bf82c759922387a4e2ba34</nonce>
+                  <origName>Independent Theatre.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>65.6 kb</size>
+                  <date>2009-07-17 14:18:29</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.jpg?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</thumbURL>
+                </file>
+              </detail>
+              <relationships>
+                <record>
+                  <id>20988</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20987 isOf 8436)</title>
+                  <added>2009-07-17 14:18:29</added>
+                  <modified>2009-07-17 14:18:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20987</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</title>
+                      <added>2009-07-17 14:18:29</added>
+                      <modified>2011-05-20 23:34:58</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1941</raw>
+                        <year>1941</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1953</raw>
+                        <year>1953</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn3546201</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2377\nP-Location: North Sydney\nP-Related: Topic - Theatre - dc.source: http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2677</id>
+                          <nonce>19df642d71615cbfe4bf82c759922387a4e2ba34</nonce>
+                          <origName>Independent Theatre.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>65.6 kb</size>
+                          <date>2009-07-17 14:18:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.jpg?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8436</id>
+                      <type id="151">Entity</type>
+                      <title>Independent Theatre (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-24 12:03:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>82727</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20987 hasSubject 5928)</title>
+                  <added>2012-10-02 08:50:39</added>
+                  <modified>2012-10-02 08:50:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20987</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</title>
+                      <added>2009-07-17 14:18:29</added>
+                      <modified>2011-05-20 23:34:58</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1941</raw>
+                        <year>1941</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1953</raw>
+                        <year>1953</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn3546201</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2377\nP-Location: North Sydney\nP-Related: Topic - Theatre - dc.source: http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2677</id>
+                          <nonce>19df642d71615cbfe4bf82c759922387a4e2ba34</nonce>
+                          <origName>Independent Theatre.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>65.6 kb</size>
+                          <date>2009-07-17 14:18:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.jpg?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5928</id>
+                      <type id="152">Term</type>
+                      <title>Theatre</title>
+                      <added>2009-05-25 14:56:24</added>
+                      <modified>2012-07-31 12:54:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Theatre</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>82728</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20987 hasSubject 6333)</title>
+                  <added>2012-10-02 08:51:02</added>
+                  <modified>2012-10-02 08:51:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20987</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</title>
+                      <added>2009-07-17 14:18:29</added>
+                      <modified>2011-05-20 23:34:58</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1941</raw>
+                        <year>1941</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1953</raw>
+                        <year>1953</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn3546201</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2377\nP-Location: North Sydney\nP-Related: Topic - Theatre - dc.source: http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2677</id>
+                          <nonce>19df642d71615cbfe4bf82c759922387a4e2ba34</nonce>
+                          <origName>Independent Theatre.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>65.6 kb</size>
+                          <date>2009-07-17 14:18:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.jpg?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6333</id>
+                      <type id="152">Term</type>
+                      <title>Women</title>
+                      <added>2009-05-25 14:57:13</added>
+                      <modified>2009-05-25 14:57:13</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Women</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8436</id>
+              <type id="151">Entity</type>
+              <title>Independent Theatre (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-24 12:03:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>40261</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Independent Theatre</title>
+                  <added>2010-07-01 15:01:02</added>
+                  <modified>2010-07-01 15:01:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                  <detail id="199" type="Resource" name="target">8436</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">39532</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,9</detail>
+                  <detail id="329" type="Start Word" name="Start Word">92</detail>
+                  <detail id="330" type="End Word" name="End Word">93</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>45364</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Independent Theatre</title>
+                  <added>2010-10-22 10:58:35</added>
+                  <modified>2010-10-22 10:58:35</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                  <detail id="199" type="Resource" name="target">8436</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">44256</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">42</detail>
+                  <detail id="330" type="End Word" name="End Word">43</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8437</id>
+                  <type id="150">Factoid</type>
+                  <title>Independent Theatre, Type, Theatre</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8436</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7112</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8438</id>
+                  <type id="150">Factoid</type>
+                  <title>Independent Theatre, Name, Alternate</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8436</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">North Sydney Stadium</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8439</id>
+                  <type id="150">Factoid</type>
+                  <title>Independent Theatre, Name, Alternate</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8436</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Coliseum Picture Hall</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51694</id>
+                  <type id="150">Factoid</type>
+                  <title>Independent Theatre, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:51:15</added>
+                  <modified>2011-02-16 16:03:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8436</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20812894531 -33.833279327157)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>8440</id>
+                  <type id="52">Record relationship</type>
+                  <title>(390 isAbout 8436)</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>390</id>
+                      <type id="98">XML Document</type>
+                      <title>Independent Theatre</title>
+                      <added>2008-10-22 13:12:09</added>
+                      <modified>2009-10-29 14:50:49</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>1622</id>
+                          <nonce>cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</nonce>
+                          <origName>Independent Theatre.xml</origName>
+                          <type>application/xml</type>
+                          <size>35 kb</size>
+                          <date>2009-05-27 16:02:46</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.xml?file_id=cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=cd92c319f5614568e4bd89c2599bfbd3ccc1b3fe</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">From tram shed to picture hall to boxing venue to drama theatre, The Independent has been part of Sydney's theatre scene since 1911.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2750</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">1</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8436</id>
+                      <type id="151">Entity</type>
+                      <title>Independent Theatre (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-24 12:03:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>20988</id>
+                  <type id="52">Record relationship</type>
+                  <title>(20987 isOf 8436)</title>
+                  <added>2009-07-17 14:18:29</added>
+                  <modified>2009-07-17 14:18:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>20987</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</title>
+                      <added>2009-07-17 14:18:29</added>
+                      <modified>2011-05-20 23:34:58</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-07-17</raw>
+                        <year>2009</year>
+                        <month>7</month>
+                        <day>17</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Kerry Norton [left] in Father Malacky's Miracle at the Independent Theatre in North Sydney</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1941</raw>
+                        <year>1941</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1953</raw>
+                        <year>1953</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn3546201</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 2377\nP-Location: North Sydney\nP-Related: Topic - Theatre - dc.source: http://nla.gov.au/nla.pic-vn3546201</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2677</id>
+                          <nonce>19df642d71615cbfe4bf82c759922387a4e2ba34</nonce>
+                          <origName>Independent Theatre.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>65.6 kb</size>
+                          <date>2009-07-17 14:18:29</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Independent+Theatre.jpg?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=19df642d71615cbfe4bf82c759922387a4e2ba34</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8436</id>
+                      <type id="151">Entity</type>
+                      <title>Independent Theatre (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-24 12:03:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Independent Theatre</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Tram shed, boxing venue, cinema and now theatre at 269 Miller St, North Sydney.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| North Sydney Stadium | Coliseum Picture Hall</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

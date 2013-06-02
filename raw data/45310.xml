@@ -1,0 +1,1442 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:45310" w="a" depth="2" />
+  <dateStamp>2013-02-17T00:38:03+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>45310</id>
+      <type id="151">Entity</type>
+      <title>Lincoln House (Building)</title>
+      <added>2010-10-21 13:36:05</added>
+      <modified>2012-05-17 12:16:45</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>45311</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Lincoln House</title>
+          <added>2010-10-21 13:36:20</added>
+          <modified>2012-05-17 12:19:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>44279</id>
+              <type id="98">XML Document</type>
+              <title>Arthouse Hotel</title>
+              <added>2010-10-06 13:20:20</added>
+              <modified>2012-05-17 12:18:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7415</id>
+                  <nonce>33e35887e76877b6c1cd4bd2454051f3ea6c3cda</nonce>
+                  <origName>Arthouse+hotel.xml</origName>
+                  <type>application/xml</type>
+                  <size>67.1 kb</size>
+                  <date>2012-05-17 12:18:21</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Arthouse%2Bhotel.xml?file_id=33e35887e76877b6c1cd4bd2454051f3ea6c3cda</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=33e35887e76877b6c1cd4bd2454051f3ea6c3cda</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Arthouse Hotel</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built as the library, hall and rooms for the Sydney Mechanics' School of Arts, and long a centre of cultural life in Sydney, the Arthouse Hotel was converted into a pub in the 1990s.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-10-06</raw>
+                <year>2010</year>
+                <month>10</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3155</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">57083</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+          <detail id="539" type="Start Element" name="Start Element">5,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">66</detail>
+          <detail id="330" type="End Word" name="End Word">67</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>45312</id>
+          <type id="150">Factoid</type>
+          <title>Lincoln Building, Type, Office block</title>
+          <added>2010-10-21 13:37:22</added>
+          <modified>2010-10-21 13:37:22</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7021</id>
+              <type id="91">Role</type>
+              <title>Office block</title>
+              <added>2009-06-10 15:56:17</added>
+              <modified>2009-06-10 15:56:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Office block</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>45313</id>
+          <type id="150">Factoid</type>
+          <title>Lincoln Building, Milestone, Constructed</title>
+          <added>2010-10-21 13:37:53</added>
+          <modified>2010-10-21 13:37:53</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1925</raw>
+            <year>1925</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1925</raw>
+            <year>1925</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>75483</id>
+          <type id="150">Factoid</type>
+          <title>Sydney Mechanics' School of Arts, Property, Occupied, Lincoln Building</title>
+          <added>2012-05-11 09:08:13</added>
+          <modified>2012-05-11 09:08:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>12524</id>
+              <type id="151">Entity</type>
+              <title>Sydney Mechanics' School of Arts (Organisation)</title>
+              <added>2009-06-10 16:03:11</added>
+              <modified>2010-11-11 15:16:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Sydney Mechanics' School of Arts</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">The oldest School of Arts in Sydney was founded to provide further education for working people and has done so since its inception in 1833.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">26683</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2000</raw>
+            <year>2000</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>75484</id>
+          <type id="150">Factoid</type>
+          <title>Sydney Mechanics' School of Arts, Property, Owned, Lincoln Building</title>
+          <added>2012-05-11 09:08:58</added>
+          <modified>2012-05-11 09:08:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>12524</id>
+              <type id="151">Entity</type>
+              <title>Sydney Mechanics' School of Arts (Organisation)</title>
+              <added>2009-06-10 16:03:11</added>
+              <modified>2010-11-11 15:16:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Sydney Mechanics' School of Arts</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">The oldest School of Arts in Sydney was founded to provide further education for working people and has done so since its inception in 1833.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">26683</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1996</raw>
+            <year>1996</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>75490</id>
+          <type id="150">Factoid</type>
+          <title>Spain &amp; Cosh, Position, Architect, Lincoln Building</title>
+          <added>2012-05-11 09:50:25</added>
+          <modified>2012-05-11 10:57:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>61637</id>
+              <type id="151">Entity</type>
+              <title>Spain &amp; Cosh (Organisation)</title>
+              <added>2011-08-18 09:20:09</added>
+              <modified>2011-09-02 09:34:22</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Spain &amp; Cosh</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architectural practice formed in 1904 by Alfred Spain and Thomas Frame Cosh.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1924</raw>
+            <year>1924</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1924</raw>
+            <year>1924</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>75509</id>
+          <type id="150">Factoid</type>
+          <title>Lincoln Building, TimePlace</title>
+          <added>2012-05-11 10:55:31</added>
+          <modified>2012-05-11 10:55:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20825585722 -33.874192524816)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>75558</id>
+          <type id="150">Factoid</type>
+          <title>Lincoln Building, Name, Alternate</title>
+          <added>2012-05-11 14:42:05</added>
+          <modified>2012-05-11 14:42:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Speedwell House</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1926</raw>
+            <year>1926</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1927</raw>
+            <year>1927</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>75566</id>
+          <type id="150">Factoid</type>
+          <title>Lincoln Building, Property, Occupied, 280 Pitt Street</title>
+          <added>2012-05-11 14:55:39</added>
+          <modified>2012-05-11 14:55:39</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>75533</id>
+              <type id="151">Entity</type>
+              <title>280 Pitt Street (Place)</title>
+              <added>2012-05-11 12:54:37</added>
+              <modified>2012-05-11 13:14:26</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">280 Pitt Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+              <detail id="191" type="Extended description" name="dc.description">Allotment 18 of the original subdivision recognised in 1831, the use of the site reflects the changing face of commercial Sydney over almost two centuries.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1925</raw>
+            <year>1925</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>75568</id>
+          <type id="150">Factoid</type>
+          <title>Lincoln Building, Milestone, Modified</title>
+          <added>2012-05-11 14:57:37</added>
+          <modified>2012-05-11 14:57:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1996</raw>
+            <year>1996</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1996</raw>
+            <year>1996</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>75569</id>
+          <type id="150">Factoid</type>
+          <title>Lincoln Building, Milestone, Modified</title>
+          <added>2012-05-11 15:01:05</added>
+          <modified>2012-05-11 15:01:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>50919</id>
+              <type id="91">Role</type>
+              <title>Modified</title>
+              <added>2011-02-10 09:52:46</added>
+              <modified>2011-02-10 09:54:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Modified</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1940</raw>
+            <year>1940</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1941</raw>
+            <year>1941</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>75607</id>
+          <type id="52">Record relationship</type>
+          <title>(75086 isAbout 45310)</title>
+          <added>2012-05-17 12:20:30</added>
+          <modified>2012-05-17 12:20:30</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>75086</id>
+              <type id="98">XML Document</type>
+              <title>Lincoln House</title>
+              <added>2012-05-02 15:15:58</added>
+              <modified>2012-05-11 09:11:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7412</id>
+                  <nonce>33df9b4d55a379963300addec5b88f16e58b7d34</nonce>
+                  <origName>Lincoln+House.xml</origName>
+                  <type>application/xml</type>
+                  <size>47.5 kb</size>
+                  <date>2012-05-11 09:11:25</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lincoln%2BHouse.xml?file_id=33df9b4d55a379963300addec5b88f16e58b7d34</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=33df9b4d55a379963300addec5b88f16e58b7d34</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built as a commercial building in the 1920s, Lincoln House has had a second life as the headquarters of the Sydney Mechanics' School of Arts.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-02</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>2</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3231</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>86</id>
+                  <type id="153">Contributor</type>
+                  <title>Mark Dunn</title>
+                  <added>2008-10-22 12:48:59</added>
+                  <modified>2012-05-16 14:10:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Mark Dunn</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">author</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Mark Dunn is a professional historian working in Sydney. From 2010 to mid-2012 he was Dictionary of Sydney writer-in-residence sponsored by the Sydney Mechanics' School of Arts</detail>
+                </record>
+              </detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>57083</id>
+                  <type id="153">Contributor</type>
+                  <title>Sydney Mechanics' School of Arts</title>
+                  <added>2011-05-19 14:16:44</added>
+                  <modified>2012-05-22 12:33:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Sydney Mechanics' School of Arts</detail>
+                  <detail id="568" type="Contributor type" name="dc.type">supporter</detail>
+                  <detail id="191" type="Extended description" name="dc.description">The Sydney Mechanics' School of Arts sponsored a writer and researcher at the Dictionary of Sydney for three years - Catherine Freyne in 2009-10 and Mark Dunn in 2010-12.</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sydneymsa.com.au/</detail>
+                </record>
+              </detail>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75486</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Bennett &amp; Wood</title>
+                  <added>2012-05-11 09:18:42</added>
+                  <modified>2012-05-11 09:18:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Bennett &amp; Wood</detail>
+                  <detail id="199" type="Resource" name="target">75485</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">25</detail>
+                  <detail id="330" type="End Word" name="End Word">27</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75489</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Spain &amp; Cosh</title>
+                  <added>2012-05-11 09:47:43</added>
+                  <modified>2012-05-11 09:47:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Spain &amp; Cosh</detail>
+                  <detail id="199" type="Resource" name="target">61637</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">56</detail>
+                  <detail id="330" type="End Word" name="End Word">58</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75492</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Culwulla Chambers</title>
+                  <added>2012-05-11 10:00:49</added>
+                  <modified>2012-05-11 10:00:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Culwulla Chambers</detail>
+                  <detail id="199" type="Resource" name="target">75491</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">72</detail>
+                  <detail id="330" type="End Word" name="End Word">73</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75496</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Sydney Mechanics' School of Arts</title>
+                  <added>2012-05-11 10:13:32</added>
+                  <modified>2012-05-11 10:13:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Sydney Mechanics' School of Arts</detail>
+                  <detail id="199" type="Resource" name="target">12524</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">89</detail>
+                  <detail id="330" type="End Word" name="End Word">93</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75497</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Sydney Gazette</title>
+                  <added>2012-05-11 10:14:14</added>
+                  <modified>2012-05-11 10:14:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Sydney Gazette</detail>
+                  <detail id="199" type="Resource" name="target">7742</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2,1</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="330" type="End Word" name="End Word">2</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75499</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Marr, Thomas</title>
+                  <added>2012-05-11 10:26:52</added>
+                  <modified>2012-05-11 10:26:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Marr, Thomas</detail>
+                  <detail id="199" type="Resource" name="target">75498</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">46</detail>
+                  <detail id="330" type="End Word" name="End Word">47</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75502</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Moore, Robert White</title>
+                  <added>2012-05-11 10:32:08</added>
+                  <modified>2012-05-11 10:32:08</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Moore, Robert White</detail>
+                  <detail id="199" type="Resource" name="target">75501</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">9</detail>
+                  <detail id="330" type="End Word" name="End Word">11</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75506</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Jordan, John</title>
+                  <added>2012-05-11 10:48:51</added>
+                  <modified>2012-05-11 10:48:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Jordan, John</detail>
+                  <detail id="199" type="Resource" name="target">75505</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">26</detail>
+                  <detail id="330" type="End Word" name="End Word">27</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75510</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Assessment Book</title>
+                  <added>2012-05-11 11:00:12</added>
+                  <modified>2012-05-11 11:00:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Assessment Book</detail>
+                  <detail id="199" type="Resource" name="target">63177</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">53</detail>
+                  <detail id="330" type="End Word" name="End Word">56</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75512</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Macintosh, John</title>
+                  <added>2012-05-11 11:05:05</added>
+                  <modified>2012-05-11 11:05:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Macintosh, John</detail>
+                  <detail id="199" type="Resource" name="target">75511</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">19</detail>
+                  <detail id="330" type="End Word" name="End Word">20</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75525</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>City of Sydney Council</title>
+                  <added>2012-05-11 11:21:54</added>
+                  <modified>2012-05-11 11:21:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">City of Sydney Council</detail>
+                  <detail id="199" type="Resource" name="target">10623</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">27</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75526</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>J Macintosh &amp; Sons</title>
+                  <added>2012-05-11 11:22:10</added>
+                  <modified>2012-05-11 11:22:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">J Macintosh &amp; Sons</detail>
+                  <detail id="199" type="Resource" name="target">75522</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">56</detail>
+                  <detail id="330" type="End Word" name="End Word">59</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75527</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>New South Wales Legislative Assembly</title>
+                  <added>2012-05-11 11:22:47</added>
+                  <modified>2012-05-11 11:22:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">New South Wales Legislative Assembly</detail>
+                  <detail id="199" type="Resource" name="target">11781</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">41</detail>
+                  <detail id="330" type="End Word" name="End Word">42</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75528</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>New South Wales Legislative Council</title>
+                  <added>2012-05-11 11:23:23</added>
+                  <modified>2012-05-11 11:23:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">New South Wales Legislative Council</detail>
+                  <detail id="199" type="Resource" name="target">11783</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">56</detail>
+                  <detail id="330" type="End Word" name="End Word">57</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75529</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Garden Palace</title>
+                  <added>2012-05-11 11:25:51</added>
+                  <modified>2012-05-11 11:25:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Garden Palace</detail>
+                  <detail id="199" type="Resource" name="target">8308</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">94</detail>
+                  <detail id="330" type="End Word" name="End Word">95</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75531</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Dunn and Webb</title>
+                  <added>2012-05-11 11:27:48</added>
+                  <modified>2012-05-11 11:27:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dunn and Webb</detail>
+                  <detail id="199" type="Resource" name="target">75530</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">64</detail>
+                  <detail id="330" type="End Word" name="End Word">66</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75534</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>280 Pitt Street</title>
+                  <added>2012-05-11 12:55:01</added>
+                  <modified>2012-05-11 12:55:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">280 Pitt Street</detail>
+                  <detail id="199" type="Resource" name="target">75533</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">6</detail>
+                  <detail id="330" type="End Word" name="End Word">8</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75543</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Moore, James B</title>
+                  <added>2012-05-11 13:48:40</added>
+                  <modified>2012-05-11 13:48:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Moore, James B</detail>
+                  <detail id="199" type="Resource" name="target">75542</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">10</detail>
+                  <detail id="330" type="End Word" name="End Word">12</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75545</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Moore, Margaret</title>
+                  <added>2012-05-11 13:50:38</added>
+                  <modified>2012-05-11 13:50:38</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Moore, Margaret</detail>
+                  <detail id="199" type="Resource" name="target">75544</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">13</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75550</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>JC Howard</title>
+                  <added>2012-05-11 13:58:16</added>
+                  <modified>2012-05-11 13:58:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">JC Howard</detail>
+                  <detail id="199" type="Resource" name="target">75549</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">17</detail>
+                  <detail id="330" type="End Word" name="End Word">18</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75554</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Fauvel Bros &amp; Maillard</title>
+                  <added>2012-05-11 14:10:49</added>
+                  <modified>2012-05-11 14:10:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Fauvel Bros &amp; Maillard</detail>
+                  <detail id="199" type="Resource" name="target">75553</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">38</detail>
+                  <detail id="330" type="End Word" name="End Word">41</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75560</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lincoln Records</title>
+                  <added>2012-05-11 14:45:05</added>
+                  <modified>2012-05-11 14:45:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Lincoln Records</detail>
+                  <detail id="199" type="Resource" name="target">75559</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">30</detail>
+                  <detail id="330" type="End Word" name="End Word">31</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75563</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Universal Films</title>
+                  <added>2012-05-11 14:51:21</added>
+                  <modified>2012-05-11 14:51:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Universal Films</detail>
+                  <detail id="199" type="Resource" name="target">75562</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">33</detail>
+                  <detail id="330" type="End Word" name="End Word">34</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75567</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Zetland</title>
+                  <added>2012-05-11 14:56:50</added>
+                  <modified>2012-05-11 14:56:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Zetland</detail>
+                  <detail id="199" type="Resource" name="target">18074</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">74</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75571</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Motories Ltd</title>
+                  <added>2012-05-11 15:04:30</added>
+                  <modified>2012-05-11 15:04:30</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Motories Ltd</detail>
+                  <detail id="199" type="Resource" name="target">75570</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">149</detail>
+                  <detail id="330" type="End Word" name="End Word">150</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>75575</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Mitchell &amp; Mitchell</title>
+                  <added>2012-05-11 15:08:24</added>
+                  <modified>2012-05-11 15:08:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Mitchell &amp; Mitchell</detail>
+                  <detail id="199" type="Resource" name="target">75574</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">170</detail>
+                  <detail id="330" type="End Word" name="End Word">172</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>76345</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>284-292 Pitt Street</title>
+                  <added>2012-05-25 09:52:02</added>
+                  <modified>2012-05-25 09:52:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="199" type="Resource" name="target">76344</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">75086</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">54</detail>
+                  <detail id="330" type="End Word" name="End Word">55</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                  <detail id="160" type="Title" name="dc.title">284-292 Pitt Street</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>75607</id>
+                  <type id="52">Record relationship</type>
+                  <title>(75086 isAbout 45310)</title>
+                  <added>2012-05-17 12:20:30</added>
+                  <modified>2012-05-17 12:20:30</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>75086</id>
+                      <type id="98">XML Document</type>
+                      <title>Lincoln House</title>
+                      <added>2012-05-02 15:15:58</added>
+                      <modified>2012-05-11 09:11:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>7412</id>
+                          <nonce>33df9b4d55a379963300addec5b88f16e58b7d34</nonce>
+                          <origName>Lincoln+House.xml</origName>
+                          <type>application/xml</type>
+                          <size>47.5 kb</size>
+                          <date>2012-05-11 09:11:25</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lincoln%2BHouse.xml?file_id=33df9b4d55a379963300addec5b88f16e58b7d34</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=33df9b4d55a379963300addec5b88f16e58b7d34</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Built as a commercial building in the 1920s, Lincoln House has had a second life as the headquarters of the Sydney Mechanics' School of Arts.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-05-02</raw>
+                        <year>2012</year>
+                        <month>5</month>
+                        <day>2</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3231</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">57083</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>45310</id>
+                      <type id="151">Entity</type>
+                      <title>Lincoln House (Building)</title>
+                      <added>2010-10-21 13:36:05</added>
+                      <modified>2012-05-17 12:16:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>45310</id>
+              <type id="151">Entity</type>
+              <title>Lincoln House (Building)</title>
+              <added>2010-10-21 13:36:05</added>
+              <modified>2012-05-17 12:16:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>45311</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Lincoln House</title>
+                  <added>2010-10-21 13:36:20</added>
+                  <modified>2012-05-17 12:19:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="199" type="Resource" name="target">45310</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">44279</detail>
+                  <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">66</detail>
+                  <detail id="330" type="End Word" name="End Word">67</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>45312</id>
+                  <type id="150">Factoid</type>
+                  <title>Lincoln Building, Type, Office block</title>
+                  <added>2010-10-21 13:37:22</added>
+                  <modified>2010-10-21 13:37:22</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">45310</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7021</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>45313</id>
+                  <type id="150">Factoid</type>
+                  <title>Lincoln Building, Milestone, Constructed</title>
+                  <added>2010-10-21 13:37:53</added>
+                  <modified>2010-10-21 13:37:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">45310</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1925</raw>
+                    <year>1925</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1925</raw>
+                    <year>1925</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>75483</id>
+                  <type id="150">Factoid</type>
+                  <title>Sydney Mechanics' School of Arts, Property, Occupied, Lincoln Building</title>
+                  <added>2012-05-11 09:08:13</added>
+                  <modified>2012-05-11 09:08:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">12524</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">45310</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2000</raw>
+                    <year>2000</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>75484</id>
+                  <type id="150">Factoid</type>
+                  <title>Sydney Mechanics' School of Arts, Property, Owned, Lincoln Building</title>
+                  <added>2012-05-11 09:08:58</added>
+                  <modified>2012-05-11 09:08:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">12524</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">45310</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1996</raw>
+                    <year>1996</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>75490</id>
+                  <type id="150">Factoid</type>
+                  <title>Spain &amp; Cosh, Position, Architect, Lincoln Building</title>
+                  <added>2012-05-11 09:50:25</added>
+                  <modified>2012-05-11 10:57:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">61637</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">45310</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1924</raw>
+                    <year>1924</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1924</raw>
+                    <year>1924</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>75509</id>
+                  <type id="150">Factoid</type>
+                  <title>Lincoln Building, TimePlace</title>
+                  <added>2012-05-11 10:55:31</added>
+                  <modified>2012-05-11 10:55:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">45310</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20825585722 -33.874192524816)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>75558</id>
+                  <type id="150">Factoid</type>
+                  <title>Lincoln Building, Name, Alternate</title>
+                  <added>2012-05-11 14:42:05</added>
+                  <modified>2012-05-11 14:42:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">45310</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Speedwell House</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1926</raw>
+                    <year>1926</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1927</raw>
+                    <year>1927</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>75566</id>
+                  <type id="150">Factoid</type>
+                  <title>Lincoln Building, Property, Occupied, 280 Pitt Street</title>
+                  <added>2012-05-11 14:55:39</added>
+                  <modified>2012-05-11 14:55:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">45310</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">75533</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1925</raw>
+                    <year>1925</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>75568</id>
+                  <type id="150">Factoid</type>
+                  <title>Lincoln Building, Milestone, Modified</title>
+                  <added>2012-05-11 14:57:37</added>
+                  <modified>2012-05-11 14:57:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">45310</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">50919</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1996</raw>
+                    <year>1996</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1996</raw>
+                    <year>1996</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>75569</id>
+                  <type id="150">Factoid</type>
+                  <title>Lincoln Building, Milestone, Modified</title>
+                  <added>2012-05-11 15:01:05</added>
+                  <modified>2012-05-11 15:01:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">45310</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">50919</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1940</raw>
+                    <year>1940</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1941</raw>
+                    <year>1941</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>75607</id>
+                  <type id="52">Record relationship</type>
+                  <title>(75086 isAbout 45310)</title>
+                  <added>2012-05-17 12:20:30</added>
+                  <modified>2012-05-17 12:20:30</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>75086</id>
+                      <type id="98">XML Document</type>
+                      <title>Lincoln House</title>
+                      <added>2012-05-02 15:15:58</added>
+                      <modified>2012-05-11 09:11:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>7412</id>
+                          <nonce>33df9b4d55a379963300addec5b88f16e58b7d34</nonce>
+                          <origName>Lincoln+House.xml</origName>
+                          <type>application/xml</type>
+                          <size>47.5 kb</size>
+                          <date>2012-05-11 09:11:25</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lincoln%2BHouse.xml?file_id=33df9b4d55a379963300addec5b88f16e58b7d34</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=33df9b4d55a379963300addec5b88f16e58b7d34</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Built as a commercial building in the 1920s, Lincoln House has had a second life as the headquarters of the Sydney Mechanics' School of Arts.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-05-02</raw>
+                        <year>2012</year>
+                        <month>5</month>
+                        <day>2</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3231</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">57083</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>45310</id>
+                      <type id="151">Entity</type>
+                      <title>Lincoln House (Building)</title>
+                      <added>2010-10-21 13:36:05</added>
+                      <modified>2012-05-17 12:16:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Lincoln House</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">City building erected in 1924-25 for Bennett and Wood Ltd, manufacturers and importers of bicycles and motorbikes on a site owned by the company since 1910.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

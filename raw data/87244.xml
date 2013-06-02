@@ -1,0 +1,1519 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:87244" w="a" depth="2" />
+  <dateStamp>2013-02-17T08:27:50+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>87244</id>
+      <type id="151">Entity</type>
+      <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+      <added>2012-12-27 09:01:58</added>
+      <modified>2013-02-08 14:15:53</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>88518</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+          <added>2013-01-25 08:31:45</added>
+          <modified>2013-01-25 08:31:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2013-01-25</raw>
+            <year>2013</year>
+            <month>1</month>
+            <day>25</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4755</id>
+              <type id="153">Contributor</type>
+              <title>City of Sydney Archives</title>
+              <added>2009-03-24 10:55:13</added>
+              <modified>2009-10-29 10:32:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">City of Sydney Archives</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.cityofsydney.nsw.gov.au/AboutSydney/HistoryAndArchives/Archives/Default.asp</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>8217</id>
+              <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+              <origName>CoSA_037_037826.jpg</origName>
+              <type>image/jpeg</type>
+              <size>410.2 kb</size>
+              <date>2013-01-25 08:31:45</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="199" type="Resource" name="target">
+            <record>
+              <id>89279</id>
+              <type id="99">TEI Document Reference</type>
+              <title>In</title>
+              <added>2013-02-08 14:16:40</added>
+              <modified>2013-02-08 14:16:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">In</detail>
+              <detail id="199" type="Resource" name="target">88518</detail>
+              <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+              <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+              <detail id="329" type="Start Word" name="Start Word">1</detail>
+              <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+            </record>
+          </reversePointer>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>87244</id>
+              <type id="151">Entity</type>
+              <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+              <added>2012-12-27 09:01:58</added>
+              <modified>2013-02-08 14:15:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>88519</id>
+              <type id="52">Record relationship</type>
+              <title>(88518 isOf 15971)</title>
+              <added>2013-01-25 08:31:45</added>
+              <modified>2013-01-25 08:31:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>88518</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+                  <added>2013-01-25 08:31:45</added>
+                  <modified>2013-01-25 08:31:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8217</id>
+                      <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                      <origName>CoSA_037_037826.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>410.2 kb</size>
+                      <date>2013-01-25 08:31:45</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>15971</id>
+                  <type id="151">Entity</type>
+                  <title>Elizabeth Bay (Place)</title>
+                  <added>2009-06-10 16:07:19</added>
+                  <modified>2011-02-23 11:24:22</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Elizabeth Bay</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Harbourside suburb in Sydney's east named in honour of Governor Lachlan Macquarie's wife Elizabeth.</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Sydney
+http://en.wikipedia.org/wiki/Elizabeth_Bay,_New_South_Wales</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>89278</id>
+              <type id="52">Record relationship</type>
+              <title>(88518 isOf 87244)</title>
+              <added>2013-02-08 14:16:13</added>
+              <modified>2013-02-08 14:16:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>88518</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+                  <added>2013-01-25 08:31:45</added>
+                  <modified>2013-01-25 08:31:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8217</id>
+                      <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                      <origName>CoSA_037_037826.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>410.2 kb</size>
+                      <date>2013-01-25 08:31:45</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>87244</id>
+                  <type id="151">Entity</type>
+                  <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+                  <added>2012-12-27 09:01:58</added>
+                  <modified>2013-02-08 14:15:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>87300</id>
+          <type id="150">Factoid</type>
+          <title>Barlow, John, Position, Architect, St Canice's Catholic church Elizabeth Bay</title>
+          <added>2012-12-27 10:24:56</added>
+          <modified>2012-12-27 10:24:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>87295</id>
+              <type id="151">Entity</type>
+              <title>Barlow, John Bede (Person)</title>
+              <added>2012-12-27 10:21:58</added>
+              <modified>2012-12-27 10:28:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Barlow, John Bede</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>87244</id>
+              <type id="151">Entity</type>
+              <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+              <added>2012-12-27 09:01:58</added>
+              <modified>2013-02-08 14:15:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1887</raw>
+            <year>1887</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1889</raw>
+            <year>1889</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>87301</id>
+          <type id="150">Factoid</type>
+          <title>St Canice's Catholic church Elizabeth Bay, Type, Place of worship</title>
+          <added>2012-12-27 10:25:43</added>
+          <modified>2012-12-27 10:25:43</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>87244</id>
+              <type id="151">Entity</type>
+              <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+              <added>2012-12-27 09:01:58</added>
+              <modified>2013-02-08 14:15:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>87302</id>
+          <type id="150">Factoid</type>
+          <title>St Canice's Catholic church Elizabeth Bay, Milestone, Constructed</title>
+          <added>2012-12-27 10:26:02</added>
+          <modified>2012-12-27 10:26:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>87244</id>
+              <type id="151">Entity</type>
+              <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+              <added>2012-12-27 09:01:58</added>
+              <modified>2013-02-08 14:15:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1887</raw>
+            <year>1887</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1889</raw>
+            <year>1889</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>87307</id>
+          <type id="150">Factoid</type>
+          <title>St Canice's Catholic church Elizabeth Bay, TimePlace</title>
+          <added>2012-12-27 10:38:17</added>
+          <modified>2012-12-27 10:38:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>87244</id>
+              <type id="151">Entity</type>
+              <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+              <added>2012-12-27 09:01:58</added>
+              <modified>2013-02-08 14:15:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.2261336744 -33.875564308855)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>87245</id>
+          <type id="52">Record relationship</type>
+          <title>(86397 isAbout 87244)</title>
+          <added>2012-12-27 09:03:39</added>
+          <modified>2012-12-27 09:03:39</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>86397</id>
+              <type id="98">XML Document</type>
+              <title>St Canice's Catholic church Elizabeth Bay</title>
+              <added>2012-12-05 10:41:10</added>
+              <modified>2012-12-12 12:40:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7974</id>
+                  <nonce>5eb6e2a615f6f90d4914075343d5c08c8f2892f7</nonce>
+                  <origName>St  Canice's Catholic church Elizabeth Bay.xml</origName>
+                  <type>application/xml</type>
+                  <size>48 kb</size>
+                  <date>2012-12-05 10:39:08</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/St++Canice%27s+Catholic+church+Elizabeth+Bay.xml?file_id=5eb6e2a615f6f90d4914075343d5c08c8f2892f7</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5eb6e2a615f6f90d4914075343d5c08c8f2892f7</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Named by Irish-born Cardinal Patrick Moran, St Canice's maintained its Irish identity well into the twentieth century, and still serves the community of Sydney's Kings Cross.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-12-05</raw>
+                <year>2012</year>
+                <month>12</month>
+                <day>5</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3273</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>86396</id>
+                  <type id="153">Contributor</type>
+                  <title>Anne Cunningham</title>
+                  <added>2012-12-05 10:38:41</added>
+                  <modified>2012-12-05 10:38:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Anne Cunningham</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">author</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Anne Cunningham is an independent historian specialising in nineteenth and early twentieth century Australian Catholic Church history</detail>
+                </record>
+              </detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>86783</id>
+                  <type id="153">Contributor</type>
+                  <title>The Consulate General of Ireland, Sydney</title>
+                  <added>2012-12-12 12:36:36</added>
+                  <modified>2012-12-12 12:38:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">The Consulate General of Ireland, Sydney</detail>
+                  <detail id="568" type="Contributor type" name="dc.type">supporter</detail>
+                  <detail id="191" type="Extended description" name="dc.description">The Consulate General of Ireland, Sydney, supported a project called Greening the Dictionary, to include material about Sydney's Irish history in the Dictionary of Sydney for St Patrick's Day, 2013.</detail>
+                  <detail id="256" type="Web links" name="contributor.link">www.irishconsulatesydney.net/</detail>
+                </record>
+              </detail>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87233</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Moran, Patrick</title>
+                  <added>2012-12-27 08:42:56</added>
+                  <modified>2012-12-27 08:42:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Moran, Patrick</detail>
+                  <detail id="199" type="Resource" name="target">14251</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">8</detail>
+                  <detail id="330" type="End Word" name="End Word">9</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87234</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Kings Cross</title>
+                  <added>2012-12-27 08:43:46</added>
+                  <modified>2012-12-27 08:43:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Kings Cross</detail>
+                  <detail id="199" type="Resource" name="target">16524</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">37</detail>
+                  <detail id="330" type="End Word" name="End Word">38</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87235</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Elizabeth Bay</title>
+                  <added>2012-12-27 08:44:21</added>
+                  <modified>2012-12-27 08:44:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Elizabeth Bay</detail>
+                  <detail id="199" type="Resource" name="target">15971</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">44</detail>
+                  <detail id="330" type="End Word" name="End Word">45</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87237</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Hughes, John</title>
+                  <added>2012-12-27 08:50:18</added>
+                  <modified>2012-12-27 08:50:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Hughes, John</detail>
+                  <detail id="199" type="Resource" name="target">87236</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">32</detail>
+                  <detail id="330" type="End Word" name="End Word">33</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87249</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Crusader</title>
+                  <added>2012-12-27 09:13:00</added>
+                  <modified>2012-12-27 09:13:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Crusader</detail>
+                  <detail id="199" type="Resource" name="target">87248</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2,1</detail>
+                  <detail id="540" type="End Element" name="End Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="330" type="End Word" name="End Word">62</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87252</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Hughes, Susan</title>
+                  <added>2012-12-27 09:16:28</added>
+                  <modified>2012-12-27 09:16:28</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Hughes, Susan</detail>
+                  <detail id="199" type="Resource" name="target">87251</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">121</detail>
+                  <detail id="330" type="End Word" name="End Word">122</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87255</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>St Mary's Cathedral</title>
+                  <added>2012-12-27 09:18:14</added>
+                  <modified>2012-12-27 09:18:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St Mary's Cathedral</detail>
+                  <detail id="199" type="Resource" name="target">8881</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">27</detail>
+                  <detail id="330" type="End Word" name="End Word">29</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87256</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Convent of the Sacred Heart Rose Bay</title>
+                  <added>2012-12-27 09:18:54</added>
+                  <modified>2012-12-27 09:18:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Convent of the Sacred Heart Rose Bay</detail>
+                  <detail id="199" type="Resource" name="target">44551</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">43</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87258</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Kincoppal</title>
+                  <added>2012-12-27 09:37:29</added>
+                  <modified>2012-12-27 09:37:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Kincoppal</detail>
+                  <detail id="199" type="Resource" name="target">87257</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">77</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87264</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Kincoppal-Rose Bay School of the Sacred Heart</title>
+                  <added>2012-12-27 09:44:54</added>
+                  <modified>2012-12-27 09:44:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Kincoppal-Rose Bay School of the Sacred Heart</detail>
+                  <detail id="199" type="Resource" name="target">87263</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">86</detail>
+                  <detail id="330" type="End Word" name="End Word">87</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87269</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Hughes, Thomas</title>
+                  <added>2012-12-27 09:59:25</added>
+                  <modified>2012-12-27 09:59:25</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Hughes, Thomas</detail>
+                  <detail id="199" type="Resource" name="target">87268</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">12</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87284</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Mullins, John Lane</title>
+                  <added>2012-12-27 10:10:54</added>
+                  <modified>2012-12-27 10:10:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Mullins, John Lane</detail>
+                  <detail id="199" type="Resource" name="target">65548</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">28</detail>
+                  <detail id="330" type="End Word" name="End Word">30</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87286</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Mullins, Jane Mary Frances</title>
+                  <added>2012-12-27 10:15:37</added>
+                  <modified>2012-12-27 10:15:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Mullins, Jane Mary Frances</detail>
+                  <detail id="199" type="Resource" name="target">87285</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">26</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87293</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2012-12-27 10:19:29</added>
+                  <modified>2012-12-27 10:19:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="199" type="Resource" name="target">12354</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">47</detail>
+                  <detail id="330" type="End Word" name="End Word">52</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>87296</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Barlow, John Bede</title>
+                  <added>2012-12-27 10:22:10</added>
+                  <modified>2012-12-27 10:28:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="160" type="Title" name="dc.title">Barlow, John Bede</detail>
+                  <detail id="199" type="Resource" name="target">87295</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="330" type="End Word" name="End Word">2</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89279</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>In</title>
+                  <added>2013-02-08 14:16:40</added>
+                  <modified>2013-02-08 14:16:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">In</detail>
+                  <detail id="199" type="Resource" name="target">88518</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>89280</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>In</title>
+                  <added>2013-02-08 14:17:49</added>
+                  <modified>2013-02-08 14:17:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">In</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>87245</id>
+                  <type id="52">Record relationship</type>
+                  <title>(86397 isAbout 87244)</title>
+                  <added>2012-12-27 09:03:39</added>
+                  <modified>2012-12-27 09:03:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>86397</id>
+                      <type id="98">XML Document</type>
+                      <title>St Canice's Catholic church Elizabeth Bay</title>
+                      <added>2012-12-05 10:41:10</added>
+                      <modified>2012-12-12 12:40:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>7974</id>
+                          <nonce>5eb6e2a615f6f90d4914075343d5c08c8f2892f7</nonce>
+                          <origName>St  Canice's Catholic church Elizabeth Bay.xml</origName>
+                          <type>application/xml</type>
+                          <size>48 kb</size>
+                          <date>2012-12-05 10:39:08</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/St++Canice%27s+Catholic+church+Elizabeth+Bay.xml?file_id=5eb6e2a615f6f90d4914075343d5c08c8f2892f7</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5eb6e2a615f6f90d4914075343d5c08c8f2892f7</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Named by Irish-born Cardinal Patrick Moran, St Canice's maintained its Irish identity well into the twentieth century, and still serves the community of Sydney's Kings Cross.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-12-05</raw>
+                        <year>2012</year>
+                        <month>12</month>
+                        <day>5</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3273</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">86396</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">86783</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>87244</id>
+                      <type id="151">Entity</type>
+                      <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+                      <added>2012-12-27 09:01:58</added>
+                      <modified>2013-02-08 14:15:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>87244</id>
+              <type id="151">Entity</type>
+              <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+              <added>2012-12-27 09:01:58</added>
+              <modified>2013-02-08 14:15:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>88518</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+                  <added>2013-01-25 08:31:45</added>
+                  <modified>2013-01-25 08:31:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8217</id>
+                      <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                      <origName>CoSA_037_037826.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>410.2 kb</size>
+                      <date>2013-01-25 08:31:45</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>87300</id>
+                  <type id="150">Factoid</type>
+                  <title>Barlow, John, Position, Architect, St Canice's Catholic church Elizabeth Bay</title>
+                  <added>2012-12-27 10:24:56</added>
+                  <modified>2012-12-27 10:24:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">87295</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">87244</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1887</raw>
+                    <year>1887</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1889</raw>
+                    <year>1889</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>87301</id>
+                  <type id="150">Factoid</type>
+                  <title>St Canice's Catholic church Elizabeth Bay, Type, Place of worship</title>
+                  <added>2012-12-27 10:25:43</added>
+                  <modified>2012-12-27 10:25:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">87244</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>87302</id>
+                  <type id="150">Factoid</type>
+                  <title>St Canice's Catholic church Elizabeth Bay, Milestone, Constructed</title>
+                  <added>2012-12-27 10:26:02</added>
+                  <modified>2012-12-27 10:26:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">87244</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1887</raw>
+                    <year>1887</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1889</raw>
+                    <year>1889</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>87307</id>
+                  <type id="150">Factoid</type>
+                  <title>St Canice's Catholic church Elizabeth Bay, TimePlace</title>
+                  <added>2012-12-27 10:38:17</added>
+                  <modified>2012-12-27 10:38:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">87244</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.2261336744 -33.875564308855)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>87245</id>
+                  <type id="52">Record relationship</type>
+                  <title>(86397 isAbout 87244)</title>
+                  <added>2012-12-27 09:03:39</added>
+                  <modified>2012-12-27 09:03:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>86397</id>
+                      <type id="98">XML Document</type>
+                      <title>St Canice's Catholic church Elizabeth Bay</title>
+                      <added>2012-12-05 10:41:10</added>
+                      <modified>2012-12-12 12:40:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>7974</id>
+                          <nonce>5eb6e2a615f6f90d4914075343d5c08c8f2892f7</nonce>
+                          <origName>St  Canice's Catholic church Elizabeth Bay.xml</origName>
+                          <type>application/xml</type>
+                          <size>48 kb</size>
+                          <date>2012-12-05 10:39:08</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/St++Canice%27s+Catholic+church+Elizabeth+Bay.xml?file_id=5eb6e2a615f6f90d4914075343d5c08c8f2892f7</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5eb6e2a615f6f90d4914075343d5c08c8f2892f7</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Named by Irish-born Cardinal Patrick Moran, St Canice's maintained its Irish identity well into the twentieth century, and still serves the community of Sydney's Kings Cross.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-12-05</raw>
+                        <year>2012</year>
+                        <month>12</month>
+                        <day>5</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3273</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">86396</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">86783</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>87244</id>
+                      <type id="151">Entity</type>
+                      <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+                      <added>2012-12-27 09:01:58</added>
+                      <modified>2013-02-08 14:15:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+                <record>
+                  <id>89278</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88518 isOf 87244)</title>
+                  <added>2013-02-08 14:16:13</added>
+                  <modified>2013-02-08 14:16:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88518</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+                      <added>2013-01-25 08:31:45</added>
+                      <modified>2013-01-25 08:31:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8217</id>
+                          <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                          <origName>CoSA_037_037826.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>410.2 kb</size>
+                          <date>2013-01-25 08:31:45</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>87244</id>
+                      <type id="151">Entity</type>
+                      <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+                      <added>2012-12-27 09:01:58</added>
+                      <modified>2013-02-08 14:15:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+        </record>
+        <record>
+          <id>89278</id>
+          <type id="52">Record relationship</type>
+          <title>(88518 isOf 87244)</title>
+          <added>2013-02-08 14:16:13</added>
+          <modified>2013-02-08 14:16:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>88518</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+              <added>2013-01-25 08:31:45</added>
+              <modified>2013-01-25 08:31:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2013-01-25</raw>
+                <year>2013</year>
+                <month>1</month>
+                <day>25</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4755</id>
+                  <type id="153">Contributor</type>
+                  <title>City of Sydney Archives</title>
+                  <added>2009-03-24 10:55:13</added>
+                  <modified>2009-10-29 10:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">City of Sydney Archives</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.cityofsydney.nsw.gov.au/AboutSydney/HistoryAndArchives/Archives/Default.asp</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>8217</id>
+                  <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                  <origName>CoSA_037_037826.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>410.2 kb</size>
+                  <date>2013-01-25 08:31:45</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>89279</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>In</title>
+                  <added>2013-02-08 14:16:40</added>
+                  <modified>2013-02-08 14:16:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">In</detail>
+                  <detail id="199" type="Resource" name="target">88518</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">86397</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">1</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>87244</id>
+                  <type id="151">Entity</type>
+                  <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+                  <added>2012-12-27 09:01:58</added>
+                  <modified>2013-02-08 14:15:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>88519</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88518 isOf 15971)</title>
+                  <added>2013-01-25 08:31:45</added>
+                  <modified>2013-01-25 08:31:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88518</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+                      <added>2013-01-25 08:31:45</added>
+                      <modified>2013-01-25 08:31:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8217</id>
+                          <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                          <origName>CoSA_037_037826.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>410.2 kb</size>
+                          <date>2013-01-25 08:31:45</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>15971</id>
+                      <type id="151">Entity</type>
+                      <title>Elizabeth Bay (Place)</title>
+                      <added>2009-06-10 16:07:19</added>
+                      <modified>2011-02-23 11:24:22</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Elizabeth Bay</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Harbourside suburb in Sydney's east named in honour of Governor Lachlan Macquarie's wife Elizabeth.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Sydney
+http://en.wikipedia.org/wiki/Elizabeth_Bay,_New_South_Wales</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>89278</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88518 isOf 87244)</title>
+                  <added>2013-02-08 14:16:13</added>
+                  <modified>2013-02-08 14:16:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88518</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+                      <added>2013-01-25 08:31:45</added>
+                      <modified>2013-01-25 08:31:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8217</id>
+                          <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                          <origName>CoSA_037_037826.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>410.2 kb</size>
+                          <date>2013-01-25 08:31:45</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>87244</id>
+                      <type id="151">Entity</type>
+                      <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+                      <added>2012-12-27 09:01:58</added>
+                      <modified>2013-02-08 14:15:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>87244</id>
+              <type id="151">Entity</type>
+              <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+              <added>2012-12-27 09:01:58</added>
+              <modified>2013-02-08 14:15:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>88518</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+                  <added>2013-01-25 08:31:45</added>
+                  <modified>2013-01-25 08:31:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2013-01-25</raw>
+                    <year>2013</year>
+                    <month>1</month>
+                    <day>25</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>8217</id>
+                      <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                      <origName>CoSA_037_037826.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>410.2 kb</size>
+                      <date>2013-01-25 08:31:45</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>87300</id>
+                  <type id="150">Factoid</type>
+                  <title>Barlow, John, Position, Architect, St Canice's Catholic church Elizabeth Bay</title>
+                  <added>2012-12-27 10:24:56</added>
+                  <modified>2012-12-27 10:24:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">87295</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">87244</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1887</raw>
+                    <year>1887</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1889</raw>
+                    <year>1889</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>87301</id>
+                  <type id="150">Factoid</type>
+                  <title>St Canice's Catholic church Elizabeth Bay, Type, Place of worship</title>
+                  <added>2012-12-27 10:25:43</added>
+                  <modified>2012-12-27 10:25:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">87244</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>87302</id>
+                  <type id="150">Factoid</type>
+                  <title>St Canice's Catholic church Elizabeth Bay, Milestone, Constructed</title>
+                  <added>2012-12-27 10:26:02</added>
+                  <modified>2012-12-27 10:26:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">87244</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1887</raw>
+                    <year>1887</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1889</raw>
+                    <year>1889</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>87307</id>
+                  <type id="150">Factoid</type>
+                  <title>St Canice's Catholic church Elizabeth Bay, TimePlace</title>
+                  <added>2012-12-27 10:38:17</added>
+                  <modified>2012-12-27 10:38:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">87244</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.2261336744 -33.875564308855)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>87245</id>
+                  <type id="52">Record relationship</type>
+                  <title>(86397 isAbout 87244)</title>
+                  <added>2012-12-27 09:03:39</added>
+                  <modified>2012-12-27 09:03:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>86397</id>
+                      <type id="98">XML Document</type>
+                      <title>St Canice's Catholic church Elizabeth Bay</title>
+                      <added>2012-12-05 10:41:10</added>
+                      <modified>2012-12-12 12:40:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>7974</id>
+                          <nonce>5eb6e2a615f6f90d4914075343d5c08c8f2892f7</nonce>
+                          <origName>St  Canice's Catholic church Elizabeth Bay.xml</origName>
+                          <type>application/xml</type>
+                          <size>48 kb</size>
+                          <date>2012-12-05 10:39:08</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/St++Canice%27s+Catholic+church+Elizabeth+Bay.xml?file_id=5eb6e2a615f6f90d4914075343d5c08c8f2892f7</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5eb6e2a615f6f90d4914075343d5c08c8f2892f7</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Named by Irish-born Cardinal Patrick Moran, St Canice's maintained its Irish identity well into the twentieth century, and still serves the community of Sydney's Kings Cross.</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-12-05</raw>
+                        <year>2012</year>
+                        <month>12</month>
+                        <day>5</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3273</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">86396</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">86783</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>87244</id>
+                      <type id="151">Entity</type>
+                      <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+                      <added>2012-12-27 09:01:58</added>
+                      <modified>2013-02-08 14:15:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                </record>
+                <record>
+                  <id>89278</id>
+                  <type id="52">Record relationship</type>
+                  <title>(88518 isOf 87244)</title>
+                  <added>2013-02-08 14:16:13</added>
+                  <modified>2013-02-08 14:16:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>88518</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Canice's church on Roslyn Street, Potts Point c1940</title>
+                      <added>2013-01-25 08:31:45</added>
+                      <modified>2013-01-25 08:31:45</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-01-25</raw>
+                        <year>2013</year>
+                        <month>1</month>
+                        <day>25</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">St Canice's church on Roslyn Street, Potts Point c1940</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC11427. Originally part of CRS 44/256</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">037\037826</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 18821</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8217</id>
+                          <nonce>92c575e50cdd9a5fa97a28e0189b0a34759ca941</nonce>
+                          <origName>CoSA_037_037826.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>410.2 kb</size>
+                          <date>2013-01-25 08:31:45</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037_037826.jpg?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=92c575e50cdd9a5fa97a28e0189b0a34759ca941</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>87244</id>
+                      <type id="151">Entity</type>
+                      <title>St Canice's Catholic church Elizabeth Bay (Building)</title>
+                      <added>2012-12-27 09:01:58</added>
+                      <modified>2013-02-08 14:15:53</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St Canice's Catholic church Elizabeth Bay</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Catholic church in the Victorian Picturesque Gothic style established by generous donations from John Hughes and family to serve the Kings Cross area.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">88518</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8247" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:31:53+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8247</id>
+      <type id="151">Entity</type>
+      <title>Engadine Court (Building)</title>
+      <added>2009-06-10 15:58:47</added>
+      <modified>2009-06-10 15:58:47</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Engadine Court</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="303" type="Short summary" name="dos.notes">shopping centre</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>35911</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Engadine Court</title>
+          <added>2009-11-18 11:27:50</added>
+          <modified>2009-11-18 11:27:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Engadine Court</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8247</id>
+              <type id="151">Entity</type>
+              <title>Engadine Court (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2009-06-10 15:58:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Engadine Court</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="303" type="Short summary" name="dos.notes">shopping centre</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>319</id>
+              <type id="98">XML Document</type>
+              <title>Engadine</title>
+              <added>2008-10-22 13:11:57</added>
+              <modified>2009-10-20 08:31:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>226</id>
+                  <nonce>82918e7909c22a4fdf848a78e7eac898108eed2b</nonce>
+                  <origName>Engadine.xml</origName>
+                  <type>application/xml</type>
+                  <size>74.7 kb</size>
+                  <date>2008-11-14 13:50:53</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Engadine.xml?file_id=82918e7909c22a4fdf848a78e7eac898108eed2b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=82918e7909c22a4fdf848a78e7eac898108eed2b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Engadine</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">First inhabited by the Tharawal people, the area later called Engadine was part of the village of Heathcote until bought by Charles McAlister and renamed Engadine after a valley in Switzerland. Subdivisions in the 1910s were offered to soldier settlers, and the construction of a railway platform brought more residents. The 1930s depression saw a large shanty town develop. After World War II, suburban development increased, bringing improved services.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1939</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">43</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">8,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">13</detail>
+          <detail id="330" type="End Word" name="End Word">14</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8248</id>
+          <type id="150">Factoid</type>
+          <title>Engadine Court, Type, Shopping centre or Retail</title>
+          <added>2009-06-10 15:58:47</added>
+          <modified>2009-06-10 15:58:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8247</id>
+              <type id="151">Entity</type>
+              <title>Engadine Court (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2009-06-10 15:58:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Engadine Court</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="303" type="Short summary" name="dos.notes">shopping centre</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7085</id>
+              <type id="91">Role</type>
+              <title>Shopping centre or retail premises</title>
+              <added>2009-06-10 15:56:29</added>
+              <modified>2012-05-30 11:16:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Shopping centre or retail premises</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51644</id>
+          <type id="150">Factoid</type>
+          <title>Engadine Court, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:20</added>
+          <modified>2011-02-16 16:03:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Engadine Court</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8247</id>
+              <type id="151">Entity</type>
+              <title>Engadine Court (Building)</title>
+              <added>2009-06-10 15:58:47</added>
+              <modified>2009-06-10 15:58:47</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Engadine Court</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="303" type="Short summary" name="dos.notes">shopping centre</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.01407704677 -34.065563594249)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8805" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:04:12+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8805</id>
+      <type id="151">Entity</type>
+      <title>St Basil's Anglican church Artarmon (Building)</title>
+      <added>2009-06-10 15:58:53</added>
+      <modified>2011-12-01 11:47:19</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St Basil's Anglican church Artarmon</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Anglican church which also conducts services in Cantonese.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>21328</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St Basil's Anglican church Artarmon</title>
+          <added>2009-07-27 15:32:23</added>
+          <modified>2009-07-27 15:32:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St Basil's Anglican church Artarmon</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8805</id>
+              <type id="151">Entity</type>
+              <title>St Basil's Anglican church Artarmon (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-12-01 11:47:19</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Basil's Anglican church Artarmon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church which also conducts services in Cantonese.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>164</id>
+              <type id="98">XML Document</type>
+              <title>Artarmon</title>
+              <added>2008-10-22 13:11:32</added>
+              <modified>2010-05-31 15:40:01</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3388</id>
+                  <nonce>09cb416b7d130652bb2ad2e4e8717887041a70d1</nonce>
+                  <origName>Artarmon.xml</origName>
+                  <type>application/xml</type>
+                  <size>82.6 kb</size>
+                  <date>2010-05-31 15:39:57</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Artarmon.xml?file_id=09cb416b7d130652bb2ad2e4e8717887041a70d1</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=09cb416b7d130652bb2ad2e4e8717887041a70d1</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Artarmon</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cammeraygal country until the 1820s, Artarmon became an area of market gardens and orchards, gradually becoming more closely settled. By the end of the nineteenth century, brickmaking was established, and the railway line brought people and commercial development from 1890.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2599</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">102</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">8,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">38</detail>
+          <detail id="330" type="End Word" name="End Word">41</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8806</id>
+          <type id="150">Factoid</type>
+          <title>St Basil's Anglican church Artarmon, Type, Place of worship</title>
+          <added>2009-06-10 15:58:53</added>
+          <modified>2009-06-10 15:58:53</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8805</id>
+              <type id="151">Entity</type>
+              <title>St Basil's Anglican church Artarmon (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-12-01 11:47:19</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Basil's Anglican church Artarmon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church which also conducts services in Cantonese.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66461</id>
+          <type id="150">Factoid</type>
+          <title>St Basil's Anglican church Artarmon, TimePlace</title>
+          <added>2011-12-01 11:47:34</added>
+          <modified>2011-12-01 11:47:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8805</id>
+              <type id="151">Entity</type>
+              <title>St Basil's Anglican church Artarmon (Building)</title>
+              <added>2009-06-10 15:58:53</added>
+              <modified>2011-12-01 11:47:19</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Basil's Anglican church Artarmon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church which also conducts services in Cantonese.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.18230217693 -33.810210850056)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

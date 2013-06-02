@@ -1,0 +1,1060 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8229" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:30:47+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8229</id>
+      <type id="151">Entity</type>
+      <title>Eastwood railway station (Building)</title>
+      <added>2009-06-10 15:58:46</added>
+      <modified>2010-05-06 11:13:52</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>38798</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Eastwood railway station</title>
+          <added>2010-04-08 13:23:15</added>
+          <modified>2010-04-08 13:23:15</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8229</id>
+              <type id="151">Entity</type>
+              <title>Eastwood railway station (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-05-06 11:13:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>38728</id>
+              <type id="98">XML Document</type>
+              <title>Denistone</title>
+              <added>2010-04-06 11:07:31</added>
+              <modified>2010-04-28 10:57:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3365</id>
+                  <nonce>ae768cc690567d0616a5abc19443d482a20d356d</nonce>
+                  <origName>Denistone.xml</origName>
+                  <type>application/xml</type>
+                  <size>58.8 kb</size>
+                  <date>2010-04-06 11:05:49</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Denistone.xml?file_id=ae768cc690567d0616a5abc19443d482a20d356d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ae768cc690567d0616a5abc19443d482a20d356d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Denistone</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wallumedegal country until the Europeans arrived, the land that became Denistone was granted to Europeans in the 1790s and became farms owned by some of the colony's leading families. Subdivision during the twentieth century created a series of pleasant suburban localities in the City of Ryde.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-04-06</raw>
+                <year>2010</year>
+                <month>4</month>
+                <day>6</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2411</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">6</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">37</detail>
+          <detail id="330" type="End Word" name="End Word">38</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>50168</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Eastwood railway station</title>
+          <added>2011-01-28 10:45:01</added>
+          <modified>2011-01-28 10:45:01</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8229</id>
+              <type id="151">Entity</type>
+              <title>Eastwood railway station (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-05-06 11:13:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>48365</id>
+              <type id="98">XML Document</type>
+              <title>Eastwood</title>
+              <added>2010-12-14 16:31:55</added>
+              <modified>2010-12-14 16:31:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4366</id>
+                  <nonce>9275e012a0d71fc2959db517f6867042b8115c22</nonce>
+                  <origName>Eastwood.xml</origName>
+                  <type>application/xml</type>
+                  <size>211.5 kb</size>
+                  <date>2010-12-14 16:29:26</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Eastwood.xml?file_id=9275e012a0d71fc2959db517f6867042b8115c22</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=9275e012a0d71fc2959db517f6867042b8115c22</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Eastwood</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A region of farming estates, before the railway joined it to the city, Eastwood is now a multicultural suburb which retains some of its historic precincts.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-12-14</raw>
+                <year>2010</year>
+                <month>12</month>
+                <day>14</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2415</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">48364</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">69</detail>
+          <detail id="330" type="End Word" name="End Word">70</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>50184</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Eastwood railway station</title>
+          <added>2011-01-28 10:56:55</added>
+          <modified>2011-01-28 10:56:55</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8229</id>
+              <type id="151">Entity</type>
+              <title>Eastwood railway station (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-05-06 11:13:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>48365</id>
+              <type id="98">XML Document</type>
+              <title>Eastwood</title>
+              <added>2010-12-14 16:31:55</added>
+              <modified>2010-12-14 16:31:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4366</id>
+                  <nonce>9275e012a0d71fc2959db517f6867042b8115c22</nonce>
+                  <origName>Eastwood.xml</origName>
+                  <type>application/xml</type>
+                  <size>211.5 kb</size>
+                  <date>2010-12-14 16:29:26</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Eastwood.xml?file_id=9275e012a0d71fc2959db517f6867042b8115c22</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=9275e012a0d71fc2959db517f6867042b8115c22</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Eastwood</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A region of farming estates, before the railway joined it to the city, Eastwood is now a multicultural suburb which retains some of its historic precincts.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-12-14</raw>
+                <year>2010</year>
+                <month>12</month>
+                <day>14</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2415</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">48364</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">123</detail>
+          <detail id="330" type="End Word" name="End Word">124</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8230</id>
+          <type id="150">Factoid</type>
+          <title>Eastwood railway station, Type, Railway station</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8229</id>
+              <type id="151">Entity</type>
+              <title>Eastwood railway station (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-05-06 11:13:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7059</id>
+              <type id="91">Role</type>
+              <title>Railway station</title>
+              <added>2009-06-10 15:56:24</added>
+              <modified>2009-06-10 15:56:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Railway station</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8231</id>
+          <type id="150">Factoid</type>
+          <title>Eastwood railway station, Name, Alternate</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8229</id>
+              <type id="151">Entity</type>
+              <title>Eastwood railway station (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-05-06 11:13:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Dundas railway station</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>50318</id>
+          <type id="150">Factoid</type>
+          <title>Eastwood railway station, Milestone, Opened</title>
+          <added>2011-02-02 08:45:17</added>
+          <modified>2011-02-02 08:45:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8229</id>
+              <type id="151">Entity</type>
+              <title>Eastwood railway station (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-05-06 11:13:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1886-09-17</raw>
+            <year>1886</year>
+            <month>9</month>
+            <day>17</day>
+            <hour />
+            <minutes />
+            <seconds />
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1886-09-17</raw>
+            <year>1886</year>
+            <month>9</month>
+            <day>17</day>
+            <hour />
+            <minutes />
+            <seconds />
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51661</id>
+          <type id="150">Factoid</type>
+          <title>Eastwood railway station, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:47</added>
+          <modified>2011-02-16 16:03:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8229</id>
+              <type id="151">Entity</type>
+              <title>Eastwood railway station (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-05-06 11:13:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.08212481539 -33.790229225394)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>54183</id>
+          <type id="52">Record relationship</type>
+          <title>(54181 isOf 8229)</title>
+          <added>2011-04-08 15:43:32</added>
+          <modified>2011-04-08 15:43:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>54181</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</title>
+              <added>2011-04-08 15:43:32</added>
+              <modified>2011-05-20 23:33:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-04-08</raw>
+                <year>2011</year>
+                <month>4</month>
+                <day>8</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</detail>
+              <detail id="365" type="Subject" name="dc.creator">Richardson &amp; Wrench</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1904</raw>
+                <year>1904</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.map-lfsp770</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.map-lfsp770</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4800</id>
+                  <type id="153">Contributor</type>
+                  <title>National Library of Australia</title>
+                  <added>2009-03-24 10:55:20</added>
+                  <modified>2012-03-21 11:24:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">National Library of Australia</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://catalogue.nla.gov.au</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Items sourced from the NLA have persistent web addresses and, where they appear in Entries, further information can be accessed by clicking on the item identifier between the square brackets [].</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12682\nP-DoS Notes: Darvall Estate (1st. subdn.), Anthony Darvall's portion at the railway station, Eastwood [cartographic material] : for auction sale on the ground, Saturday April 23rd 1904 at 3 oclock - dc.source: http://nla.gov.au/nla.map-lfsp77</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4612</id>
+                  <nonce>928a3bfa04e6fe72ee3c875ff477ab9a773e940f</nonce>
+                  <origName>nla.map-lfsp770-e.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>168 kb</size>
+                  <date>2011-04-08 15:43:32</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.map-lfsp770-e.jpg?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>49469</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>coming</title>
+                  <added>2011-01-13 16:17:31</added>
+                  <modified>2011-05-17 10:36:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">48365</detail>
+                  <detail id="199" type="Resource" name="target">54181</detail>
+                  <detail id="160" type="Title" name="dc.title">coming</detail>
+                  <detail id="191" type="Extended description" name="caption">The proximity of Eastwood Station was a distinct selling point when the Darvall Estate was subdivided in 1904.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">2</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54182</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54181 isOf 38806)</title>
+                  <added>2011-04-08 15:43:32</added>
+                  <modified>2011-04-08 15:43:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54181</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</title>
+                      <added>2011-04-08 15:43:32</added>
+                      <modified>2011-05-20 23:33:11</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Richardson &amp; Wrench</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1904</raw>
+                        <year>1904</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.map-lfsp770</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.map-lfsp770</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12682\nP-DoS Notes: Darvall Estate (1st. subdn.), Anthony Darvall's portion at the railway station, Eastwood [cartographic material] : for auction sale on the ground, Saturday April 23rd 1904 at 3 oclock - dc.source: http://nla.gov.au/nla.map-lfsp77</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4612</id>
+                          <nonce>928a3bfa04e6fe72ee3c875ff477ab9a773e940f</nonce>
+                          <origName>nla.map-lfsp770-e.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>168 kb</size>
+                          <date>2011-04-08 15:43:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.map-lfsp770-e.jpg?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>38806</id>
+                      <type id="151">Entity</type>
+                      <title>Darvall Estate (Place)</title>
+                      <added>2010-04-08 13:41:58</added>
+                      <modified>2010-05-06 10:29:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Darvall Estate</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Estate of Major Edward Darvall in the Ryde district.</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54183</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54181 isOf 8229)</title>
+                  <added>2011-04-08 15:43:32</added>
+                  <modified>2011-04-08 15:43:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54181</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</title>
+                      <added>2011-04-08 15:43:32</added>
+                      <modified>2011-05-20 23:33:11</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Richardson &amp; Wrench</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1904</raw>
+                        <year>1904</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.map-lfsp770</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.map-lfsp770</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12682\nP-DoS Notes: Darvall Estate (1st. subdn.), Anthony Darvall's portion at the railway station, Eastwood [cartographic material] : for auction sale on the ground, Saturday April 23rd 1904 at 3 oclock - dc.source: http://nla.gov.au/nla.map-lfsp77</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4612</id>
+                          <nonce>928a3bfa04e6fe72ee3c875ff477ab9a773e940f</nonce>
+                          <origName>nla.map-lfsp770-e.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>168 kb</size>
+                          <date>2011-04-08 15:43:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.map-lfsp770-e.jpg?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8229</id>
+                      <type id="151">Entity</type>
+                      <title>Eastwood railway station (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-05-06 11:13:52</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54184</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54181 isOf 15938)</title>
+                  <added>2011-04-08 15:43:32</added>
+                  <modified>2011-04-08 15:43:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54181</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</title>
+                      <added>2011-04-08 15:43:32</added>
+                      <modified>2011-05-20 23:33:11</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Richardson &amp; Wrench</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1904</raw>
+                        <year>1904</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.map-lfsp770</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.map-lfsp770</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12682\nP-DoS Notes: Darvall Estate (1st. subdn.), Anthony Darvall's portion at the railway station, Eastwood [cartographic material] : for auction sale on the ground, Saturday April 23rd 1904 at 3 oclock - dc.source: http://nla.gov.au/nla.map-lfsp77</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4612</id>
+                          <nonce>928a3bfa04e6fe72ee3c875ff477ab9a773e940f</nonce>
+                          <origName>nla.map-lfsp770-e.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>168 kb</size>
+                          <date>2011-04-08 15:43:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.map-lfsp770-e.jpg?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>15938</id>
+                      <type id="151">Entity</type>
+                      <title>Eastwood (Place)</title>
+                      <added>2009-06-10 16:07:18</added>
+                      <modified>2010-12-08 09:25:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Eastwood</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Large urban centre in Sydney's northern suburbs which has become increasingly multicultural following postwar migration and more recently the arrival of many Chinese and Korean migrants.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Ryde</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>78775</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54181 hasSubject 6249)</title>
+                  <added>2012-07-31 09:18:10</added>
+                  <modified>2012-07-31 09:18:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54181</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</title>
+                      <added>2011-04-08 15:43:32</added>
+                      <modified>2011-05-20 23:33:11</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Richardson &amp; Wrench</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1904</raw>
+                        <year>1904</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.map-lfsp770</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.map-lfsp770</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12682\nP-DoS Notes: Darvall Estate (1st. subdn.), Anthony Darvall's portion at the railway station, Eastwood [cartographic material] : for auction sale on the ground, Saturday April 23rd 1904 at 3 oclock - dc.source: http://nla.gov.au/nla.map-lfsp77</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4612</id>
+                          <nonce>928a3bfa04e6fe72ee3c875ff477ab9a773e940f</nonce>
+                          <origName>nla.map-lfsp770-e.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>168 kb</size>
+                          <date>2011-04-08 15:43:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.map-lfsp770-e.jpg?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6249</id>
+                      <type id="152">Term</type>
+                      <title>Subdivisions</title>
+                      <added>2009-05-25 14:57:02</added>
+                      <modified>2012-07-31 14:25:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Subdivisions</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>83733</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54181 hasSubject 5795)</title>
+                  <added>2012-10-16 12:47:57</added>
+                  <modified>2012-10-16 12:47:57</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54181</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</title>
+                      <added>2011-04-08 15:43:32</added>
+                      <modified>2011-05-20 23:33:11</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Richardson &amp; Wrench</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1904</raw>
+                        <year>1904</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.map-lfsp770</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.map-lfsp770</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12682\nP-DoS Notes: Darvall Estate (1st. subdn.), Anthony Darvall's portion at the railway station, Eastwood [cartographic material] : for auction sale on the ground, Saturday April 23rd 1904 at 3 oclock - dc.source: http://nla.gov.au/nla.map-lfsp77</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4612</id>
+                          <nonce>928a3bfa04e6fe72ee3c875ff477ab9a773e940f</nonce>
+                          <origName>nla.map-lfsp770-e.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>168 kb</size>
+                          <date>2011-04-08 15:43:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.map-lfsp770-e.jpg?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5795</id>
+                      <type id="152">Term</type>
+                      <title>Advertising</title>
+                      <added>2009-05-25 14:56:08</added>
+                      <modified>2009-05-25 14:56:08</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Advertising</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>83734</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54181 hasSubject 6186)</title>
+                  <added>2012-10-16 12:48:15</added>
+                  <modified>2012-10-16 12:48:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54181</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</title>
+                      <added>2011-04-08 15:43:32</added>
+                      <modified>2011-05-20 23:33:11</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Richardson &amp; Wrench</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1904</raw>
+                        <year>1904</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.map-lfsp770</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.map-lfsp770</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12682\nP-DoS Notes: Darvall Estate (1st. subdn.), Anthony Darvall's portion at the railway station, Eastwood [cartographic material] : for auction sale on the ground, Saturday April 23rd 1904 at 3 oclock - dc.source: http://nla.gov.au/nla.map-lfsp77</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4612</id>
+                          <nonce>928a3bfa04e6fe72ee3c875ff477ab9a773e940f</nonce>
+                          <origName>nla.map-lfsp770-e.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>168 kb</size>
+                          <date>2011-04-08 15:43:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.map-lfsp770-e.jpg?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6186</id>
+                      <type id="152">Term</type>
+                      <title>Real Estate</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Real Estate</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8229</id>
+              <type id="151">Entity</type>
+              <title>Eastwood railway station (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-05-06 11:13:52</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>38798</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Eastwood railway station</title>
+                  <added>2010-04-08 13:23:15</added>
+                  <modified>2010-04-08 13:23:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+                  <detail id="199" type="Resource" name="target">8229</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">38728</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">37</detail>
+                  <detail id="330" type="End Word" name="End Word">38</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>50168</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Eastwood railway station</title>
+                  <added>2011-01-28 10:45:01</added>
+                  <modified>2011-01-28 10:45:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+                  <detail id="199" type="Resource" name="target">8229</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">48365</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">69</detail>
+                  <detail id="330" type="End Word" name="End Word">70</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>50184</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Eastwood railway station</title>
+                  <added>2011-01-28 10:56:55</added>
+                  <modified>2011-01-28 10:56:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+                  <detail id="199" type="Resource" name="target">8229</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">48365</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">123</detail>
+                  <detail id="330" type="End Word" name="End Word">124</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8230</id>
+                  <type id="150">Factoid</type>
+                  <title>Eastwood railway station, Type, Railway station</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8229</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7059</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8231</id>
+                  <type id="150">Factoid</type>
+                  <title>Eastwood railway station, Name, Alternate</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8229</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Dundas railway station</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>50318</id>
+                  <type id="150">Factoid</type>
+                  <title>Eastwood railway station, Milestone, Opened</title>
+                  <added>2011-02-02 08:45:17</added>
+                  <modified>2011-02-02 08:45:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8229</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">42396</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1886-09-17</raw>
+                    <year>1886</year>
+                    <month>9</month>
+                    <day>17</day>
+                    <hour />
+                    <minutes />
+                    <seconds />
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1886-09-17</raw>
+                    <year>1886</year>
+                    <month>9</month>
+                    <day>17</day>
+                    <hour />
+                    <minutes />
+                    <seconds />
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51661</id>
+                  <type id="150">Factoid</type>
+                  <title>Eastwood railway station, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:50:47</added>
+                  <modified>2011-02-16 16:03:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8229</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.08212481539 -33.790229225394)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54183</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54181 isOf 8229)</title>
+                  <added>2011-04-08 15:43:32</added>
+                  <modified>2011-04-08 15:43:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54181</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</title>
+                      <added>2011-04-08 15:43:32</added>
+                      <modified>2011-05-20 23:33:11</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Advertisement for the first subdivision sale of Anthony Darvall's portion of the Darvall Estate, Eastwood, 23 April 1904</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Richardson &amp; Wrench</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1904</raw>
+                        <year>1904</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.map-lfsp770</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.map-lfsp770</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12682\nP-DoS Notes: Darvall Estate (1st. subdn.), Anthony Darvall's portion at the railway station, Eastwood [cartographic material] : for auction sale on the ground, Saturday April 23rd 1904 at 3 oclock - dc.source: http://nla.gov.au/nla.map-lfsp77</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4612</id>
+                          <nonce>928a3bfa04e6fe72ee3c875ff477ab9a773e940f</nonce>
+                          <origName>nla.map-lfsp770-e.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>168 kb</size>
+                          <date>2011-04-08 15:43:32</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.map-lfsp770-e.jpg?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=928a3bfa04e6fe72ee3c875ff477ab9a773e940f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8229</id>
+                      <type id="151">Entity</type>
+                      <title>Eastwood railway station (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-05-06 11:13:52</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Eastwood railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The Dundas station opened on 17 September 1886 and was renamed Eastwood on 1 September 1887.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">formerly Dundas | Dundas railway station | structure</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

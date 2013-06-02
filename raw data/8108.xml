@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8108" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:23:23+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8108</id>
+      <type id="151">Entity</type>
+      <title>Chalmers Presbyterian church Surry Hills (Building)</title>
+      <added>2009-06-10 15:58:45</added>
+      <modified>2009-06-10 15:58:45</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Chalmers Presbyterian church Surry Hills</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="303" type="Short summary" name="dos.notes">sold 2002, no longer a church</detail>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8109</id>
+          <type id="150">Factoid</type>
+          <title>Chalmers Presbyterian church Surry Hills, Type, Place of worship</title>
+          <added>2009-06-10 15:58:45</added>
+          <modified>2009-06-10 15:58:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8108</id>
+              <type id="151">Entity</type>
+              <title>Chalmers Presbyterian church Surry Hills (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2009-06-10 15:58:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Chalmers Presbyterian church Surry Hills</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="303" type="Short summary" name="dos.notes">sold 2002, no longer a church</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51718</id>
+          <type id="150">Factoid</type>
+          <title>Chalmers Presbyterian church Surry Hills, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:27</added>
+          <modified>2011-02-16 16:03:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Chalmers Presbyterian church Surry Hills</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8108</id>
+              <type id="151">Entity</type>
+              <title>Chalmers Presbyterian church Surry Hills (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2009-06-10 15:58:45</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Chalmers Presbyterian church Surry Hills</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="303" type="Short summary" name="dos.notes">sold 2002, no longer a church</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20661775665 -33.888473950949)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

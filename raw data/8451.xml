@@ -1,0 +1,2023 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8451" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:43:36+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8451</id>
+      <type id="151">Entity</type>
+      <title>Judge's House Kent Street (Building)</title>
+      <added>2009-06-10 15:58:49</added>
+      <modified>2011-12-02 10:17:43</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>26520</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Judge's House Kent Street</title>
+          <added>2009-09-24 15:37:54</added>
+          <modified>2009-09-24 15:37:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>590</id>
+              <type id="98">XML Document</type>
+              <title>Sydney City Mission</title>
+              <added>2008-10-22 13:12:40</added>
+              <modified>2009-09-24 15:52:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>345</id>
+                  <nonce>dbeb10e6993ce91690e410ded1491ae21fcdc10d</nonce>
+                  <origName>Sydney City Mission.xml</origName>
+                  <type>application/xml</type>
+                  <size>42.8 kb</size>
+                  <date>2008-12-02 15:07:00</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Sydney+City+Mission.xml?file_id=dbeb10e6993ce91690e410ded1491ae21fcdc10d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=dbeb10e6993ce91690e410ded1491ae21fcdc10d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Sydney City Mission</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Appalled by the poverty he found in Sydney when he arrived in 1860, Benjamin Short founded the Sydney City Mission in 1862. While some of the problems it addressed changed over the years, the Mission's work for Sydney's most vulnerable people continues in 2009.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1185</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">123</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">21</detail>
+          <detail id="330" type="End Word" name="End Word">22</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8452</id>
+          <type id="150">Factoid</type>
+          <title>Judge's House Kent Street, Type, House</title>
+          <added>2009-06-10 15:58:49</added>
+          <modified>2009-06-10 15:58:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66528</id>
+          <type id="150">Factoid</type>
+          <title>Judge's House Kent Street, Milestone, Constructed</title>
+          <added>2011-12-02 10:12:02</added>
+          <modified>2011-12-02 10:12:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1827</raw>
+            <year>1827</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1827</raw>
+            <year>1827</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66529</id>
+          <type id="150">Factoid</type>
+          <title>Judge's House Kent Street, TimePlace</title>
+          <added>2011-12-02 10:14:43</added>
+          <modified>2011-12-02 10:14:43</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20522677153 -33.875193528493)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>66530</id>
+          <type id="150">Factoid</type>
+          <title>Dowling, James, Property, Occupied, Judge's House Kent Street</title>
+          <added>2011-12-02 10:25:26</added>
+          <modified>2011-12-02 10:25:26</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13453</id>
+              <type id="151">Entity</type>
+              <title>Dowling, James (Person)</title>
+              <added>2009-06-10 16:04:11</added>
+              <modified>2010-11-12 11:21:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dowling, James</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Judge and Chief Justice in Sydney from 1828 to 1844.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1828</raw>
+            <year>1828</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1831</raw>
+            <year>1831</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>66531</id>
+          <type id="150">Factoid</type>
+          <title>Hughes, John Terry, Property, Owned, Judge's House Kent Street</title>
+          <added>2011-12-02 10:27:40</added>
+          <modified>2011-12-02 10:28:07</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13825</id>
+              <type id="151">Entity</type>
+              <title>Hughes, John Terry (Person)</title>
+              <added>2009-06-10 16:04:14</added>
+              <modified>2010-09-15 14:39:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hughes, John Terry</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Businessman and speculator who was the nephew of Samuel Terry and married his stepdaughter, Esther.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1835</raw>
+            <year>1835</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1845</raw>
+            <year>1845</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>66532</id>
+          <type id="150">Factoid</type>
+          <title>Hyndes, Thomas, Property, Owned, Judge's House Kent Street</title>
+          <added>2011-12-02 10:30:31</added>
+          <modified>2011-12-02 10:30:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13837</id>
+              <type id="151">Entity</type>
+              <title>Hyndes, Thomas (Person)</title>
+              <added>2009-06-10 16:04:14</added>
+              <modified>2012-04-17 15:17:50</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hyndes, Thomas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Convict who became a wealthy timber merchant, miller and landowner and was responsible for the construction of St Thomas church at Enfield.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1845</raw>
+            <year>1845</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1855</raw>
+            <year>1855</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>66533</id>
+          <type id="150">Factoid</type>
+          <title>Hyndes, Lucy, Property, Owned, Judge's House Kent Street</title>
+          <added>2011-12-02 10:31:41</added>
+          <modified>2011-12-02 10:31:41</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>63771</id>
+              <type id="151">Entity</type>
+              <title>Hyndes, Lucy (Person)</title>
+              <added>2011-09-16 16:13:30</added>
+              <modified>2011-09-16 16:19:35</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hyndes, Lucy</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wealthy property owner in Pitt Street who inherited the properties upon her husband Thomas's death.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Female</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1855</raw>
+            <year>1855</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1867</raw>
+            <year>1867</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>66535</id>
+          <type id="150">Factoid</type>
+          <title>City Night Refuge and Soup Kitchen, Property, Occupied, Judge's House Kent Street</title>
+          <added>2011-12-02 10:51:18</added>
+          <modified>2011-12-02 10:51:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>10609</id>
+              <type id="151">Entity</type>
+              <title>City Night Refuge and Soup Kitchen (Organisation)</title>
+              <added>2009-06-10 16:02:47</added>
+              <modified>2011-11-25 12:11:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">City Night Refuge and Soup Kitchen</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Shelter and soup kitchen established in 1868 at The Judge's House, in Kent Street by a group of businessmen. It was taken over by the Sydney City Mission in 1945.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">22678</detail>
+              <detail id="303" type="Short summary" name="dos.notes">535 Kent St City 'The Judge's house'</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1868</raw>
+            <year>1868</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1945</raw>
+            <year>1945</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>66536</id>
+          <type id="150">Factoid</type>
+          <title>Sydney City Mission, Property, Occupied, Judge's House Kent Street</title>
+          <added>2011-12-02 10:52:31</added>
+          <modified>2011-12-02 10:52:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>12426</id>
+              <type id="151">Entity</type>
+              <title>Sydney City Mission (Organisation)</title>
+              <added>2009-06-10 16:03:09</added>
+              <modified>2011-05-03 15:14:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Sydney City Mission</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Philanthropic organisation formed to provide welfare to Sydneysiders living in poverty, which was absorbed by the umbrella organisation Mission Australia in 1996.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1945</raw>
+            <year>1945</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1970</raw>
+            <year>1970</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>64766</id>
+          <type id="52">Record relationship</type>
+          <title>(22678 isOf 8451)</title>
+          <added>2011-10-07 09:34:58</added>
+          <modified>2011-10-07 09:34:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>22678</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Sydney soup kitchen 1883</title>
+              <added>2009-08-18 14:43:55</added>
+              <modified>2011-10-07 09:34:19</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>2999</id>
+                  <nonce>aef1987e8f8614ca82717825b44ce53108ea5f67</nonce>
+                  <origName>mp009389.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>182.7 kb</size>
+                  <date>2009-08-18 14:43:55</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mp009389.jpg?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Sydney soup kitchen 1883</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2009-08-18</raw>
+                <year>2009</year>
+                <month>8</month>
+                <day>18</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1883</raw>
+                <year>1883</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://catalogue.slv.vic.gov.au/vwebv/holdingsInfo?bibId=1776834</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4815</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of Victoria</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2012-01-10 15:45:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of Victoria</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="191" type="Extended description" name="dc.description">The State Library of Victoria is contributing items from its multimedia collection</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.slv.vic.gov.au/catalogues/index.html</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">Image courtesy of the</detail>
+                </record>
+              </detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">A/S04/06/83/96</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">The Australasian sketcher with pen and pencil, 4 June 1883 p 96</detail>
+              <detail id="303" type="Short summary" name="dos.notes">DEFAULT IMG Also in Australasian Sketcher, 4 June 1883, p96 http://nla.gov.au/nla.news-page5738964, description here: http://nla.gov.au/nla.news-page5738963  Building was in Kent Street, opened on 1 July 1868 as the City Night Refuge and Soup Kitchen.                     P-ID: 10320\nP-DoS Notes: The Sydney soup kitchen. \nDescription\nMen seated round a wooden table eating a meal: inset of exterior of building.    IspartOf Illustrated newspaper file. Australasian sketcher.\nDate or place\n    June 4, 1883.\nP-Related: Ch</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>4052</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Suburban</title>
+                  <added>2008-12-16 14:54:28</added>
+                  <modified>2009-10-28 11:02:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">251</detail>
+                  <detail id="199" type="Resource" name="target">22678</detail>
+                  <detail id="160" type="Title" name="dc.title">Suburban</detail>
+                  <detail id="191" type="Extended description" name="caption">Before the emergence of the welfare state in the twentieth century, economic downturns saw thousands struggling to exist, and their needs were usually met by private charities.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">9,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">145</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">IMG City Night Refuge OR Soup Kitchen (1868), OR new shelters for homeless men were opened by the Central Methodist Mission in 1908 and Salvation Army in 1912.</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>62368</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>ends</title>
+                  <added>2011-09-02 16:11:14</added>
+                  <modified>2011-11-22 14:19:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">53424</detail>
+                  <detail id="199" type="Resource" name="target">22678</detail>
+                  <detail id="160" type="Title" name="dc.title">ends</detail>
+                  <detail id="191" type="Extended description" name="caption">With high unemployment rates in the 1890s, many were dependent on the philanthropy of organisations like the City Night Refuge and Soup Kitchen for meals and somewhere to sleep.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">8,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">2</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>10609</id>
+                  <type id="151">Entity</type>
+                  <title>City Night Refuge and Soup Kitchen (Organisation)</title>
+                  <added>2009-06-10 16:02:47</added>
+                  <modified>2011-11-25 12:11:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">City Night Refuge and Soup Kitchen</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Shelter and soup kitchen established in 1868 at The Judge's House, in Kent Street by a group of businessmen. It was taken over by the Sydney City Mission in 1945.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">22678</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">535 Kent St City 'The Judge's house'</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64765</id>
+                  <type id="52">Record relationship</type>
+                  <title>(22678 isOf 10609)</title>
+                  <added>2011-10-07 09:34:38</added>
+                  <modified>2011-10-07 09:34:38</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>22678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Sydney soup kitchen 1883</title>
+                      <added>2009-08-18 14:43:55</added>
+                      <modified>2011-10-07 09:34:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2999</id>
+                          <nonce>aef1987e8f8614ca82717825b44ce53108ea5f67</nonce>
+                          <origName>mp009389.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>182.7 kb</size>
+                          <date>2009-08-18 14:43:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mp009389.jpg?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Sydney soup kitchen 1883</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-08-18</raw>
+                        <year>2009</year>
+                        <month>8</month>
+                        <day>18</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1883</raw>
+                        <year>1883</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://catalogue.slv.vic.gov.au/vwebv/holdingsInfo?bibId=1776834</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4815</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A/S04/06/83/96</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">The Australasian sketcher with pen and pencil, 4 June 1883 p 96</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">DEFAULT IMG Also in Australasian Sketcher, 4 June 1883, p96 http://nla.gov.au/nla.news-page5738964, description here: http://nla.gov.au/nla.news-page5738963  Building was in Kent Street, opened on 1 July 1868 as the City Night Refuge and Soup Kitchen.                     P-ID: 10320\nP-DoS Notes: The Sydney soup kitchen. \nDescription\nMen seated round a wooden table eating a meal: inset of exterior of building.    IspartOf Illustrated newspaper file. Australasian sketcher.\nDate or place\n    June 4, 1883.\nP-Related: Ch</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>10609</id>
+                      <type id="151">Entity</type>
+                      <title>City Night Refuge and Soup Kitchen (Organisation)</title>
+                      <added>2009-06-10 16:02:47</added>
+                      <modified>2011-11-25 12:11:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">City Night Refuge and Soup Kitchen</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Shelter and soup kitchen established in 1868 at The Judge's House, in Kent Street by a group of businessmen. It was taken over by the Sydney City Mission in 1945.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">22678</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">535 Kent St City 'The Judge's house'</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>64766</id>
+                  <type id="52">Record relationship</type>
+                  <title>(22678 isOf 8451)</title>
+                  <added>2011-10-07 09:34:58</added>
+                  <modified>2011-10-07 09:34:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>22678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Sydney soup kitchen 1883</title>
+                      <added>2009-08-18 14:43:55</added>
+                      <modified>2011-10-07 09:34:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2999</id>
+                          <nonce>aef1987e8f8614ca82717825b44ce53108ea5f67</nonce>
+                          <origName>mp009389.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>182.7 kb</size>
+                          <date>2009-08-18 14:43:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mp009389.jpg?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Sydney soup kitchen 1883</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-08-18</raw>
+                        <year>2009</year>
+                        <month>8</month>
+                        <day>18</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1883</raw>
+                        <year>1883</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://catalogue.slv.vic.gov.au/vwebv/holdingsInfo?bibId=1776834</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4815</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A/S04/06/83/96</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">The Australasian sketcher with pen and pencil, 4 June 1883 p 96</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">DEFAULT IMG Also in Australasian Sketcher, 4 June 1883, p96 http://nla.gov.au/nla.news-page5738964, description here: http://nla.gov.au/nla.news-page5738963  Building was in Kent Street, opened on 1 July 1868 as the City Night Refuge and Soup Kitchen.                     P-ID: 10320\nP-DoS Notes: The Sydney soup kitchen. \nDescription\nMen seated round a wooden table eating a meal: inset of exterior of building.    IspartOf Illustrated newspaper file. Australasian sketcher.\nDate or place\n    June 4, 1883.\nP-Related: Ch</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8451</id>
+                      <type id="151">Entity</type>
+                      <title>Judge's House Kent Street (Building)</title>
+                      <added>2009-06-10 15:58:49</added>
+                      <modified>2011-12-02 10:17:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>85859</id>
+                  <type id="52">Record relationship</type>
+                  <title>(22678 hasSubject 5933)</title>
+                  <added>2012-11-23 12:14:15</added>
+                  <modified>2012-11-23 12:14:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>22678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Sydney soup kitchen 1883</title>
+                      <added>2009-08-18 14:43:55</added>
+                      <modified>2011-10-07 09:34:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2999</id>
+                          <nonce>aef1987e8f8614ca82717825b44ce53108ea5f67</nonce>
+                          <origName>mp009389.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>182.7 kb</size>
+                          <date>2009-08-18 14:43:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mp009389.jpg?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Sydney soup kitchen 1883</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-08-18</raw>
+                        <year>2009</year>
+                        <month>8</month>
+                        <day>18</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1883</raw>
+                        <year>1883</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://catalogue.slv.vic.gov.au/vwebv/holdingsInfo?bibId=1776834</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4815</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A/S04/06/83/96</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">The Australasian sketcher with pen and pencil, 4 June 1883 p 96</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">DEFAULT IMG Also in Australasian Sketcher, 4 June 1883, p96 http://nla.gov.au/nla.news-page5738964, description here: http://nla.gov.au/nla.news-page5738963  Building was in Kent Street, opened on 1 July 1868 as the City Night Refuge and Soup Kitchen.                     P-ID: 10320\nP-DoS Notes: The Sydney soup kitchen. \nDescription\nMen seated round a wooden table eating a meal: inset of exterior of building.    IspartOf Illustrated newspaper file. Australasian sketcher.\nDate or place\n    June 4, 1883.\nP-Related: Ch</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5933</id>
+                      <type id="152">Term</type>
+                      <title>Eating and Drinking</title>
+                      <added>2009-05-25 14:56:24</added>
+                      <modified>2009-05-25 14:56:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Eating and Drinking</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>85860</id>
+                  <type id="52">Record relationship</type>
+                  <title>(22678 hasSubject 5864)</title>
+                  <added>2012-11-23 12:15:17</added>
+                  <modified>2012-11-23 12:15:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>22678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Sydney soup kitchen 1883</title>
+                      <added>2009-08-18 14:43:55</added>
+                      <modified>2011-10-07 09:34:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2999</id>
+                          <nonce>aef1987e8f8614ca82717825b44ce53108ea5f67</nonce>
+                          <origName>mp009389.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>182.7 kb</size>
+                          <date>2009-08-18 14:43:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mp009389.jpg?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Sydney soup kitchen 1883</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-08-18</raw>
+                        <year>2009</year>
+                        <month>8</month>
+                        <day>18</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1883</raw>
+                        <year>1883</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://catalogue.slv.vic.gov.au/vwebv/holdingsInfo?bibId=1776834</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4815</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A/S04/06/83/96</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">The Australasian sketcher with pen and pencil, 4 June 1883 p 96</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">DEFAULT IMG Also in Australasian Sketcher, 4 June 1883, p96 http://nla.gov.au/nla.news-page5738964, description here: http://nla.gov.au/nla.news-page5738963  Building was in Kent Street, opened on 1 July 1868 as the City Night Refuge and Soup Kitchen.                     P-ID: 10320\nP-DoS Notes: The Sydney soup kitchen. \nDescription\nMen seated round a wooden table eating a meal: inset of exterior of building.    IspartOf Illustrated newspaper file. Australasian sketcher.\nDate or place\n    June 4, 1883.\nP-Related: Ch</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5864</id>
+                      <type id="152">Term</type>
+                      <title>Charity and Philanthropy</title>
+                      <added>2009-05-25 14:56:16</added>
+                      <modified>2009-05-25 14:56:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Charity and Philanthropy</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>26520</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Judge's House Kent Street</title>
+                  <added>2009-09-24 15:37:54</added>
+                  <modified>2009-09-24 15:37:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+                  <detail id="199" type="Resource" name="target">8451</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">590</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">21</detail>
+                  <detail id="330" type="End Word" name="End Word">22</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8452</id>
+                  <type id="150">Factoid</type>
+                  <title>Judge's House Kent Street, Type, House</title>
+                  <added>2009-06-10 15:58:49</added>
+                  <modified>2009-06-10 15:58:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8451</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6978</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>66528</id>
+                  <type id="150">Factoid</type>
+                  <title>Judge's House Kent Street, Milestone, Constructed</title>
+                  <added>2011-12-02 10:12:02</added>
+                  <modified>2011-12-02 10:12:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8451</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1827</raw>
+                    <year>1827</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1827</raw>
+                    <year>1827</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>66529</id>
+                  <type id="150">Factoid</type>
+                  <title>Judge's House Kent Street, TimePlace</title>
+                  <added>2011-12-02 10:14:43</added>
+                  <modified>2011-12-02 10:14:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8451</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20522677153 -33.875193528493)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66530</id>
+                  <type id="150">Factoid</type>
+                  <title>Dowling, James, Property, Occupied, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:25:26</added>
+                  <modified>2011-12-02 10:25:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13453</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1828</raw>
+                    <year>1828</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1831</raw>
+                    <year>1831</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66531</id>
+                  <type id="150">Factoid</type>
+                  <title>Hughes, John Terry, Property, Owned, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:27:40</added>
+                  <modified>2011-12-02 10:28:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13825</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1835</raw>
+                    <year>1835</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1845</raw>
+                    <year>1845</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66532</id>
+                  <type id="150">Factoid</type>
+                  <title>Hyndes, Thomas, Property, Owned, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:30:31</added>
+                  <modified>2011-12-02 10:30:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13837</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1845</raw>
+                    <year>1845</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1855</raw>
+                    <year>1855</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66533</id>
+                  <type id="150">Factoid</type>
+                  <title>Hyndes, Lucy, Property, Owned, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:31:41</added>
+                  <modified>2011-12-02 10:31:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">63771</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1855</raw>
+                    <year>1855</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1867</raw>
+                    <year>1867</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66535</id>
+                  <type id="150">Factoid</type>
+                  <title>City Night Refuge and Soup Kitchen, Property, Occupied, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:51:18</added>
+                  <modified>2011-12-02 10:51:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">10609</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1868</raw>
+                    <year>1868</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1945</raw>
+                    <year>1945</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66536</id>
+                  <type id="150">Factoid</type>
+                  <title>Sydney City Mission, Property, Occupied, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:52:31</added>
+                  <modified>2011-12-02 10:52:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">12426</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1945</raw>
+                    <year>1945</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1970</raw>
+                    <year>1970</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64766</id>
+                  <type id="52">Record relationship</type>
+                  <title>(22678 isOf 8451)</title>
+                  <added>2011-10-07 09:34:58</added>
+                  <modified>2011-10-07 09:34:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>22678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Sydney soup kitchen 1883</title>
+                      <added>2009-08-18 14:43:55</added>
+                      <modified>2011-10-07 09:34:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2999</id>
+                          <nonce>aef1987e8f8614ca82717825b44ce53108ea5f67</nonce>
+                          <origName>mp009389.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>182.7 kb</size>
+                          <date>2009-08-18 14:43:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mp009389.jpg?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Sydney soup kitchen 1883</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-08-18</raw>
+                        <year>2009</year>
+                        <month>8</month>
+                        <day>18</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1883</raw>
+                        <year>1883</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://catalogue.slv.vic.gov.au/vwebv/holdingsInfo?bibId=1776834</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4815</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A/S04/06/83/96</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">The Australasian sketcher with pen and pencil, 4 June 1883 p 96</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">DEFAULT IMG Also in Australasian Sketcher, 4 June 1883, p96 http://nla.gov.au/nla.news-page5738964, description here: http://nla.gov.au/nla.news-page5738963  Building was in Kent Street, opened on 1 July 1868 as the City Night Refuge and Soup Kitchen.                     P-ID: 10320\nP-DoS Notes: The Sydney soup kitchen. \nDescription\nMen seated round a wooden table eating a meal: inset of exterior of building.    IspartOf Illustrated newspaper file. Australasian sketcher.\nDate or place\n    June 4, 1883.\nP-Related: Ch</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8451</id>
+                      <type id="151">Entity</type>
+                      <title>Judge's House Kent Street (Building)</title>
+                      <added>2009-06-10 15:58:49</added>
+                      <modified>2011-12-02 10:17:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>71772</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71771 isOf 8451)</title>
+                  <added>2012-01-12 13:35:00</added>
+                  <modified>2012-01-12 13:35:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71771</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>At the soup kitchen 1885</title>
+                      <added>2012-01-12 13:34:59</added>
+                      <modified>2012-01-12 13:34:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">At the soup kitchen 1885</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Whitelocke, Nelson P</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1885</raw>
+                        <year>1885</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">from 'A walk in Sydney streets on the shady side' by Nelson P. Whitelocke. Sydney: Nelson P. Whitelocke, 1885, plate 14</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://artsearch.nga.gov.au/Detail.cfm?IRN=179710</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">Accession No: NGA 93.2024.16</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4937</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14252
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7133</id>
+                          <nonce>53396c5fbe92e5072b06cced4bb35a0e40b1608f</nonce>
+                          <origName>NGA_179710.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>85.1 kb</size>
+                          <date>2012-01-12 13:34:59</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NGA_179710.JPG?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8451</id>
+                      <type id="151">Entity</type>
+                      <title>Judge's House Kent Street (Building)</title>
+                      <added>2009-06-10 15:58:49</added>
+                      <modified>2011-12-02 10:17:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+        <record>
+          <id>71772</id>
+          <type id="52">Record relationship</type>
+          <title>(71771 isOf 8451)</title>
+          <added>2012-01-12 13:35:00</added>
+          <modified>2012-01-12 13:35:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>71771</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>At the soup kitchen 1885</title>
+              <added>2012-01-12 13:34:59</added>
+              <modified>2012-01-12 13:34:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-01-12</raw>
+                <year>2012</year>
+                <month>1</month>
+                <day>12</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">At the soup kitchen 1885</detail>
+              <detail id="365" type="Subject" name="dc.creator">Whitelocke, Nelson P</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1885</raw>
+                <year>1885</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">from 'A walk in Sydney streets on the shady side' by Nelson P. Whitelocke. Sydney: Nelson P. Whitelocke, 1885, plate 14</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://artsearch.nga.gov.au/Detail.cfm?IRN=179710</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">Accession No: NGA 93.2024.16</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4937</id>
+                  <type id="153">Contributor</type>
+                  <title>National Gallery of Australia</title>
+                  <added>2009-03-24 11:36:46</added>
+                  <modified>2009-10-29 10:33:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">National Gallery of Australia</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://nga.gov.au/Collection/index.cfm</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 14252
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>7133</id>
+                  <nonce>53396c5fbe92e5072b06cced4bb35a0e40b1608f</nonce>
+                  <origName>NGA_179710.JPG</origName>
+                  <type>image/jpeg</type>
+                  <size>85.1 kb</size>
+                  <date>2012-01-12 13:34:59</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NGA_179710.JPG?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>63478</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>two</title>
+                  <added>2011-09-15 16:25:29</added>
+                  <modified>2012-02-23 15:48:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">373</detail>
+                  <detail id="199" type="Resource" name="target">71771</detail>
+                  <detail id="160" type="Title" name="dc.title">two</detail>
+                  <detail id="191" type="Extended description" name="caption">Poverty remained a problem in late nineteenth century Sydney, with thousands supported on 'outdoor relief', like these recipients seen in Sydney streets in 1885.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">7,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">3</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Sydney Soup Kitchen pic</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>71772</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71771 isOf 8451)</title>
+                  <added>2012-01-12 13:35:00</added>
+                  <modified>2012-01-12 13:35:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71771</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>At the soup kitchen 1885</title>
+                      <added>2012-01-12 13:34:59</added>
+                      <modified>2012-01-12 13:34:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">At the soup kitchen 1885</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Whitelocke, Nelson P</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1885</raw>
+                        <year>1885</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">from 'A walk in Sydney streets on the shady side' by Nelson P. Whitelocke. Sydney: Nelson P. Whitelocke, 1885, plate 14</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://artsearch.nga.gov.au/Detail.cfm?IRN=179710</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">Accession No: NGA 93.2024.16</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4937</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14252
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7133</id>
+                          <nonce>53396c5fbe92e5072b06cced4bb35a0e40b1608f</nonce>
+                          <origName>NGA_179710.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>85.1 kb</size>
+                          <date>2012-01-12 13:34:59</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NGA_179710.JPG?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8451</id>
+                      <type id="151">Entity</type>
+                      <title>Judge's House Kent Street (Building)</title>
+                      <added>2009-06-10 15:58:49</added>
+                      <modified>2011-12-02 10:17:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>71773</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71771 isOf 10609)</title>
+                  <added>2012-01-12 13:35:01</added>
+                  <modified>2012-01-12 13:35:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71771</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>At the soup kitchen 1885</title>
+                      <added>2012-01-12 13:34:59</added>
+                      <modified>2012-01-12 13:34:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">At the soup kitchen 1885</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Whitelocke, Nelson P</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1885</raw>
+                        <year>1885</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">from 'A walk in Sydney streets on the shady side' by Nelson P. Whitelocke. Sydney: Nelson P. Whitelocke, 1885, plate 14</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://artsearch.nga.gov.au/Detail.cfm?IRN=179710</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">Accession No: NGA 93.2024.16</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4937</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14252
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7133</id>
+                          <nonce>53396c5fbe92e5072b06cced4bb35a0e40b1608f</nonce>
+                          <origName>NGA_179710.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>85.1 kb</size>
+                          <date>2012-01-12 13:34:59</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NGA_179710.JPG?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>10609</id>
+                      <type id="151">Entity</type>
+                      <title>City Night Refuge and Soup Kitchen (Organisation)</title>
+                      <added>2009-06-10 16:02:47</added>
+                      <modified>2011-11-25 12:11:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">City Night Refuge and Soup Kitchen</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Shelter and soup kitchen established in 1868 at The Judge's House, in Kent Street by a group of businessmen. It was taken over by the Sydney City Mission in 1945.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">22678</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">535 Kent St City 'The Judge's house'</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>79265</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71771 hasSubject 6100)</title>
+                  <added>2012-08-07 09:38:55</added>
+                  <modified>2012-08-07 09:38:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71771</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>At the soup kitchen 1885</title>
+                      <added>2012-01-12 13:34:59</added>
+                      <modified>2012-01-12 13:34:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">At the soup kitchen 1885</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Whitelocke, Nelson P</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1885</raw>
+                        <year>1885</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">from 'A walk in Sydney streets on the shady side' by Nelson P. Whitelocke. Sydney: Nelson P. Whitelocke, 1885, plate 14</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://artsearch.nga.gov.au/Detail.cfm?IRN=179710</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">Accession No: NGA 93.2024.16</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4937</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14252
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7133</id>
+                          <nonce>53396c5fbe92e5072b06cced4bb35a0e40b1608f</nonce>
+                          <origName>NGA_179710.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>85.1 kb</size>
+                          <date>2012-01-12 13:34:59</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NGA_179710.JPG?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6100</id>
+                      <type id="152">Term</type>
+                      <title>Men</title>
+                      <added>2009-05-25 14:56:43</added>
+                      <modified>2009-05-25 14:56:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Men</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>79266</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71771 hasSubject 5933)</title>
+                  <added>2012-08-07 09:40:07</added>
+                  <modified>2012-08-07 09:40:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71771</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>At the soup kitchen 1885</title>
+                      <added>2012-01-12 13:34:59</added>
+                      <modified>2012-01-12 13:34:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">At the soup kitchen 1885</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Whitelocke, Nelson P</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1885</raw>
+                        <year>1885</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">from 'A walk in Sydney streets on the shady side' by Nelson P. Whitelocke. Sydney: Nelson P. Whitelocke, 1885, plate 14</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://artsearch.nga.gov.au/Detail.cfm?IRN=179710</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">Accession No: NGA 93.2024.16</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4937</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14252
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7133</id>
+                          <nonce>53396c5fbe92e5072b06cced4bb35a0e40b1608f</nonce>
+                          <origName>NGA_179710.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>85.1 kb</size>
+                          <date>2012-01-12 13:34:59</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NGA_179710.JPG?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5933</id>
+                      <type id="152">Term</type>
+                      <title>Eating and Drinking</title>
+                      <added>2009-05-25 14:56:24</added>
+                      <modified>2009-05-25 14:56:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Eating and Drinking</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>79267</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71771 hasSubject 5864)</title>
+                  <added>2012-08-07 09:41:32</added>
+                  <modified>2012-08-07 09:41:32</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71771</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>At the soup kitchen 1885</title>
+                      <added>2012-01-12 13:34:59</added>
+                      <modified>2012-01-12 13:34:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">At the soup kitchen 1885</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Whitelocke, Nelson P</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1885</raw>
+                        <year>1885</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">from 'A walk in Sydney streets on the shady side' by Nelson P. Whitelocke. Sydney: Nelson P. Whitelocke, 1885, plate 14</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://artsearch.nga.gov.au/Detail.cfm?IRN=179710</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">Accession No: NGA 93.2024.16</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4937</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14252
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7133</id>
+                          <nonce>53396c5fbe92e5072b06cced4bb35a0e40b1608f</nonce>
+                          <origName>NGA_179710.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>85.1 kb</size>
+                          <date>2012-01-12 13:34:59</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NGA_179710.JPG?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5864</id>
+                      <type id="152">Term</type>
+                      <title>Charity and Philanthropy</title>
+                      <added>2009-05-25 14:56:16</added>
+                      <modified>2009-05-25 14:56:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Charity and Philanthropy</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8451</id>
+              <type id="151">Entity</type>
+              <title>Judge's House Kent Street (Building)</title>
+              <added>2009-06-10 15:58:49</added>
+              <modified>2011-12-02 10:17:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>26520</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Judge's House Kent Street</title>
+                  <added>2009-09-24 15:37:54</added>
+                  <modified>2009-09-24 15:37:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+                  <detail id="199" type="Resource" name="target">8451</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">590</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">21</detail>
+                  <detail id="330" type="End Word" name="End Word">22</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8452</id>
+                  <type id="150">Factoid</type>
+                  <title>Judge's House Kent Street, Type, House</title>
+                  <added>2009-06-10 15:58:49</added>
+                  <modified>2009-06-10 15:58:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8451</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6978</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>66528</id>
+                  <type id="150">Factoid</type>
+                  <title>Judge's House Kent Street, Milestone, Constructed</title>
+                  <added>2011-12-02 10:12:02</added>
+                  <modified>2011-12-02 10:12:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8451</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1827</raw>
+                    <year>1827</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1827</raw>
+                    <year>1827</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>66529</id>
+                  <type id="150">Factoid</type>
+                  <title>Judge's House Kent Street, TimePlace</title>
+                  <added>2011-12-02 10:14:43</added>
+                  <modified>2011-12-02 10:14:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8451</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20522677153 -33.875193528493)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66530</id>
+                  <type id="150">Factoid</type>
+                  <title>Dowling, James, Property, Occupied, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:25:26</added>
+                  <modified>2011-12-02 10:25:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13453</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1828</raw>
+                    <year>1828</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1831</raw>
+                    <year>1831</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66531</id>
+                  <type id="150">Factoid</type>
+                  <title>Hughes, John Terry, Property, Owned, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:27:40</added>
+                  <modified>2011-12-02 10:28:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13825</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1835</raw>
+                    <year>1835</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1845</raw>
+                    <year>1845</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66532</id>
+                  <type id="150">Factoid</type>
+                  <title>Hyndes, Thomas, Property, Owned, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:30:31</added>
+                  <modified>2011-12-02 10:30:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">13837</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1845</raw>
+                    <year>1845</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1855</raw>
+                    <year>1855</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66533</id>
+                  <type id="150">Factoid</type>
+                  <title>Hyndes, Lucy, Property, Owned, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:31:41</added>
+                  <modified>2011-12-02 10:31:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">63771</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1855</raw>
+                    <year>1855</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1867</raw>
+                    <year>1867</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66535</id>
+                  <type id="150">Factoid</type>
+                  <title>City Night Refuge and Soup Kitchen, Property, Occupied, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:51:18</added>
+                  <modified>2011-12-02 10:51:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">10609</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1868</raw>
+                    <year>1868</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1945</raw>
+                    <year>1945</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>66536</id>
+                  <type id="150">Factoid</type>
+                  <title>Sydney City Mission, Property, Occupied, Judge's House Kent Street</title>
+                  <added>2011-12-02 10:52:31</added>
+                  <modified>2011-12-02 10:52:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">12426</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">24934</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8451</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1945</raw>
+                    <year>1945</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1970</raw>
+                    <year>1970</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>64766</id>
+                  <type id="52">Record relationship</type>
+                  <title>(22678 isOf 8451)</title>
+                  <added>2011-10-07 09:34:58</added>
+                  <modified>2011-10-07 09:34:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>22678</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Sydney soup kitchen 1883</title>
+                      <added>2009-08-18 14:43:55</added>
+                      <modified>2011-10-07 09:34:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>2999</id>
+                          <nonce>aef1987e8f8614ca82717825b44ce53108ea5f67</nonce>
+                          <origName>mp009389.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>182.7 kb</size>
+                          <date>2009-08-18 14:43:55</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/mp009389.jpg?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=aef1987e8f8614ca82717825b44ce53108ea5f67</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Sydney soup kitchen 1883</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2009-08-18</raw>
+                        <year>2009</year>
+                        <month>8</month>
+                        <day>18</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1883</raw>
+                        <year>1883</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://catalogue.slv.vic.gov.au/vwebv/holdingsInfo?bibId=1776834</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4815</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">A/S04/06/83/96</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">The Australasian sketcher with pen and pencil, 4 June 1883 p 96</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">DEFAULT IMG Also in Australasian Sketcher, 4 June 1883, p96 http://nla.gov.au/nla.news-page5738964, description here: http://nla.gov.au/nla.news-page5738963  Building was in Kent Street, opened on 1 July 1868 as the City Night Refuge and Soup Kitchen.                     P-ID: 10320\nP-DoS Notes: The Sydney soup kitchen. \nDescription\nMen seated round a wooden table eating a meal: inset of exterior of building.    IspartOf Illustrated newspaper file. Australasian sketcher.\nDate or place\n    June 4, 1883.\nP-Related: Ch</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8451</id>
+                      <type id="151">Entity</type>
+                      <title>Judge's House Kent Street (Building)</title>
+                      <added>2009-06-10 15:58:49</added>
+                      <modified>2011-12-02 10:17:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>71772</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71771 isOf 8451)</title>
+                  <added>2012-01-12 13:35:00</added>
+                  <modified>2012-01-12 13:35:00</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71771</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>At the soup kitchen 1885</title>
+                      <added>2012-01-12 13:34:59</added>
+                      <modified>2012-01-12 13:34:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">At the soup kitchen 1885</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Whitelocke, Nelson P</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1885</raw>
+                        <year>1885</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">from 'A walk in Sydney streets on the shady side' by Nelson P. Whitelocke. Sydney: Nelson P. Whitelocke, 1885, plate 14</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://artsearch.nga.gov.au/Detail.cfm?IRN=179710</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">Accession No: NGA 93.2024.16</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4937</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14252
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7133</id>
+                          <nonce>53396c5fbe92e5072b06cced4bb35a0e40b1608f</nonce>
+                          <origName>NGA_179710.JPG</origName>
+                          <type>image/jpeg</type>
+                          <size>85.1 kb</size>
+                          <date>2012-01-12 13:34:59</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/NGA_179710.JPG?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=53396c5fbe92e5072b06cced4bb35a0e40b1608f</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8451</id>
+                      <type id="151">Entity</type>
+                      <title>Judge's House Kent Street (Building)</title>
+                      <added>2009-06-10 15:58:49</added>
+                      <modified>2011-12-02 10:17:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Judge's House Kent Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Elegant home built for surveyor William Harper which is the only example of an 1820s Colonial Georgian single storey bungalow to survive in the city.</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,969 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8363" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:38:33+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8363</id>
+      <type id="151">Entity</type>
+      <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+      <added>2009-06-10 15:58:48</added>
+      <modified>2011-04-08 15:43:56</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>54530</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+          <added>2011-04-08 15:43:53</added>
+          <modified>2011-05-20 23:32:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2011-04-08</raw>
+            <year>2011</year>
+            <month>4</month>
+            <day>8</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+          <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2009</raw>
+            <year>2009</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>2009</raw>
+            <year>2009</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+          <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4768</id>
+              <type id="153">Contributor</type>
+              <title>Wikimedia Commons</title>
+              <added>2009-03-24 10:55:14</added>
+              <modified>2009-03-24 10:55:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Wikimedia Commons</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://commons.wikimedia.org/wiki/Main_Page</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>4755</id>
+              <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+              <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+              <type>image/jpeg</type>
+              <size>127.8 kb</size>
+              <date>2011-04-08 15:43:53</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>8363</id>
+              <type id="151">Entity</type>
+              <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-04-08 15:43:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>54531</id>
+              <type id="52">Record relationship</type>
+              <title>(54530 isOf 8363)</title>
+              <added>2011-04-08 15:43:56</added>
+              <modified>2011-04-08 15:43:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>54530</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+                  <added>2011-04-08 15:43:53</added>
+                  <modified>2011-05-20 23:32:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2011-04-08</raw>
+                    <year>2011</year>
+                    <month>4</month>
+                    <day>8</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4755</id>
+                      <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                      <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>127.8 kb</size>
+                      <date>2011-04-08 15:43:53</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>8363</id>
+                  <type id="151">Entity</type>
+                  <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2011-04-08 15:43:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>85254</id>
+              <type id="52">Record relationship</type>
+              <title>(54530 hasSubject 6192)</title>
+              <added>2012-11-13 13:45:29</added>
+              <modified>2012-11-13 13:45:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>54530</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+                  <added>2011-04-08 15:43:53</added>
+                  <modified>2011-05-20 23:32:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2011-04-08</raw>
+                    <year>2011</year>
+                    <month>4</month>
+                    <day>8</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4755</id>
+                      <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                      <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>127.8 kb</size>
+                      <date>2011-04-08 15:43:53</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6192</id>
+                  <type id="152">Term</type>
+                  <title>Religious building</title>
+                  <added>2009-05-25 14:56:54</added>
+                  <modified>2009-05-25 14:56:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+            <record>
+              <id>85255</id>
+              <type id="52">Record relationship</type>
+              <title>(54530 hasSubject 6126)</title>
+              <added>2012-11-13 13:45:56</added>
+              <modified>2012-11-13 13:45:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>54530</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+                  <added>2011-04-08 15:43:53</added>
+                  <modified>2011-05-20 23:32:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2011-04-08</raw>
+                    <year>2011</year>
+                    <month>4</month>
+                    <day>8</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4755</id>
+                      <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                      <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>127.8 kb</size>
+                      <date>2011-04-08 15:43:53</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6126</id>
+                  <type id="152">Term</type>
+                  <title>Orthodox</title>
+                  <added>2009-05-25 14:56:46</added>
+                  <modified>2009-05-25 14:56:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Orthodox</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>28375</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Greek Orthodox church of St Stephanos Hurlstone Park</title>
+          <added>2009-10-08 13:53:35</added>
+          <modified>2009-10-08 13:53:35</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8363</id>
+              <type id="151">Entity</type>
+              <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-04-08 15:43:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>384</id>
+              <type id="98">XML Document</type>
+              <title>Hurlstone Park</title>
+              <added>2008-10-22 13:12:08</added>
+              <modified>2012-05-23 10:42:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1246</id>
+                  <nonce>47462075f1a4ee00e6528637f9a6a20c18f14f1b</nonce>
+                  <origName>Hurlstone Park.xml</origName>
+                  <type>application/xml</type>
+                  <size>48.4 kb</size>
+                  <date>2009-04-23 10:59:41</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Hurlstone+Park.xml?file_id=47462075f1a4ee00e6528637f9a6a20c18f14f1b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=47462075f1a4ee00e6528637f9a6a20c18f14f1b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Hurlstone Park</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Originally comprising small farm blocks subdivided by Sophia Campbell, Hurlstone Park was to see a building boom with the development of both rail and tram lines through the area around the beginning of the twentieth century.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1517</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">75</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">76098</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">81</detail>
+          <detail id="330" type="End Word" name="End Word">85</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8364</id>
+          <type id="150">Factoid</type>
+          <title>Greek Orthodox church of St Stephanos Hurlstone Park, Type, Place of worship</title>
+          <added>2009-06-10 15:58:48</added>
+          <modified>2009-06-10 15:58:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8363</id>
+              <type id="151">Entity</type>
+              <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-04-08 15:43:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8365</id>
+          <type id="150">Factoid</type>
+          <title>Greek Orthodox church of St Stephanos Hurlstone Park, Name, Alternate</title>
+          <added>2009-06-10 15:58:48</added>
+          <modified>2009-06-10 15:58:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8363</id>
+              <type id="151">Entity</type>
+              <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-04-08 15:43:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">St Stephen's Anglican church Hurlstone Park</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51433</id>
+          <type id="150">Factoid</type>
+          <title>Greek Orthodox church of St Stephanos Hurlstone Park, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:45:16</added>
+          <modified>2011-02-16 16:03:20</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8363</id>
+              <type id="151">Entity</type>
+              <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-04-08 15:43:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.13074027962 -33.905251305301)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>54531</id>
+          <type id="52">Record relationship</type>
+          <title>(54530 isOf 8363)</title>
+          <added>2011-04-08 15:43:56</added>
+          <modified>2011-04-08 15:43:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>54530</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+              <added>2011-04-08 15:43:53</added>
+              <modified>2011-05-20 23:32:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-04-08</raw>
+                <year>2011</year>
+                <month>4</month>
+                <day>8</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+              <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>2009</raw>
+                <year>2009</year>
+              </detail>
+              <detail id="178" type="End Date" name="dc.coverage.finish">
+                <raw>2009</raw>
+                <year>2009</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4768</id>
+                  <type id="153">Contributor</type>
+                  <title>Wikimedia Commons</title>
+                  <added>2009-03-24 10:55:14</added>
+                  <modified>2009-03-24 10:55:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Wikimedia Commons</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://commons.wikimedia.org/wiki/Main_Page</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4755</id>
+                  <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                  <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>127.8 kb</size>
+                  <date>2011-04-08 15:43:53</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>8363</id>
+                  <type id="151">Entity</type>
+                  <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2011-04-08 15:43:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54531</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54530 isOf 8363)</title>
+                  <added>2011-04-08 15:43:56</added>
+                  <modified>2011-04-08 15:43:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54530</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+                      <added>2011-04-08 15:43:53</added>
+                      <modified>2011-05-20 23:32:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4755</id>
+                          <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                          <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>127.8 kb</size>
+                          <date>2011-04-08 15:43:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8363</id>
+                      <type id="151">Entity</type>
+                      <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-04-08 15:43:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>85254</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54530 hasSubject 6192)</title>
+                  <added>2012-11-13 13:45:29</added>
+                  <modified>2012-11-13 13:45:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54530</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+                      <added>2011-04-08 15:43:53</added>
+                      <modified>2011-05-20 23:32:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4755</id>
+                          <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                          <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>127.8 kb</size>
+                          <date>2011-04-08 15:43:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6192</id>
+                      <type id="152">Term</type>
+                      <title>Religious building</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Religious building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>85255</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54530 hasSubject 6126)</title>
+                  <added>2012-11-13 13:45:56</added>
+                  <modified>2012-11-13 13:45:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54530</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+                      <added>2011-04-08 15:43:53</added>
+                      <modified>2011-05-20 23:32:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4755</id>
+                          <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                          <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>127.8 kb</size>
+                          <date>2011-04-08 15:43:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6126</id>
+                      <type id="152">Term</type>
+                      <title>Orthodox</title>
+                      <added>2009-05-25 14:56:46</added>
+                      <modified>2009-05-25 14:56:46</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Orthodox</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8363</id>
+              <type id="151">Entity</type>
+              <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-04-08 15:43:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>54530</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+                  <added>2011-04-08 15:43:53</added>
+                  <modified>2011-05-20 23:32:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2011-04-08</raw>
+                    <year>2011</year>
+                    <month>4</month>
+                    <day>8</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>2009</raw>
+                    <year>2009</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>4755</id>
+                      <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                      <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>127.8 kb</size>
+                      <date>2011-04-08 15:43:53</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>28375</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Greek Orthodox church of St Stephanos Hurlstone Park</title>
+                  <added>2009-10-08 13:53:35</added>
+                  <modified>2009-10-08 13:53:35</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+                  <detail id="199" type="Resource" name="target">8363</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">384</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">81</detail>
+                  <detail id="330" type="End Word" name="End Word">85</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8364</id>
+                  <type id="150">Factoid</type>
+                  <title>Greek Orthodox church of St Stephanos Hurlstone Park, Type, Place of worship</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8363</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7035</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8365</id>
+                  <type id="150">Factoid</type>
+                  <title>Greek Orthodox church of St Stephanos Hurlstone Park, Name, Alternate</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8363</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">St Stephen's Anglican church Hurlstone Park</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51433</id>
+                  <type id="150">Factoid</type>
+                  <title>Greek Orthodox church of St Stephanos Hurlstone Park, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:45:16</added>
+                  <modified>2011-02-16 16:03:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8363</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.13074027962 -33.905251305301)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54531</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54530 isOf 8363)</title>
+                  <added>2011-04-08 15:43:56</added>
+                  <modified>2011-04-08 15:43:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54530</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>St Stephanos Greek Orthodox church, Hurlstone Park</title>
+                      <added>2011-04-08 15:43:53</added>
+                      <modified>2011-05-20 23:32:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">St Stephanos Greek Orthodox church, Hurlstone Park</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Hudson, Toby</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>2009</raw>
+                        <year>2009</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="590" type="Licence" name="dc.rights" ontology="basic">CC-SA</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4768</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12172\nP-DoS Notes: DEFAULT IMG - dc.source: http://en.wikipedia.org/wiki/File:StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4755</id>
+                          <nonce>e398ae7355c7c5a4e14affec93c5495f00796b7b</nonce>
+                          <origName>800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>127.8 kb</size>
+                          <date>2011-04-08 15:43:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/800px-StStephanos_GreekOrthodoxChurch_HurlstonePark.jpg?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e398ae7355c7c5a4e14affec93c5495f00796b7b</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8363</id>
+                      <type id="151">Entity</type>
+                      <title>Greek Orthodox church of St Stephanos Hurlstone Park (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-04-08 15:43:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Greek Orthodox church of St Stephanos Hurlstone Park</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Greek Orthodox church in Hurlstone Park.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| St Stephen's Anglican church Hurlstone Park |</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">54530</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

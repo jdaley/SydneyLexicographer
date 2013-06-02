@@ -1,0 +1,2621 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8352" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:38:02+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8352</id>
+      <type id="151">Entity</type>
+      <title>Granville railway station (Building)</title>
+      <added>2009-06-10 15:58:48</added>
+      <modified>2011-02-23 14:54:48</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>33794</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Granville railway station</title>
+          <added>2009-11-03 14:35:34</added>
+          <modified>2009-11-03 14:35:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8352</id>
+              <type id="151">Entity</type>
+              <title>Granville railway station (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-23 14:54:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>281</id>
+              <type id="98">XML Document</type>
+              <title>Croydon</title>
+              <added>2008-10-22 13:11:52</added>
+              <modified>2009-10-16 15:00:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>553</id>
+                  <nonce>da5d7ad8c7d0663c67b8a4b5ebd8875d0928e0c4</nonce>
+                  <origName>Croydon.xml</origName>
+                  <type>application/xml</type>
+                  <size>84.9 kb</size>
+                  <date>2009-02-23 11:05:56</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Croydon.xml?file_id=da5d7ad8c7d0663c67b8a4b5ebd8875d0928e0c4</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=da5d7ad8c7d0663c67b8a4b5ebd8875d0928e0c4</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Croydon</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built on Wangal clan land, the Longbottom Government Farm covered most of what is now Croydon by 1821. Other settlers followed the construction of Parramatta and Liverpool roads, but the railway station brought real development from 1875, and subdivision led to suburban development and a village. Brickworks used the clay and shale until their closure in the 1970s.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2308</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">56</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">18</detail>
+          <detail id="330" type="End Word" name="End Word">19</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>49440</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Granville railway station</title>
+          <added>2011-01-13 15:19:54</added>
+          <modified>2011-01-13 15:19:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8352</id>
+              <type id="151">Entity</type>
+              <title>Granville railway station (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-23 14:54:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>48411</id>
+              <type id="98">XML Document</type>
+              <title>The road west</title>
+              <added>2010-12-15 11:56:38</added>
+              <modified>2010-12-15 11:56:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4376</id>
+                  <nonce>aab7fa7c049676ddfe5ff533ea55243992ee063d</nonce>
+                  <origName>The road west.xml</origName>
+                  <type>application/xml</type>
+                  <size>43.9 kb</size>
+                  <date>2010-12-15 11:54:48</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/The+road+west.xml?file_id=aab7fa7c049676ddfe5ff533ea55243992ee063d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=aab7fa7c049676ddfe5ff533ea55243992ee063d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">The road west</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The first road out of Sydney town led to the farming settlement at Parramatta, and this western gateway to the city retained its importance as the suburbs spread west towards the Blue Mountains.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-12-15</raw>
+                <year>2010</year>
+                <month>12</month>
+                <day>15</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2907</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">97</detail>
+          <detail id="330" type="End Word" name="End Word">98</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8353</id>
+          <type id="150">Factoid</type>
+          <title>Granville railway station, Type, Railway station</title>
+          <added>2009-06-10 15:58:48</added>
+          <modified>2009-06-10 15:58:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8352</id>
+              <type id="151">Entity</type>
+              <title>Granville railway station (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-23 14:54:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7059</id>
+              <type id="91">Role</type>
+              <title>Railway station</title>
+              <added>2009-06-10 15:56:24</added>
+              <modified>2009-06-10 15:56:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Railway station</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8354</id>
+          <type id="150">Factoid</type>
+          <title>Granville railway station, Name, Alternate</title>
+          <added>2009-06-10 15:58:48</added>
+          <modified>2009-06-10 15:58:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8352</id>
+              <type id="151">Entity</type>
+              <title>Granville railway station (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-23 14:54:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Parramatta Junction</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51664</id>
+          <type id="150">Factoid</type>
+          <title>Granville railway station, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:52</added>
+          <modified>2011-02-16 16:03:20</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8352</id>
+              <type id="151">Entity</type>
+              <title>Granville railway station (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-23 14:54:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.01267817567 -33.833139121293)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>54081</id>
+          <type id="52">Record relationship</type>
+          <title>(54080 isOf 8352)</title>
+          <added>2011-04-08 15:43:24</added>
+          <modified>2011-04-08 15:43:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>54080</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Granville rail disaster 18 January 1977</title>
+              <added>2011-04-08 15:43:24</added>
+              <modified>2012-11-23 11:35:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4574</id>
+                  <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                  <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>212.1 kb</size>
+                  <date>2011-04-08 15:43:24</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-04-08</raw>
+                <year>2011</year>
+                <month>4</month>
+                <day>8</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1977</raw>
+                <year>1977</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>48432</id>
+                  <type id="153">Contributor</type>
+                  <title>Blue Mountains City Library</title>
+                  <added>2010-12-15 16:48:52</added>
+                  <modified>2010-12-15 16:48:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Blue Mountains City Library</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.bmcc.nsw.gov.au/yourcommunity/library</detail>
+                </record>
+              </detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>85831</id>
+                  <type id="151">Entity</type>
+                  <title>Granville rail disaster (Event)</title>
+                  <added>2012-11-23 11:26:59</added>
+                  <modified>2012-11-23 11:26:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville rail disaster</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Event</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Accident that occurred on 18 January 1877 when a crowded morning train travelling from the Blue Mountains to Central derailed and ran into the supports of an overhead road bridge at Granville. 83 people were killed and 210 injured.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">54080</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54081</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54082</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 isOf 16232)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>16232</id>
+                      <type id="151">Entity</type>
+                      <title>Granville (Place)</title>
+                      <added>2009-06-10 16:07:25</added>
+                      <modified>2010-12-08 09:47:44</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Suburb in Sydney's west which grew rapidly following the construction of the rail link from Sydney to Parramatta, thanks to its road, rail and water access.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Parramatta</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>81818</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 hasSubject 5845)</title>
+                  <added>2012-09-11 12:13:10</added>
+                  <modified>2012-09-11 12:13:10</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5845</id>
+                      <type id="152">Term</type>
+                      <title>Bridges</title>
+                      <added>2009-05-25 14:56:14</added>
+                      <modified>2009-05-25 14:56:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Bridges</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81819</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 hasSubject 6185)</title>
+                  <added>2012-09-11 12:13:31</added>
+                  <modified>2012-09-11 12:13:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6185</id>
+                      <type id="152">Term</type>
+                      <title>Railways</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Railways</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81820</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 hasSubject 6282)</title>
+                  <added>2012-09-11 12:13:53</added>
+                  <modified>2012-09-11 12:13:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6282</id>
+                      <type id="152">Term</type>
+                      <title>Trains</title>
+                      <added>2009-05-25 14:57:05</added>
+                      <modified>2009-05-25 14:57:05</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Trains</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>85837</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 isOf 85831)</title>
+                  <added>2012-11-23 11:36:16</added>
+                  <modified>2012-11-23 11:36:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>85831</id>
+                      <type id="151">Entity</type>
+                      <title>Granville rail disaster (Event)</title>
+                      <added>2012-11-23 11:26:59</added>
+                      <modified>2012-11-23 11:26:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Event</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Accident that occurred on 18 January 1877 when a crowded morning train travelling from the Blue Mountains to Central derailed and ran into the supports of an overhead road bridge at Granville. 83 people were killed and 210 injured.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">54080</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>88897</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 hasSubject 88627)</title>
+                  <added>2013-02-01 08:54:42</added>
+                  <modified>2013-02-01 08:54:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>88627</id>
+                      <type id="152">Term</type>
+                      <title>Accidents and disasters</title>
+                      <added>2013-01-25 11:17:03</added>
+                      <modified>2013-01-25 11:18:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Accidents and disasters</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8352</id>
+              <type id="151">Entity</type>
+              <title>Granville railway station (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-23 14:54:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>33794</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Granville railway station</title>
+                  <added>2009-11-03 14:35:34</added>
+                  <modified>2009-11-03 14:35:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="199" type="Resource" name="target">8352</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">281</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">18</detail>
+                  <detail id="330" type="End Word" name="End Word">19</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>49440</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Granville railway station</title>
+                  <added>2011-01-13 15:19:54</added>
+                  <modified>2011-01-13 15:19:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="199" type="Resource" name="target">8352</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">48411</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">97</detail>
+                  <detail id="330" type="End Word" name="End Word">98</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8353</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, Type, Railway station</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7059</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8354</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, Name, Alternate</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Parramatta Junction</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51664</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:50:52</added>
+                  <modified>2011-02-16 16:03:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.01267817567 -33.833139121293)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54081</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54084</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54087</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+        <record>
+          <id>54084</id>
+          <type id="52">Record relationship</type>
+          <title>(54083 isOf 8352)</title>
+          <added>2011-04-08 15:43:24</added>
+          <modified>2011-04-08 15:43:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>54083</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Granville rail disaster 18 January 1977</title>
+              <added>2011-04-08 15:43:24</added>
+              <modified>2012-11-23 11:35:41</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4575</id>
+                  <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                  <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>274.8 kb</size>
+                  <date>2011-04-08 15:43:24</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-04-08</raw>
+                <year>2011</year>
+                <month>4</month>
+                <day>8</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1977</raw>
+                <year>1977</year>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>48432</id>
+                  <type id="153">Contributor</type>
+                  <title>Blue Mountains City Library</title>
+                  <added>2010-12-15 16:48:52</added>
+                  <modified>2010-12-15 16:48:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Blue Mountains City Library</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.bmcc.nsw.gov.au/yourcommunity/library</detail>
+                </record>
+              </detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+              <relationships>
+                <record>
+                  <id>54084</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54085</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 isOf 16232)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>16232</id>
+                      <type id="151">Entity</type>
+                      <title>Granville (Place)</title>
+                      <added>2009-06-10 16:07:25</added>
+                      <modified>2010-12-08 09:47:44</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Suburb in Sydney's west which grew rapidly following the construction of the rail link from Sydney to Parramatta, thanks to its road, rail and water access.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Parramatta</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>81821</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 hasSubject 5845)</title>
+                  <added>2012-09-11 12:14:49</added>
+                  <modified>2012-09-11 12:14:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5845</id>
+                      <type id="152">Term</type>
+                      <title>Bridges</title>
+                      <added>2009-05-25 14:56:14</added>
+                      <modified>2009-05-25 14:56:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Bridges</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81822</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 hasSubject 6185)</title>
+                  <added>2012-09-11 12:15:08</added>
+                  <modified>2012-09-11 12:15:08</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6185</id>
+                      <type id="152">Term</type>
+                      <title>Railways</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Railways</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81823</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 hasSubject 6282)</title>
+                  <added>2012-09-11 12:15:26</added>
+                  <modified>2012-09-11 12:15:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6282</id>
+                      <type id="152">Term</type>
+                      <title>Trains</title>
+                      <added>2009-05-25 14:57:05</added>
+                      <modified>2009-05-25 14:57:05</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Trains</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>85836</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 isOf 85831)</title>
+                  <added>2012-11-23 11:35:20</added>
+                  <modified>2012-11-23 11:35:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>85831</id>
+                      <type id="151">Entity</type>
+                      <title>Granville rail disaster (Event)</title>
+                      <added>2012-11-23 11:26:59</added>
+                      <modified>2012-11-23 11:26:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Event</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Accident that occurred on 18 January 1877 when a crowded morning train travelling from the Blue Mountains to Central derailed and ran into the supports of an overhead road bridge at Granville. 83 people were killed and 210 injured.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">54080</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>88898</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 hasSubject 88627)</title>
+                  <added>2013-02-01 08:55:26</added>
+                  <modified>2013-02-01 08:55:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>88627</id>
+                      <type id="152">Term</type>
+                      <title>Accidents and disasters</title>
+                      <added>2013-01-25 11:17:03</added>
+                      <modified>2013-01-25 11:18:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Accidents and disasters</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8352</id>
+              <type id="151">Entity</type>
+              <title>Granville railway station (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-23 14:54:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>33794</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Granville railway station</title>
+                  <added>2009-11-03 14:35:34</added>
+                  <modified>2009-11-03 14:35:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="199" type="Resource" name="target">8352</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">281</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">18</detail>
+                  <detail id="330" type="End Word" name="End Word">19</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>49440</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Granville railway station</title>
+                  <added>2011-01-13 15:19:54</added>
+                  <modified>2011-01-13 15:19:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="199" type="Resource" name="target">8352</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">48411</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">97</detail>
+                  <detail id="330" type="End Word" name="End Word">98</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8353</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, Type, Railway station</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7059</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8354</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, Name, Alternate</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Parramatta Junction</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51664</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:50:52</added>
+                  <modified>2011-02-16 16:03:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.01267817567 -33.833139121293)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54081</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54084</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54087</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+        <record>
+          <id>54087</id>
+          <type id="52">Record relationship</type>
+          <title>(54086 isOf 8352)</title>
+          <added>2011-04-08 15:43:24</added>
+          <modified>2011-04-08 15:43:24</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>54086</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Granville rail disaster 18 January 1977</title>
+              <added>2011-04-08 15:43:24</added>
+              <modified>2011-05-20 23:32:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-04-08</raw>
+                <year>2011</year>
+                <month>4</month>
+                <day>8</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1977</raw>
+                <year>1977</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>48432</id>
+                  <type id="153">Contributor</type>
+                  <title>Blue Mountains City Library</title>
+                  <added>2010-12-15 16:48:52</added>
+                  <modified>2010-12-15 16:48:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Blue Mountains City Library</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.bmcc.nsw.gov.au/yourcommunity/library</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4576</id>
+                  <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                  <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>627.6 kb</size>
+                  <date>2011-04-08 15:43:24</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                </file>
+              </detail>
+              <relationships>
+                <record>
+                  <id>54087</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54088</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 isOf 16232)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>16232</id>
+                      <type id="151">Entity</type>
+                      <title>Granville (Place)</title>
+                      <added>2009-06-10 16:07:25</added>
+                      <modified>2010-12-08 09:47:44</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Suburb in Sydney's west which grew rapidly following the construction of the rail link from Sydney to Parramatta, thanks to its road, rail and water access.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Parramatta</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>81815</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 hasSubject 5845)</title>
+                  <added>2012-09-11 12:11:37</added>
+                  <modified>2012-09-11 12:11:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5845</id>
+                      <type id="152">Term</type>
+                      <title>Bridges</title>
+                      <added>2009-05-25 14:56:14</added>
+                      <modified>2009-05-25 14:56:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Bridges</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81816</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 hasSubject 6282)</title>
+                  <added>2012-09-11 12:11:55</added>
+                  <modified>2012-09-11 12:11:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6282</id>
+                      <type id="152">Term</type>
+                      <title>Trains</title>
+                      <added>2009-05-25 14:57:05</added>
+                      <modified>2009-05-25 14:57:05</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Trains</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81817</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 hasSubject 6185)</title>
+                  <added>2012-09-11 12:12:25</added>
+                  <modified>2012-09-11 12:12:25</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6185</id>
+                      <type id="152">Term</type>
+                      <title>Railways</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Railways</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>85834</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 isOf 85831)</title>
+                  <added>2012-11-23 11:33:23</added>
+                  <modified>2012-11-23 11:33:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>85831</id>
+                      <type id="151">Entity</type>
+                      <title>Granville rail disaster (Event)</title>
+                      <added>2012-11-23 11:26:59</added>
+                      <modified>2012-11-23 11:26:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Event</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Accident that occurred on 18 January 1877 when a crowded morning train travelling from the Blue Mountains to Central derailed and ran into the supports of an overhead road bridge at Granville. 83 people were killed and 210 injured.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">54080</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>88899</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 hasSubject 88627)</title>
+                  <added>2013-02-01 08:56:29</added>
+                  <modified>2013-02-01 08:56:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>88627</id>
+                      <type id="152">Term</type>
+                      <title>Accidents and disasters</title>
+                      <added>2013-01-25 11:17:03</added>
+                      <modified>2013-01-25 11:18:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Accidents and disasters</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8352</id>
+              <type id="151">Entity</type>
+              <title>Granville railway station (Building)</title>
+              <added>2009-06-10 15:58:48</added>
+              <modified>2011-02-23 14:54:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>33794</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Granville railway station</title>
+                  <added>2009-11-03 14:35:34</added>
+                  <modified>2009-11-03 14:35:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="199" type="Resource" name="target">8352</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">281</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">18</detail>
+                  <detail id="330" type="End Word" name="End Word">19</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>49440</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Granville railway station</title>
+                  <added>2011-01-13 15:19:54</added>
+                  <modified>2011-01-13 15:19:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="199" type="Resource" name="target">8352</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">48411</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">97</detail>
+                  <detail id="330" type="End Word" name="End Word">98</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8353</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, Type, Railway station</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7059</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8354</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, Name, Alternate</title>
+                  <added>2009-06-10 15:58:48</added>
+                  <modified>2009-06-10 15:58:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6885</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Parramatta Junction</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51664</id>
+                  <type id="150">Factoid</type>
+                  <title>Granville railway station, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:50:52</added>
+                  <modified>2011-02-16 16:03:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8352</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.01267817567 -33.833139121293)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54081</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54080 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54080</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:59</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4574</id>
+                          <nonce>46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</nonce>
+                          <origName>Flickr_4136926669_b5bf1f873b_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>212.1 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136926669_b5bf1f873b_b.jpg?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=46ed6d76ca9ae681547e4b2d04ce8e60a6ecf85c</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472B</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12995\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669 - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136926669</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54084</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54083 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54083</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2012-11-23 11:35:41</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4575</id>
+                          <nonce>a95ec94e30a9e245454470a99cbf5d68e749656a</nonce>
+                          <origName>Flickr_4136918067_f0fef8084c_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>274.8 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136918067_f0fef8084c_b.jpg?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a95ec94e30a9e245454470a99cbf5d68e749656a</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472A</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12996\nP-DoS Notes: Granville rail disaster - dc.source: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136918067/</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>54087</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54086 isOf 8352)</title>
+                  <added>2011-04-08 15:43:24</added>
+                  <modified>2011-04-08 15:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54086</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Granville rail disaster 18 January 1977</title>
+                      <added>2011-04-08 15:43:24</added>
+                      <modified>2011-05-20 23:32:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Granville rail disaster 18 January 1977</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1977</raw>
+                        <year>1977</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">001\001472C</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">48432</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12921\nP-DoS Notes: http://www.flickr.com/photos/blue_mountains_library_-_local_studies/4136931843         Bold Street bridge collapse after being hit by the Blue Mountains commuter train. Accident time 8.06 am. - dc.source: http://www.flickr.com/ph</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4576</id>
+                          <nonce>77d674a46c014c161489fbef9d28fe96759570da</nonce>
+                          <origName>Flickr_4136931843_fb36d7b220_b.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>627.6 kb</size>
+                          <date>2011-04-08 15:43:24</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Flickr_4136931843_fb36d7b220_b.jpg?file_id=77d674a46c014c161489fbef9d28fe96759570da</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=77d674a46c014c161489fbef9d28fe96759570da</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8352</id>
+                      <type id="151">Entity</type>
+                      <title>Granville railway station (Building)</title>
+                      <added>2009-06-10 15:58:48</added>
+                      <modified>2011-02-23 14:54:48</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station originally known as Parramatta Junction, which was the final stop of the first railway, opened in 1855. Renamed Granville in 1880, the station was the site of the Granville railway disaster in 1977, when 83 people died after a train derailed and hit the Bold Street overpass.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Parramatta Junction |</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

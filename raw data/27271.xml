@@ -1,0 +1,2109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:27271" w="a" depth="2" />
+  <dateStamp>2013-02-16T22:46:37+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>27271</id>
+      <type id="151">Entity</type>
+      <title>Rooty Hill School of Arts hall (Building)</title>
+      <added>2009-10-01 11:41:10</added>
+      <modified>2009-10-01 11:41:10</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Rooty Hill School of Arts hall</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Community hall where the first Blacktown Council meeting was held in 1906, and still in use as a polling place.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">32 Rooty Hill South, Rooty Hill
+Still used as a polling place, built 1902, first Blacktown Council meeting held there 1906</detail>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>27460</id>
+          <type id="150">Factoid</type>
+          <title>Rooty Hill School of Arts hall, Milestone, Constructed</title>
+          <added>2009-10-01 12:42:23</added>
+          <modified>2009-10-01 12:42:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>27271</id>
+              <type id="151">Entity</type>
+              <title>Rooty Hill School of Arts hall (Building)</title>
+              <added>2009-10-01 11:41:10</added>
+              <modified>2009-10-01 11:41:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rooty Hill School of Arts hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall where the first Blacktown Council meeting was held in 1906, and still in use as a polling place.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">32 Rooty Hill South, Rooty Hill
+Still used as a polling place, built 1902, first Blacktown Council meeting held there 1906</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1902</raw>
+            <year>1902</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1902</raw>
+            <year>1902</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>27461</id>
+          <type id="150">Factoid</type>
+          <title>Rooty Hill School of Arts hall, TimePlace</title>
+          <added>2009-10-01 12:42:36</added>
+          <modified>2009-10-06 08:04:28</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>27271</id>
+              <type id="151">Entity</type>
+              <title>Rooty Hill School of Arts hall (Building)</title>
+              <added>2009-10-01 11:41:10</added>
+              <modified>2009-10-01 11:41:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rooty Hill School of Arts hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall where the first Blacktown Council meeting was held in 1906, and still in use as a polling place.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">32 Rooty Hill South, Rooty Hill
+Still used as a polling place, built 1902, first Blacktown Council meeting held there 1906</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1902</raw>
+            <year>1902</year>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(150.84492382406 -33.773395242477)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>27462</id>
+          <type id="150">Factoid</type>
+          <title>Rooty Hill School of Arts hall, Type, School of Arts Hall</title>
+          <added>2009-10-01 12:42:56</added>
+          <modified>2009-10-01 12:42:56</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>27271</id>
+              <type id="151">Entity</type>
+              <title>Rooty Hill School of Arts hall (Building)</title>
+              <added>2009-10-01 11:41:10</added>
+              <modified>2009-10-01 11:41:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rooty Hill School of Arts hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall where the first Blacktown Council meeting was held in 1906, and still in use as a polling place.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">32 Rooty Hill South, Rooty Hill
+Still used as a polling place, built 1902, first Blacktown Council meeting held there 1906</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>27190</id>
+              <type id="91">Role</type>
+              <title>School of Arts hall</title>
+              <added>2009-10-01 11:07:27</added>
+              <modified>2012-05-30 11:15:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">School of Arts hall</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Use with Buildings</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>27651</id>
+          <type id="52">Record relationship</type>
+          <title>Relationship (27564 IsRelatedTo 27271)</title>
+          <added>2009-10-06 08:43:34</added>
+          <modified>2009-10-06 08:43:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Relationship</detail>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>27564</id>
+              <type id="103">Map</type>
+              <title>Schools of Arts buildings</title>
+              <added>2009-10-01 13:28:58</added>
+              <modified>2012-08-08 09:29:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="491" type="Depth">7</detail>
+              <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+              <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+              <detail id="230" type="Geographic object" name="Focus area">
+                <geo>
+                  <type>bounds</type>
+                  <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                </geo>
+              </detail>
+              <relationships>
+                <record>
+                  <id>27601</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27192)</title>
+                  <added>2009-10-01 14:05:20</added>
+                  <modified>2009-10-01 14:05:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27192</id>
+                      <type id="151">Entity</type>
+                      <title>Arcadia School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:14:56</added>
+                      <modified>2009-10-01 11:14:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Arcadia School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall that was the School of Arts from 1932 until the trustees gave it to Hornsby Council in 1981.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">136 Arcadia Road, Arcadia</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27602</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27196)</title>
+                  <added>2009-10-01 14:05:41</added>
+                  <modified>2009-10-01 14:05:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27196</id>
+                      <type id="151">Entity</type>
+                      <title>Arncliffe School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:16:04</added>
+                      <modified>2009-10-01 11:16:04</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Arncliffe School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall run for many years by the School of Arts, and later by Rockdale Council.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">23 Barden St (corner Stanley St), Arncliffe
+Still called Arncliffe School of Arts, SMH, 21 May 1953, venue for Coronation Ball, 11 May 1951 change of ownership gazetted: School's trustees handed it over to the Rockdale Municipal Council. Council renovated and reopened it as the Coronation and Elizabeth Halls. Today still operated by Council  as a community centre</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27618</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27198)</title>
+                  <added>2009-10-01 15:08:47</added>
+                  <modified>2009-10-01 15:08:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27198</id>
+                      <type id="151">Entity</type>
+                      <title>Ashfield School of Arts hall Holden Street (Building)</title>
+                      <added>2009-10-01 11:16:31</added>
+                      <modified>2009-10-01 11:16:31</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Ashfield School of Arts hall Holden Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Hall built as the School of Arts, but used as Ashfield Hall after the School failed to make loan payments, and later owned by the Baptist Church until demolition in 1936.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Cnr Holden Street and Liverpool Road
+First Ashfield School of Arts cnr Holden St and Liverpool Road, built 1888, Trustees could not make payments, building operated as Ashfield Hall till 1905, when purchased by the Baptist Church. Demolished in 1936</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27619</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27209)</title>
+                  <added>2009-10-06 08:32:25</added>
+                  <modified>2009-10-06 08:32:25</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27209</id>
+                      <type id="151">Entity</type>
+                      <title>Blacktown School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:19:28</added>
+                      <modified>2009-10-01 11:19:28</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Blacktown School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built on land donated by Charlotte Augusta Bowman, and licensed for public entertainment in 1910. It served the community as the School of Arts until Blacktown Council took over in 1960, when the building was demolished.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">75 Main Street, Blacktown
+Land donated 1900 by Charlotte Augusta Bowman of Muswellbrook. Her family the Pearces were prominent in local affairs. Weatherboard bldg, iron roof, hall with stage, capacity for 400 seated people, but as many as 1000 turned out for popular events, floor 'specially adapted for dancing purposes', club room / amusement room, large room underneath, offices, porch in front. Hall officially licensed for entertainment on 22 Feb 1910 - this meant it could admit members of public, hold public entertainments eg concerts and film screenings. Blacktown Council took ownership of hall 1960, it was demolished  in August 1960.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27620</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27246)</title>
+                  <added>2009-10-06 08:37:03</added>
+                  <modified>2009-10-06 08:37:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27246</id>
+                      <type id="151">Entity</type>
+                      <title>Leichhardt School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:33:09</added>
+                      <modified>2009-10-01 11:33:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Leichhardt School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall, originally called Leichhardt Workingmen’s Institute, which housed a library and reading room, card room and six-table billiard room.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">1A Marion St Leichhardt
+Report in 1921 says Institute had a library, reading room, card room and a six-table billiard room. In 1912 had 215 members and a library of 2300 books.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27621</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27199)</title>
+                  <added>2009-10-06 08:37:39</added>
+                  <modified>2009-10-06 08:37:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27199</id>
+                      <type id="151">Entity</type>
+                      <title>Ashfield School of Arts hall Liverpool Road (Building)</title>
+                      <added>2009-10-01 11:17:09</added>
+                      <modified>2009-10-01 11:17:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Ashfield School of Arts hall Liverpool Road</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The second Ashfield School of Arts hall, later given to the Exodus Foundation for an education centre.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">162 Liverpool Road Ashfield
+Second Ashfield School of Arts built 1913 at 162 Liverpool Road Ashfield. Building given to Exodus Foundation 2006, reopened after renovations 2009</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27622</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27203)</title>
+                  <added>2009-10-06 08:37:55</added>
+                  <modified>2009-10-06 08:37:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27203</id>
+                      <type id="151">Entity</type>
+                      <title>Balmain School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:18:09</added>
+                      <modified>2010-07-26 15:10:24</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Balmain School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall run by the Workingmen's Institute or School of Arts and completed in 1896, it included a 400-seat auditorium, a reading room and large lending library, a six-table billiard room and numerous smoking, card, meetings and class rooms.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">332 Darling St Balmain
+Own building commenced 1887, completed 1896. Consisted of a 400-seat auditorium, a reading room and large lending library, a six-table billiard room, numerous smoking, card, meetings and class rooms.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27623</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27207)</title>
+                  <added>2009-10-06 08:38:06</added>
+                  <modified>2009-10-06 08:38:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27207</id>
+                      <type id="151">Entity</type>
+                      <title>Bexley School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:19:02</added>
+                      <modified>2009-10-01 11:19:02</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Bexley School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall opened in November 1924, designed in the bungalow style of neighbouring houses, which is heritage listed and still in use as a School of Arts.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">476 Forest Road Bexley
+Nov 1924, building officially opened by T.J. Ley, the local MLA and then NSW Minister for Justice, later convicted of murder. Brick and tile building designed in the bungalow style of the neighbouring houses. 4 rooms in all; large hall operated for a long time as a Billiard Room. Still has painted directory boards listing the names and dates of bodies that have regularly used the premises for their meetings. Heritage listed, restored 1986? Under National estate grants program.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27624</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27211)</title>
+                  <added>2009-10-06 08:38:18</added>
+                  <modified>2009-10-06 08:38:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27211</id>
+                      <type id="151">Entity</type>
+                      <title>Bondi-Waverley School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:19:51</added>
+                      <modified>2012-03-29 12:46:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Bondi-Waverley School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built with a strong Classical influence between 1890 and 1915 and still in community use.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">138 Bondi Road, Bondi
+Heritage Branch http://www.heritage.nsw.gov.au/07_subnav_01_2.cfm?itemid=2620060 gives construction years 1890-1915. Notes earlier Waverley School of Arts operating in the 1850s.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27625</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27212)</title>
+                  <added>2009-10-06 08:38:45</added>
+                  <modified>2009-10-06 08:38:45</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27212</id>
+                      <type id="151">Entity</type>
+                      <title>Botany School of Arts-Literary Institute (Building)</title>
+                      <added>2009-10-01 11:20:47</added>
+                      <modified>2009-10-01 11:20:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Botany School of Arts-Literary Institute</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built by the School of Arts in 1867 and used by Botany Council for its first meeting in 1888. It was leased to Botany Council in 1959 and became the John Brotchie Memorial Nursery School.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">1361 Botany Road Botany
+Building leased to council for Nursery School 1959, John Brotchie Memorial Nursery School since 1959</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27626</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27214)</title>
+                  <added>2009-10-06 08:39:01</added>
+                  <modified>2009-10-06 08:39:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27214</id>
+                      <type id="151">Entity</type>
+                      <title>Burwood School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:21:15</added>
+                      <modified>2011-02-04 12:33:30</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Burwood School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built in 1879 on land donated by Thomas Walker of Yaralla, and extended in 1885. Purchased in 1936 by the Department of Education.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">5 Conder Street, Burwood
+The School of Arts was built in 1879 and was used as a cultural centre. The land was donated by Thomas Walker of Yarralla and the building was designed by J.B. Elphinstone. In 1885 extensions were designed by David Ross and were built. This building served many fucntionas, early council meetings, religious services, reading room, games room, musical soceity performations, dances and public functions. In 1936 the Department of education purchased the building.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27627</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27216)</title>
+                  <added>2009-10-06 08:39:13</added>
+                  <modified>2009-10-06 08:39:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27216</id>
+                      <type id="151">Entity</type>
+                      <title>Camden School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:21:38</added>
+                      <modified>2009-10-01 11:21:38</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Camden School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall opened in 1866, and used for nearly a century before being turned into Camden Library in 1963.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">40 John St Camden
+First opened in 1866, altered and turned into Camden Library 1963</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27628</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27218)</title>
+                  <added>2009-10-06 08:39:24</added>
+                  <modified>2009-10-06 08:39:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27218</id>
+                      <type id="151">Entity</type>
+                      <title>Campbelltown School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:22:05</added>
+                      <modified>2009-10-01 11:22:05</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Campbelltown School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built as a war memorial, and at one time used as Campbelltown Council Chambers, demolished in 1976.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Cnr Lithgow Street and Queen Street Campbelltown
+Campbelltown Soldiers Memorial School of Arts building, demolished in 1967</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27629</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27220)</title>
+                  <added>2009-10-06 08:39:39</added>
+                  <modified>2009-10-06 08:39:39</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27220</id>
+                      <type id="151">Entity</type>
+                      <title>Carlton School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:23:00</added>
+                      <modified>2009-10-01 11:23:00</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Carlton School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall in Carlton, still operating as a school of arts in 2009.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">2 Short Street Carlton (13 Argyle St?)
+Built in 1900 as a private dance hall, http://www.heritage.nsw.gov.au/07_subnav_01_2.cfm?itemid=2330147</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27630</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27227)</title>
+                  <added>2009-10-06 08:39:49</added>
+                  <modified>2009-10-06 08:39:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27227</id>
+                      <type id="151">Entity</type>
+                      <title>Epping School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:25:43</added>
+                      <modified>2009-10-01 11:25:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Epping School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall constructed in three stages between 1906 and 1916, and opened in October 1909, the building was used for Baptist church services and is now Epping Community Centre.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">9 Oxford Street Epping
+Constructed in three states between 1906 and 1916, opened in October 1909, now Epping Community Centre. Baptist Church services held there, 1930-http://www.hornsby.nsw.gov.au/servicesfacilities/index.cfm?NavigationID=1253</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27631</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27228)</title>
+                  <added>2009-10-06 08:40:03</added>
+                  <modified>2009-10-06 08:40:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27228</id>
+                      <type id="151">Entity</type>
+                      <title>Galston School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:26:07</added>
+                      <modified>2009-10-01 11:26:07</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Galston School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built for the School of Arts, later the Galston Community Centre.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">37 Arcadia Road, Galston
+Built in 1892, now Galston Community Centre</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27632</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27229)</title>
+                  <added>2009-10-06 08:40:14</added>
+                  <modified>2009-10-06 08:40:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27229</id>
+                      <type id="151">Entity</type>
+                      <title>Glebe School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:26:31</added>
+                      <modified>2012-07-19 10:46:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Glebe School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall and library built for the Glebe School of Arts, transferred to Sydney City Council in 1955 and used as the Glebe library for some years.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">71628</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">191-195 Bridge Road Glebe
+ Had a lending library, a reading room, a lecture hall, a couple of class / meeting rooms and a six-table billiard room. In 1912 had 320 members and a library of 2543 books.  1955 the land and property of the Glebe School of Arts and Literary Institute placed under the trusteeship of Council. Building, furntiture and equipment and books cost Council £8087. Council converted premises for use as the Glebe Branch of the City of Sydney Public Library, opening Sept 1956.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27633</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27231)</title>
+                  <added>2009-10-06 08:40:26</added>
+                  <modified>2009-10-06 08:40:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27231</id>
+                      <type id="151">Entity</type>
+                      <title>Granville School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:27:20</added>
+                      <modified>2009-10-01 11:27:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Granville School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall, built on land donated by James Niblett, used by the School of Arts, as council chambers before the town hall was built, and later for technical education classes.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">12 Good Street Granville
+Foundation stone laid 3 November 1883 and opened 4 June 1884. School of Arts was Granville Council’s meeting place and office from 1885 to 1889 when the Town Hall in Carlton Street was opened. First local technical classes held there in October 1884, continued to be used for technical education until the Granville Technical College opened 1910. Extensively renovated 2000. School of Arts sold 2006</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27634</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27232)</title>
+                  <added>2009-10-06 08:40:36</added>
+                  <modified>2009-10-06 08:40:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27232</id>
+                      <type id="151">Entity</type>
+                      <title>Guildford Soldiers Memorial School of Arts (Building)</title>
+                      <added>2009-10-01 11:27:43</added>
+                      <modified>2011-02-14 16:28:22</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Guildford Soldiers Memorial School of Arts</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall constructed in stages 1901-25 and renamed and dedicated as a war memorial in 1933.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">1 Calliope Street Guildford, cnr Military Road
+Building constructed 1901-25, renamed and War memorial dedicated  3 June 1933</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27635</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27234)</title>
+                  <added>2009-10-06 08:40:49</added>
+                  <modified>2009-10-06 08:40:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27234</id>
+                      <type id="151">Entity</type>
+                      <title>Haberfield School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:28:27</added>
+                      <modified>2009-10-01 11:28:27</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Haberfield School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall used by the School of Arts, and later as a dancing school, before Ashfield Council took it over in 1964.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">78-80 Dalhousie St Haberfield
+Designed by J Spencer-Stansfield, built by J Dean of Petersham. Used as dancing school 1930s, ownership transferred to Ashfield council 1964</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27636</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27235)</title>
+                  <added>2009-10-06 08:40:59</added>
+                  <modified>2009-10-06 08:40:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27235</id>
+                      <type id="151">Entity</type>
+                      <title>Harbord Literary Institute hall (Building)</title>
+                      <added>2009-10-01 11:28:47</added>
+                      <modified>2009-10-01 11:28:47</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Harbord Literary Institute hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built in 1918, with a later building constructed 1926-50.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">cnr Lawrence and Oliver Street Freshwater NSW
+original building constructed 1918, later building constructed 1926-50</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27637</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27238)</title>
+                  <added>2009-10-06 08:41:09</added>
+                  <modified>2009-10-06 08:41:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27238</id>
+                      <type id="151">Entity</type>
+                      <title>Hurstville School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:29:35</added>
+                      <modified>2009-10-01 11:29:35</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Hurstville School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall used by the School of Arts, which took over the Hurstville Council library in 1920.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Cnr of Cross Street and Crofts Avenue
+Received Council book collection in 1920</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27638</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27239)</title>
+                  <added>2009-10-06 08:41:19</added>
+                  <modified>2009-10-06 08:41:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27239</id>
+                      <type id="151">Entity</type>
+                      <title>Ingleburn School of Arts building (Building)</title>
+                      <added>2009-10-01 11:29:56</added>
+                      <modified>2009-10-01 11:29:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Ingleburn School of Arts building</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built by the School of Arts and maintained by Campbelltown Council since 1960.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">72 Oxford Road Ingleburn
+Campbelltown City Council has maintained the building and land since 1960, now Ingleburn Community Hall</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27639</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27244)</title>
+                  <added>2009-10-06 08:41:30</added>
+                  <modified>2009-10-06 08:41:30</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27244</id>
+                      <type id="151">Entity</type>
+                      <title>Lane Cove War Memorial School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:32:23</added>
+                      <modified>2009-10-01 11:32:23</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Lane Cove War Memorial School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall used by the School of Arts, but given to local council in the 1950s and later used as a library and senior citizens centre.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">180 Longueville Road Lane Cove
+Building built 1923 as Lane Cove War Memorial School of Arts. Given to Council in 1950s as a public library, later Senior Citizens Centre.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27640</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27247)</title>
+                  <added>2009-10-06 08:41:41</added>
+                  <modified>2009-10-06 08:41:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27247</id>
+                      <type id="151">Entity</type>
+                      <title>Leura Literary Institute building (Building)</title>
+                      <added>2009-10-01 11:33:33</added>
+                      <modified>2009-10-01 11:33:33</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Leura Literary Institute building</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Home to the Leura Literary Institute in 1915, the building later became a bed and breakfast hotel.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">151-153 Megalong St Leura
+Home to the Leura Literary Institute in 1915, now a B&amp;B</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27641</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27248)</title>
+                  <added>2009-10-06 08:41:51</added>
+                  <modified>2009-10-06 08:41:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27248</id>
+                      <type id="151">Entity</type>
+                      <title>Liverpool Memorial School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:33:53</added>
+                      <modified>2011-07-28 16:37:38</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Liverpool Memorial School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall used by the School of Arts but given to Liverpool Council. A painting from the school's collection was given to the National Gallery in 1963.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">306 Macquarie St Liverpool
+New building constructed 1924. Painting from Liverpool Memorial School of Arts given to Aust National Gallery in 1963</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">60224</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27642</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27250)</title>
+                  <added>2009-10-06 08:42:03</added>
+                  <modified>2009-10-06 08:42:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27250</id>
+                      <type id="151">Entity</type>
+                      <title>Manly Literary Institute building (Building)</title>
+                      <added>2009-10-01 11:34:37</added>
+                      <modified>2009-10-01 11:34:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Manly Literary Institute building</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Opened by Governor Chelmsford in 1909, this community hall houses early classes for Manly Public School, and was eventually sold to the Department of Education. In 2009 it is leased by Manly Council.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">12 Wentworth Street Manly
+Opened by Governor Chelmsford, 1909, Manly Public School classes held there for some time. Now Manly community centre. Owned by Department of Education, and leased back to Council.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27643</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27252)</title>
+                  <added>2009-10-06 08:42:13</added>
+                  <modified>2009-10-06 08:42:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27252</id>
+                      <type id="151">Entity</type>
+                      <title>Merrylands School of Arts building (Building)</title>
+                      <added>2009-10-01 11:35:19</added>
+                      <modified>2009-10-01 11:35:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Merrylands School of Arts building</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall built 1917-25 with the help of Premier Jack Lang. It was transferred to Holroyd Council in 1982 and later used as a youth centre.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">289 Merrylands Road, Merrylands, 
+"Constructed 1917-1925, Premier Jack Lang instrumental in its establishment, currently used as Merrylands Youth Centre, transferred to Holroyd council in 1982, Youth centre since 1985
+"</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27644</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27256)</title>
+                  <added>2009-10-06 08:42:23</added>
+                  <modified>2009-10-19 15:43:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27256</id>
+                      <type id="151">Entity</type>
+                      <title>Newtown School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:36:51</added>
+                      <modified>2009-10-01 11:36:51</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Newtown School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall designed by E Williams, that featured a large library with its own street entrance, a big lecture hall, a six-table billiard room, various smaller reading, retiring, smoking, games, meeting and classrooms.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">5 Eliza Street, Newtown
+Designed by E. Williams. Featured a large library with its own street entrance, a big lecture hall, a six-table billiard room, various smaller reading, retiring, smoking, games, meeting and classrooms.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27645</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 8618)</title>
+                  <added>2009-10-06 08:42:33</added>
+                  <modified>2009-10-06 08:42:33</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8618</id>
+                      <type id="151">Entity</type>
+                      <title>North Ryde School of Arts hall (Building)</title>
+                      <added>2009-06-10 15:58:51</added>
+                      <modified>2009-10-01 11:37:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">North Ryde School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Built on land donated by William Cox, the old School of Arts hall housed dances, meetings, fetes, exhibitions and a library. After its demolition in 1980 a new Community Centre and Library was built.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">201 Coxs Road North Ryde
+The North Ryde School of Arts and Literary Institute, built in 1901 on land donated by William Cox of Pomona, became the venue for the Annual Ball, community meetings, fetes, art exhibitions, dances, physical culture and the like. Extensions were built in 1907. The North Ryde Library Branch was also located within. The original building was demolished in 1980 and a new Community Centre, School of Arts and Library complex was built.'</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27646</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27261)</title>
+                  <added>2009-10-06 08:42:43</added>
+                  <modified>2009-10-06 08:42:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27261</id>
+                      <type id="151">Entity</type>
+                      <title>Oatley School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:38:57</added>
+                      <modified>2009-10-01 11:38:57</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Oatley School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall that housed a billiards room, and served as church, school and centre for relief aid during influenza epidemic 1919. Building later housed a preschool and was given to Kogarah Council in the late 1960s. Additions have housed a baby health centre and municipal library.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">26 Letitia St Oatley
+Wooden building, with hall, library, piano. In 1909 a billiards room was added. First Church of England, Methodist and Catholic Church Services held there. 1917-1921 served as classrooms of the first Oatley public school. Local centre for relief aid during the flu epidemic of 1919.  Screened first locally shown movies. The only public meeting place until the Masonic Hall was built in 1922. In the 1960s a preschool operated in the School's hall. Hard to see the original School's premises today as it's hidden under later additions. Property transferred to Kogarah Municipal Council c. late 60s. 1969 a Baby Health Centre opened in red brick building in front of main hall. In 1971 the Oatley Branch of the Kogarah Municipal Library established in School's premises</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27647</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27262)</title>
+                  <added>2009-10-06 08:42:53</added>
+                  <modified>2009-10-06 08:42:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27262</id>
+                      <type id="151">Entity</type>
+                      <title>Peakhurst School of Arts and Public Hall (Building)</title>
+                      <added>2009-10-01 11:39:17</added>
+                      <modified>2009-10-01 11:39:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Peakhurst School of Arts and Public Hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Opened on Empire Day, 24 May 1909, this community hall held regular Wednesday night social dances and is still in use as a School of Arts and public hall.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">691 Forest Road (near corner Bonds Road) Peakhurst
+Formal opening on Empire Day, 24 May 1909, speeches from State and Federal MPs, including local state MP Varney Parkes son of Henry. Regular Wednesday night social dances. School of Arts organisation formed June 1909 - ie. after the opening of the premises. Still in use as a School of Arts and Public Hall</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27648</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27264)</title>
+                  <added>2009-10-06 08:43:05</added>
+                  <modified>2009-10-06 08:43:05</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27264</id>
+                      <type id="151">Entity</type>
+                      <title>Penrith School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:39:37</added>
+                      <modified>2009-10-01 11:39:37</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Penrith School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall opened in 1910.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">3 Castlereagh St Penrith 
+Built 1909, opened December 1910,</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27649</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27266)</title>
+                  <added>2009-10-06 08:43:15</added>
+                  <modified>2009-10-06 08:43:15</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27266</id>
+                      <type id="151">Entity</type>
+                      <title>Prospect School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:39:57</added>
+                      <modified>2009-10-01 11:39:57</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Prospect School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Wooden community hall built by the School of Arts and used to show films from 1950-58. It was transferred to Blacktown Council in 1967 and burned down c1969.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">23 Tarlington Place
+Small wooden building, films shown from 1950-58. Transferred to Blacktown Council 1967, burned down c1969.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27650</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27267)</title>
+                  <added>2009-10-06 08:43:24</added>
+                  <modified>2009-10-06 08:43:24</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27267</id>
+                      <type id="151">Entity</type>
+                      <title>Richmond School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:40:20</added>
+                      <modified>2009-10-01 11:40:20</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Richmond School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Opened by Colonial Secretary Henry Parkes in 1866, the School of Arts housed a library, theatre, and billiard room, and showed films. Council meetings were held there until 1913. Still used by community groups.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">26 West Market St, cnr March Street
+Foundation stone laid 10 Jan 1866, hall officially opened by Premier Sir Henry Parkes 27 Aug 1866. After formation of Richmond Borough Council in 1872, the School of Arts was used for Council meetings until 1913. Library and reading room opened 1878. Extensions completed 1896 including new stage and dressing room. Billiard room built 1900, extended 1914. Electric light installed 1915. Regular showing of motion pictures from 1927. In the 1930s library contained 3000 books. Used as storage by RAAF during WWII. Library closed 1957 (after extension of municipal library service ). Demise of billiard room and sale of tables in 1950s. Has housed the Richmond Players since 1952 and the Hawkesbury Valley Lapidary Club since late 1960s. Heritage order placed on bldg 1981, National Estate registration 1984. Murray Wing constructed 2000.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27651</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27271)</title>
+                  <added>2009-10-06 08:43:34</added>
+                  <modified>2009-10-06 08:43:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27271</id>
+                      <type id="151">Entity</type>
+                      <title>Rooty Hill School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:41:10</added>
+                      <modified>2009-10-01 11:41:10</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Rooty Hill School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall where the first Blacktown Council meeting was held in 1906, and still in use as a polling place.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">32 Rooty Hill South, Rooty Hill
+Still used as a polling place, built 1902, first Blacktown Council meeting held there 1906</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>27652</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27282)</title>
+                  <added>2009-10-06 08:43:44</added>
+                  <modified>2009-10-06 08:43:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27282</id>
+                      <type id="151">Entity</type>
+                      <title>Sans Souci Literary Institute hall (Building)</title>
+                      <added>2009-10-01 11:44:21</added>
+                      <modified>2009-10-01 11:44:21</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Sans Souci Literary Institute hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community building with a library, meeting room, kitchen, office and two small halls, where Housie and dances were held and billiards played. The hall is still used by many community groups.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">107 Ramsgate Rd (corner Macdonald Street) Ramsgate
+Building consists of two smallish halls, a library, a class / meeting room, a kitchen, an office. Library was very popular; billiard room busy, Housie games and evening dances. At its peak the Institute had 880 members. Library now closed, billiard tables gone.  But still in good shape, used by many community groups.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>28207</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (593 IsRelatedTo 27564)</title>
+                  <added>2009-10-08 10:25:21</added>
+                  <modified>2009-10-08 10:25:21</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>593</id>
+                      <type id="98">XML Document</type>
+                      <title>Sydney Mechanics' School of Arts</title>
+                      <added>2008-10-22 13:12:40</added>
+                      <modified>2009-09-24 14:41:00</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>574</id>
+                          <nonce>f4847eec82b3460f868160129f3b2b826d42d3ee</nonce>
+                          <origName>Sydney Mechanics' School of Arts.xml</origName>
+                          <type>application/xml</type>
+                          <size>39.6 kb</size>
+                          <date>2009-02-27 16:43:48</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Sydney+Mechanics%27+School+of+Arts.xml?file_id=f4847eec82b3460f868160129f3b2b826d42d3ee</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=f4847eec82b3460f868160129f3b2b826d42d3ee</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Sydney Mechanics' School of Arts</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Founded in 1833 on the model of Scottish Mechanics' Institutes, the SMSA sought to provide further education for working men through lectures, classes and a library. Many of Sydney's foremost intellectuals, inventors and innovators were associated with it, and it influenced the development of both the University of Sydney and technical education in New South Wales. It still provides a library and lectures to Sydneysiders in 2009.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2925</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>28211</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 12524)</title>
+                  <added>2009-10-08 10:36:17</added>
+                  <modified>2009-10-08 10:36:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>12524</id>
+                      <type id="151">Entity</type>
+                      <title>Sydney Mechanics' School of Arts (Organisation)</title>
+                      <added>2009-06-10 16:03:11</added>
+                      <modified>2010-11-11 15:16:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Sydney Mechanics' School of Arts</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The oldest School of Arts in Sydney was founded to provide further education for working people and has done so since its inception in 1833.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">26683</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+                <record>
+                  <id>75593</id>
+                  <type id="52">Record relationship</type>
+                  <title>(41343 isRelatedTo 27564)</title>
+                  <added>2012-05-15 11:05:55</added>
+                  <modified>2012-05-15 11:05:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>41343</id>
+                      <type id="98">XML Document</type>
+                      <title>The School of Arts movement</title>
+                      <added>2010-07-26 10:44:40</added>
+                      <modified>2012-05-30 12:02:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>7559</id>
+                          <nonce>8026af18baabd14b48a3ba64e3df8ae36f86d1b3</nonce>
+                          <origName>School+of+Arts+movement.xml</origName>
+                          <type>application/xml</type>
+                          <size>313.1 kb</size>
+                          <date>2012-05-30 12:02:50</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/School%2Bof%2BArts%2Bmovement.xml?file_id=8026af18baabd14b48a3ba64e3df8ae36f86d1b3</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8026af18baabd14b48a3ba64e3df8ae36f86d1b3</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">The School of Arts movement</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">During the nineteenth and early twentieth centuries, about 140 schools of arts or mechanics' institutes were established in Sydney by volunteers. They were independent community organisations, assisted by a small government subsidy, and they thrived as centres of local community life. Today, their legacy in Sydney is more than just the surviving buildings. Out of these humble voluntary operations developed the local public library, the modern community or neighbourhood centre, and formal systems of adult and technical education.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-07-26</raw>
+                        <year>2010</year>
+                        <month>7</month>
+                        <day>26</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3124</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">24990</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">57083</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">This is version 1. If the article is revised following peer review for Sydney Journal, the revised version will be uploaded. EG 26-07-2010</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type">isRelatedTo</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>27271</id>
+              <type id="151">Entity</type>
+              <title>Rooty Hill School of Arts hall (Building)</title>
+              <added>2009-10-01 11:41:10</added>
+              <modified>2009-10-01 11:41:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rooty Hill School of Arts hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Community hall where the first Blacktown Council meeting was held in 1906, and still in use as a polling place.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">32 Rooty Hill South, Rooty Hill
+Still used as a polling place, built 1902, first Blacktown Council meeting held there 1906</detail>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>27460</id>
+                  <type id="150">Factoid</type>
+                  <title>Rooty Hill School of Arts hall, Milestone, Constructed</title>
+                  <added>2009-10-01 12:42:23</added>
+                  <modified>2009-10-01 12:42:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">27271</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1902</raw>
+                    <year>1902</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1902</raw>
+                    <year>1902</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>27461</id>
+                  <type id="150">Factoid</type>
+                  <title>Rooty Hill School of Arts hall, TimePlace</title>
+                  <added>2009-10-01 12:42:36</added>
+                  <modified>2009-10-06 08:04:28</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">27271</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1902</raw>
+                    <year>1902</year>
+                  </detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(150.84492382406 -33.773395242477)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>27462</id>
+                  <type id="150">Factoid</type>
+                  <title>Rooty Hill School of Arts hall, Type, School of Arts Hall</title>
+                  <added>2009-10-01 12:42:56</added>
+                  <modified>2009-10-01 12:42:56</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">27271</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">27190</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>27651</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (27564 IsRelatedTo 27271)</title>
+                  <added>2009-10-06 08:43:34</added>
+                  <modified>2009-10-06 08:43:34</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>27564</id>
+                      <type id="103">Map</type>
+                      <title>Schools of Arts buildings</title>
+                      <added>2009-10-01 13:28:58</added>
+                      <modified>2012-08-08 09:29:42</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="491" type="Depth">7</detail>
+                      <detail id="160" type="Title" name="dc.title">Schools of Arts buildings</detail>
+                      <detail id="191" type="Extended description" name="dc.description">A selection of Schools of Arts buildings showing locations and time of construction.</detail>
+                      <detail id="230" type="Geographic object" name="Focus area">
+                        <geo>
+                          <type>bounds</type>
+                          <wkt>POLYGON((150.9075165 -33.7243397,151.2343597 -33.7243397,151.2343597 -33.9872105,150.9075165 -33.9872105,150.9075165 -33.7243397))</wkt>
+                        </geo>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>27271</id>
+                      <type id="151">Entity</type>
+                      <title>Rooty Hill School of Arts hall (Building)</title>
+                      <added>2009-10-01 11:41:10</added>
+                      <modified>2009-10-01 11:41:10</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Rooty Hill School of Arts hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Community hall where the first Blacktown Council meeting was held in 1906, and still in use as a polling place.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">32 Rooty Hill South, Rooty Hill
+Still used as a polling place, built 1902, first Blacktown Council meeting held there 1906</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsRelatedTo" ontology="basic">IsRelatedTo</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

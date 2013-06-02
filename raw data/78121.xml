@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:78121" w="a" depth="2" />
+  <dateStamp>2013-02-17T07:28:05+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>78121</id>
+      <type id="151">Entity</type>
+      <title>General Hospital (Building)</title>
+      <added>2012-07-05 14:01:03</added>
+      <modified>2012-07-05 14:13:13</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Tent hospital erected between Harrington and George streets from prefabricated materials and canvas, much of it brought out by the Second Fleet.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>78122</id>
+          <type id="99">TEI Document Reference</type>
+          <title>General Hospital</title>
+          <added>2012-07-05 14:01:14</added>
+          <modified>2012-07-05 14:01:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>78121</id>
+              <type id="151">Entity</type>
+              <title>General Hospital (Building)</title>
+              <added>2012-07-05 14:01:03</added>
+              <modified>2012-07-05 14:13:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital erected between Harrington and George streets from prefabricated materials and canvas, much of it brought out by the Second Fleet.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>77999</id>
+              <type id="98">XML Document</type>
+              <title>Reynolds' cottages</title>
+              <added>2012-07-04 14:09:18</added>
+              <modified>2012-07-12 12:23:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7802</id>
+                  <nonce>70bebc938ce739434575bc7a9053de1a55a06279</nonce>
+                  <origName>Reynolds+cottages.xml</origName>
+                  <type>application/xml</type>
+                  <size>74.5 kb</size>
+                  <date>2012-07-12 12:20:26</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Reynolds%2Bcottages.xml?file_id=70bebc938ce739434575bc7a9053de1a55a06279</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=70bebc938ce739434575bc7a9053de1a55a06279</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Reynolds' cottages</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built by convict labour in 1829, Reynolds' cottages have been used for many different purposes as the city around them changed and grew.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-07-04</raw>
+                <year>2012</year>
+                <month>7</month>
+                <day>4</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3251</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">77671</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">47</detail>
+          <detail id="330" type="End Word" name="End Word">48</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>78126</id>
+          <type id="99">TEI Document Reference</type>
+          <title>General Hospital</title>
+          <added>2012-07-05 14:10:07</added>
+          <modified>2012-07-05 14:10:07</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>78121</id>
+              <type id="151">Entity</type>
+              <title>General Hospital (Building)</title>
+              <added>2012-07-05 14:01:03</added>
+              <modified>2012-07-05 14:13:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital erected between Harrington and George streets from prefabricated materials and canvas, much of it brought out by the Second Fleet.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>591</id>
+              <type id="98">XML Document</type>
+              <title>Sydney Hospital and Eye Hospital</title>
+              <added>2008-10-22 13:12:40</added>
+              <modified>2009-09-24 15:07:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>48</id>
+                  <nonce>f53fd4566ef616a93c4250b86a7cfbfb18865249</nonce>
+                  <origName>Sydney Hospital and Eye Hospital.xml</origName>
+                  <type>application/xml</type>
+                  <size>53.2 kb</size>
+                  <date>2008-10-24 10:40:03</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Sydney+Hospital+and+Eye+Hospital.xml?file_id=f53fd4566ef616a93c4250b86a7cfbfb18865249</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=f53fd4566ef616a93c4250b86a7cfbfb18865249</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Sydney Hospital and Eye Hospital</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built by Governor Macquarie and financed by an innovative scheme that exchanged the building of the hospital for the right to sell liquor, Sydney Hospital was part of Macquarie's plans for the future of the colony.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">782</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">72</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">3</detail>
+          <detail id="330" type="End Word" name="End Word">4</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>78127</id>
+          <type id="99">TEI Document Reference</type>
+          <title>General Hospital</title>
+          <added>2012-07-05 14:12:13</added>
+          <modified>2012-07-05 14:12:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>78121</id>
+              <type id="151">Entity</type>
+              <title>General Hospital (Building)</title>
+              <added>2012-07-05 14:01:03</added>
+              <modified>2012-07-05 14:13:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital erected between Harrington and George streets from prefabricated materials and canvas, much of it brought out by the Second Fleet.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>373</id>
+              <type id="98">XML Document</type>
+              <title>Health and welfare</title>
+              <added>2008-10-22 13:12:06</added>
+              <modified>2009-10-29 14:28:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1628</id>
+                  <nonce>1baa91a32427c974bf236abfe7fcb6648e4612a3</nonce>
+                  <origName>Health and welfare.xml</origName>
+                  <type>application/xml</type>
+                  <size>108.8 kb</size>
+                  <date>2009-05-27 16:31:25</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Health+and+welfare.xml?file_id=1baa91a32427c974bf236abfe7fcb6648e4612a3</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1baa91a32427c974bf236abfe7fcb6648e4612a3</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Health and welfare</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The size and complexity of health and welfare services has increased exponentially since the early years of colonial settlement, but the partnership between governments and charities has remained at the heart of solutions to the problem of misfortune.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2966</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">119</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">61</detail>
+          <detail id="330" type="End Word" name="End Word">62</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>78123</id>
+          <type id="150">Factoid</type>
+          <title>General Hospital, Type, Hospital</title>
+          <added>2012-07-05 14:03:12</added>
+          <modified>2012-07-05 14:09:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>78121</id>
+              <type id="151">Entity</type>
+              <title>General Hospital (Building)</title>
+              <added>2012-07-05 14:01:03</added>
+              <modified>2012-07-05 14:13:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital erected between Harrington and George streets from prefabricated materials and canvas, much of it brought out by the Second Fleet.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6974</id>
+              <type id="91">Role</type>
+              <title>Hospital</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hospital</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>78124</id>
+          <type id="150">Factoid</type>
+          <title>General Hospital, Milestone, Opened</title>
+          <added>2012-07-05 14:05:56</added>
+          <modified>2012-07-05 14:07:41</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>78121</id>
+              <type id="151">Entity</type>
+              <title>General Hospital (Building)</title>
+              <added>2012-07-05 14:01:03</added>
+              <modified>2012-07-05 14:13:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital erected between Harrington and George streets from prefabricated materials and canvas, much of it brought out by the Second Fleet.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1788</raw>
+            <year>1788</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1788</raw>
+            <year>1788</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>78125</id>
+          <type id="150">Factoid</type>
+          <title>General Hospital, Milestone, Closed</title>
+          <added>2012-07-05 14:07:13</added>
+          <modified>2012-07-05 14:07:13</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>78121</id>
+              <type id="151">Entity</type>
+              <title>General Hospital (Building)</title>
+              <added>2012-07-05 14:01:03</added>
+              <modified>2012-07-05 14:13:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital erected between Harrington and George streets from prefabricated materials and canvas, much of it brought out by the Second Fleet.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42397</id>
+              <type id="91">Role</type>
+              <title>Closed</title>
+              <added>2010-08-20 11:34:35</added>
+              <modified>2010-08-20 11:34:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Closed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1816</raw>
+            <year>1816</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1816</raw>
+            <year>1816</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>78128</id>
+          <type id="150">Factoid</type>
+          <title>General Hospital, TimePlace</title>
+          <added>2012-07-05 14:14:42</added>
+          <modified>2012-07-05 14:14:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>78121</id>
+              <type id="151">Entity</type>
+              <title>General Hospital (Building)</title>
+              <added>2012-07-05 14:01:03</added>
+              <modified>2012-07-05 14:13:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">General Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital erected between Harrington and George streets from prefabricated materials and canvas, much of it brought out by the Second Fleet.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1788</raw>
+            <year>1788</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1816</raw>
+            <year>1816</year>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20826689898 -33.859947827876)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

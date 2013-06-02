@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:42977" w="a" depth="2" />
+  <dateStamp>2013-02-16T23:59:09+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>42977</id>
+      <type id="151">Entity</type>
+      <title>Toongabbie railway station (Building)</title>
+      <added>2010-09-09 14:10:47</added>
+      <modified>2011-02-23 15:39:58</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Station opened 26 April 1880. The current building dates from 1946.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>42978</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Toongabbie railway station</title>
+          <added>2010-09-09 14:10:59</added>
+          <modified>2010-09-09 14:10:59</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>42977</id>
+              <type id="151">Entity</type>
+              <title>Toongabbie railway station (Building)</title>
+              <added>2010-09-09 14:10:47</added>
+              <modified>2011-02-23 15:39:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station opened 26 April 1880. The current building dates from 1946.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>42530</id>
+              <type id="98">XML Document</type>
+              <title>Old Toongabbie and Toongabbie</title>
+              <added>2010-09-01 14:26:14</added>
+              <modified>2010-11-15 12:26:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4030</id>
+                  <nonce>a65b385d320c8486e501a1001dcbd671e278f1a1</nonce>
+                  <origName>Old+Toongabbie+and+Toongabbie.xml</origName>
+                  <type>application/xml</type>
+                  <size>59 kb</size>
+                  <date>2010-11-15 12:26:03</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Old%2BToongabbie%2Band%2BToongabbie.xml?file_id=a65b385d320c8486e501a1001dcbd671e278f1a1</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a65b385d320c8486e501a1001dcbd671e278f1a1</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Old Toongabbie and Toongabbie</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditional country of the Darug people, Toongabbie was settled as early as 1792 and quickly became an important farming centre, worked by convicts. Roads and railways shaped the town's growth, as it was increasingly integrated into Sydney's western suburbs.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-09-01</raw>
+                <year>2010</year>
+                <month>9</month>
+                <day>1</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1717</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">60</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">124</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">65</detail>
+          <detail id="330" type="End Word" name="End Word">66</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>42979</id>
+          <type id="150">Factoid</type>
+          <title>Toongabbie railway station, Type, Railway station</title>
+          <added>2010-09-09 14:11:51</added>
+          <modified>2010-09-09 14:11:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>42977</id>
+              <type id="151">Entity</type>
+              <title>Toongabbie railway station (Building)</title>
+              <added>2010-09-09 14:10:47</added>
+              <modified>2011-02-23 15:39:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station opened 26 April 1880. The current building dates from 1946.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7059</id>
+              <type id="91">Role</type>
+              <title>Railway station</title>
+              <added>2009-06-10 15:56:24</added>
+              <modified>2009-06-10 15:56:24</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Railway station</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51675</id>
+          <type id="150">Factoid</type>
+          <title>Toongabbie railway station, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:03</added>
+          <modified>2011-02-16 16:03:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>42977</id>
+              <type id="151">Entity</type>
+              <title>Toongabbie railway station (Building)</title>
+              <added>2010-09-09 14:10:47</added>
+              <modified>2011-02-23 15:39:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station opened 26 April 1880. The current building dates from 1946.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(150.95151953866 -33.787263888889)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>60367</id>
+          <type id="52">Record relationship</type>
+          <title>(60365 isOf 42977)</title>
+          <added>2011-07-28 16:37:44</added>
+          <modified>2011-07-28 16:37:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>60365</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</title>
+              <added>2011-07-28 16:37:43</added>
+              <modified>2011-07-28 16:37:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-28</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>28</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</detail>
+              <detail id="365" type="Subject" name="dc.creator">Buckland, John L</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1947</raw>
+                <year>1947</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4540125</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4540125</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4800</id>
+                  <type id="153">Contributor</type>
+                  <title>National Library of Australia</title>
+                  <added>2009-03-24 10:55:20</added>
+                  <modified>2012-03-21 11:24:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">National Library of Australia</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://catalogue.nla.gov.au</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Items sourced from the NLA have persistent web addresses and, where they appear in Entries, further information can be accessed by clicking on the item identifier between the square brackets [].</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 13235
+P-Related: Old Toongabbie and Toongabbie|42530</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>5077</id>
+                  <nonce>795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</nonce>
+                  <origName>nla.pic-vn4540125-v.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>66.7 kb</size>
+                  <date>2011-07-28 16:37:43</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4540125-v.jpg?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>53170</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>once</title>
+                  <added>2011-03-29 00:31:27</added>
+                  <modified>2011-11-04 10:49:13</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="199" type="Resource" name="target">60365</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">42530</detail>
+                  <detail id="160" type="Title" name="dc.title">once</detail>
+                  <detail id="191" type="Extended description" name="caption">The development of the two Toongabbies, well into the twentieth century, was helped by the construction of new railway lines and loading platforms in 1946 and electrification of the line in 1955, creating industrial and commercial links with the urban centres of Sydney, Blacktown and Parramatta.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">6,7</detail>
+                  <detail id="329" type="Start Word" name="Start Word">2</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>60366</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60365 isOf 17777)</title>
+                  <added>2011-07-28 16:37:44</added>
+                  <modified>2011-07-28 16:37:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60365</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</title>
+                      <added>2011-07-28 16:37:43</added>
+                      <modified>2011-07-28 16:37:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Buckland, John L</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1947</raw>
+                        <year>1947</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4540125</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4540125</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13235
+P-Related: Old Toongabbie and Toongabbie|42530</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5077</id>
+                          <nonce>795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</nonce>
+                          <origName>nla.pic-vn4540125-v.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>66.7 kb</size>
+                          <date>2011-07-28 16:37:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4540125-v.jpg?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>17777</id>
+                      <type id="151">Entity</type>
+                      <title>Toongabbie (Place)</title>
+                      <added>2009-06-10 16:07:46</added>
+                      <modified>2011-05-18 15:13:15</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Toongabbie</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Western suburb built on Burramattagal country, on the site of one of the colony's earliest successful farms worked with convict labour.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">22582</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Parramatta | Toongabbee |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>60367</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60365 isOf 42977)</title>
+                  <added>2011-07-28 16:37:44</added>
+                  <modified>2011-07-28 16:37:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60365</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</title>
+                      <added>2011-07-28 16:37:43</added>
+                      <modified>2011-07-28 16:37:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Buckland, John L</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1947</raw>
+                        <year>1947</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4540125</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4540125</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13235
+P-Related: Old Toongabbie and Toongabbie|42530</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5077</id>
+                          <nonce>795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</nonce>
+                          <origName>nla.pic-vn4540125-v.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>66.7 kb</size>
+                          <date>2011-07-28 16:37:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4540125-v.jpg?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>42977</id>
+                      <type id="151">Entity</type>
+                      <title>Toongabbie railway station (Building)</title>
+                      <added>2010-09-09 14:10:47</added>
+                      <modified>2011-02-23 15:39:58</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station opened 26 April 1880. The current building dates from 1946.</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>82915</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60365 hasSubject 6282)</title>
+                  <added>2012-10-02 13:53:18</added>
+                  <modified>2012-10-02 13:53:18</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60365</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</title>
+                      <added>2011-07-28 16:37:43</added>
+                      <modified>2011-07-28 16:37:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Buckland, John L</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1947</raw>
+                        <year>1947</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4540125</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4540125</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13235
+P-Related: Old Toongabbie and Toongabbie|42530</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5077</id>
+                          <nonce>795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</nonce>
+                          <origName>nla.pic-vn4540125-v.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>66.7 kb</size>
+                          <date>2011-07-28 16:37:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4540125-v.jpg?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6282</id>
+                      <type id="152">Term</type>
+                      <title>Trains</title>
+                      <added>2009-05-25 14:57:05</added>
+                      <modified>2009-05-25 14:57:05</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Trains</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>82916</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60365 hasSubject 6185)</title>
+                  <added>2012-10-02 13:53:53</added>
+                  <modified>2012-10-02 13:53:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60365</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</title>
+                      <added>2011-07-28 16:37:43</added>
+                      <modified>2011-07-28 16:37:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Buckland, John L</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1947</raw>
+                        <year>1947</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4540125</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4540125</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13235
+P-Related: Old Toongabbie and Toongabbie|42530</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5077</id>
+                          <nonce>795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</nonce>
+                          <origName>nla.pic-vn4540125-v.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>66.7 kb</size>
+                          <date>2011-07-28 16:37:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4540125-v.jpg?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6185</id>
+                      <type id="152">Term</type>
+                      <title>Railways</title>
+                      <added>2009-05-25 14:56:54</added>
+                      <modified>2009-05-25 14:56:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Railways</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>42977</id>
+              <type id="151">Entity</type>
+              <title>Toongabbie railway station (Building)</title>
+              <added>2010-09-09 14:10:47</added>
+              <modified>2011-02-23 15:39:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Station opened 26 April 1880. The current building dates from 1946.</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>42978</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Toongabbie railway station</title>
+                  <added>2010-09-09 14:10:59</added>
+                  <modified>2010-09-09 14:10:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+                  <detail id="199" type="Resource" name="target">42977</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">42530</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">65</detail>
+                  <detail id="330" type="End Word" name="End Word">66</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>42979</id>
+                  <type id="150">Factoid</type>
+                  <title>Toongabbie railway station, Type, Railway station</title>
+                  <added>2010-09-09 14:11:51</added>
+                  <modified>2010-09-09 14:11:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">42977</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7059</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51675</id>
+                  <type id="150">Factoid</type>
+                  <title>Toongabbie railway station, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:51:03</added>
+                  <modified>2011-02-16 16:03:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">42977</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(150.95151953866 -33.787263888889)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>60367</id>
+                  <type id="52">Record relationship</type>
+                  <title>(60365 isOf 42977)</title>
+                  <added>2011-07-28 16:37:44</added>
+                  <modified>2011-07-28 16:37:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>60365</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</title>
+                      <added>2011-07-28 16:37:43</added>
+                      <modified>2011-07-28 16:37:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-07-28</raw>
+                        <year>2011</year>
+                        <month>7</month>
+                        <day>28</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Local train to Sydney hauled by locomotive 3070 near Toongabbie, 6 October 1947</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Buckland, John L</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1947</raw>
+                        <year>1947</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4540125</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4540125</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 13235
+P-Related: Old Toongabbie and Toongabbie|42530</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>5077</id>
+                          <nonce>795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</nonce>
+                          <origName>nla.pic-vn4540125-v.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>66.7 kb</size>
+                          <date>2011-07-28 16:37:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4540125-v.jpg?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=795ca0a0e5efaa1ebbc9b3bd2fca05030862f646</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>42977</id>
+                      <type id="151">Entity</type>
+                      <title>Toongabbie railway station (Building)</title>
+                      <added>2010-09-09 14:10:47</added>
+                      <modified>2011-02-23 15:39:58</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Toongabbie railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Station opened 26 April 1880. The current building dates from 1946.</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

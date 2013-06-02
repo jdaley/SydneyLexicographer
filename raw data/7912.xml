@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:7912" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:11:37+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>7912</id>
+      <type id="151">Entity</type>
+      <title>All Saints' Air Force Memorial Church West Lindfield (Building)</title>
+      <added>2009-06-10 15:58:43</added>
+      <modified>2010-07-26 10:38:12</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">All Saints' Air Force Memorial Church West Lindfield</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Local church dedicated to the memory of Royal Australia Air Force recruits trained on the site during World War II.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">11 Moore Avenue,West Lindfield</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36218</id>
+          <type id="99">TEI Document Reference</type>
+          <title>All Saints' Air Force Memorial Church West Lindfield</title>
+          <added>2009-11-19 11:31:06</added>
+          <modified>2009-11-19 11:31:06</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">All Saints' Air Force Memorial Church West Lindfield</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7912</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Air Force Memorial Church West Lindfield (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2010-07-26 10:38:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Air Force Memorial Church West Lindfield</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Local church dedicated to the memory of Royal Australia Air Force recruits trained on the site during World War II.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">11 Moore Avenue,West Lindfield</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>431</id>
+              <type id="98">XML Document</type>
+              <title>Lindfield</title>
+              <added>2008-10-22 13:12:15</added>
+              <modified>2012-05-02 14:16:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7396</id>
+                  <nonce>17113dc5de712fb5108987db80e1c2115836f149</nonce>
+                  <origName>Lindfield.xml</origName>
+                  <type>application/xml</type>
+                  <size>51.5 kb</size>
+                  <date>2012-05-02 14:16:20</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lindfield.xml?file_id=17113dc5de712fb5108987db80e1c2115836f149</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=17113dc5de712fb5108987db80e1c2115836f149</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Lindfield</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Guringai people were the traditional owners of Lindfield until the timber-getters of the convict camp arrived in 1810. Land grants to farmers and orchardists followed, with more development as the highway north, and later the railway, made transport easier. Suburban development proceeded side by side with dairies and small farms. From the late twentieth century, new medium density development has increased Lindfield's population.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-02</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>2</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">2.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2559</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">131</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">54</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Updated version with changes and new reference requested by author Joan Rowland.</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">1</detail>
+          <detail id="330" type="End Word" name="End Word">6</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>75358</id>
+          <type id="99">TEI Document Reference</type>
+          <title>All Saints' Air Force Memorial Church West Lindfield</title>
+          <added>2012-05-10 09:24:38</added>
+          <modified>2012-05-10 09:24:38</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">All Saints' Air Force Memorial Church West Lindfield</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7912</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Air Force Memorial Church West Lindfield (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2010-07-26 10:38:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Air Force Memorial Church West Lindfield</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Local church dedicated to the memory of Royal Australia Air Force recruits trained on the site during World War II.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">11 Moore Avenue,West Lindfield</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>75084</id>
+              <type id="98">XML Document</type>
+              <title>Bradfield</title>
+              <added>2012-05-02 13:41:11</added>
+              <modified>2012-05-10 13:41:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7411</id>
+                  <nonce>1b2338fb2706c7cd23f2c2ce36006ecf7024e64c</nonce>
+                  <origName>Bradfield.xml</origName>
+                  <type>application/xml</type>
+                  <size>56.3 kb</size>
+                  <date>2012-05-10 13:41:16</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Bradfield.xml?file_id=1b2338fb2706c7cd23f2c2ce36006ecf7024e64c</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=1b2338fb2706c7cd23f2c2ce36006ecf7024e64c</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Bradfield</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A new subdivision created in 1924, Bradfield was home to world Scouts, the Royal Australian Air Force, and thousands of new migrants, and relocated inner-city dwellers, before becoming the site of the CSIRO's National Measurement Lab. Unusually among Sydney suburbs, it was re-integrated into surrounding suburbs and no longer exists.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-02</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>2</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1607</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">54</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,8</detail>
+          <detail id="329" type="Start Word" name="Start Word">1</detail>
+          <detail id="330" type="End Word" name="End Word">6</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>7913</id>
+          <type id="150">Factoid</type>
+          <title>All Saints' Air Force Memorial Church West Lindfield, Type, Place of worship</title>
+          <added>2009-06-10 15:58:43</added>
+          <modified>2009-06-10 15:58:43</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7912</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Air Force Memorial Church West Lindfield (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2010-07-26 10:38:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Air Force Memorial Church West Lindfield</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Local church dedicated to the memory of Royal Australia Air Force recruits trained on the site during World War II.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">11 Moore Avenue,West Lindfield</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51712</id>
+          <type id="150">Factoid</type>
+          <title>All Saints' Air Force Memorial Church West Lindfield, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:24</added>
+          <modified>2011-02-16 16:03:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">All Saints&amp;apos; Air Force Memorial Church West Lindfield</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7912</id>
+              <type id="151">Entity</type>
+              <title>All Saints' Air Force Memorial Church West Lindfield (Building)</title>
+              <added>2009-06-10 15:58:43</added>
+              <modified>2010-07-26 10:38:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">All Saints' Air Force Memorial Church West Lindfield</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Local church dedicated to the memory of Royal Australia Air Force recruits trained on the site during World War II.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">11 Moore Avenue,West Lindfield</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.14804948005 -33.777529127355)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:67520" w="a" depth="2" />
+  <dateStamp>2013-02-17T06:12:31+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>67520</id>
+      <type id="151">Entity</type>
+      <title>The Metro (Building)</title>
+      <added>2012-01-05 13:32:05</added>
+      <modified>2012-01-05 13:35:44</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">The Metro</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>67521</id>
+          <type id="99">TEI Document Reference</type>
+          <title>The Metro</title>
+          <added>2012-01-05 13:32:25</added>
+          <modified>2012-01-05 13:32:25</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">The Metro</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>66805</id>
+              <type id="98">XML Document</type>
+              <title>Kings Cross</title>
+              <added>2011-12-16 10:39:11</added>
+              <modified>2013-02-08 07:49:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8265</id>
+                  <nonce>5e8464a7be65c5694a51ddd63d3ef3010d84614e</nonce>
+                  <origName>Kings+Cross.xml</origName>
+                  <type>application/xml</type>
+                  <size>170.4 kb</size>
+                  <date>2013-02-08 07:49:33</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Kings%2BCross.xml?file_id=5e8464a7be65c5694a51ddd63d3ef3010d84614e</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5e8464a7be65c5694a51ddd63d3ef3010d84614e</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Kings Cross</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Kings Cross exists in Sydney's imagination as much as it does in any physical form, and pinning down its geographical boundaries is difficult. It has loomed large in Sydney's culture since the first houses were built nearby in the 1830s, and continues to attract tourists and Sydneysiders alike.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-12-16</raw>
+                <year>2011</year>
+                <month>12</month>
+                <day>16</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1761</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,8</detail>
+          <detail id="329" type="Start Word" name="Start Word">10</detail>
+          <detail id="330" type="End Word" name="End Word">11</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>67522</id>
+          <type id="150">Factoid</type>
+          <title>The Metro, Name, Alternate</title>
+          <added>2012-01-05 13:33:48</added>
+          <modified>2012-01-05 13:33:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Minerva theatre</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1939</raw>
+            <year>1939</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1952</raw>
+            <year>1952</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>67523</id>
+          <type id="150">Factoid</type>
+          <title>The Metro, Type, Theatre</title>
+          <added>2012-01-05 13:34:11</added>
+          <modified>2012-01-05 13:34:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7112</id>
+              <type id="91">Role</type>
+              <title>Theatre</title>
+              <added>2009-06-10 15:56:32</added>
+              <modified>2009-06-10 15:56:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>67524</id>
+          <type id="150">Factoid</type>
+          <title>The Metro, TimePlace</title>
+          <added>2012-01-05 13:36:48</added>
+          <modified>2012-01-05 13:36:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.22435762733 -33.871971123219)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67531</id>
+          <type id="150">Factoid</type>
+          <title>Crick, Guy, Position, Architect, The Metro</title>
+          <added>2012-01-05 13:47:11</added>
+          <modified>2012-01-05 13:47:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67526</id>
+              <type id="151">Entity</type>
+              <title>Crick, Guy (Person)</title>
+              <added>2012-01-05 13:44:21</added>
+              <modified>2012-01-05 13:56:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Crick, Guy</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect responsible for many of the European modernist style theatres in Australia.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1938</raw>
+            <year>1938</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1938</raw>
+            <year>1938</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67532</id>
+          <type id="150">Factoid</type>
+          <title>Dellit, Charles Bruce, Position, Architect, The Metro</title>
+          <added>2012-01-05 13:48:05</added>
+          <modified>2012-01-05 13:53:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13418</id>
+              <type id="151">Entity</type>
+              <title>Dellit, Charles Bruce (Person)</title>
+              <added>2009-06-10 16:04:11</added>
+              <modified>2009-10-15 10:52:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dellit, Charles Bruce</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect who pioneered Art Deco style in Sydney, designing the Anzac War Memorial in Hyde Park and other important buildings.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1937</raw>
+            <year>1937</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1938</raw>
+            <year>1938</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67536</id>
+          <type id="150">Factoid</type>
+          <title>Ward, Dudley, Position, Architect, The Metro</title>
+          <added>2012-01-05 13:52:33</added>
+          <modified>2012-01-05 14:14:57</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67533</id>
+              <type id="151">Entity</type>
+              <title>Ward, Dudley (Person)</title>
+              <added>2012-01-05 13:51:29</added>
+              <modified>2012-01-05 13:51:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Ward, Dudley</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect influenced by German architecture when designing European Modernist style theatres in Australia.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1938</raw>
+            <year>1938</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1938</raw>
+            <year>1938</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67541</id>
+          <type id="150">Factoid</type>
+          <title>Furse, Bruce, Position, Architect, The Metro</title>
+          <added>2012-01-05 13:57:34</added>
+          <modified>2012-01-05 13:57:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67537</id>
+              <type id="151">Entity</type>
+              <title>Furse, Bruce (Person)</title>
+              <added>2012-01-05 13:55:29</added>
+              <modified>2012-01-05 13:55:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Furse, Bruce</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect who was strongly influenced by the European Modernist style.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1938</raw>
+            <year>1938</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1938</raw>
+            <year>1938</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67547</id>
+          <type id="150">Factoid</type>
+          <title>Metro-Goldwyn-Mayer, Property, Owned, The Metro</title>
+          <added>2012-01-05 14:12:01</added>
+          <modified>2012-01-05 14:12:01</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67544</id>
+              <type id="151">Entity</type>
+              <title>Metro-Goldwyn-Mayer (Organisation)</title>
+              <added>2012-01-05 14:06:12</added>
+              <modified>2012-01-05 14:06:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Metro-Goldwyn-Mayer</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Global film and theatrical production and distribution company.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1950</raw>
+            <year>1950</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1969</raw>
+            <year>1969</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67548</id>
+          <type id="150">Factoid</type>
+          <title>Martin, David, Property, Owned, The Metro</title>
+          <added>2012-01-05 14:13:19</added>
+          <modified>2012-01-05 14:13:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14134</id>
+              <type id="151">Entity</type>
+              <title>Martin, David (Person)</title>
+              <added>2009-06-10 16:04:16</added>
+              <modified>2010-11-04 12:14:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Martin, David</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre entrepreneur who often faced protests for replacing Australian performers with overseas artists.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1939</raw>
+            <year>1939</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1950</raw>
+            <year>1950</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>67556</id>
+          <type id="150">Factoid</type>
+          <title>Kennedy Miller Mitchell Productions, Property, Owned, The Metro</title>
+          <added>2012-01-05 14:28:16</added>
+          <modified>2012-01-05 14:28:16</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>67553</id>
+              <type id="151">Entity</type>
+              <title>Kennedy Miller Mitchell Productions (Organisation)</title>
+              <added>2012-01-05 14:26:15</added>
+              <modified>2012-01-05 14:26:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Kennedy Miller Mitchell Productions</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">Film production company and software developer.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>67520</id>
+              <type id="151">Entity</type>
+              <title>The Metro (Building)</title>
+              <added>2012-01-05 13:32:05</added>
+              <modified>2012-01-05 13:35:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">The Metro</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre and offices built in Art Deco style as a live entertainment complex. It is now used as an office and recording facility.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1982</raw>
+            <year>1982</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

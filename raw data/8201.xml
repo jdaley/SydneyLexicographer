@@ -1,0 +1,788 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8201" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:29:02+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8201</id>
+      <type id="151">Entity</type>
+      <title>David Jones store Elizabeth Street (Building)</title>
+      <added>2009-06-10 15:58:46</added>
+      <modified>2010-08-16 16:01:18</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>25384</id>
+          <type id="99">TEI Document Reference</type>
+          <title>David Jones store Elizabeth Street</title>
+          <added>2009-09-17 11:35:40</added>
+          <modified>2009-09-17 11:35:40</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8201</id>
+              <type id="151">Entity</type>
+              <title>David Jones store Elizabeth Street (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-08-16 16:01:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>624</id>
+              <type id="98">XML Document</type>
+              <title>Transport</title>
+              <added>2008-10-22 13:12:45</added>
+              <modified>2009-09-17 12:08:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1249</id>
+                  <nonce>62f8e544e8522d2c25739cd58342e1f862ef8217</nonce>
+                  <origName>Transport.xml</origName>
+                  <type>application/xml</type>
+                  <size>156.8 kb</size>
+                  <date>2009-04-23 11:24:26</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Transport.xml?file_id=62f8e544e8522d2c25739cd58342e1f862ef8217</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=62f8e544e8522d2c25739cd58342e1f862ef8217</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Transport</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Sydney's transport has been shaped by the geography of the city, changing economic and social needs, technological limitations and advances, and political considerations. From walking tracks and animal haulage to the commuting city of today, transport has also shaped the city itself, opening up new areas and choking others. Carts, ferries, trains, trams, buses and cars have all figured in Sydney's transport history.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2858</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">14,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">79</detail>
+          <detail id="330" type="End Word" name="End Word">80</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>37565</id>
+          <type id="99">TEI Document Reference</type>
+          <title>David Jones store Elizabeth Street</title>
+          <added>2009-11-30 11:26:50</added>
+          <modified>2009-11-30 11:26:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8201</id>
+              <type id="151">Entity</type>
+              <title>David Jones store Elizabeth Street (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-08-16 16:01:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>312</id>
+              <type id="98">XML Document</type>
+              <title>Education</title>
+              <added>2008-10-22 13:11:56</added>
+              <modified>2010-11-05 10:24:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4002</id>
+                  <nonce>443f7c0ba33de6bb1280fce01a54fde89bca7852</nonce>
+                  <origName>Education.xml</origName>
+                  <type>application/xml</type>
+                  <size>364.4 kb</size>
+                  <date>2010-11-05 10:24:40</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Education.xml?file_id=443f7c0ba33de6bb1280fce01a54fde89bca7852</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=443f7c0ba33de6bb1280fce01a54fde89bca7852</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Education</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Education in Sydney started with Aboriginal society and the everyday learning and formal initiation of young Aboriginal people. Institutionalised education came with the Europeans, who first created schools for convicts' children, and later for the children of the new gentry and middle classes. Sydney became the centre of education in the colony, with a university, and eventually in 1880, universal education throughout the suburbs of the growing city.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2959</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">35</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">25</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">7,8</detail>
+          <detail id="329" type="Start Word" name="Start Word">33</detail>
+          <detail id="330" type="End Word" name="End Word">34</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8202</id>
+          <type id="150">Factoid</type>
+          <title>David Jones store Elizabeth Street, Type, Department store</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8201</id>
+              <type id="151">Entity</type>
+              <title>David Jones store Elizabeth Street (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-08-16 16:01:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6933</id>
+              <type id="91">Role</type>
+              <title>Department store</title>
+              <added>2009-06-10 15:56:00</added>
+              <modified>2009-06-10 15:56:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Department store</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>42047</id>
+          <type id="150">Factoid</type>
+          <title>David Jones store Elizabeth Street, Milestone, Constructed</title>
+          <added>2010-08-16 16:00:53</added>
+          <modified>2010-08-16 16:00:53</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8201</id>
+              <type id="151">Entity</type>
+              <title>David Jones store Elizabeth Street (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-08-16 16:01:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1927</raw>
+            <year>1927</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1927</raw>
+            <year>1927</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51645</id>
+          <type id="150">Factoid</type>
+          <title>David Jones store Elizabeth Street, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:21</added>
+          <modified>2011-02-16 16:03:16</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8201</id>
+              <type id="151">Entity</type>
+              <title>David Jones store Elizabeth Street (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-08-16 16:01:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20997963398 -33.870512287776)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>89457</id>
+          <type id="52">Record relationship</type>
+          <title>(89453 isOf 8201)</title>
+          <added>2013-02-13 15:04:58</added>
+          <modified>2013-02-13 15:04:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>89453</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Statue of Queen Victoria at Queens Square c1975</title>
+              <added>2013-02-13 15:00:15</added>
+              <modified>2013-02-13 15:03:09</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>8277</id>
+                  <nonce>d01d0394becc48483951cd28c237b89f81e269ef</nonce>
+                  <origName>CoSA_037184.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>657 kb</size>
+                  <date>2013-02-13 14:57:43</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037184.jpg?file_id=d01d0394becc48483951cd28c237b89f81e269ef</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d01d0394becc48483951cd28c237b89f81e269ef</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Statue of Queen Victoria at Queens Square c1975</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2013-02-13</raw>
+                <year>2013</year>
+                <month>2</month>
+                <day>13</day>
+              </detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1974</raw>
+                <year>1974</year>
+              </detail>
+              <detail id="178" type="End Date" name="dc.coverage.finish">
+                <raw>1976</raw>
+                <year>1976</year>
+              </detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4755</id>
+                  <type id="153">Contributor</type>
+                  <title>City of Sydney Archives</title>
+                  <added>2009-03-24 10:55:13</added>
+                  <modified>2009-10-29 10:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">City of Sydney Archives</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.cityofsydney.nsw.gov.au/AboutSydney/HistoryAndArchives/Archives/Default.asp</detail>
+                </record>
+              </detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">018\018979</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC10782</detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>87908</id>
+                  <type id="151">Entity</type>
+                  <title>Statue of Queen Victoria, Queens Square (Structure)</title>
+                  <added>2013-01-24 13:59:20</added>
+                  <modified>2013-02-13 15:06:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Statue of Queen Victoria, Queens Square</detail>
+                  <detail id="523" type="Entity type" name="dc.type">Structure</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Statue commissioned in London and installed in Queens Square in 1888 and seen as an idealised representation of the Queen later in life.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">89453</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>89454</id>
+                  <type id="52">Record relationship</type>
+                  <title>(89453 isOf 58664)</title>
+                  <added>2013-02-13 15:03:23</added>
+                  <modified>2013-02-13 15:03:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>89453</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Statue of Queen Victoria at Queens Square c1975</title>
+                      <added>2013-02-13 15:00:15</added>
+                      <modified>2013-02-13 15:03:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8277</id>
+                          <nonce>d01d0394becc48483951cd28c237b89f81e269ef</nonce>
+                          <origName>CoSA_037184.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>657 kb</size>
+                          <date>2013-02-13 14:57:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037184.jpg?file_id=d01d0394becc48483951cd28c237b89f81e269ef</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d01d0394becc48483951cd28c237b89f81e269ef</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Statue of Queen Victoria at Queens Square c1975</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-02-13</raw>
+                        <year>2013</year>
+                        <month>2</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1974</raw>
+                        <year>1974</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1976</raw>
+                        <year>1976</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">018\018979</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC10782</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>58664</id>
+                      <type id="151">Entity</type>
+                      <title>Queens Square (Place)</title>
+                      <added>2011-06-30 15:52:40</added>
+                      <modified>2012-09-13 09:29:30</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Queens Square</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Public square at the junction of Macquarie and King streets containing a statue of Queen Victoria.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">80923</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>89455</id>
+                  <type id="52">Record relationship</type>
+                  <title>(89453 isOf 87908)</title>
+                  <added>2013-02-13 15:03:55</added>
+                  <modified>2013-02-13 15:03:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>89453</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Statue of Queen Victoria at Queens Square c1975</title>
+                      <added>2013-02-13 15:00:15</added>
+                      <modified>2013-02-13 15:03:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8277</id>
+                          <nonce>d01d0394becc48483951cd28c237b89f81e269ef</nonce>
+                          <origName>CoSA_037184.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>657 kb</size>
+                          <date>2013-02-13 14:57:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037184.jpg?file_id=d01d0394becc48483951cd28c237b89f81e269ef</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d01d0394becc48483951cd28c237b89f81e269ef</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Statue of Queen Victoria at Queens Square c1975</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-02-13</raw>
+                        <year>2013</year>
+                        <month>2</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1974</raw>
+                        <year>1974</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1976</raw>
+                        <year>1976</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">018\018979</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC10782</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>87908</id>
+                      <type id="151">Entity</type>
+                      <title>Statue of Queen Victoria, Queens Square (Structure)</title>
+                      <added>2013-01-24 13:59:20</added>
+                      <modified>2013-02-13 15:06:01</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Statue of Queen Victoria, Queens Square</detail>
+                      <detail id="523" type="Entity type" name="dc.type">Structure</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Statue commissioned in London and installed in Queens Square in 1888 and seen as an idealised representation of the Queen later in life.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">89453</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>89456</id>
+                  <type id="52">Record relationship</type>
+                  <title>(89453 isOf 8853)</title>
+                  <added>2013-02-13 15:04:35</added>
+                  <modified>2013-02-13 15:04:35</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>89453</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Statue of Queen Victoria at Queens Square c1975</title>
+                      <added>2013-02-13 15:00:15</added>
+                      <modified>2013-02-13 15:03:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8277</id>
+                          <nonce>d01d0394becc48483951cd28c237b89f81e269ef</nonce>
+                          <origName>CoSA_037184.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>657 kb</size>
+                          <date>2013-02-13 14:57:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037184.jpg?file_id=d01d0394becc48483951cd28c237b89f81e269ef</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d01d0394becc48483951cd28c237b89f81e269ef</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Statue of Queen Victoria at Queens Square c1975</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-02-13</raw>
+                        <year>2013</year>
+                        <month>2</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1974</raw>
+                        <year>1974</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1976</raw>
+                        <year>1976</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">018\018979</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC10782</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8853</id>
+                      <type id="151">Entity</type>
+                      <title>St James railway station (Building)</title>
+                      <added>2009-06-10 15:58:54</added>
+                      <modified>2010-09-15 10:35:00</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">St James railway station</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">City Circle line station on the edge of Hyde Park, which was a terminal station for 30 years until the completion of the City Circle with the opening of Circular Quay station in 1956. The station was first planned by JJC Bradfield in his 1915 plan for an electric underground railway loop in the city, but construction was delayed by World War I. Only two of its four tunnels have been used.</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+                <record>
+                  <id>89457</id>
+                  <type id="52">Record relationship</type>
+                  <title>(89453 isOf 8201)</title>
+                  <added>2013-02-13 15:04:58</added>
+                  <modified>2013-02-13 15:04:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>89453</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Statue of Queen Victoria at Queens Square c1975</title>
+                      <added>2013-02-13 15:00:15</added>
+                      <modified>2013-02-13 15:03:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8277</id>
+                          <nonce>d01d0394becc48483951cd28c237b89f81e269ef</nonce>
+                          <origName>CoSA_037184.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>657 kb</size>
+                          <date>2013-02-13 14:57:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037184.jpg?file_id=d01d0394becc48483951cd28c237b89f81e269ef</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d01d0394becc48483951cd28c237b89f81e269ef</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Statue of Queen Victoria at Queens Square c1975</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-02-13</raw>
+                        <year>2013</year>
+                        <month>2</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1974</raw>
+                        <year>1974</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1976</raw>
+                        <year>1976</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">018\018979</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC10782</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8201</id>
+                      <type id="151">Entity</type>
+                      <title>David Jones store Elizabeth Street (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-08-16 16:01:18</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8201</id>
+              <type id="151">Entity</type>
+              <title>David Jones store Elizabeth Street (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-08-16 16:01:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>25384</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>David Jones store Elizabeth Street</title>
+                  <added>2009-09-17 11:35:40</added>
+                  <modified>2009-09-17 11:35:40</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+                  <detail id="199" type="Resource" name="target">8201</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">624</detail>
+                  <detail id="539" type="Start Element" name="Start Element">14,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">79</detail>
+                  <detail id="330" type="End Word" name="End Word">80</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>37565</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>David Jones store Elizabeth Street</title>
+                  <added>2009-11-30 11:26:50</added>
+                  <modified>2009-11-30 11:26:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+                  <detail id="199" type="Resource" name="target">8201</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">312</detail>
+                  <detail id="539" type="Start Element" name="Start Element">7,8</detail>
+                  <detail id="329" type="Start Word" name="Start Word">33</detail>
+                  <detail id="330" type="End Word" name="End Word">34</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8202</id>
+                  <type id="150">Factoid</type>
+                  <title>David Jones store Elizabeth Street, Type, Department store</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8201</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6933</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>42047</id>
+                  <type id="150">Factoid</type>
+                  <title>David Jones store Elizabeth Street, Milestone, Constructed</title>
+                  <added>2010-08-16 16:00:53</added>
+                  <modified>2010-08-16 16:00:53</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8201</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1927</raw>
+                    <year>1927</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1927</raw>
+                    <year>1927</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51645</id>
+                  <type id="150">Factoid</type>
+                  <title>David Jones store Elizabeth Street, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:50:21</added>
+                  <modified>2011-02-16 16:03:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8201</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20997963398 -33.870512287776)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>89457</id>
+                  <type id="52">Record relationship</type>
+                  <title>(89453 isOf 8201)</title>
+                  <added>2013-02-13 15:04:58</added>
+                  <modified>2013-02-13 15:04:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>89453</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Statue of Queen Victoria at Queens Square c1975</title>
+                      <added>2013-02-13 15:00:15</added>
+                      <modified>2013-02-13 15:03:09</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>8277</id>
+                          <nonce>d01d0394becc48483951cd28c237b89f81e269ef</nonce>
+                          <origName>CoSA_037184.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>657 kb</size>
+                          <date>2013-02-13 14:57:43</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/CoSA_037184.jpg?file_id=d01d0394becc48483951cd28c237b89f81e269ef</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d01d0394becc48483951cd28c237b89f81e269ef</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Statue of Queen Victoria at Queens Square c1975</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2013-02-13</raw>
+                        <year>2013</year>
+                        <month>2</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1974</raw>
+                        <year>1974</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1976</raw>
+                        <year>1976</year>
+                      </detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4755</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">018\018979</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">SRC10782</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8201</id>
+                      <type id="151">Entity</type>
+                      <title>David Jones store Elizabeth Street (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-08-16 16:01:18</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">David Jones store Elizabeth Street</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Retail department store near St James station.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Elizabeth Street, Sydney</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

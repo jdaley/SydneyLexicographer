@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:73459" w="a" depth="2" />
+  <dateStamp>2013-02-17T06:27:29+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>73459</id>
+      <type id="151">Entity</type>
+      <title>Liverpool Hospital (Building)</title>
+      <added>2012-03-15 09:13:20</added>
+      <modified>2012-03-15 09:13:20</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>73460</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Liverpool Hospital</title>
+          <added>2012-03-15 09:13:30</added>
+          <modified>2012-03-15 09:13:30</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>73459</id>
+              <type id="151">Entity</type>
+              <title>Liverpool Hospital (Building)</title>
+              <added>2012-03-15 09:13:20</added>
+              <modified>2012-03-15 09:13:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>3935</id>
+              <type id="98">XML Document</type>
+              <title>Benevolent Society and Asylum</title>
+              <added>2008-12-03 11:40:19</added>
+              <modified>2012-03-15 13:16:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7369</id>
+                  <nonce>c885dd1b65a537d0da195a377d8ed1a5c2343c9d</nonce>
+                  <origName>Benevolent+Society+and+Asylum.xml</origName>
+                  <type>application/xml</type>
+                  <size>75.7 kb</size>
+                  <date>2012-03-15 13:16:28</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Benevolent%2BSociety%2Band%2BAsylum.xml?file_id=c885dd1b65a537d0da195a377d8ed1a5c2343c9d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c885dd1b65a537d0da195a377d8ed1a5c2343c9d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Benevolent Society and Asylum</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Benevolent Society, and the asylum (and later hospitals, clinics and aged care centres) it ran, provided care and sustenance to Sydney's poorest from the 1820s. Although it was founded under the auspices of the Colonial Auxiliary Bible Society, it gradually became a secular, independent non-profit organisation.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-12-03</raw>
+                <year>2008</year>
+                <month>12</month>
+                <day>3</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1148</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">123</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">23</detail>
+          <detail id="330" type="End Word" name="End Word">24</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>73461</id>
+          <type id="150">Factoid</type>
+          <title>Liverpool Hospital, Milestone, Constructed</title>
+          <added>2012-03-15 09:15:27</added>
+          <modified>2012-03-15 09:15:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>73459</id>
+              <type id="151">Entity</type>
+              <title>Liverpool Hospital (Building)</title>
+              <added>2012-03-15 09:13:20</added>
+              <modified>2012-03-15 09:13:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1813</raw>
+            <year>1813</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1813</raw>
+            <year>1813</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>73462</id>
+          <type id="150">Factoid</type>
+          <title>Liverpool Hospital, Milestone, Demolished</title>
+          <added>2012-03-15 09:16:09</added>
+          <modified>2012-03-15 09:16:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>73459</id>
+              <type id="151">Entity</type>
+              <title>Liverpool Hospital (Building)</title>
+              <added>2012-03-15 09:13:20</added>
+              <modified>2012-03-15 09:13:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>26675</id>
+              <type id="91">Role</type>
+              <title>Demolished</title>
+              <added>2009-09-29 13:16:21</added>
+              <modified>2009-09-29 13:16:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Demolished</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1822</raw>
+            <year>1822</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1822</raw>
+            <year>1822</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>73463</id>
+          <type id="150">Factoid</type>
+          <title>Liverpool Hospital, Milestone, Constructed</title>
+          <added>2012-03-15 09:16:40</added>
+          <modified>2012-03-15 09:16:40</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>73459</id>
+              <type id="151">Entity</type>
+              <title>Liverpool Hospital (Building)</title>
+              <added>2012-03-15 09:13:20</added>
+              <modified>2012-03-15 09:13:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1822</raw>
+            <year>1822</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1825</raw>
+            <year>1825</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>73464</id>
+          <type id="150">Factoid</type>
+          <title>Benevolent Society of New South Wales, Property, Occupied, Liverpool Hospital</title>
+          <added>2012-03-15 09:17:27</added>
+          <modified>2012-03-15 09:19:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>10342</id>
+              <type id="151">Entity</type>
+              <title>Benevolent Society of New South Wales (Organisation)</title>
+              <added>2009-06-10 16:02:45</added>
+              <modified>2009-10-19 12:49:51</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Benevolent Society of New South Wales</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+              <detail id="191" type="Extended description" name="dc.description">An early charitable society, founded in 1818, that became one of Sydney's largest health and welfare providers.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>24934</id>
+              <type id="91">Role</type>
+              <title>Occupied</title>
+              <added>2009-09-07 15:25:16</added>
+              <modified>2011-06-16 14:43:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Occupied</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Occupied by</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Commonly pertains to an organisation occupying a site.</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>73459</id>
+              <type id="151">Entity</type>
+              <title>Liverpool Hospital (Building)</title>
+              <added>2012-03-15 09:13:20</added>
+              <modified>2012-03-15 09:13:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1852</raw>
+            <year>1852</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1918</raw>
+            <year>1918</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>73465</id>
+          <type id="150">Factoid</type>
+          <title>Greenway, Francis, Position, Architect, Liverpool Hospital</title>
+          <added>2012-03-15 09:20:42</added>
+          <modified>2012-03-15 09:20:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13674</id>
+              <type id="151">Entity</type>
+              <title>Greenway, Francis (Person)</title>
+              <added>2009-06-10 16:04:13</added>
+              <modified>2009-06-29 17:51:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Greenway, Francis</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">English-born architect transported to Australia for forgery who became an iconic colonial architect under the patronage of Governor Lachlan Macquarie.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">19978</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>73459</id>
+              <type id="151">Entity</type>
+              <title>Liverpool Hospital (Building)</title>
+              <added>2012-03-15 09:13:20</added>
+              <modified>2012-03-15 09:13:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1821</raw>
+            <year>1821</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1821</raw>
+            <year>1821</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>73471</id>
+          <type id="150">Factoid</type>
+          <title>Liverpool Hospital, Type, Hospital or other Health organisation</title>
+          <added>2012-03-15 09:37:32</added>
+          <modified>2012-03-15 09:37:32</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>73459</id>
+              <type id="151">Entity</type>
+              <title>Liverpool Hospital (Building)</title>
+              <added>2012-03-15 09:13:20</added>
+              <modified>2012-03-15 09:13:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6975</id>
+              <type id="91">Role</type>
+              <title>Hospital or other health organisation</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2012-05-30 11:11:04</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hospital or other health organisation</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>73531</id>
+          <type id="150">Factoid</type>
+          <title>Liverpool Hospital, TimePlace</title>
+          <added>2012-03-15 13:14:12</added>
+          <modified>2012-03-15 13:14:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>73459</id>
+              <type id="151">Entity</type>
+              <title>Liverpool Hospital (Building)</title>
+              <added>2012-03-15 09:13:20</added>
+              <modified>2012-03-15 09:13:20</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Liverpool Hospital</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Tent hospital established in the 1790s beside the Georges River and replaced by first a brick then stone building. Currently in use as part of the TAFE campus.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(150.9297620952 -33.921813476499)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

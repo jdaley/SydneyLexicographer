@@ -1,0 +1,737 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:7957" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:14:08+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>7957</id>
+      <type id="151">Entity</type>
+      <title>Australia Square (Building)</title>
+      <added>2009-06-10 15:58:44</added>
+      <modified>2010-07-26 16:07:30</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>19218</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Australia Square</title>
+          <added>2009-06-16 11:31:58</added>
+          <modified>2009-06-16 11:31:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>7957</id>
+              <type id="151">Entity</type>
+              <title>Australia Square (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-07-26 16:07:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>227</id>
+              <type id="98">XML Document</type>
+              <title>Built environment</title>
+              <added>2008-10-22 13:11:42</added>
+              <modified>2012-07-26 10:18:50</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7812</id>
+                  <nonce>e767baa217e666e1de2605e88c0eb496a9ae5453</nonce>
+                  <origName>Built+environment.xml</origName>
+                  <type>application/xml</type>
+                  <size>151.1 kb</size>
+                  <date>2012-07-26 10:18:46</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Built%2Benvironment.xml?file_id=e767baa217e666e1de2605e88c0eb496a9ae5453</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e767baa217e666e1de2605e88c0eb496a9ae5453</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Built environment</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Built over tracks, campsites, rock art and middens used for thousands of years before the dispossession of the Aboriginal people, Sydney's early haphazard development was given form by public buildings. As public transport developed, suburbs spread,  and throughout the twentieth century, town planners struggled with developers to direct the form and extent of the city. After World War II, city buildings got taller, outer suburbs sprang up ever further away, and issues of heritage and architecture were contested. In the twenty-first century, concerns about environment, urban density, public transport and renewed infrastructure are driving change.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2973</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">100</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">29044</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">10,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">94</detail>
+          <detail id="330" type="End Word" name="End Word">95</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>7958</id>
+          <type id="150">Factoid</type>
+          <title>Australia Square, Type, Office block</title>
+          <added>2009-06-10 15:58:44</added>
+          <modified>2009-06-10 15:58:44</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7957</id>
+              <type id="151">Entity</type>
+              <title>Australia Square (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-07-26 16:07:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7021</id>
+              <type id="91">Role</type>
+              <title>Office block</title>
+              <added>2009-06-10 15:56:17</added>
+              <modified>2009-06-10 15:56:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Office block</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41479</id>
+          <type id="150">Factoid</type>
+          <title>Australia Square, Milestone, Constructed</title>
+          <added>2010-07-26 16:11:41</added>
+          <modified>2010-07-26 16:11:41</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7957</id>
+              <type id="151">Entity</type>
+              <title>Australia Square (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-07-26 16:07:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1965</raw>
+            <year>1965</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1967</raw>
+            <year>1967</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>47169</id>
+          <type id="150">Factoid</type>
+          <title>Nervi, Pier Luigi, Position, Engineer, Australia Square</title>
+          <added>2010-11-17 15:32:37</added>
+          <modified>2010-11-17 15:34:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>46527</id>
+              <type id="151">Entity</type>
+              <title>Nervi, Pier Luigi (Person)</title>
+              <added>2010-11-11 09:21:34</added>
+              <modified>2011-02-14 14:59:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Nervi, Pier Luigi</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Italian engineer and architect famous for his novel use of reinforced concrete.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>27795</id>
+              <type id="91">Role</type>
+              <title>Engineer</title>
+              <added>2009-10-06 15:26:23</added>
+              <modified>2009-10-06 15:26:23</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Engineer</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>7957</id>
+              <type id="151">Entity</type>
+              <title>Australia Square (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-07-26 16:07:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1967</raw>
+            <year>1967</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1967</raw>
+            <year>1967</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>47171</id>
+          <type id="150">Factoid</type>
+          <title>Seidler, Harry, Position, Architect, Australia Square</title>
+          <added>2010-11-17 15:33:52</added>
+          <modified>2010-11-17 15:33:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14622</id>
+              <type id="151">Entity</type>
+              <title>Seidler, Harry (Person)</title>
+              <added>2009-06-10 16:04:19</added>
+              <modified>2009-06-18 11:31:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Seidler, Harry</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Austrian-born architect of iconic residential and commercial buildings considered to have been one of the leading exponents of Modernism in Australia.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>7957</id>
+              <type id="151">Entity</type>
+              <title>Australia Square (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-07-26 16:07:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1967</raw>
+            <year>1967</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1967</raw>
+            <year>1967</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51706</id>
+          <type id="150">Factoid</type>
+          <title>Australia Square, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:21</added>
+          <modified>2011-02-16 16:03:08</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>7957</id>
+              <type id="151">Entity</type>
+              <title>Australia Square (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-07-26 16:07:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20822715493 -33.864973761076)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>71828</id>
+          <type id="52">Record relationship</type>
+          <title>(71827 isOf 7957)</title>
+          <added>2012-01-12 13:35:17</added>
+          <modified>2012-01-12 13:35:17</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>71827</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Revolving Summit Restaurant on 47th floor of 50 storey Australia Square tower 1968</title>
+              <added>2012-01-12 13:35:17</added>
+              <modified>2012-01-12 13:35:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-01-12</raw>
+                <year>2012</year>
+                <month>1</month>
+                <day>12</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Revolving Summit Restaurant on 47th floor of 50 storey Australia Square tower 1968</detail>
+              <detail id="365" type="Subject" name="dc.creator">Brindle, Bill</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1968</raw>
+                <year>1968</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4588731</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4588731</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4800</id>
+                  <type id="153">Contributor</type>
+                  <title>National Library of Australia</title>
+                  <added>2009-03-24 10:55:20</added>
+                  <modified>2012-03-21 11:24:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">National Library of Australia</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://catalogue.nla.gov.au</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">Items sourced from the NLA have persistent web addresses and, where they appear in Entries, further information can be accessed by clicking on the item identifier between the square brackets [].</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 14196
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>7152</id>
+                  <nonce>c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</nonce>
+                  <origName>nla.pic-vn4588731-v.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>46.9 kb</size>
+                  <date>2012-01-12 13:35:17</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4588731-v.jpg?file_id=c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>63466</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>other</title>
+                  <added>2011-09-15 14:18:28</added>
+                  <modified>2012-05-16 10:10:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">55603</detail>
+                  <detail id="199" type="Resource" name="target">71827</detail>
+                  <detail id="160" type="Title" name="dc.title">other</detail>
+                  <detail id="191" type="Extended description" name="caption">As international tourism increased, Sydney was increasingly promoted as a place of pleasure and spectacle.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">15,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">3</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>71828</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71827 isOf 7957)</title>
+                  <added>2012-01-12 13:35:17</added>
+                  <modified>2012-01-12 13:35:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71827</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Revolving Summit Restaurant on 47th floor of 50 storey Australia Square tower 1968</title>
+                      <added>2012-01-12 13:35:17</added>
+                      <modified>2012-01-12 13:35:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Revolving Summit Restaurant on 47th floor of 50 storey Australia Square tower 1968</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Brindle, Bill</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1968</raw>
+                        <year>1968</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4588731</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4588731</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14196
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7152</id>
+                          <nonce>c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</nonce>
+                          <origName>nla.pic-vn4588731-v.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>46.9 kb</size>
+                          <date>2012-01-12 13:35:17</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4588731-v.jpg?file_id=c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>7957</id>
+                      <type id="151">Entity</type>
+                      <title>Australia Square (Building)</title>
+                      <added>2009-06-10 15:58:44</added>
+                      <modified>2010-07-26 16:07:30</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>84598</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71827 hasSubject 6195)</title>
+                  <added>2012-10-30 15:09:01</added>
+                  <modified>2012-10-30 15:09:01</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71827</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Revolving Summit Restaurant on 47th floor of 50 storey Australia Square tower 1968</title>
+                      <added>2012-01-12 13:35:17</added>
+                      <modified>2012-01-12 13:35:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Revolving Summit Restaurant on 47th floor of 50 storey Australia Square tower 1968</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Brindle, Bill</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1968</raw>
+                        <year>1968</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4588731</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4588731</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14196
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7152</id>
+                          <nonce>c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</nonce>
+                          <origName>nla.pic-vn4588731-v.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>46.9 kb</size>
+                          <date>2012-01-12 13:35:17</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4588731-v.jpg?file_id=c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6195</id>
+                      <type id="152">Term</type>
+                      <title>Restaurants and Cafes</title>
+                      <added>2009-05-25 14:56:55</added>
+                      <modified>2009-05-25 14:56:55</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Restaurants and Cafes</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>7957</id>
+              <type id="151">Entity</type>
+              <title>Australia Square (Building)</title>
+              <added>2009-06-10 15:58:44</added>
+              <modified>2010-07-26 16:07:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>19218</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Australia Square</title>
+                  <added>2009-06-16 11:31:58</added>
+                  <modified>2009-06-16 11:31:58</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+                  <detail id="199" type="Resource" name="target">7957</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">227</detail>
+                  <detail id="539" type="Start Element" name="Start Element">10,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">94</detail>
+                  <detail id="330" type="End Word" name="End Word">95</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>7958</id>
+                  <type id="150">Factoid</type>
+                  <title>Australia Square, Type, Office block</title>
+                  <added>2009-06-10 15:58:44</added>
+                  <modified>2009-06-10 15:58:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">7957</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7021</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>41479</id>
+                  <type id="150">Factoid</type>
+                  <title>Australia Square, Milestone, Constructed</title>
+                  <added>2010-07-26 16:11:41</added>
+                  <modified>2010-07-26 16:11:41</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">7957</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1965</raw>
+                    <year>1965</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1967</raw>
+                    <year>1967</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>47169</id>
+                  <type id="150">Factoid</type>
+                  <title>Nervi, Pier Luigi, Position, Engineer, Australia Square</title>
+                  <added>2010-11-17 15:32:37</added>
+                  <modified>2010-11-17 15:34:12</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">46527</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">27795</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">7957</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1967</raw>
+                    <year>1967</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1967</raw>
+                    <year>1967</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>47171</id>
+                  <type id="150">Factoid</type>
+                  <title>Seidler, Harry, Position, Architect, Australia Square</title>
+                  <added>2010-11-17 15:33:52</added>
+                  <modified>2010-11-17 15:33:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">14622</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">5461</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">7957</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1967</raw>
+                    <year>1967</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1967</raw>
+                    <year>1967</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51706</id>
+                  <type id="150">Factoid</type>
+                  <title>Australia Square, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:51:21</added>
+                  <modified>2011-02-16 16:03:08</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">7957</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.20822715493 -33.864973761076)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>71828</id>
+                  <type id="52">Record relationship</type>
+                  <title>(71827 isOf 7957)</title>
+                  <added>2012-01-12 13:35:17</added>
+                  <modified>2012-01-12 13:35:17</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>71827</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Revolving Summit Restaurant on 47th floor of 50 storey Australia Square tower 1968</title>
+                      <added>2012-01-12 13:35:17</added>
+                      <modified>2012-01-12 13:35:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2012-01-12</raw>
+                        <year>2012</year>
+                        <month>1</month>
+                        <day>12</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Revolving Summit Restaurant on 47th floor of 50 storey Australia Square tower 1968</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Brindle, Bill</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1968</raw>
+                        <year>1968</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://nla.gov.au/nla.pic-vn4588731</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">nla.pic-vn4588731</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4800</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 14196
+P-DoS Notes: MM Export to Heuristos 14/12/11</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>7152</id>
+                          <nonce>c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</nonce>
+                          <origName>nla.pic-vn4588731-v.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>46.9 kb</size>
+                          <date>2012-01-12 13:35:17</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/nla.pic-vn4588731-v.jpg?file_id=c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c20b6dd7a14f47a05e1bd46e85b95c1bf95724c1</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>7957</id>
+                      <type id="151">Entity</type>
+                      <title>Australia Square (Building)</title>
+                      <added>2009-06-10 15:58:44</added>
+                      <modified>2010-07-26 16:07:30</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Australia Square</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Iconic cylindrical office building designed by Harry Seidler and Associates.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">264 George Street, Sydney</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

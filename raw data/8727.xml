@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8727" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:00:00+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8727</id>
+      <type id="151">Entity</type>
+      <title>Roseville Cinemas (Building)</title>
+      <added>2009-06-10 15:58:52</added>
+      <modified>2011-02-24 11:57:53</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Picture palace opened in 1919 in a hall on the Pacific Highway which remains one of the few suburban independent cinemas in Sydney.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">| Roseville Theatre | Roseville Cinema</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36795</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Roseville Cinemas</title>
+          <added>2009-11-23 10:56:47</added>
+          <modified>2009-11-23 10:56:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8727</id>
+              <type id="151">Entity</type>
+              <title>Roseville Cinemas (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2011-02-24 11:57:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Picture palace opened in 1919 in a hall on the Pacific Highway which remains one of the few suburban independent cinemas in Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Roseville Theatre | Roseville Cinema</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>541</id>
+              <type id="98">XML Document</type>
+              <title>Roseville</title>
+              <added>2008-10-22 13:12:32</added>
+              <modified>2009-10-20 10:26:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>95</id>
+                  <nonce>e88664c87956496f1456d4d735c9a2df849090aa</nonce>
+                  <origName>Roseville.xml</origName>
+                  <type>application/xml</type>
+                  <size>62.2 kb</size>
+                  <date>2008-10-24 10:49:00</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Roseville.xml?file_id=e88664c87956496f1456d4d735c9a2df849090aa</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e88664c87956496f1456d4d735c9a2df849090aa</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Roseville</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Guringai were traditional owners of the area that became Roseville, though grants were given to Europeans from the 1820s. Orchards and timber were important industries until the railway spurred subdivision and development from the 1890s. By the 1920s there was a thriving suburb with services, churches and schools.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2563</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">131</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">1</detail>
+          <detail id="330" type="End Word" name="End Word">2</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>37839</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Roseville Cinemas</title>
+          <added>2009-12-01 11:04:14</added>
+          <modified>2009-12-01 11:04:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8727</id>
+              <type id="151">Entity</type>
+              <title>Roseville Cinemas (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2011-02-24 11:57:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Picture palace opened in 1919 in a hall on the Pacific Highway which remains one of the few suburban independent cinemas in Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Roseville Theatre | Roseville Cinema</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>332</id>
+              <type id="98">XML Document</type>
+              <title>Film</title>
+              <added>2008-10-22 13:11:59</added>
+              <modified>2011-02-14 11:13:26</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4435</id>
+                  <nonce>7d84bc8b10787df7c13a59f62a7c73d82a9d4a4e</nonce>
+                  <origName>Film.xml</origName>
+                  <type>application/xml</type>
+                  <size>125.3 kb</size>
+                  <date>2011-02-14 11:13:18</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Film.xml?file_id=7d84bc8b10787df7c13a59f62a7c73d82a9d4a4e</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7d84bc8b10787df7c13a59f62a7c73d82a9d4a4e</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Film</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">From the Kinetoscope Parlour set up in Sydney in 1894 and visited by 22,000 people in five weeks, to the latest Hollywood blockbuster filmed in Sydney's streets, film has been part of Sydney's story. Filmmakers have presented many different images of the city and its diverse inhabitants.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2979</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">114</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">41</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">11,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">82</detail>
+          <detail id="330" type="End Word" name="End Word">83</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8728</id>
+          <type id="150">Factoid</type>
+          <title>Roseville Cinemas, Type, Theatre</title>
+          <added>2009-06-10 15:58:52</added>
+          <modified>2009-06-10 15:58:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8727</id>
+              <type id="151">Entity</type>
+              <title>Roseville Cinemas (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2011-02-24 11:57:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Picture palace opened in 1919 in a hall on the Pacific Highway which remains one of the few suburban independent cinemas in Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Roseville Theatre | Roseville Cinema</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7112</id>
+              <type id="91">Role</type>
+              <title>Theatre</title>
+              <added>2009-06-10 15:56:32</added>
+              <modified>2009-06-10 15:56:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Theatre</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8729</id>
+          <type id="150">Factoid</type>
+          <title>Roseville Cinemas, Name, Alternate</title>
+          <added>2009-06-10 15:58:52</added>
+          <modified>2009-06-10 15:58:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8727</id>
+              <type id="151">Entity</type>
+              <title>Roseville Cinemas (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2011-02-24 11:57:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Picture palace opened in 1919 in a hall on the Pacific Highway which remains one of the few suburban independent cinemas in Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Roseville Theatre | Roseville Cinema</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Roseville Theatre</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8730</id>
+          <type id="150">Factoid</type>
+          <title>Roseville Cinemas, Name, Alternate</title>
+          <added>2009-06-10 15:58:52</added>
+          <modified>2009-06-10 15:58:52</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8727</id>
+              <type id="151">Entity</type>
+              <title>Roseville Cinemas (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2011-02-24 11:57:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Picture palace opened in 1919 in a hall on the Pacific Highway which remains one of the few suburban independent cinemas in Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Roseville Theatre | Roseville Cinema</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Roseville Cinema</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>36796</id>
+          <type id="150">Factoid</type>
+          <title>Roseville Cinemas, Name, Alternate</title>
+          <added>2009-11-23 10:58:10</added>
+          <modified>2009-11-23 10:58:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8727</id>
+              <type id="151">Entity</type>
+              <title>Roseville Cinemas (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2011-02-24 11:57:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Picture palace opened in 1919 in a hall on the Pacific Highway which remains one of the few suburban independent cinemas in Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Roseville Theatre | Roseville Cinema</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Traynor's Picture Palace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51693</id>
+          <type id="150">Factoid</type>
+          <title>Roseville Cinemas, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:14</added>
+          <modified>2011-02-16 16:03:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8727</id>
+              <type id="151">Entity</type>
+              <title>Roseville Cinemas (Building)</title>
+              <added>2009-06-10 15:58:52</added>
+              <modified>2011-02-24 11:57:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Roseville Cinemas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Picture palace opened in 1919 in a hall on the Pacific Highway which remains one of the few suburban independent cinemas in Sydney.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Roseville Theatre | Roseville Cinema</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.17610441676 -33.784025058426)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

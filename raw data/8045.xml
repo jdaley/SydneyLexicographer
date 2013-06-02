@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8045" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:19:25+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8045</id>
+      <type id="151">Entity</type>
+      <title>Burton Street Baptist Tabernacle (Building)</title>
+      <added>2009-06-10 15:58:45</added>
+      <modified>2010-08-02 16:11:15</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Baptist church, where Arthur Stace was inspired to start writing 'Eternity' on Sydney streets, which was a centre of Baptist evangelism until it closed in 1996. It has since been restored by the City of Sydney council for community use.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">Burton Street, Darlinghurst</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>33842</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Burton Street Baptist Tabernacle</title>
+          <added>2009-11-03 16:06:27</added>
+          <modified>2009-11-03 16:06:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8045</id>
+              <type id="151">Entity</type>
+              <title>Burton Street Baptist Tabernacle (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:11:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Baptist church, where Arthur Stace was inspired to start writing 'Eternity' on Sydney streets, which was a centre of Baptist evangelism until it closed in 1996. It has since been restored by the City of Sydney council for community use.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Burton Street, Darlinghurst</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>579</id>
+              <type id="98">XML Document</type>
+              <title>Stace, Arthur</title>
+              <added>2008-10-22 13:12:38</added>
+              <modified>2010-02-24 15:24:50</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3345</id>
+                  <nonce>2b64adba85b220a20dd38ba181e17b860a1fcdbd</nonce>
+                  <origName>Stace,+Arthur.xml</origName>
+                  <type>application/xml</type>
+                  <size>65.7 kb</size>
+                  <date>2010-02-24 15:24:46</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stace%2C%2BArthur.xml?file_id=2b64adba85b220a20dd38ba181e17b860a1fcdbd</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2b64adba85b220a20dd38ba181e17b860a1fcdbd</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Stace, Arthur</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">A former drunk who was converted to Christianity, Arthur Stace spent the rest of his life spreading the Gospel, and unobtrusively writing Eternity in chalk on pavements all over Sydney. The identity of the Eternity Man was a mystery for over twenty years. Eternity has since become part of Sydney's mythology and iconography.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1355</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">115</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">48</detail>
+          <detail id="330" type="End Word" name="End Word">51</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>36357</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Burton Street Baptist Tabernacle</title>
+          <added>2009-11-19 13:30:58</added>
+          <modified>2009-11-19 13:30:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8045</id>
+              <type id="151">Entity</type>
+              <title>Burton Street Baptist Tabernacle (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:11:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Baptist church, where Arthur Stace was inspired to start writing 'Eternity' on Sydney streets, which was a centre of Baptist evangelism until it closed in 1996. It has since been restored by the City of Sydney council for community use.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Burton Street, Darlinghurst</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>325</id>
+              <type id="98">XML Document</type>
+              <title>Eternity</title>
+              <added>2008-10-22 13:11:59</added>
+              <modified>2009-10-16 12:01:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>303</id>
+                  <nonce>e2584bc2e65cc8aaaaeaab7c36d98f4c4e25346d</nonce>
+                  <origName>Eternity.xml</origName>
+                  <type>application/xml</type>
+                  <size>48.9 kb</size>
+                  <date>2008-11-24 11:32:17</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Eternity.xml?file_id=e2584bc2e65cc8aaaaeaab7c36d98f4c4e25346d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e2584bc2e65cc8aaaaeaab7c36d98f4c4e25346d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Eternity</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Written in chalk on Sydney's pavements for decades by Arthur Stace, the word Eternity, in copperplate script, has become an icon of Sydney's popular culture, as well as its religious life.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2854</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">115</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">43</detail>
+          <detail id="330" type="End Word" name="End Word">46</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>38263</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Burton Street Baptist Tabernacle</title>
+          <added>2010-02-05 16:30:48</added>
+          <modified>2010-02-05 16:30:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8045</id>
+              <type id="151">Entity</type>
+              <title>Burton Street Baptist Tabernacle (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:11:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Baptist church, where Arthur Stace was inspired to start writing 'Eternity' on Sydney streets, which was a centre of Baptist evangelism until it closed in 1996. It has since been restored by the City of Sydney council for community use.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Burton Street, Darlinghurst</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>38081</id>
+              <type id="98">XML Document</type>
+              <title>Darlinghurst</title>
+              <added>2010-01-28 16:08:28</added>
+              <modified>2010-11-03 15:31:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3998</id>
+                  <nonce>a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</nonce>
+                  <origName>Darlinghurst.xml</origName>
+                  <type>application/xml</type>
+                  <size>153.7 kb</size>
+                  <date>2010-11-03 15:31:27</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Darlinghurst.xml?file_id=a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Darlinghurst</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Used by its traditional owners, the Gadigal people, well into the 1840s, Darlinghurst was a quarry and windmill site before it became popular for the fine villas of the colony's well-to-do, in the 1830s. Subsequent booms and busts raised and lowered the suburb's fortunes, creating the mix of poor and posh, criminal and respectable that have made Darlinghurst one of Sydney's most interesting localities.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1750</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,8</detail>
+          <detail id="329" type="Start Word" name="Start Word">85</detail>
+          <detail id="330" type="End Word" name="End Word">86</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8046</id>
+          <type id="150">Factoid</type>
+          <title>Burton Street Baptist Tabernacle, Type, Place of worship</title>
+          <added>2009-06-10 15:58:45</added>
+          <modified>2009-06-10 15:58:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8045</id>
+              <type id="151">Entity</type>
+              <title>Burton Street Baptist Tabernacle (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:11:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Baptist church, where Arthur Stace was inspired to start writing 'Eternity' on Sydney streets, which was a centre of Baptist evangelism until it closed in 1996. It has since been restored by the City of Sydney council for community use.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Burton Street, Darlinghurst</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41587</id>
+          <type id="150">Factoid</type>
+          <title>Burton Street Baptist Tabernacle, Milestone, Constructed</title>
+          <added>2010-08-02 16:11:45</added>
+          <modified>2010-08-02 16:11:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8045</id>
+              <type id="151">Entity</type>
+              <title>Burton Street Baptist Tabernacle (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:11:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Baptist church, where Arthur Stace was inspired to start writing 'Eternity' on Sydney streets, which was a centre of Baptist evangelism until it closed in 1996. It has since been restored by the City of Sydney council for community use.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Burton Street, Darlinghurst</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1887</raw>
+            <year>1887</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1887</raw>
+            <year>1887</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51472</id>
+          <type id="150">Factoid</type>
+          <title>Burton Street Baptist Tabernacle, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:45:58</added>
+          <modified>2011-02-16 16:03:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8045</id>
+              <type id="151">Entity</type>
+              <title>Burton Street Baptist Tabernacle (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2010-08-02 16:11:15</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Burton Street Baptist Tabernacle</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Baptist church, where Arthur Stace was inspired to start writing 'Eternity' on Sydney streets, which was a centre of Baptist evangelism until it closed in 1996. It has since been restored by the City of Sydney council for community use.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Burton Street, Darlinghurst</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.21607912056 -33.878661478241)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

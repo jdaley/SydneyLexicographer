@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:66452" w="a" depth="2" />
+  <dateStamp>2013-02-17T05:49:50+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>66452</id>
+      <type id="151">Entity</type>
+      <title>Willoughby Incinerator (Building)</title>
+      <added>2011-12-01 11:11:38</added>
+      <modified>2011-12-01 11:11:38</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Willoughby Incinerator</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Four level incinerator which achieved much higher efficiencies by moving the refuse down a sloping vibrating grate within the combustion chamber. The building has since been converted to office and studio space.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>66453</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Willoughby Incinerator</title>
+          <added>2011-12-01 11:12:11</added>
+          <modified>2011-12-01 11:12:11</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Willoughby Incinerator</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>66452</id>
+              <type id="151">Entity</type>
+              <title>Willoughby Incinerator (Building)</title>
+              <added>2011-12-01 11:11:38</added>
+              <modified>2011-12-01 11:11:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Willoughby Incinerator</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Four level incinerator which achieved much higher efficiencies by moving the refuse down a sloping vibrating grate within the combustion chamber. The building has since been converted to office and studio space.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>164</id>
+              <type id="98">XML Document</type>
+              <title>Artarmon</title>
+              <added>2008-10-22 13:11:32</added>
+              <modified>2010-05-31 15:40:01</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3388</id>
+                  <nonce>09cb416b7d130652bb2ad2e4e8717887041a70d1</nonce>
+                  <origName>Artarmon.xml</origName>
+                  <type>application/xml</type>
+                  <size>82.6 kb</size>
+                  <date>2010-05-31 15:39:57</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Artarmon.xml?file_id=09cb416b7d130652bb2ad2e4e8717887041a70d1</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=09cb416b7d130652bb2ad2e4e8717887041a70d1</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Artarmon</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cammeraygal country until the 1820s, Artarmon became an area of market gardens and orchards, gradually becoming more closely settled. By the end of the nineteenth century, brickmaking was established, and the railway line brought people and commercial development from 1890.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2599</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">102</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">6,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">56</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>66454</id>
+          <type id="150">Factoid</type>
+          <title>Griffin, Walter Burley, Position, Architect, Willoughby Incinerator</title>
+          <added>2011-12-01 11:12:43</added>
+          <modified>2011-12-01 11:12:43</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13684</id>
+              <type id="151">Entity</type>
+              <title>Griffin, Walter Burley (Person)</title>
+              <added>2009-06-10 16:04:13</added>
+              <modified>2009-06-18 11:31:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Griffin, Walter Burley</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">US-born architect and landscape architect best known for his role in designing Canberra and the Sydney suburb of Castlecrag.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>66452</id>
+              <type id="151">Entity</type>
+              <title>Willoughby Incinerator (Building)</title>
+              <added>2011-12-01 11:11:38</added>
+              <modified>2011-12-01 11:11:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Willoughby Incinerator</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Four level incinerator which achieved much higher efficiencies by moving the refuse down a sloping vibrating grate within the combustion chamber. The building has since been converted to office and studio space.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1933</raw>
+            <year>1933</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1934</raw>
+            <year>1934</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66455</id>
+          <type id="150">Factoid</type>
+          <title>Willoughby Incinerator, Milestone, Opened</title>
+          <added>2011-12-01 11:19:50</added>
+          <modified>2011-12-01 11:19:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>66452</id>
+              <type id="151">Entity</type>
+              <title>Willoughby Incinerator (Building)</title>
+              <added>2011-12-01 11:11:38</added>
+              <modified>2011-12-01 11:11:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Willoughby Incinerator</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Four level incinerator which achieved much higher efficiencies by moving the refuse down a sloping vibrating grate within the combustion chamber. The building has since been converted to office and studio space.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>42396</id>
+              <type id="91">Role</type>
+              <title>Opened</title>
+              <added>2010-08-20 11:33:48</added>
+              <modified>2010-08-20 11:34:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Opened</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1934</raw>
+            <year>1934</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1934</raw>
+            <year>1934</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66456</id>
+          <type id="150">Factoid</type>
+          <title>Willoughby Incinerator, Name, Alternate</title>
+          <added>2011-12-01 11:22:29</added>
+          <modified>2011-12-01 11:22:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>66452</id>
+              <type id="151">Entity</type>
+              <title>Willoughby Incinerator (Building)</title>
+              <added>2011-12-01 11:11:38</added>
+              <modified>2011-12-01 11:11:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Willoughby Incinerator</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Four level incinerator which achieved much higher efficiencies by moving the refuse down a sloping vibrating grate within the combustion chamber. The building has since been converted to office and studio space.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Willoughby Incinerator Art Space</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>2011</raw>
+            <year>2011</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>2011</raw>
+            <year>2011</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>66460</id>
+          <type id="150">Factoid</type>
+          <title>Willoughby Incinerator, TimePlace</title>
+          <added>2011-12-01 11:41:48</added>
+          <modified>2011-12-01 11:41:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>66452</id>
+              <type id="151">Entity</type>
+              <title>Willoughby Incinerator (Building)</title>
+              <added>2011-12-01 11:11:38</added>
+              <modified>2011-12-01 11:11:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Willoughby Incinerator</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Four level incinerator which achieved much higher efficiencies by moving the refuse down a sloping vibrating grate within the combustion chamber. The building has since been converted to office and studio space.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20177027582 -33.811949146705)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76153</id>
+          <type id="150">Factoid</type>
+          <title>Willoughby Incinerator, Type, Incinerator</title>
+          <added>2012-05-23 15:12:05</added>
+          <modified>2012-05-23 15:12:05</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>66452</id>
+              <type id="151">Entity</type>
+              <title>Willoughby Incinerator (Building)</title>
+              <added>2011-12-01 11:11:38</added>
+              <modified>2011-12-01 11:11:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Willoughby Incinerator</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Four level incinerator which achieved much higher efficiencies by moving the refuse down a sloping vibrating grate within the combustion chamber. The building has since been converted to office and studio space.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6979</id>
+              <type id="91">Role</type>
+              <title>Incinerator</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Incinerator</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

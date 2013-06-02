@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:76134" w="a" depth="2" />
+  <dateStamp>2013-02-17T07:09:21+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>76134</id>
+      <type id="151">Entity</type>
+      <title>St John's Anglican church Gordon (Building)</title>
+      <added>2012-05-23 12:59:25</added>
+      <modified>2012-05-23 12:59:25</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Church built in 1872 in Gordon, on Sydney's north shore.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76135</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St John's Anglican church Gordon</title>
+          <added>2012-05-23 12:59:34</added>
+          <modified>2012-05-23 12:59:34</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>76134</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Gordon (Building)</title>
+              <added>2012-05-23 12:59:25</added>
+              <modified>2012-05-23 12:59:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built in 1872 in Gordon, on Sydney's north shore.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>75088</id>
+              <type id="98">XML Document</type>
+              <title>West Pymble</title>
+              <added>2012-05-03 09:48:38</added>
+              <modified>2012-05-23 15:31:37</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7549</id>
+                  <nonce>4151e28f1fc111335b115f1336748d0ca1339c5b</nonce>
+                  <origName>West+Pymble.xml</origName>
+                  <type>application/xml</type>
+                  <size>326.8 kb</size>
+                  <date>2012-05-23 15:31:34</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/West%2BPymble.xml?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=4151e28f1fc111335b115f1336748d0ca1339c5b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">West Pymble</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">One of the later suburbs on Sydney's north shore, West Pymble remained semi-rural into the 1950s, with original settler families remaining important in the district. War service homes began changed things in the 1950s, bringing a whole new group into the bushland surroundings.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-05-03</raw>
+                <year>2012</year>
+                <month>5</month>
+                <day>3</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2576</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">75087</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">16,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">25</detail>
+          <detail id="330" type="End Word" name="End Word">29</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>76140</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St John's Anglican church Gordon</title>
+          <added>2012-05-23 13:03:36</added>
+          <modified>2012-05-23 13:03:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>76134</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Gordon (Building)</title>
+              <added>2012-05-23 12:59:25</added>
+              <modified>2012-05-23 12:59:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built in 1872 in Gordon, on Sydney's north shore.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>360</id>
+              <type id="98">XML Document</type>
+              <title>Gordon</title>
+              <added>2008-10-22 13:12:05</added>
+              <modified>2012-05-23 12:40:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Gordon</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditionally the land of the Kuringgai clan, Gordon grew around the railway station as businessmen sought fine vistas and spacious home sites with easy access to the city.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2557</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">131</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">54</detail>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7545</id>
+                  <nonce>9030933f31951b73506023e3350912e86ba14923</nonce>
+                  <origName>Gordon.xml</origName>
+                  <type>application/xml</type>
+                  <size>56.4 kb</size>
+                  <date>2012-05-23 12:40:48</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Gordon.xml?file_id=9030933f31951b73506023e3350912e86ba14923</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=9030933f31951b73506023e3350912e86ba14923</thumbURL>
+                </file>
+              </detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">18</detail>
+          <detail id="330" type="End Word" name="End Word">21</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76136</id>
+          <type id="150">Factoid</type>
+          <title>St John's Anglican church Gordon, Type, Place of worship</title>
+          <added>2012-05-23 13:00:49</added>
+          <modified>2012-05-23 13:00:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76134</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Gordon (Building)</title>
+              <added>2012-05-23 12:59:25</added>
+              <modified>2012-05-23 12:59:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built in 1872 in Gordon, on Sydney's north shore.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>76137</id>
+          <type id="150">Factoid</type>
+          <title>Blacket, Edmund, Position, Architect, St John's Anglican church Gordon</title>
+          <added>2012-05-23 13:01:31</added>
+          <modified>2012-05-23 13:01:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13023</id>
+              <type id="151">Entity</type>
+              <title>Blacket, Edmund (Person)</title>
+              <added>2009-06-10 16:04:08</added>
+              <modified>2009-10-15 10:52:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Blacket, Edmund</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Colonial Architect and designer of Sydney University and many public buildings.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>76134</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Gordon (Building)</title>
+              <added>2012-05-23 12:59:25</added>
+              <modified>2012-05-23 12:59:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built in 1872 in Gordon, on Sydney's north shore.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1872</raw>
+            <year>1872</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1872</raw>
+            <year>1872</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76138</id>
+          <type id="150">Factoid</type>
+          <title>St John's Anglican church Gordon, Milestone, Constructed</title>
+          <added>2012-05-23 13:02:10</added>
+          <modified>2012-05-23 13:02:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76134</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Gordon (Building)</title>
+              <added>2012-05-23 12:59:25</added>
+              <modified>2012-05-23 12:59:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built in 1872 in Gordon, on Sydney's north shore.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1872</raw>
+            <year>1872</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1872</raw>
+            <year>1872</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>76143</id>
+          <type id="150">Factoid</type>
+          <title>St John's Anglican church Gordon, TimePlace</title>
+          <added>2012-05-23 13:26:55</added>
+          <modified>2012-05-23 13:26:55</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>76134</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Gordon (Building)</title>
+              <added>2012-05-23 12:59:25</added>
+              <modified>2012-05-23 12:59:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Gordon</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church built in 1872 in Gordon, on Sydney's north shore.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1872</raw>
+            <year>1872</year>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.15255808822 -33.756992980601)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

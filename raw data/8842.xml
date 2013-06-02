@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8842" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:06:24+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8842</id>
+      <type id="151">Entity</type>
+      <title>St Ives Shopping Village (Building)</title>
+      <added>2009-06-10 15:58:54</added>
+      <modified>2009-06-10 15:58:54</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St Ives Shopping Village</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>34508</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St Ives Shopping Village</title>
+          <added>2009-11-06 14:44:39</added>
+          <modified>2009-11-06 14:44:39</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St Ives Shopping Village</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8842</id>
+              <type id="151">Entity</type>
+              <title>St Ives Shopping Village (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2009-06-10 15:58:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Ives Shopping Village</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>573</id>
+              <type id="98">XML Document</type>
+              <title>St Ives</title>
+              <added>2008-10-22 13:12:37</added>
+              <modified>2009-11-06 14:41:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3279</id>
+                  <nonce>40f5de666d6cc26d0a02467293918eda8bef8347</nonce>
+                  <origName>St Ives.xml</origName>
+                  <type>application/xml</type>
+                  <size>50.6 kb</size>
+                  <date>2009-11-06 14:41:55</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/St+Ives.xml?file_id=40f5de666d6cc26d0a02467293918eda8bef8347</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=40f5de666d6cc26d0a02467293918eda8bef8347</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">St Ives</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditional land of the Guringai people, the area that became St Ives was cleared by timber-getters, and later planted with orchards and market gardens. It remained rural until the 1950s, when immigration brought numbers of Italian, Jewish and later South African migrants. While housing density has increased, there are still areas of bushland in St Ives.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2566</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">54</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,15</detail>
+          <detail id="329" type="Start Word" name="Start Word">14</detail>
+          <detail id="330" type="End Word" name="End Word">17</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8843</id>
+          <type id="150">Factoid</type>
+          <title>St Ives Shopping Village, Type, Shopping centre or Retail</title>
+          <added>2009-06-10 15:58:54</added>
+          <modified>2009-06-10 15:58:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8842</id>
+              <type id="151">Entity</type>
+              <title>St Ives Shopping Village (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2009-06-10 15:58:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Ives Shopping Village</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7085</id>
+              <type id="91">Role</type>
+              <title>Shopping centre or retail premises</title>
+              <added>2009-06-10 15:56:29</added>
+              <modified>2012-05-30 11:16:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Shopping centre or retail premises</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51650</id>
+          <type id="150">Factoid</type>
+          <title>St Ives Shopping Village, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:50:30</added>
+          <modified>2011-02-16 16:03:28</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St Ives Shopping Village</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8842</id>
+              <type id="151">Entity</type>
+              <title>St Ives Shopping Village (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2009-06-10 15:58:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St Ives Shopping Village</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.158223 -33.730282)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

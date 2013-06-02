@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8223" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:30:30+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8223</id>
+      <type id="151">Entity</type>
+      <title>Dunbar House (Building)</title>
+      <added>2009-06-10 15:58:46</added>
+      <modified>2012-10-18 07:12:31</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>24801</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Dunbar House</title>
+          <added>2009-09-07 11:07:10</added>
+          <modified>2009-09-07 11:07:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>642</id>
+              <type id="98">XML Document</type>
+              <title>Watsons Bay</title>
+              <added>2008-10-22 13:12:49</added>
+              <modified>2009-09-07 12:05:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1620</id>
+                  <nonce>3437ba955edeeaaf43f0938c56dca98c1ab4e65b</nonce>
+                  <origName>Watsons Bay.xml</origName>
+                  <type>application/xml</type>
+                  <size>115.4 kb</size>
+                  <date>2009-05-27 15:58:44</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Watsons+Bay.xml?file_id=3437ba955edeeaaf43f0938c56dca98c1ab4e65b</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=3437ba955edeeaaf43f0938c56dca98c1ab4e65b</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Watsons Bay</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Known as Kutti to the Cadigal people, Watsons Bay became crucial to the early colony's maritime life, with the signal station, pilot station and lighthouses nearby. Fishing was important too. At the same time,  grand houses, hotels and public buildings were built for the upper classes. From the mid-nineteenth century, regular ferry services brought tourists and day-trippers to Watsons Bay's tea rooms, hotels and tourist attractions.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2030</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">111</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">5</detail>
+          <detail id="330" type="End Word" name="End Word">7</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8224</id>
+          <type id="150">Factoid</type>
+          <title>Dunbar House, Type, House</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8225</id>
+          <type id="150">Factoid</type>
+          <title>Dunbar House, Name, Alternate</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Zandvliet or Zandoliet</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8226</id>
+          <type id="150">Factoid</type>
+          <title>Dunbar House, Name, Alternate</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2012-10-18 06:56:21</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Marine Hotel</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1854</raw>
+            <year>1854</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1858</raw>
+            <year>1858</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>41733</id>
+          <type id="150">Factoid</type>
+          <title>Dunbar House, Milestone, Constructed</title>
+          <added>2010-08-09 15:11:29</added>
+          <modified>2010-08-09 15:11:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1837</raw>
+            <year>1837</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1837</raw>
+            <year>1837</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>83806</id>
+          <type id="150">Factoid</type>
+          <title>Dunbar House, TimePlace</title>
+          <added>2012-10-18 06:35:02</added>
+          <modified>2012-10-18 06:35:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.28202733396 -33.844484430687)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>83808</id>
+          <type id="150">Factoid</type>
+          <title>Campbell, Pieter Laurentz, Property, Owned, Dunbar House</title>
+          <added>2012-10-18 06:54:46</added>
+          <modified>2012-10-18 07:23:18</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13173</id>
+              <type id="151">Entity</type>
+              <title>Campbell, Pieter Laurentz (Person)</title>
+              <added>2009-06-10 16:04:09</added>
+              <modified>2009-10-15 10:53:00</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Campbell, Pieter Laurentz</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Magistrate and public servant who acted as Colonial Treasurer 1839-41.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1841</raw>
+            <year>1841</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>83809</id>
+          <type id="150">Factoid</type>
+          <title>Dunbar House, Name, Alternate</title>
+          <added>2012-10-18 07:04:50</added>
+          <modified>2012-10-18 07:25:04</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Greenwich Pier Hotel</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1859</raw>
+            <year>1859</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1860</raw>
+            <year>1860</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>83810</id>
+          <type id="150">Factoid</type>
+          <title>Dunbar House, Name, Alternate</title>
+          <added>2012-10-18 07:20:49</added>
+          <modified>2012-10-18 07:20:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Royal Hotel</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1907</raw>
+            <year>1907</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1923</raw>
+            <year>1923</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>83811</id>
+          <type id="150">Factoid</type>
+          <title>Dunbar House, Name, Alternate</title>
+          <added>2012-10-18 07:22:00</added>
+          <modified>2012-10-18 07:22:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6885</id>
+              <type id="91">Role</type>
+              <title>Alternate</title>
+              <added>2009-06-10 15:36:57</added>
+              <modified>2009-06-10 15:38:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Alternate</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Vaucluse Council Chambers</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1924</raw>
+            <year>1924</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1948</raw>
+            <year>1948</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>83812</id>
+          <type id="150">Factoid</type>
+          <title>Billing, Henry, Property, Owned, Dunbar House</title>
+          <added>2012-10-18 07:26:51</added>
+          <modified>2012-10-18 07:26:51</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13012</id>
+              <type id="151">Entity</type>
+              <title>Billing, Henry (Person)</title>
+              <added>2009-06-10 16:04:08</added>
+              <modified>2009-10-15 10:53:05</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Billing, Henry</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Publican in Watsons Bay in the mid-nineteenth century.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8223</id>
+              <type id="151">Entity</type>
+              <title>Dunbar House (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2012-10-18 07:12:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Dunbar House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">House built at Robertson Bay by Richard Siddon which was used as a hotel and Town Hall and is today used for weddings and private events.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Zandvliet or Zandoliet | Marine Hotel  
+Greenwich Pier Hotel  Royal Hotel  Fisherman's Hotel
+9 Marine Pde Watsons Bay</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1859</raw>
+            <year>1859</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1860</raw>
+            <year>1860</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

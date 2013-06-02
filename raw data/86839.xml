@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:86839" w="a" depth="2" />
+  <dateStamp>2013-02-17T08:23:24+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>86839</id>
+      <type id="151">Entity</type>
+      <title>Canonbury (Building)</title>
+      <added>2012-12-13 10:40:21</added>
+      <modified>2012-12-13 10:47:17</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Grand mansion built in the Gothic style which incorporated some of the 1840s cottage Lansdowne which had originally occupied the site on the tip of Darling Point. Later used as a hospital it was demolished in 1983 and the site became McKell Park.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>86840</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Canonbury</title>
+          <added>2012-12-13 10:40:31</added>
+          <modified>2012-12-13 10:40:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>86839</id>
+              <type id="151">Entity</type>
+              <title>Canonbury (Building)</title>
+              <added>2012-12-13 10:40:21</added>
+              <modified>2012-12-13 10:47:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand mansion built in the Gothic style which incorporated some of the 1840s cottage Lansdowne which had originally occupied the site on the tip of Darling Point. Later used as a hospital it was demolished in 1983 and the site became McKell Park.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>85526</id>
+              <type id="98">XML Document</type>
+              <title>Rickards, Kate</title>
+              <added>2012-11-15 14:59:19</added>
+              <modified>2013-02-07 14:04:48</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8262</id>
+                  <nonce>550882e3c4c7321d88bb4467f377d1cc16995027</nonce>
+                  <origName>Rickards+Kate.xml</origName>
+                  <type>application/xml</type>
+                  <size>83.4 kb</size>
+                  <date>2013-02-07 14:04:44</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Rickards%2BKate.xml?file_id=550882e3c4c7321d88bb4467f377d1cc16995027</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=550882e3c4c7321d88bb4467f377d1cc16995027</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Rickards, Kate</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Gymnast, singer and actress, Kate Rickards was a pillar of Sydney's theatrical establishment, along with her husband Harry Rickards.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-11-15</raw>
+                <year>2012</year>
+                <month>11</month>
+                <day>15</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3265</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">85512</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">11</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>86842</id>
+          <type id="150">Factoid</type>
+          <title>Canonbury, Type, House</title>
+          <added>2012-12-13 10:41:33</added>
+          <modified>2012-12-13 10:41:33</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>86839</id>
+              <type id="151">Entity</type>
+              <title>Canonbury (Building)</title>
+              <added>2012-12-13 10:40:21</added>
+              <modified>2012-12-13 10:47:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand mansion built in the Gothic style which incorporated some of the 1840s cottage Lansdowne which had originally occupied the site on the tip of Darling Point. Later used as a hospital it was demolished in 1983 and the site became McKell Park.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>86843</id>
+          <type id="150">Factoid</type>
+          <title>Rickards, Harry, Property, Owned, Canonbury</title>
+          <added>2012-12-13 10:42:16</added>
+          <modified>2012-12-13 10:42:16</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14509</id>
+              <type id="151">Entity</type>
+              <title>Rickards, Harry (Person)</title>
+              <added>2009-06-10 16:04:19</added>
+              <modified>2010-08-25 14:14:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rickards, Harry</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Theatre owner and comedian who built a theatre circuit in Australia and brought many legendary variety artists to Australia.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>86839</id>
+              <type id="151">Entity</type>
+              <title>Canonbury (Building)</title>
+              <added>2012-12-13 10:40:21</added>
+              <modified>2012-12-13 10:47:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand mansion built in the Gothic style which incorporated some of the 1840s cottage Lansdowne which had originally occupied the site on the tip of Darling Point. Later used as a hospital it was demolished in 1983 and the site became McKell Park.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1904</raw>
+            <year>1904</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1911</raw>
+            <year>1911</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>86845</id>
+          <type id="150">Factoid</type>
+          <title>Rickards, Kate, Property, Owned, Canonbury</title>
+          <added>2012-12-13 10:44:15</added>
+          <modified>2012-12-13 10:44:15</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>46194</id>
+              <type id="151">Entity</type>
+              <title>Rickards, Kate (Person)</title>
+              <added>2010-11-04 15:16:59</added>
+              <modified>2013-01-17 09:25:57</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rickards, Kate</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Trapeze artist, costume designer and vaudeville performer whose skill and daring were feted around the world.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">54198</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Female</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>86839</id>
+              <type id="151">Entity</type>
+              <title>Canonbury (Building)</title>
+              <added>2012-12-13 10:40:21</added>
+              <modified>2012-12-13 10:47:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand mansion built in the Gothic style which incorporated some of the 1840s cottage Lansdowne which had originally occupied the site on the tip of Darling Point. Later used as a hospital it was demolished in 1983 and the site became McKell Park.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1911</raw>
+            <year>1911</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1922</raw>
+            <year>1922</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>86846</id>
+          <type id="150">Factoid</type>
+          <title>Canonbury, Milestone, Constructed</title>
+          <added>2012-12-13 10:45:10</added>
+          <modified>2012-12-13 10:45:10</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>86839</id>
+              <type id="151">Entity</type>
+              <title>Canonbury (Building)</title>
+              <added>2012-12-13 10:40:21</added>
+              <modified>2012-12-13 10:47:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand mansion built in the Gothic style which incorporated some of the 1840s cottage Lansdowne which had originally occupied the site on the tip of Darling Point. Later used as a hospital it was demolished in 1983 and the site became McKell Park.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1904</raw>
+            <year>1904</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1904</raw>
+            <year>1904</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>86847</id>
+          <type id="150">Factoid</type>
+          <title>Canonbury, Milestone, Demolished</title>
+          <added>2012-12-13 10:45:35</added>
+          <modified>2012-12-13 10:45:35</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>86839</id>
+              <type id="151">Entity</type>
+              <title>Canonbury (Building)</title>
+              <added>2012-12-13 10:40:21</added>
+              <modified>2012-12-13 10:47:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand mansion built in the Gothic style which incorporated some of the 1840s cottage Lansdowne which had originally occupied the site on the tip of Darling Point. Later used as a hospital it was demolished in 1983 and the site became McKell Park.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>26675</id>
+              <type id="91">Role</type>
+              <title>Demolished</title>
+              <added>2009-09-29 13:16:21</added>
+              <modified>2009-09-29 13:16:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Demolished</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1983</raw>
+            <year>1983</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1983</raw>
+            <year>1983</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>86848</id>
+          <type id="150">Factoid</type>
+          <title>Canonbury, TimePlace</title>
+          <added>2012-12-13 10:48:07</added>
+          <modified>2012-12-13 10:48:07</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>86839</id>
+              <type id="151">Entity</type>
+              <title>Canonbury (Building)</title>
+              <added>2012-12-13 10:40:21</added>
+              <modified>2012-12-13 10:47:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Canonbury</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Grand mansion built in the Gothic style which incorporated some of the 1840s cottage Lansdowne which had originally occupied the site on the tip of Darling Point. Later used as a hospital it was demolished in 1983 and the site became McKell Park.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.23936545848 -33.867101653204)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

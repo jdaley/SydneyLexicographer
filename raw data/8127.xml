@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8127" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:24:30+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8127</id>
+      <type id="151">Entity</type>
+      <title>Christ Church St Laurence (Building)</title>
+      <added>2009-06-10 15:58:45</added>
+      <modified>2011-02-22 12:06:58</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>37884</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Christ Church St Laurence</title>
+          <added>2009-12-01 12:12:12</added>
+          <modified>2009-12-01 12:12:12</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>536</id>
+              <type id="98">XML Document</type>
+              <title>Religion</title>
+              <added>2008-10-22 13:12:32</added>
+              <modified>2011-02-23 12:58:56</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4462</id>
+                  <nonce>9e5f89d4423124edec0c9942876d1d2356abee2d</nonce>
+                  <origName>Religion.xml</origName>
+                  <type>application/xml</type>
+                  <size>233.8 kb</size>
+                  <date>2011-02-23 12:58:54</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Religion.xml?file_id=9e5f89d4423124edec0c9942876d1d2356abee2d</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=9e5f89d4423124edec0c9942876d1d2356abee2d</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Religion</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Religion has had a profound influence on the geography, culture, politics, and artistic life of Sydney. While religion has mostly been a conservative force, preserving traditions transported from home societies, it has also reflected the setting and people of Sydney, its harbour, bushland and suburbs.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2981</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">44</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">8,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">165</detail>
+          <detail id="330" type="End Word" name="End Word">168</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>51181</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Christ Church St Laurence</title>
+          <added>2011-02-11 11:59:54</added>
+          <modified>2011-02-11 11:59:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>50761</id>
+              <type id="98">XML Document</type>
+              <title>Russians</title>
+              <added>2011-02-04 16:45:03</added>
+              <modified>2011-11-24 11:29:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>5305</id>
+                  <nonce>7c3735f9dfda10bfa33647baf18efffd9c773ebd</nonce>
+                  <origName>Russians.xml</origName>
+                  <type>application/xml</type>
+                  <size>229.3 kb</size>
+                  <date>2011-11-24 11:29:39</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Russians.xml?file_id=7c3735f9dfda10bfa33647baf18efffd9c773ebd</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=7c3735f9dfda10bfa33647baf18efffd9c773ebd</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Russians</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Russians have a long and complex history in Sydney, with great diversity in ethnicity, religion and history within the community, and enormous influence from developments in politics in the wider world.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-02-04</raw>
+                <year>2011</year>
+                <month>2</month>
+                <day>4</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3097</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">47441</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Updated slightly 22 Nov 2011, after peer-review changes to SJ version to be published in SJ 3(2) Dec 2011.</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">30</detail>
+          <detail id="330" type="End Word" name="End Word">33</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>59050</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Christ Church St Laurence</title>
+          <added>2011-07-08 14:26:29</added>
+          <modified>2011-07-08 14:26:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>58828</id>
+              <type id="98">XML Document</type>
+              <title>Stained glass</title>
+              <added>2011-07-04 13:30:25</added>
+              <modified>2012-02-14 14:55:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7354</id>
+                  <nonce>a7da043825502aa7bac743bbfb555a5087eec579</nonce>
+                  <origName>Stained+glass.xml</origName>
+                  <type>application/xml</type>
+                  <size>163.5 kb</size>
+                  <date>2012-02-14 14:55:18</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Stained%2Bglass.xml?file_id=a7da043825502aa7bac743bbfb555a5087eec579</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a7da043825502aa7bac743bbfb555a5087eec579</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Stained glass</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">An integral part of Sydney's nineteenth-century architectural heritage, stained glass was a medium where artists displayed their visions of the colony's future.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-07-04</raw>
+                <year>2011</year>
+                <month>7</month>
+                <day>4</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">3137</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">13</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">55</detail>
+          <detail id="330" type="End Word" name="End Word">58</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8128</id>
+          <type id="150">Factoid</type>
+          <title>Christ Church St Laurence, Type, Place of worship</title>
+          <added>2009-06-10 15:58:45</added>
+          <modified>2009-06-10 15:58:45</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>50947</id>
+          <type id="150">Factoid</type>
+          <title>Christ Church St Laurence, Milestone, Constructed</title>
+          <added>2011-02-10 13:24:48</added>
+          <modified>2011-02-10 13:24:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1840</raw>
+            <year>1840</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1845</raw>
+            <year>1845</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>51382</id>
+          <type id="150">Factoid</type>
+          <title>Robertson, Henry, Position, Architect, Christ Church St Laurence</title>
+          <added>2011-02-15 12:28:47</added>
+          <modified>2011-02-15 12:28:47</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>51380</id>
+              <type id="151">Entity</type>
+              <title>Robertson, Henry (Person)</title>
+              <added>2011-02-15 12:27:53</added>
+              <modified>2011-02-15 12:27:53</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Robertson, Henry</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1839</raw>
+            <year>1839</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1841</raw>
+            <year>1841</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>51402</id>
+          <type id="150">Factoid</type>
+          <title>Clamp, John Burcham, Position, Architect, Christ Church St Laurence</title>
+          <added>2011-02-15 13:25:27</added>
+          <modified>2011-02-15 13:25:27</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13249</id>
+              <type id="151">Entity</type>
+              <title>Clamp, John Burcham (Person)</title>
+              <added>2009-06-10 16:04:10</added>
+              <modified>2011-09-26 17:34:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Clamp, John Burcham</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Architect who influenced Sydney church and commercial architecture in the early twentieth century.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1900</raw>
+            <year>1900</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1920</raw>
+            <year>1920</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>51403</id>
+          <type id="150">Factoid</type>
+          <title>Blacket, Edmund, Position, Architect, Christ Church St Laurence</title>
+          <added>2011-02-15 13:27:04</added>
+          <modified>2011-02-15 13:27:04</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>13023</id>
+              <type id="151">Entity</type>
+              <title>Blacket, Edmund (Person)</title>
+              <added>2009-06-10 16:04:08</added>
+              <modified>2009-10-15 10:52:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Blacket, Edmund</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Colonial Architect and designer of Sydney University and many public buildings.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>5461</id>
+              <type id="91">Role</type>
+              <title>Architect</title>
+              <added>2009-04-28 13:09:12</added>
+              <modified>2009-08-04 11:05:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Architect</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1844</raw>
+            <year>1844</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1882</raw>
+            <year>1882</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51720</id>
+          <type id="150">Factoid</type>
+          <title>Christ Church St Laurence, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:29</added>
+          <modified>2011-02-16 16:03:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.20483862459 -33.881991304833)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>59208</id>
+          <type id="150">Factoid</type>
+          <title>Radecki, John, Position, Craftsperson, Christ Church St Laurence</title>
+          <added>2011-07-14 13:36:19</added>
+          <modified>2011-07-14 13:36:19</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>59043</id>
+              <type id="151">Entity</type>
+              <title>Radecki, John (Person)</title>
+              <added>2011-07-08 14:17:57</added>
+              <modified>2011-07-08 14:42:44</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Radecki, John</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Stained glass designer whose work can be seen in the Polding Memorial Chapel, Christ Church St Laurence and St John's Campbelltown.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Position</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>59166</id>
+              <type id="91">Role</type>
+              <title>Craftsperson</title>
+              <added>2011-07-14 10:32:30</added>
+              <modified>2011-07-14 10:33:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Craftsperson</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Occupation</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8127</id>
+              <type id="151">Entity</type>
+              <title>Christ Church St Laurence (Building)</title>
+              <added>2009-06-10 15:58:45</added>
+              <modified>2011-02-22 12:06:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Christ Church St Laurence</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Anglican church in George Street which became a centre for Anglo-Catholic worshippers from the 1880s.</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1906</raw>
+            <year>1906</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1906</raw>
+            <year>1906</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

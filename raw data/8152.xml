@@ -1,0 +1,2824 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8152" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:25:53+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8152</id>
+      <type id="151">Entity</type>
+      <title>Commissariat Stores (Building)</title>
+      <added>2009-06-10 15:58:46</added>
+      <modified>2010-10-14 09:29:43</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+      <detail id="508" type="Media reference" name="dos.main_image">
+        <record>
+          <id>43583</id>
+          <type id="74">Media - image, sound, video</type>
+          <title>Commissariat Stores 1872</title>
+          <added>2010-09-22 14:25:42</added>
+          <modified>2011-05-20 23:32:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="166" type="Date" name="dc.date">
+            <raw>2010-09-22</raw>
+            <year>2010</year>
+            <month>9</month>
+            <day>22</day>
+          </detail>
+          <detail id="193" type="Language" name="dc.language">en</detail>
+          <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+          <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1872</raw>
+            <year>1872</year>
+          </detail>
+          <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+          <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+          <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+          <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+          <detail id="538" type="Contributor reference" name="dc.contributor">
+            <record>
+              <id>4813</id>
+              <type id="153">Contributor</type>
+              <title>State Library of New South Wales</title>
+              <added>2009-03-24 10:55:22</added>
+              <modified>2009-10-29 10:35:07</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+              <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+              <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+              <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+            </record>
+          </detail>
+          <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+          <detail id="221" type="AssociatedFile" name="Mediafile">
+            <file>
+              <id>3735</id>
+              <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+              <origName>a1107023h.jpg</origName>
+              <type>image/jpeg</type>
+              <size>847.6 kb</size>
+              <date>2010-09-22 14:25:42</date>
+              <description />
+              <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+              <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+            </file>
+          </detail>
+          <reversePointer id="508" type="Media reference" name="dos.main_image">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </reversePointer>
+          <relationships>
+            <record>
+              <id>43584</id>
+              <type id="52">Record relationship</type>
+              <title>(43583 isOf 8152)</title>
+              <added>2010-09-22 14:25:42</added>
+              <modified>2010-09-22 14:25:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>43583</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Commissariat Stores 1872</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2011-05-20 23:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1872</raw>
+                    <year>1872</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3735</id>
+                      <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                      <origName>a1107023h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>847.6 kb</size>
+                      <date>2010-09-22 14:25:42</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>8152</id>
+                  <type id="151">Entity</type>
+                  <title>Commissariat Stores (Building)</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2010-10-14 09:29:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                </record>
+              </detail>
+            </record>
+            <record>
+              <id>80124</id>
+              <type id="52">Record relationship</type>
+              <title>(43583 hasSubject 6171)</title>
+              <added>2012-08-21 09:53:55</added>
+              <modified>2012-08-21 09:53:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="202" type="Primary resource" name="primary_resource">
+                <record>
+                  <id>43583</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Commissariat Stores 1872</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2011-05-20 23:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1872</raw>
+                    <year>1872</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3735</id>
+                      <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                      <origName>a1107023h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>847.6 kb</size>
+                      <date>2010-09-22 14:25:42</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="199" type="Resource" name="linked_resource">
+                <record>
+                  <id>6171</id>
+                  <type id="152">Term</type>
+                  <title>Public building</title>
+                  <added>2009-05-25 14:56:52</added>
+                  <modified>2009-05-25 14:56:52</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Public building</detail>
+                </record>
+              </detail>
+              <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+            </record>
+          </relationships>
+        </record>
+      </detail>
+      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>24389</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Commissariat Stores</title>
+          <added>2009-09-02 15:40:59</added>
+          <modified>2009-09-02 15:40:59</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>656</id>
+              <type id="98">XML Document</type>
+              <title>Wyatt, Annie</title>
+              <added>2008-10-22 13:12:51</added>
+              <modified>2012-09-20 14:19:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7949</id>
+                  <nonce>6284f1338340db7d4717661d4edf866f45ec7379</nonce>
+                  <origName>Wyatt,+Annie.xml</origName>
+                  <type>application/xml</type>
+                  <size>101.3 kb</size>
+                  <date>2012-09-20 14:19:29</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Wyatt%2C%2BAnnie.xml?file_id=6284f1338340db7d4717661d4edf866f45ec7379</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6284f1338340db7d4717661d4edf866f45ec7379</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Wyatt, Annie</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wyatt was a tireless advocate for heritage protection and conservation who believed that women could make a difference in community issues. She helped found the National Trust and save some of Sydney's most iconic buildings.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">699</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">67</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">106</detail>
+          <detail id="330" type="End Word" name="End Word">107</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>26249</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Commissariat Stores</title>
+          <added>2009-09-24 10:08:29</added>
+          <modified>2009-09-24 10:08:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>597</id>
+              <type id="98">XML Document</type>
+              <title>Sydney punchbowl</title>
+              <added>2008-10-22 13:12:41</added>
+              <modified>2009-09-24 10:15:36</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>273</id>
+                  <nonce>05186d4b5f23f27913b55fbf5c7469c6322d3c42</nonce>
+                  <origName>Sydney punchbowl.xml</origName>
+                  <type>application/xml</type>
+                  <size>25.4 kb</size>
+                  <date>2008-11-18 15:51:15</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Sydney+punchbowl.xml?file_id=05186d4b5f23f27913b55fbf5c7469c6322d3c42</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=05186d4b5f23f27913b55fbf5c7469c6322d3c42</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Sydney punchbowl</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Painted in the 1810s, from a drawing by John Lewin, the Sydney punchbowl, and others like it, recorded the appearance of the new colony in a durable way.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2885</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+          <detail id="329" type="Start Word" name="Start Word">51</detail>
+          <detail id="330" type="End Word" name="End Word">52</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>35489</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Commissariat Stores</title>
+          <added>2009-11-17 10:58:49</added>
+          <modified>2009-11-17 10:58:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>310</id>
+              <type id="98">XML Document</type>
+              <title>Economy</title>
+              <added>2008-10-22 13:11:56</added>
+              <modified>2010-08-25 15:16:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3664</id>
+                  <nonce>c2e5f8e832331b356532bc0ce832bd371ef21bcd</nonce>
+                  <origName>Economy.xml</origName>
+                  <type>application/xml</type>
+                  <size>539.6 kb</size>
+                  <date>2010-08-25 15:16:30</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Economy.xml?file_id=c2e5f8e832331b356532bc0ce832bd371ef21bcd</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c2e5f8e832331b356532bc0ce832bd371ef21bcd</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Economy</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">With the arrival of Europeans, the traditional economy of Aboriginal clans was disrupted, and gave way to the convict economy of the Commissariat and government stores. But this closed economy was soon opened by free settlement, whaling and sealing, shipping and farming success, making Sydney the port for a vast hinterland. Depressions and booms alternated, bringing poverty and prosperity to the city. Sydney's growth and diversity mean that regional economies now exist within the Sydney region.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2960</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">58</detail>
+          <detail id="330" type="End Word" name="End Word">59</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>35654</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Commissariat Stores</title>
+          <added>2009-11-17 14:45:35</added>
+          <modified>2009-11-17 14:45:35</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>557</id>
+              <type id="98">XML Document</type>
+              <title>Shopping</title>
+              <added>2008-10-22 13:12:35</added>
+              <modified>2009-11-17 15:00:38</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3304</id>
+                  <nonce>abe6ef7cac361e58d23d24adb81932524abb6d90</nonce>
+                  <origName>Shopping.xml</origName>
+                  <type>application/xml</type>
+                  <size>83.3 kb</size>
+                  <date>2009-11-17 15:00:35</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Shopping.xml?file_id=abe6ef7cac361e58d23d24adb81932524abb6d90</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=abe6ef7cac361e58d23d24adb81932524abb6d90</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Shopping</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The early colony's closed economy, with limited currency and reliance on government rations, did not foster a retail culture, but it soon developed as the city moved beyond its prison status. At first dealing in necessities of life, Sydney's shops became more elaborate and diverse over time, and as elsewhere, department stores and shopping malls developed new kinds of shopping and consumption.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2894</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">18</detail>
+          <detail id="330" type="End Word" name="End Word">19</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>37503</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Commissariat Stores</title>
+          <added>2009-11-26 14:35:03</added>
+          <modified>2009-11-26 14:35:03</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>482</id>
+              <type id="98">XML Document</type>
+              <title>Museum of Contemporary Art</title>
+              <added>2008-10-22 13:12:23</added>
+              <modified>2009-10-27 16:04:31</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>38</id>
+                  <nonce>ee1e4ce8e1d9d477b87317a9c3a8209e227b4e6f</nonce>
+                  <origName>Museum of Contemporary Art.xml</origName>
+                  <type>application/xml</type>
+                  <size>59.4 kb</size>
+                  <date>2008-10-24 10:38:38</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Museum+of+Contemporary+Art.xml?file_id=ee1e4ce8e1d9d477b87317a9c3a8209e227b4e6f</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=ee1e4ce8e1d9d477b87317a9c3a8209e227b4e6f</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Museum of Contemporary Art</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Housed in an Art Deco building constructed for the Maritime Services Board in the 1940s, the Museum of Contemporary Art is based on the Power collection of contemporary art, gathered by John Power, and maintained at the University of Sydney until premises could be found for it.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">222</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">72</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">2</detail>
+          <detail id="330" type="End Word" name="End Word">3</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>42922</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Commissariat Stores</title>
+          <added>2010-09-09 11:31:37</added>
+          <modified>2010-09-09 11:31:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>42530</id>
+              <type id="98">XML Document</type>
+              <title>Old Toongabbie and Toongabbie</title>
+              <added>2010-09-01 14:26:14</added>
+              <modified>2010-11-15 12:26:06</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>4030</id>
+                  <nonce>a65b385d320c8486e501a1001dcbd671e278f1a1</nonce>
+                  <origName>Old+Toongabbie+and+Toongabbie.xml</origName>
+                  <type>application/xml</type>
+                  <size>59 kb</size>
+                  <date>2010-11-15 12:26:03</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Old%2BToongabbie%2Band%2BToongabbie.xml?file_id=a65b385d320c8486e501a1001dcbd671e278f1a1</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a65b385d320c8486e501a1001dcbd671e278f1a1</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Old Toongabbie and Toongabbie</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Traditional country of the Darug people, Toongabbie was settled as early as 1792 and quickly became an important farming centre, worked by convicts. Roads and railways shaped the town's growth, as it was increasingly integrated into Sydney's western suburbs.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-09-01</raw>
+                <year>2010</year>
+                <month>9</month>
+                <day>1</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1717</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">60</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">124</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">51</detail>
+          <detail id="330" type="End Word" name="End Word">52</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>78425</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Commissariat Stores</title>
+          <added>2012-07-17 13:59:06</added>
+          <modified>2012-07-17 13:59:06</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>232</id>
+              <type id="98">XML Document</type>
+              <title>Cadman's cottage</title>
+              <added>2008-10-22 13:11:44</added>
+              <modified>2009-10-27 09:35:50</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>593</id>
+                  <nonce>eb37687c331f191fef73a952eb4ffd2f35f36228</nonce>
+                  <origName>Cadman's cottage.xml</origName>
+                  <type>application/xml</type>
+                  <size>44.1 kb</size>
+                  <date>2009-03-17 09:25:32</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Cadman%27s+cottage.xml?file_id=eb37687c331f191fef73a952eb4ffd2f35f36228</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=eb37687c331f191fef73a952eb4ffd2f35f36228</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Cadman's cottage</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Possibly designed by Francis Greenway, Cadman's cottage housed John Cadman, government coxswain, from 1827 until 1845. It was subsequently used by the Water Police and the Sydney Sailors' Home, and is now a museum.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2120</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">72</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+          <detail id="329" type="Start Word" name="Start Word">26</detail>
+          <detail id="330" type="End Word" name="End Word">27</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8153</id>
+          <type id="150">Factoid</type>
+          <title>Commissariat Stores, Type, Warehouse or Bond store</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7129</id>
+              <type id="91">Role</type>
+              <title>Warehouse or bond store</title>
+              <added>2009-06-10 15:56:36</added>
+              <modified>2012-05-30 11:19:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Warehouse or bond store</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>33499</id>
+          <type id="150">Factoid</type>
+          <title>Commissariat Stores, Milestone, Constructed</title>
+          <added>2009-10-28 16:08:36</added>
+          <modified>2009-10-28 16:08:36</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1812</raw>
+            <year>1812</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1812</raw>
+            <year>1812</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>33500</id>
+          <type id="150">Factoid</type>
+          <title>Commissariat Stores, Milestone, Demolished</title>
+          <added>2009-10-28 16:09:14</added>
+          <modified>2009-10-28 16:09:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>26675</id>
+              <type id="91">Role</type>
+              <title>Demolished</title>
+              <added>2009-09-29 13:16:21</added>
+              <modified>2009-09-29 13:16:42</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Demolished</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1939</raw>
+            <year>1939</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1939</raw>
+            <year>1939</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>8154</id>
+          <type id="52">Record relationship</type>
+          <title>(270 isAbout 8152)</title>
+          <added>2009-06-10 15:58:46</added>
+          <modified>2009-06-10 15:58:46</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>270</id>
+              <type id="98">XML Document</type>
+              <title>Commissariat Stores</title>
+              <added>2008-10-22 13:11:50</added>
+              <modified>2009-10-28 16:05:22</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>527</id>
+                  <nonce>00d8f1c076b130ff8de1f320d3e199f5051e6bd3</nonce>
+                  <origName>Commissariat Stores.xml</origName>
+                  <type>application/xml</type>
+                  <size>33.5 kb</size>
+                  <date>2009-02-17 10:49:46</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Commissariat+Stores.xml?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">The Commissariat held a strategic role in the economy of the early colony, supplying and storing foodstuffs and other necessities – including liquor, hardware and other goods – for the population.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">409</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4418</id>
+                  <type id="153">Contributor</type>
+                  <title>Dictionary of Sydney staff writer</title>
+                  <added>2009-01-21 10:44:26</added>
+                  <modified>2009-10-24 18:03:44</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Dictionary of Sydney staff writer</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">public</detail>
+                </record>
+              </detail>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>33000</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Macquarie, Lachlan</title>
+                  <added>2009-10-23 14:01:19</added>
+                  <modified>2009-10-23 14:01:19</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Macquarie, Lachlan</detail>
+                  <detail id="199" type="Resource" name="target">14106</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">270</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,6</detail>
+                  <detail id="329" type="Start Word" name="Start Word">15</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>33002</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Museum of Contemporary Art</title>
+                  <added>2009-10-23 14:01:48</added>
+                  <modified>2009-10-23 14:01:48</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Museum of Contemporary Art</detail>
+                  <detail id="199" type="Resource" name="target">11688</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">270</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,8</detail>
+                  <detail id="329" type="Start Word" name="Start Word">60</detail>
+                  <detail id="330" type="End Word" name="End Word">63</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="322" type="TEI Document Reference" name="annotates">
+                <record>
+                  <id>33003</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Sydney Ports Corporation</title>
+                  <added>2009-10-23 14:02:24</added>
+                  <modified>2011-07-29 12:03:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">270</detail>
+                  <detail id="160" type="Title" name="dc.title">Sydney Ports Corporation</detail>
+                  <detail id="199" type="Resource" name="target">11567</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,8</detail>
+                  <detail id="329" type="Start Word" name="Start Word">67</detail>
+                  <detail id="330" type="End Word" name="End Word">69</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>8154</id>
+                  <type id="52">Record relationship</type>
+                  <title>(270 isAbout 8152)</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>270</id>
+                      <type id="98">XML Document</type>
+                      <title>Commissariat Stores</title>
+                      <added>2008-10-22 13:11:50</added>
+                      <modified>2009-10-28 16:05:22</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>527</id>
+                          <nonce>00d8f1c076b130ff8de1f320d3e199f5051e6bd3</nonce>
+                          <origName>Commissariat Stores.xml</origName>
+                          <type>application/xml</type>
+                          <size>33.5 kb</size>
+                          <date>2009-02-17 10:49:46</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Commissariat+Stores.xml?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The Commissariat held a strategic role in the economy of the early colony, supplying and storing foodstuffs and other necessities – including liquor, hardware and other goods – for the population.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">409</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>43583</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Commissariat Stores 1872</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2011-05-20 23:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1872</raw>
+                    <year>1872</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3735</id>
+                      <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                      <origName>a1107023h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>847.6 kb</size>
+                      <date>2010-09-22 14:25:42</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>24389</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-09-02 15:40:59</added>
+                  <modified>2009-09-02 15:40:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">656</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">106</detail>
+                  <detail id="330" type="End Word" name="End Word">107</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>26249</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-09-24 10:08:29</added>
+                  <modified>2009-09-24 10:08:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">597</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">51</detail>
+                  <detail id="330" type="End Word" name="End Word">52</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>35489</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-17 10:58:49</added>
+                  <modified>2009-11-17 10:58:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">310</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">58</detail>
+                  <detail id="330" type="End Word" name="End Word">59</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>35654</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-17 14:45:35</added>
+                  <modified>2009-11-17 14:45:35</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">557</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">18</detail>
+                  <detail id="330" type="End Word" name="End Word">19</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>37503</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-26 14:35:03</added>
+                  <modified>2009-11-26 14:35:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">482</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">2</detail>
+                  <detail id="330" type="End Word" name="End Word">3</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>42922</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2010-09-09 11:31:37</added>
+                  <modified>2010-09-09 11:31:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">42530</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">51</detail>
+                  <detail id="330" type="End Word" name="End Word">52</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>78425</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2012-07-17 13:59:06</added>
+                  <modified>2012-07-17 13:59:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">232</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">26</detail>
+                  <detail id="330" type="End Word" name="End Word">27</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8153</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Type, Warehouse or Bond store</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7129</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>33499</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Milestone, Constructed</title>
+                  <added>2009-10-28 16:08:36</added>
+                  <modified>2009-10-28 16:08:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1812</raw>
+                    <year>1812</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1812</raw>
+                    <year>1812</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>33500</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Milestone, Demolished</title>
+                  <added>2009-10-28 16:09:14</added>
+                  <modified>2009-10-28 16:09:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">26675</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1939</raw>
+                    <year>1939</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1939</raw>
+                    <year>1939</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>8154</id>
+                  <type id="52">Record relationship</type>
+                  <title>(270 isAbout 8152)</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>270</id>
+                      <type id="98">XML Document</type>
+                      <title>Commissariat Stores</title>
+                      <added>2008-10-22 13:11:50</added>
+                      <modified>2009-10-28 16:05:22</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>527</id>
+                          <nonce>00d8f1c076b130ff8de1f320d3e199f5051e6bd3</nonce>
+                          <origName>Commissariat Stores.xml</origName>
+                          <type>application/xml</type>
+                          <size>33.5 kb</size>
+                          <date>2009-02-17 10:49:46</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Commissariat+Stores.xml?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The Commissariat held a strategic role in the economy of the early colony, supplying and storing foodstuffs and other necessities – including liquor, hardware and other goods – for the population.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">409</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>43584</id>
+                  <type id="52">Record relationship</type>
+                  <title>(43583 isOf 8152)</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2010-09-22 14:25:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>43583</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Commissariat Stores 1872</title>
+                      <added>2010-09-22 14:25:42</added>
+                      <modified>2011-05-20 23:32:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-09-22</raw>
+                        <year>2010</year>
+                        <month>9</month>
+                        <day>22</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1872</raw>
+                        <year>1872</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3735</id>
+                          <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                          <origName>a1107023h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>847.6 kb</size>
+                          <date>2010-09-22 14:25:42</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>48221</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48220 isOf 8152)</title>
+                  <added>2010-12-13 15:33:09</added>
+                  <modified>2010-12-13 15:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48220</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>George Street near the Wharf showing Australian Hotel, 1829</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">George Street near the Wharf showing  Australian Hotel, 1829</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Carmichael, John</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1829</raw>
+                        <year>1829</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=411361</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">62859 / DL Q82/19</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12549\nP-DoS Notes: The picture of `Levey's Australia Hotel' is great - the theatre was inside so there was no outward symbol.  Ailsa McPherson (LB - I think she means the other engraving of the Royal Hotel, not this one of the Australian Hotel) Geo</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4334</id>
+                          <nonce>8fa9f2056840b264c9b20dade8f679561a7d4611</nonce>
+                          <origName>item9_a62859.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>690.7 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/item9_a62859.jpg?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+        <record>
+          <id>43584</id>
+          <type id="52">Record relationship</type>
+          <title>(43583 isOf 8152)</title>
+          <added>2010-09-22 14:25:42</added>
+          <modified>2010-09-22 14:25:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>43583</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Commissariat Stores 1872</title>
+              <added>2010-09-22 14:25:42</added>
+              <modified>2011-05-20 23:32:14</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-09-22</raw>
+                <year>2010</year>
+                <month>9</month>
+                <day>22</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+              <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1872</raw>
+                <year>1872</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4813</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2009-10-29 10:35:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>3735</id>
+                  <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                  <origName>a1107023h.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>847.6 kb</size>
+                  <date>2010-09-22 14:25:42</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>8152</id>
+                  <type id="151">Entity</type>
+                  <title>Commissariat Stores (Building)</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2010-10-14 09:29:43</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>43584</id>
+                  <type id="52">Record relationship</type>
+                  <title>(43583 isOf 8152)</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2010-09-22 14:25:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>43583</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Commissariat Stores 1872</title>
+                      <added>2010-09-22 14:25:42</added>
+                      <modified>2011-05-20 23:32:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-09-22</raw>
+                        <year>2010</year>
+                        <month>9</month>
+                        <day>22</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1872</raw>
+                        <year>1872</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3735</id>
+                          <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                          <origName>a1107023h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>847.6 kb</size>
+                          <date>2010-09-22 14:25:42</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>80124</id>
+                  <type id="52">Record relationship</type>
+                  <title>(43583 hasSubject 6171)</title>
+                  <added>2012-08-21 09:53:55</added>
+                  <modified>2012-08-21 09:53:55</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>43583</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Commissariat Stores 1872</title>
+                      <added>2010-09-22 14:25:42</added>
+                      <modified>2011-05-20 23:32:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-09-22</raw>
+                        <year>2010</year>
+                        <month>9</month>
+                        <day>22</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1872</raw>
+                        <year>1872</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3735</id>
+                          <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                          <origName>a1107023h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>847.6 kb</size>
+                          <date>2010-09-22 14:25:42</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6171</id>
+                      <type id="152">Term</type>
+                      <title>Public building</title>
+                      <added>2009-05-25 14:56:52</added>
+                      <modified>2009-05-25 14:56:52</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Public building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>43583</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Commissariat Stores 1872</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2011-05-20 23:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1872</raw>
+                    <year>1872</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3735</id>
+                      <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                      <origName>a1107023h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>847.6 kb</size>
+                      <date>2010-09-22 14:25:42</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>24389</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-09-02 15:40:59</added>
+                  <modified>2009-09-02 15:40:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">656</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">106</detail>
+                  <detail id="330" type="End Word" name="End Word">107</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>26249</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-09-24 10:08:29</added>
+                  <modified>2009-09-24 10:08:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">597</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">51</detail>
+                  <detail id="330" type="End Word" name="End Word">52</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>35489</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-17 10:58:49</added>
+                  <modified>2009-11-17 10:58:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">310</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">58</detail>
+                  <detail id="330" type="End Word" name="End Word">59</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>35654</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-17 14:45:35</added>
+                  <modified>2009-11-17 14:45:35</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">557</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">18</detail>
+                  <detail id="330" type="End Word" name="End Word">19</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>37503</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-26 14:35:03</added>
+                  <modified>2009-11-26 14:35:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">482</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">2</detail>
+                  <detail id="330" type="End Word" name="End Word">3</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>42922</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2010-09-09 11:31:37</added>
+                  <modified>2010-09-09 11:31:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">42530</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">51</detail>
+                  <detail id="330" type="End Word" name="End Word">52</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>78425</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2012-07-17 13:59:06</added>
+                  <modified>2012-07-17 13:59:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">232</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">26</detail>
+                  <detail id="330" type="End Word" name="End Word">27</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8153</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Type, Warehouse or Bond store</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7129</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>33499</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Milestone, Constructed</title>
+                  <added>2009-10-28 16:08:36</added>
+                  <modified>2009-10-28 16:08:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1812</raw>
+                    <year>1812</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1812</raw>
+                    <year>1812</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>33500</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Milestone, Demolished</title>
+                  <added>2009-10-28 16:09:14</added>
+                  <modified>2009-10-28 16:09:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">26675</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1939</raw>
+                    <year>1939</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1939</raw>
+                    <year>1939</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>8154</id>
+                  <type id="52">Record relationship</type>
+                  <title>(270 isAbout 8152)</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>270</id>
+                      <type id="98">XML Document</type>
+                      <title>Commissariat Stores</title>
+                      <added>2008-10-22 13:11:50</added>
+                      <modified>2009-10-28 16:05:22</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>527</id>
+                          <nonce>00d8f1c076b130ff8de1f320d3e199f5051e6bd3</nonce>
+                          <origName>Commissariat Stores.xml</origName>
+                          <type>application/xml</type>
+                          <size>33.5 kb</size>
+                          <date>2009-02-17 10:49:46</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Commissariat+Stores.xml?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The Commissariat held a strategic role in the economy of the early colony, supplying and storing foodstuffs and other necessities – including liquor, hardware and other goods – for the population.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">409</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>43584</id>
+                  <type id="52">Record relationship</type>
+                  <title>(43583 isOf 8152)</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2010-09-22 14:25:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>43583</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Commissariat Stores 1872</title>
+                      <added>2010-09-22 14:25:42</added>
+                      <modified>2011-05-20 23:32:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-09-22</raw>
+                        <year>2010</year>
+                        <month>9</month>
+                        <day>22</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1872</raw>
+                        <year>1872</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3735</id>
+                          <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                          <origName>a1107023h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>847.6 kb</size>
+                          <date>2010-09-22 14:25:42</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>48221</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48220 isOf 8152)</title>
+                  <added>2010-12-13 15:33:09</added>
+                  <modified>2010-12-13 15:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48220</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>George Street near the Wharf showing Australian Hotel, 1829</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">George Street near the Wharf showing  Australian Hotel, 1829</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Carmichael, John</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1829</raw>
+                        <year>1829</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=411361</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">62859 / DL Q82/19</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12549\nP-DoS Notes: The picture of `Levey's Australia Hotel' is great - the theatre was inside so there was no outward symbol.  Ailsa McPherson (LB - I think she means the other engraving of the Royal Hotel, not this one of the Australian Hotel) Geo</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4334</id>
+                          <nonce>8fa9f2056840b264c9b20dade8f679561a7d4611</nonce>
+                          <origName>item9_a62859.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>690.7 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/item9_a62859.jpg?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+        <record>
+          <id>48221</id>
+          <type id="52">Record relationship</type>
+          <title>(48220 isOf 8152)</title>
+          <added>2010-12-13 15:33:09</added>
+          <modified>2010-12-13 15:33:09</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>48220</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>George Street near the Wharf showing Australian Hotel, 1829</title>
+              <added>2010-12-13 15:33:09</added>
+              <modified>2011-05-20 23:32:12</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-12-13</raw>
+                <year>2010</year>
+                <month>12</month>
+                <day>13</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">George Street near the Wharf showing  Australian Hotel, 1829</detail>
+              <detail id="365" type="Subject" name="dc.creator">Carmichael, John</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1829</raw>
+                <year>1829</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=411361</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">62859 / DL Q82/19</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4813</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2009-10-29 10:35:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12549\nP-DoS Notes: The picture of `Levey's Australia Hotel' is great - the theatre was inside so there was no outward symbol.  Ailsa McPherson (LB - I think she means the other engraving of the Royal Hotel, not this one of the Australian Hotel) Geo</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4334</id>
+                  <nonce>8fa9f2056840b264c9b20dade8f679561a7d4611</nonce>
+                  <origName>item9_a62859.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>690.7 kb</size>
+                  <date>2010-12-13 15:33:09</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/item9_a62859.jpg?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</thumbURL>
+                </file>
+              </detail>
+              <relationships>
+                <record>
+                  <id>48221</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48220 isOf 8152)</title>
+                  <added>2010-12-13 15:33:09</added>
+                  <modified>2010-12-13 15:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48220</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>George Street near the Wharf showing Australian Hotel, 1829</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">George Street near the Wharf showing  Australian Hotel, 1829</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Carmichael, John</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1829</raw>
+                        <year>1829</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=411361</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">62859 / DL Q82/19</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12549\nP-DoS Notes: The picture of `Levey's Australia Hotel' is great - the theatre was inside so there was no outward symbol.  Ailsa McPherson (LB - I think she means the other engraving of the Royal Hotel, not this one of the Australian Hotel) Geo</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4334</id>
+                          <nonce>8fa9f2056840b264c9b20dade8f679561a7d4611</nonce>
+                          <origName>item9_a62859.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>690.7 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/item9_a62859.jpg?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>81344</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48220 hasSubject 6202)</title>
+                  <added>2012-09-04 14:15:26</added>
+                  <modified>2012-09-04 14:15:26</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48220</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>George Street near the Wharf showing Australian Hotel, 1829</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">George Street near the Wharf showing  Australian Hotel, 1829</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Carmichael, John</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1829</raw>
+                        <year>1829</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=411361</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">62859 / DL Q82/19</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12549\nP-DoS Notes: The picture of `Levey's Australia Hotel' is great - the theatre was inside so there was no outward symbol.  Ailsa McPherson (LB - I think she means the other engraving of the Royal Hotel, not this one of the Australian Hotel) Geo</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4334</id>
+                          <nonce>8fa9f2056840b264c9b20dade8f679561a7d4611</nonce>
+                          <origName>item9_a62859.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>690.7 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/item9_a62859.jpg?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6202</id>
+                      <type id="152">Term</type>
+                      <title>Roads</title>
+                      <added>2009-05-25 14:56:55</added>
+                      <modified>2009-05-25 14:56:56</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Roads</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81345</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48220 hasSubject 78895)</title>
+                  <added>2012-09-04 14:15:46</added>
+                  <modified>2012-09-04 14:15:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48220</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>George Street near the Wharf showing Australian Hotel, 1829</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">George Street near the Wharf showing  Australian Hotel, 1829</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Carmichael, John</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1829</raw>
+                        <year>1829</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=411361</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">62859 / DL Q82/19</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12549\nP-DoS Notes: The picture of `Levey's Australia Hotel' is great - the theatre was inside so there was no outward symbol.  Ailsa McPherson (LB - I think she means the other engraving of the Royal Hotel, not this one of the Australian Hotel) Geo</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4334</id>
+                          <nonce>8fa9f2056840b264c9b20dade8f679561a7d4611</nonce>
+                          <origName>item9_a62859.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>690.7 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/item9_a62859.jpg?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>78895</id>
+                      <type id="152">Term</type>
+                      <title>Hotels and Pubs</title>
+                      <added>2012-07-31 14:20:34</added>
+                      <modified>2012-07-31 14:20:34</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Hotels and Pubs</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>81346</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48220 hasSubject 5880)</title>
+                  <added>2012-09-04 14:16:27</added>
+                  <modified>2012-09-04 14:16:27</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48220</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>George Street near the Wharf showing Australian Hotel, 1829</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">George Street near the Wharf showing  Australian Hotel, 1829</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Carmichael, John</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1829</raw>
+                        <year>1829</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=411361</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">62859 / DL Q82/19</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12549\nP-DoS Notes: The picture of `Levey's Australia Hotel' is great - the theatre was inside so there was no outward symbol.  Ailsa McPherson (LB - I think she means the other engraving of the Royal Hotel, not this one of the Australian Hotel) Geo</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4334</id>
+                          <nonce>8fa9f2056840b264c9b20dade8f679561a7d4611</nonce>
+                          <origName>item9_a62859.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>690.7 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/item9_a62859.jpg?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>5880</id>
+                      <type id="152">Term</type>
+                      <title>Colonial architecture</title>
+                      <added>2009-05-25 14:56:18</added>
+                      <modified>2009-05-25 14:56:19</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Colonial architecture</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>8152</id>
+              <type id="151">Entity</type>
+              <title>Commissariat Stores (Building)</title>
+              <added>2009-06-10 15:58:46</added>
+              <modified>2010-10-14 09:29:43</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+              <detail id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>43583</id>
+                  <type id="74">Media - image, sound, video</type>
+                  <title>Commissariat Stores 1872</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2011-05-20 23:32:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="166" type="Date" name="dc.date">
+                    <raw>2010-09-22</raw>
+                    <year>2010</year>
+                    <month>9</month>
+                    <day>22</day>
+                  </detail>
+                  <detail id="193" type="Language" name="dc.language">en</detail>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                  <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1872</raw>
+                    <year>1872</year>
+                  </detail>
+                  <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                  <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                  <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                  <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                  <detail id="221" type="AssociatedFile" name="Mediafile">
+                    <file>
+                      <id>3735</id>
+                      <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                      <origName>a1107023h.jpg</origName>
+                      <type>image/jpeg</type>
+                      <size>847.6 kb</size>
+                      <date>2010-09-22 14:25:42</date>
+                      <description />
+                      <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                      <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                    </file>
+                  </detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>24389</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-09-02 15:40:59</added>
+                  <modified>2009-09-02 15:40:59</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">656</detail>
+                  <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">106</detail>
+                  <detail id="330" type="End Word" name="End Word">107</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>26249</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-09-24 10:08:29</added>
+                  <modified>2009-09-24 10:08:29</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">597</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,5</detail>
+                  <detail id="329" type="Start Word" name="Start Word">51</detail>
+                  <detail id="330" type="End Word" name="End Word">52</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>35489</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-17 10:58:49</added>
+                  <modified>2009-11-17 10:58:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">310</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">58</detail>
+                  <detail id="330" type="End Word" name="End Word">59</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>35654</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-17 14:45:35</added>
+                  <modified>2009-11-17 14:45:35</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">557</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">18</detail>
+                  <detail id="330" type="End Word" name="End Word">19</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>37503</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2009-11-26 14:35:03</added>
+                  <modified>2009-11-26 14:35:03</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">482</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">2</detail>
+                  <detail id="330" type="End Word" name="End Word">3</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>42922</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2010-09-09 11:31:37</added>
+                  <modified>2010-09-09 11:31:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">42530</detail>
+                  <detail id="539" type="Start Element" name="Start Element">4,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">51</detail>
+                  <detail id="330" type="End Word" name="End Word">52</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>78425</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Commissariat Stores</title>
+                  <added>2012-07-17 13:59:06</added>
+                  <modified>2012-07-17 13:59:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                  <detail id="199" type="Resource" name="target">8152</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">232</detail>
+                  <detail id="539" type="Start Element" name="Start Element">1,4</detail>
+                  <detail id="329" type="Start Word" name="Start Word">26</detail>
+                  <detail id="330" type="End Word" name="End Word">27</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8153</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Type, Warehouse or Bond store</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7129</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>33499</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Milestone, Constructed</title>
+                  <added>2009-10-28 16:08:36</added>
+                  <modified>2009-10-28 16:08:36</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1812</raw>
+                    <year>1812</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1812</raw>
+                    <year>1812</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>33500</id>
+                  <type id="150">Factoid</type>
+                  <title>Commissariat Stores, Milestone, Demolished</title>
+                  <added>2009-10-28 16:09:14</added>
+                  <modified>2009-10-28 16:09:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8152</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">26675</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1939</raw>
+                    <year>1939</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1939</raw>
+                    <year>1939</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>8154</id>
+                  <type id="52">Record relationship</type>
+                  <title>(270 isAbout 8152)</title>
+                  <added>2009-06-10 15:58:46</added>
+                  <modified>2009-06-10 15:58:46</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>270</id>
+                      <type id="98">XML Document</type>
+                      <title>Commissariat Stores</title>
+                      <added>2008-10-22 13:11:50</added>
+                      <modified>2009-10-28 16:05:22</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="231" type="Other File" name="WordML file">
+                        <file>
+                          <id>527</id>
+                          <nonce>00d8f1c076b130ff8de1f320d3e199f5051e6bd3</nonce>
+                          <origName>Commissariat Stores.xml</origName>
+                          <type>application/xml</type>
+                          <size>33.5 kb</size>
+                          <date>2009-02-17 10:49:46</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Commissariat+Stores.xml?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=00d8f1c076b130ff8de1f320d3e199f5051e6bd3</thumbURL>
+                        </file>
+                      </detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The Commissariat held a strategic role in the economy of the early colony, supplying and storing foodstuffs and other necessities – including liquor, hardware and other goods – for the population.</detail>
+                      <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2008-10-21</raw>
+                        <year>2008</year>
+                        <month>10</month>
+                        <day>21</day>
+                      </detail>
+                      <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+                      <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+                      <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">409</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInText" ontology="basic">isAbout</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>43584</id>
+                  <type id="52">Record relationship</type>
+                  <title>(43583 isOf 8152)</title>
+                  <added>2010-09-22 14:25:42</added>
+                  <modified>2010-09-22 14:25:42</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>43583</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Commissariat Stores 1872</title>
+                      <added>2010-09-22 14:25:42</added>
+                      <modified>2011-05-20 23:32:14</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-09-22</raw>
+                        <year>2010</year>
+                        <month>9</month>
+                        <day>22</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores 1872</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Pickering, Charles</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1872</raw>
+                        <year>1872</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a1107023 / PXD 524, 21</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 11191 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=442753</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>3735</id>
+                          <nonce>49d9b68b24259139ab6ab06c4d878aca67dcd566</nonce>
+                          <origName>a1107023h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>847.6 kb</size>
+                          <date>2010-09-22 14:25:42</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/a1107023h.jpg?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=49d9b68b24259139ab6ab06c4d878aca67dcd566</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>48221</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48220 isOf 8152)</title>
+                  <added>2010-12-13 15:33:09</added>
+                  <modified>2010-12-13 15:33:09</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48220</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>George Street near the Wharf showing Australian Hotel, 1829</title>
+                      <added>2010-12-13 15:33:09</added>
+                      <modified>2011-05-20 23:32:12</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">George Street near the Wharf showing  Australian Hotel, 1829</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Carmichael, John</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1829</raw>
+                        <year>1829</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Dixson Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=411361</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">62859 / DL Q82/19</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12549\nP-DoS Notes: The picture of `Levey's Australia Hotel' is great - the theatre was inside so there was no outward symbol.  Ailsa McPherson (LB - I think she means the other engraving of the Royal Hotel, not this one of the Australian Hotel) Geo</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4334</id>
+                          <nonce>8fa9f2056840b264c9b20dade8f679561a7d4611</nonce>
+                          <origName>item9_a62859.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>690.7 kb</size>
+                          <date>2010-12-13 15:33:09</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/item9_a62859.jpg?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=8fa9f2056840b264c9b20dade8f679561a7d4611</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>8152</id>
+                      <type id="151">Entity</type>
+                      <title>Commissariat Stores (Building)</title>
+                      <added>2009-06-10 15:58:46</added>
+                      <modified>2010-10-14 09:29:43</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Commissariat Stores</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Warehouse and offices that stored the goods of the colony, for supply to the convicts, soldiers and others who relied on government rations.</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">43583</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">already an entity</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

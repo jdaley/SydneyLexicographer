@@ -1,0 +1,1073 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8547" w="a" depth="2" />
+  <dateStamp>2013-02-16T09:49:05+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8547</id>
+      <type id="151">Entity</type>
+      <title>Macquarie Field House (Building)</title>
+      <added>2009-06-10 15:58:51</added>
+      <modified>2012-09-20 13:45:54</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>26269</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Macquarie Field House</title>
+          <added>2009-09-24 10:37:18</added>
+          <modified>2012-09-20 13:55:30</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>355</id>
+              <type id="98">XML Document</type>
+              <title>Glenfield</title>
+              <added>2008-10-22 13:12:03</added>
+              <modified>2009-10-29 14:05:25</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>242</id>
+                  <nonce>c0dacad45a8fe063f21304cdcb5388e133e90126</nonce>
+                  <origName>Glenfield.xml</origName>
+                  <type>application/xml</type>
+                  <size>44.8 kb</size>
+                  <date>2008-11-17 12:30:19</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Glenfield.xml?file_id=c0dacad45a8fe063f21304cdcb5388e133e90126</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c0dacad45a8fe063f21304cdcb5388e133e90126</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Glenfield</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">From a land grant to emancipist James Meehan,  Glenfield was to become one of the fastest growing suburbs in the Campbelltown area.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2048</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">4418</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">41</detail>
+          <detail id="330" type="End Word" name="End Word">42</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>55461</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Macquarie Field House</title>
+          <added>2011-04-29 10:33:09</added>
+          <modified>2012-09-20 14:00:04</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>461</id>
+              <type id="98">XML Document</type>
+              <title>Meehan, James</title>
+              <added>2008-10-22 13:12:20</added>
+              <modified>2009-10-20 15:28:40</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>427</id>
+                  <nonce>52e3b71664636d9d367059012b7ed3701dcf4a57</nonce>
+                  <origName>Meehan, James.xml</origName>
+                  <type>application/xml</type>
+                  <size>41.1 kb</size>
+                  <date>2009-01-21 14:09:49</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Meehan%2C+James.xml?file_id=52e3b71664636d9d367059012b7ed3701dcf4a57</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=52e3b71664636d9d367059012b7ed3701dcf4a57</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Meehan, James</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Transported for his part in the Irish rebellion of 1798, James Meehan became an exceptional surveyor and explorer of Sydney, New South Wales and Tasmania, before retiring to the large land grant he received at Macquariefield, as reward for his services.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2803</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">126</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">21</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>82394</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Macquarie Field House</title>
+          <added>2012-09-20 14:20:23</added>
+          <modified>2012-09-20 14:20:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>656</id>
+              <type id="98">XML Document</type>
+              <title>Wyatt, Annie</title>
+              <added>2008-10-22 13:12:51</added>
+              <modified>2012-09-20 14:19:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>7949</id>
+                  <nonce>6284f1338340db7d4717661d4edf866f45ec7379</nonce>
+                  <origName>Wyatt,+Annie.xml</origName>
+                  <type>application/xml</type>
+                  <size>101.3 kb</size>
+                  <date>2012-09-20 14:19:29</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Wyatt%2C%2BAnnie.xml?file_id=6284f1338340db7d4717661d4edf866f45ec7379</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=6284f1338340db7d4717661d4edf866f45ec7379</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Wyatt, Annie</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wyatt was a tireless advocate for heritage protection and conservation who believed that women could make a difference in community issues. She helped found the National Trust and save some of Sydney's most iconic buildings.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">699</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">67</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">92</detail>
+          <detail id="330" type="End Word" name="End Word">94</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8549</id>
+          <type id="150">Factoid</type>
+          <title>Macquariefield Homestead, Name, Colloquial</title>
+          <added>2009-06-10 15:58:51</added>
+          <modified>2011-04-29 10:11:06</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6886</id>
+              <type id="91">Role</type>
+              <title>Colloquial</title>
+              <added>2009-06-10 15:39:39</added>
+              <modified>2009-06-10 15:40:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Colloquial</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Name</detail>
+            </record>
+          </detail>
+          <detail id="179" type="Name" name="dos.factoid.target.text">Meehan's Castle</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>55475</id>
+          <type id="150">Factoid</type>
+          <title>Meehan, Thomas, Property, Owned, Macquariefield Homestead</title>
+          <added>2011-04-29 11:03:42</added>
+          <modified>2011-11-28 12:38:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>55468</id>
+              <type id="151">Entity</type>
+              <title>Meehan, Thomas (Person)</title>
+              <added>2011-04-29 10:55:13</added>
+              <modified>2011-04-29 10:55:13</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Meehan, Thomas</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Son of James Meehan who inherited Macquariefield on his death.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1826</raw>
+            <year>1826</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1829</raw>
+            <year>1829</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>57038</id>
+          <type id="150">Factoid</type>
+          <title>Macquariefield Homestead, Type, House</title>
+          <added>2011-05-19 12:22:16</added>
+          <modified>2011-05-19 12:22:16</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>57699</id>
+          <type id="150">Factoid</type>
+          <title>Terry, Samuel, Property, Owned, Macquariefield Homestead</title>
+          <added>2011-06-03 12:07:02</added>
+          <modified>2011-09-23 09:22:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14772</id>
+              <type id="151">Entity</type>
+              <title>Terry, Samuel (Person)</title>
+              <added>2009-06-10 16:04:20</added>
+              <modified>2010-09-13 15:17:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Terry, Samuel</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Merchant and landowner who rose from convict beginnings to become one of the colony's richest men.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1829</raw>
+            <year>1829</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1838</raw>
+            <year>1838</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>57700</id>
+          <type id="150">Factoid</type>
+          <title>Meehan, James, Property, Owned, Macquariefield Homestead</title>
+          <added>2011-06-03 12:09:00</added>
+          <modified>2011-11-28 12:38:49</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>14193</id>
+              <type id="151">Entity</type>
+              <title>Meehan, James (Person)</title>
+              <added>2009-06-10 16:04:17</added>
+              <modified>2009-10-20 15:25:02</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Meehan, James</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Irish-born convict who became a surveyor, explorer and settler.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1809</raw>
+            <year>1809</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1826</raw>
+            <year>1826</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+        <record>
+          <id>57701</id>
+          <type id="150">Factoid</type>
+          <title>Hosking, Martha Foxlowe, Property, Owned, Macquarie Field House</title>
+          <added>2011-06-03 13:52:37</added>
+          <modified>2012-09-20 13:51:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>43116</id>
+              <type id="151">Entity</type>
+              <title>Hosking, Martha Foxlowe (Person)</title>
+              <added>2010-09-13 15:06:48</added>
+              <modified>2011-02-03 10:44:59</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Hosking, Martha Foxlowe</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+              <detail id="191" type="Extended description" name="dc.description">Wife of Sydney's first mayor and independently wealthy landowner.</detail>
+              <detail id="399" type="Gender" name="dc.gender" ontology="basic">Female</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>43318</id>
+              <type id="91">Role</type>
+              <title>Owned</title>
+              <added>2010-09-16 10:27:34</added>
+              <modified>2011-06-16 14:47:18</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Owned</detail>
+              <detail id="591" type="Role type" name="dc.type">Property</detail>
+              <detail id="174" type="Title - alternate" name="dc.title.inverse">Owned by</detail>
+            </record>
+          </detail>
+          <detail id="527" type="Target entity reference" name="dos.factoid.target">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1838</raw>
+            <year>1838</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1877</raw>
+            <year>1877</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>82393</id>
+          <type id="150">Factoid</type>
+          <title>Macquarie Field House, TimePlace</title>
+          <added>2012-09-20 14:15:28</added>
+          <modified>2012-09-20 14:15:28</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(150.87756729125 -33.978721097515)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>82392</id>
+          <type id="52">Record relationship</type>
+          <title>Relationship (8547 IsInMM 54433)</title>
+          <added>2012-09-20 14:14:20</added>
+          <modified>2012-09-20 14:14:20</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Relationship</detail>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>8547</id>
+              <type id="151">Entity</type>
+              <title>Macquarie Field House (Building)</title>
+              <added>2009-06-10 15:58:51</added>
+              <modified>2012-09-20 13:45:54</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>26269</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Macquarie Field House</title>
+                  <added>2009-09-24 10:37:18</added>
+                  <modified>2012-09-20 13:55:30</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">355</detail>
+                  <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+                  <detail id="199" type="Resource" name="target">8547</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">41</detail>
+                  <detail id="330" type="End Word" name="End Word">42</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>55461</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Macquarie Field House</title>
+                  <added>2011-04-29 10:33:09</added>
+                  <modified>2012-09-20 14:00:04</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">461</detail>
+                  <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+                  <detail id="199" type="Resource" name="target">8547</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">21</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>82394</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Macquarie Field House</title>
+                  <added>2012-09-20 14:20:23</added>
+                  <modified>2012-09-20 14:20:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+                  <detail id="199" type="Resource" name="target">8547</detail>
+                  <detail id="322" type="TEI Document Reference" name="annotates">656</detail>
+                  <detail id="539" type="Start Element" name="Start Element">5,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">92</detail>
+                  <detail id="330" type="End Word" name="End Word">94</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>8549</id>
+                  <type id="150">Factoid</type>
+                  <title>Macquariefield Homestead, Name, Colloquial</title>
+                  <added>2009-06-10 15:58:51</added>
+                  <modified>2011-04-29 10:11:06</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8547</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Name</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6886</detail>
+                  <detail id="179" type="Name" name="dos.factoid.target.text">Meehan's Castle</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>55475</id>
+                  <type id="150">Factoid</type>
+                  <title>Meehan, Thomas, Property, Owned, Macquariefield Homestead</title>
+                  <added>2011-04-29 11:03:42</added>
+                  <modified>2011-11-28 12:38:50</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">55468</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8547</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1826</raw>
+                    <year>1826</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1829</raw>
+                    <year>1829</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>57038</id>
+                  <type id="150">Factoid</type>
+                  <title>Macquariefield Homestead, Type, House</title>
+                  <added>2011-05-19 12:22:16</added>
+                  <modified>2011-05-19 12:22:16</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8547</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">6978</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>57699</id>
+                  <type id="150">Factoid</type>
+                  <title>Terry, Samuel, Property, Owned, Macquariefield Homestead</title>
+                  <added>2011-06-03 12:07:02</added>
+                  <modified>2011-09-23 09:22:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">14772</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8547</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1829</raw>
+                    <year>1829</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1838</raw>
+                    <year>1838</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>57700</id>
+                  <type id="150">Factoid</type>
+                  <title>Meehan, James, Property, Owned, Macquariefield Homestead</title>
+                  <added>2011-06-03 12:09:00</added>
+                  <modified>2011-11-28 12:38:49</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">14193</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8547</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1809</raw>
+                    <year>1809</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1826</raw>
+                    <year>1826</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="527" type="Target entity reference" name="dos.factoid.target">
+                <record>
+                  <id>57701</id>
+                  <type id="150">Factoid</type>
+                  <title>Hosking, Martha Foxlowe, Property, Owned, Macquarie Field House</title>
+                  <added>2011-06-03 13:52:37</added>
+                  <modified>2012-09-20 13:51:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">43116</detail>
+                  <detail id="526" type="Factoid type" name="dc.type">Property</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">43318</detail>
+                  <detail id="527" type="Target entity reference" name="dos.factoid.target">8547</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1838</raw>
+                    <year>1838</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1877</raw>
+                    <year>1877</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>82393</id>
+                  <type id="150">Factoid</type>
+                  <title>Macquarie Field House, TimePlace</title>
+                  <added>2012-09-20 14:15:28</added>
+                  <modified>2012-09-20 14:15:28</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">8547</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(150.87756729125 -33.978721097515)</wkt>
+                    </geo>
+                  </detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>82392</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (8547 IsInMM 54433)</title>
+                  <added>2012-09-20 14:14:20</added>
+                  <modified>2012-09-20 14:14:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>8547</id>
+                      <type id="151">Entity</type>
+                      <title>Macquarie Field House (Building)</title>
+                      <added>2009-06-10 15:58:51</added>
+                      <modified>2012-09-20 13:45:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>54433</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Macquarie Fields, 1858-62</title>
+                      <added>2011-04-08 15:43:47</added>
+                      <modified>2011-05-20 23:32:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Macquarie Fields, 1858-62</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Terry, Frederick Charles</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1858</raw>
+                        <year>1858</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1862</raw>
+                        <year>1862</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421450</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a128109 / SV*/Sp Coll/Terry/2</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12746 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421450</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4716</id>
+                          <nonce>e540cb24cc9b223d7eefff93a9d31aa634893fae</nonce>
+                          <origName>SLNSW_a128109h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>58.5 kb</size>
+                          <date>2011-04-08 15:43:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a128109h.jpg?file_id=e540cb24cc9b223d7eefff93a9d31aa634893fae</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e540cb24cc9b223d7eefff93a9d31aa634893fae</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isOf" ontology="basic">IsInMM</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>54433</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Macquarie Fields, 1858-62</title>
+              <added>2011-04-08 15:43:47</added>
+              <modified>2011-05-20 23:32:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2011-04-08</raw>
+                <year>2011</year>
+                <month>4</month>
+                <day>8</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Macquarie Fields, 1858-62</detail>
+              <detail id="365" type="Subject" name="dc.creator">Terry, Frederick Charles</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1858</raw>
+                <year>1858</year>
+              </detail>
+              <detail id="178" type="End Date" name="dc.coverage.finish">
+                <raw>1862</raw>
+                <year>1862</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421450</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">a128109 / SV*/Sp Coll/Terry/2</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4813</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2009-10-29 10:35:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12746 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421450</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4716</id>
+                  <nonce>e540cb24cc9b223d7eefff93a9d31aa634893fae</nonce>
+                  <origName>SLNSW_a128109h.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>58.5 kb</size>
+                  <date>2011-04-08 15:43:47</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a128109h.jpg?file_id=e540cb24cc9b223d7eefff93a9d31aa634893fae</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e540cb24cc9b223d7eefff93a9d31aa634893fae</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>50002</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>went</title>
+                  <added>2011-01-21 16:15:33</added>
+                  <modified>2011-05-17 12:00:14</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">48392</detail>
+                  <detail id="199" type="Resource" name="target">54433</detail>
+                  <detail id="160" type="Title" name="dc.title">went</detail>
+                  <detail id="191" type="Extended description" name="caption">Hosking had a diverse property portfolio, holding land in Sydney at Macquarie Fields, Darling Harbour and East Balmain, much of which was sold after his business ventures failed and caused the collapse of the Bank of Australia.</detail>
+                  <detail id="539" type="Start Element" name="Start Element">2,3</detail>
+                  <detail id="329" type="Start Word" name="Start Word">2</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Multimedia</detail>
+                  <detail id="531" type="dos.status" name="dos.status" ontology="basic">stage</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>54435</id>
+                  <type id="52">Record relationship</type>
+                  <title>(54433 isOf 16729)</title>
+                  <added>2011-04-08 15:43:47</added>
+                  <modified>2011-04-08 15:43:47</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>54433</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Macquarie Fields, 1858-62</title>
+                      <added>2011-04-08 15:43:47</added>
+                      <modified>2011-05-20 23:32:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Macquarie Fields, 1858-62</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Terry, Frederick Charles</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1858</raw>
+                        <year>1858</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1862</raw>
+                        <year>1862</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421450</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a128109 / SV*/Sp Coll/Terry/2</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12746 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421450</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4716</id>
+                          <nonce>e540cb24cc9b223d7eefff93a9d31aa634893fae</nonce>
+                          <origName>SLNSW_a128109h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>58.5 kb</size>
+                          <date>2011-04-08 15:43:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a128109h.jpg?file_id=e540cb24cc9b223d7eefff93a9d31aa634893fae</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e540cb24cc9b223d7eefff93a9d31aa634893fae</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>16729</id>
+                      <type id="151">Entity</type>
+                      <title>Macquarie Fields (Place)</title>
+                      <added>2009-06-10 16:07:31</added>
+                      <modified>2011-04-29 10:46:34</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Macquarie Fields</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Suburb in Sydney's far south-west which was largely agricultural until suburban development began in the 1970s.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Campbelltown</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>82392</id>
+                  <type id="52">Record relationship</type>
+                  <title>Relationship (8547 IsInMM 54433)</title>
+                  <added>2012-09-20 14:14:20</added>
+                  <modified>2012-09-20 14:14:20</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Relationship</detail>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>8547</id>
+                      <type id="151">Entity</type>
+                      <title>Macquarie Field House (Building)</title>
+                      <added>2009-06-10 15:58:51</added>
+                      <modified>2012-09-20 13:45:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Macquarie Field House</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Regency style sandstone house built on the remains of Meehan's Castle. It survives as a rare example of a nineteenth century homestead in a rural setting.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">| Maquarie Field homestead |</detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>54433</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Macquarie Fields, 1858-62</title>
+                      <added>2011-04-08 15:43:47</added>
+                      <modified>2011-05-20 23:32:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2011-04-08</raw>
+                        <year>2011</year>
+                        <month>4</month>
+                        <day>8</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Macquarie Fields, 1858-62</detail>
+                      <detail id="365" type="Subject" name="dc.creator">Terry, Frederick Charles</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1858</raw>
+                        <year>1858</year>
+                      </detail>
+                      <detail id="178" type="End Date" name="dc.coverage.finish">
+                        <raw>1862</raw>
+                        <year>1862</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421450</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">a128109 / SV*/Sp Coll/Terry/2</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12746 - dc.source: http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=421450</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4716</id>
+                          <nonce>e540cb24cc9b223d7eefff93a9d31aa634893fae</nonce>
+                          <origName>SLNSW_a128109h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>58.5 kb</size>
+                          <date>2011-04-08 15:43:47</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_a128109h.jpg?file_id=e540cb24cc9b223d7eefff93a9d31aa634893fae</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=e540cb24cc9b223d7eefff93a9d31aa634893fae</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isOf" ontology="basic">IsInMM</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="isOf" ontology="basic">IsInMM</detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>

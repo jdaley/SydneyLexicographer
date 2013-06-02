@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:8834" w="a" depth="2" />
+  <dateStamp>2013-02-16T10:05:59+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>8834</id>
+      <type id="151">Entity</type>
+      <title>St George Antiochian Orthodox church Redfern (Building)</title>
+      <added>2009-06-10 15:58:54</added>
+      <modified>2012-10-25 13:31:10</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St George Antiochian Orthodox church Redfern</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Cathedral for Antiochian Orthodox in Australia.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">1920-1950</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>35158</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St George Antiochian Orthodox church Redfern</title>
+          <added>2009-11-12 08:45:48</added>
+          <modified>2009-11-12 08:45:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St George Antiochian Orthodox church Redfern</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>8834</id>
+              <type id="151">Entity</type>
+              <title>St George Antiochian Orthodox church Redfern (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2012-10-25 13:31:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St George Antiochian Orthodox church Redfern</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cathedral for Antiochian Orthodox in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1920-1950</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>419</id>
+              <type id="98">XML Document</type>
+              <title>Lebanese</title>
+              <added>2008-10-22 13:12:13</added>
+              <modified>2009-10-15 15:36:34</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>1625</id>
+                  <nonce>5decbba7050b4c62361c563082487d96f5531dc9</nonce>
+                  <origName>Lebanese.xml</origName>
+                  <type>application/xml</type>
+                  <size>129.7 kb</size>
+                  <date>2009-05-27 16:12:08</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Lebanese.xml?file_id=5decbba7050b4c62361c563082487d96f5531dc9</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=5decbba7050b4c62361c563082487d96f5531dc9</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Lebanese</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Once called Syrians, and considered Asian, early Lebanese Sydneysiders succeeded in business, politics and the professions, from humble beginnings in Redfern. Chain migration has kept village communities together and newer immigrants have created a diverse range of religious and social organisations.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2943</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">8</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">2422</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">7,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">78</detail>
+          <detail id="330" type="End Word" name="End Word">82</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>8835</id>
+          <type id="150">Factoid</type>
+          <title>St George Antiochian Orthodox church Redfern, Type, Place of worship</title>
+          <added>2009-06-10 15:58:54</added>
+          <modified>2009-06-10 15:58:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8834</id>
+              <type id="151">Entity</type>
+              <title>St George Antiochian Orthodox church Redfern (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2012-10-25 13:31:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St George Antiochian Orthodox church Redfern</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cathedral for Antiochian Orthodox in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1920-1950</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>84313</id>
+          <type id="150">Factoid</type>
+          <title>St George Antiochian Orthodox church Redfern, TimePlace</title>
+          <added>2012-10-25 13:32:50</added>
+          <modified>2012-10-25 13:32:50</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8834</id>
+              <type id="151">Entity</type>
+              <title>St George Antiochian Orthodox church Redfern (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2012-10-25 13:31:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St George Antiochian Orthodox church Redfern</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cathedral for Antiochian Orthodox in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1920-1950</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.208147943 -33.891810255534)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>84314</id>
+          <type id="150">Factoid</type>
+          <title>St George Antiochian Orthodox church Redfern, Milestone, Constructed</title>
+          <added>2012-10-25 13:33:28</added>
+          <modified>2012-10-25 13:33:28</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>8834</id>
+              <type id="151">Entity</type>
+              <title>St George Antiochian Orthodox church Redfern (Building)</title>
+              <added>2009-06-10 15:58:54</added>
+              <modified>2012-10-25 13:31:10</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St George Antiochian Orthodox church Redfern</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Cathedral for Antiochian Orthodox in Australia.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">1920-1950</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1920</raw>
+            <year>1920</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1920</raw>
+            <year>1920</year>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

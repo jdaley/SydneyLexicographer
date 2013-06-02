@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:38243" w="a" depth="2" />
+  <dateStamp>2013-02-16T22:54:59+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>38243</id>
+      <type id="151">Entity</type>
+      <title>St John's Anglican church Darlinghurst (Building)</title>
+      <added>2010-02-05 15:55:11</added>
+      <modified>2010-02-05 15:55:11</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">St John's Anglican church Darlinghurst</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Darlinghurst's earliest church, built and added to over a 50-year period from 1856.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>38244</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St John's Anglican church Darlinghurst</title>
+          <added>2010-02-05 15:55:20</added>
+          <modified>2010-02-05 15:55:20</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St John's Anglican church Darlinghurst</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>38243</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Darlinghurst (Building)</title>
+              <added>2010-02-05 15:55:11</added>
+              <modified>2010-02-05 15:55:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Darlinghurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst's earliest church, built and added to over a 50-year period from 1856.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>38081</id>
+              <type id="98">XML Document</type>
+              <title>Darlinghurst</title>
+              <added>2010-01-28 16:08:28</added>
+              <modified>2010-11-03 15:31:30</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3998</id>
+                  <nonce>a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</nonce>
+                  <origName>Darlinghurst.xml</origName>
+                  <type>application/xml</type>
+                  <size>153.7 kb</size>
+                  <date>2010-11-03 15:31:27</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Darlinghurst.xml?file_id=a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a0dfc2d74991b4de0f3baa5a6917d63e57060ebe</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Darlinghurst</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Used by its traditional owners, the Gadigal people, well into the 1840s, Darlinghurst was a quarry and windmill site before it became popular for the fine villas of the colony's well-to-do, in the 1830s. Subsequent booms and busts raised and lowered the suburb's fortunes, creating the mix of poor and posh, criminal and respectable that have made Darlinghurst one of Sydney's most interesting localities.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">1750</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">86</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">4,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">24</detail>
+          <detail id="330" type="End Word" name="End Word">27</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>44413</id>
+          <type id="99">TEI Document Reference</type>
+          <title>St John's Anglican church Darlinghurst</title>
+          <added>2010-10-07 11:20:29</added>
+          <modified>2010-10-07 11:20:29</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St John's Anglican church Darlinghurst</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>38243</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Darlinghurst (Building)</title>
+              <added>2010-02-05 15:55:11</added>
+              <modified>2010-02-05 15:55:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Darlinghurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst's earliest church, built and added to over a 50-year period from 1856.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>42545</id>
+              <type id="98">XML Document</type>
+              <title>Christian church architecture</title>
+              <added>2010-09-01 16:20:01</added>
+              <modified>2010-10-28 09:14:32</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3977</id>
+                  <nonce>2de00d0d9833ff10ed77d64245ff96cb5230d40e</nonce>
+                  <origName>Christian+church+architecture.xml</origName>
+                  <type>application/xml</type>
+                  <size>103.4 kb</size>
+                  <date>2010-10-28 09:14:27</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Christian%2Bchurch%2Barchitecture.xml?file_id=2de00d0d9833ff10ed77d64245ff96cb5230d40e</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=2de00d0d9833ff10ed77d64245ff96cb5230d40e</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Christian church architecture</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Church architecture in Sydney has at times been the most significant and exceptional in the architecture of Sydney. At other times, church denominations have settled on continuing a successful type, seeking to make a noticeable character across the region. As immigrants imported their traditions, they adapted to the materials and surroundings of the new country.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-09-01</raw>
+                <year>2010</year>
+                <month>9</month>
+                <day>1</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2974</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">42544</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,3</detail>
+          <detail id="329" type="Start Word" name="Start Word">152</detail>
+          <detail id="330" type="End Word" name="End Word">153</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>38245</id>
+          <type id="150">Factoid</type>
+          <title>St John's Anglican church Darlinghurst, Type, Place of worship</title>
+          <added>2010-02-05 15:56:03</added>
+          <modified>2010-02-05 15:56:03</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38243</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Darlinghurst (Building)</title>
+              <added>2010-02-05 15:55:11</added>
+              <modified>2010-02-05 15:55:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Darlinghurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst's earliest church, built and added to over a 50-year period from 1856.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7035</id>
+              <type id="91">Role</type>
+              <title>Place of worship</title>
+              <added>2009-06-10 15:56:21</added>
+              <modified>2009-06-10 15:56:21</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Place of worship</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>38246</id>
+          <type id="150">Factoid</type>
+          <title>St John's Anglican church Darlinghurst, Milestone, Constructed</title>
+          <added>2010-02-05 15:56:42</added>
+          <modified>2010-02-05 15:56:42</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38243</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Darlinghurst (Building)</title>
+              <added>2010-02-05 15:55:11</added>
+              <modified>2010-02-05 15:55:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Darlinghurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst's earliest church, built and added to over a 50-year period from 1856.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1856</raw>
+            <year>1856</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1905</raw>
+            <year>1905</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51710</id>
+          <type id="150">Factoid</type>
+          <title>St John's Anglican church Darlinghurst, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:23</added>
+          <modified>2011-02-16 16:03:28</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">St John&amp;apos;s Anglican church Darlinghurst</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>38243</id>
+              <type id="151">Entity</type>
+              <title>St John's Anglican church Darlinghurst (Building)</title>
+              <added>2010-02-05 15:55:11</added>
+              <modified>2010-02-05 15:55:11</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">St John's Anglican church Darlinghurst</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Darlinghurst's earliest church, built and added to over a 50-year period from 1856.</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.22112258726 -33.877196609093)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

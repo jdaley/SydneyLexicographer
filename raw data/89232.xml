@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:89232" w="a" depth="2" />
+  <dateStamp>2013-02-17T08:49:17+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>89232</id>
+      <type id="151">Entity</type>
+      <title>Rona (Building)</title>
+      <added>2013-02-08 10:39:46</added>
+      <modified>2013-02-08 10:39:46</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Rona</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">Victorian Rustic Gothic style mansion built for Edward William Knox at Bellevue Hill.</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>89233</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Rona</title>
+          <added>2013-02-08 10:40:00</added>
+          <modified>2013-02-08 10:40:00</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Rona</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>89232</id>
+              <type id="151">Entity</type>
+              <title>Rona (Building)</title>
+              <added>2013-02-08 10:39:46</added>
+              <modified>2013-02-08 10:39:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rona</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Victorian Rustic Gothic style mansion built for Edward William Knox at Bellevue Hill.</detail>
+            </record>
+          </detail>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>85665</id>
+              <type id="98">XML Document</type>
+              <title>Bellevue Hill</title>
+              <added>2012-11-22 14:34:47</added>
+              <modified>2013-02-08 10:44:33</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>8266</id>
+                  <nonce>c0e59b764c7bbf34c45a79418b06ec802e901e2c</nonce>
+                  <origName>Bellevue+Hill.xml</origName>
+                  <type>application/xml</type>
+                  <size>56.1 kb</size>
+                  <date>2013-02-08 10:44:28</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Bellevue%2BHill.xml?file_id=c0e59b764c7bbf34c45a79418b06ec802e901e2c</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=c0e59b764c7bbf34c45a79418b06ec802e901e2c</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Bellevue Hill</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Standing on Cadigal country, Bellevue Hill became one of Sydney's most exclusive suburbs, with its large lots and scenic views.</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2012-11-22</raw>
+                <year>2012</year>
+                <month>11</month>
+                <day>22</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2009</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">34</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">3,6</detail>
+          <detail id="329" type="Start Word" name="Start Word">35</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89234</id>
+          <type id="150">Factoid</type>
+          <title>Rona, Type, House</title>
+          <added>2013-02-08 10:40:48</added>
+          <modified>2013-02-08 10:40:48</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89232</id>
+              <type id="151">Entity</type>
+              <title>Rona (Building)</title>
+              <added>2013-02-08 10:39:46</added>
+              <modified>2013-02-08 10:39:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rona</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Victorian Rustic Gothic style mansion built for Edward William Knox at Bellevue Hill.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>6978</id>
+              <type id="91">Role</type>
+              <title>House</title>
+              <added>2009-06-10 15:56:08</added>
+              <modified>2009-06-10 15:56:08</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">House</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89236</id>
+          <type id="150">Factoid</type>
+          <title>Rona, Milestone, Constructed</title>
+          <added>2013-02-08 10:41:14</added>
+          <modified>2013-02-08 10:41:14</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89232</id>
+              <type id="151">Entity</type>
+              <title>Rona (Building)</title>
+              <added>2013-02-08 10:39:46</added>
+              <modified>2013-02-08 10:39:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rona</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Victorian Rustic Gothic style mansion built for Edward William Knox at Bellevue Hill.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1883</raw>
+            <year>1883</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1883</raw>
+            <year>1883</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>89238</id>
+          <type id="150">Factoid</type>
+          <title>Rona, TimePlace</title>
+          <added>2013-02-08 10:41:58</added>
+          <modified>2013-02-08 10:41:58</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>89232</id>
+              <type id="151">Entity</type>
+              <title>Rona (Building)</title>
+              <added>2013-02-08 10:39:46</added>
+              <modified>2013-02-08 10:39:46</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Rona</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">Victorian Rustic Gothic style mansion built for Edward William Knox at Bellevue Hill.</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.24984216689 -33.874134624355)</wkt>
+            </geo>
+          </detail>
+        </record>
+      </reversePointer>
+    </record>
+  </records>
+</hml>

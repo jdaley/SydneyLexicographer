@@ -1,0 +1,822 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hml>
+  <query f="1" q="id:28882" w="a" depth="2" />
+  <dateStamp>2013-02-16T22:48:24+11:00</dateStamp>
+  <ontologies>
+    <ontology id="1" namespace="http://heuristscholar.org/heurist/?q=&quot;basic Heurist Ontology&quot;">basic</ontology>
+    <ontology id="2" namespace="http://www.timemap.net/timelines/">RT Temporal</ontology>
+    <ontology id="3">Organisational</ontology>
+    <ontology id="4">Persons</ontology>
+  </ontologies>
+  <resultCount>1</resultCount>
+  <recordCount>1</recordCount>
+  <records>
+    <record>
+      <id>28882</id>
+      <type id="151">Entity</type>
+      <title>Marrickville Town Hall (Building)</title>
+      <added>2009-10-15 10:31:12</added>
+      <modified>2009-10-15 10:33:17</modified>
+      <workgroup id="0">public</workgroup>
+      <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+      <detail id="191" type="Extended description" name="dc.description">The second town hall for Marrickville built in 1922.</detail>
+      <detail id="303" type="Short summary" name="dos.notes">Marrickville Road, Marrickville</detail>
+      <reversePointer id="199" type="Resource" name="target">
+        <record>
+          <id>25768</id>
+          <type id="99">TEI Document Reference</type>
+          <title>Marrickville Town Hall</title>
+          <added>2009-09-21 11:17:54</added>
+          <modified>2009-10-15 10:31:37</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="322" type="TEI Document Reference" name="annotates">
+            <record>
+              <id>452</id>
+              <type id="98">XML Document</type>
+              <title>Marrickville</title>
+              <added>2008-10-22 13:12:18</added>
+              <modified>2009-10-29 14:41:55</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="231" type="Other File" name="WordML file">
+                <file>
+                  <id>3207</id>
+                  <nonce>d6bb74e41440f780e42a63816279d74af4bf7b95</nonce>
+                  <origName>Marrickville.xml</origName>
+                  <type>application/xml</type>
+                  <size>76.6 kb</size>
+                  <date>2009-10-15 10:24:04</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/Marrickville.xml?file_id=d6bb74e41440f780e42a63816279d74af4bf7b95</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=d6bb74e41440f780e42a63816279d74af4bf7b95</thumbURL>
+                </file>
+              </detail>
+              <detail id="160" type="Title" name="dc.title">Marrickville</detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">application/xml</detail>
+              <detail id="191" type="Extended description" name="dc.description">Once the site of a vast swampland, Marrickville became a significant industrial area in the nineteenth century. Today, the industry has largely gone but its multicultural legacy still flourishes in this inner west suburb.</detail>
+              <detail id="590" type="Licence" name="Licence" ontology="basic">CC-SA</detail>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2008-10-21</raw>
+                <year>2008</year>
+                <month>10</month>
+                <day>21</day>
+              </detail>
+              <detail id="176" type="Edition / Version" name="dc.version">1.0</detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="171" type="Publisher" name="dc.publisher">Dictionary of Sydney</detail>
+              <detail id="218" type="zzz xxxx" name="dc.source">Commissioned Dictionary of Sydney</detail>
+              <detail id="197" type="zzz Sample ID" name="dc.identifier.TSID">2348</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">23</detail>
+            </record>
+          </detail>
+          <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+          <detail id="199" type="Resource" name="target">
+            <record>
+              <id>28882</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Town Hall (Building)</title>
+              <added>2009-10-15 10:31:12</added>
+              <modified>2009-10-15 10:33:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The second town hall for Marrickville built in 1922.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Marrickville Road, Marrickville</detail>
+            </record>
+          </detail>
+          <detail id="539" type="Start Element" name="Start Element">9,2</detail>
+          <detail id="329" type="Start Word" name="Start Word">19</detail>
+          <detail id="330" type="End Word" name="End Word">21</detail>
+          <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>28884</id>
+          <type id="150">Factoid</type>
+          <title>Marrickville Town Hall, Type, Town Hall</title>
+          <added>2009-10-15 10:32:31</added>
+          <modified>2009-10-15 10:32:31</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>28882</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Town Hall (Building)</title>
+              <added>2009-10-15 10:31:12</added>
+              <modified>2009-10-15 10:33:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The second town hall for Marrickville built in 1922.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Marrickville Road, Marrickville</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>7115</id>
+              <type id="91">Role</type>
+              <title>Town hall</title>
+              <added>2009-06-10 15:56:34</added>
+              <modified>2012-05-30 11:23:58</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Town hall</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Type</detail>
+            </record>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>28886</id>
+          <type id="150">Factoid</type>
+          <title>Marrickville Town Hall, Milestone, Constructed</title>
+          <added>2009-10-15 10:33:02</added>
+          <modified>2009-10-15 10:33:02</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>28882</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Town Hall (Building)</title>
+              <added>2009-10-15 10:31:12</added>
+              <modified>2009-10-15 10:33:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The second town hall for Marrickville built in 1922.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Marrickville Road, Marrickville</detail>
+            </record>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+          <detail id="529" type="Role reference" name="dos.factoid.role">
+            <record>
+              <id>19397</id>
+              <type id="91">Role</type>
+              <title>Constructed</title>
+              <added>2009-06-17 11:59:00</added>
+              <modified>2009-06-17 11:59:29</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Constructed</detail>
+              <detail id="591" type="Role type" name="dc.type" ontology="basic">Milestone</detail>
+            </record>
+          </detail>
+          <detail id="177" type="Start Date" name="dc.coverage.start">
+            <raw>1922</raw>
+            <year>1922</year>
+          </detail>
+          <detail id="178" type="End Date" name="dc.coverage.finish">
+            <raw>1922</raw>
+            <year>1922</year>
+          </detail>
+        </record>
+      </reversePointer>
+      <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+        <record>
+          <id>51680</id>
+          <type id="150">Factoid</type>
+          <title>Marrickville Town Hall, TimePlace</title>
+          <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+          <added>2011-02-16 15:51:06</added>
+          <modified>2011-02-16 16:03:23</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+          <detail id="528" type="Source entity reference" name="dos.factoid.source">
+            <record>
+              <id>28882</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Town Hall (Building)</title>
+              <added>2009-10-15 10:31:12</added>
+              <modified>2009-10-15 10:33:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The second town hall for Marrickville built in 1922.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Marrickville Road, Marrickville</detail>
+            </record>
+          </detail>
+          <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+            <geo>
+              <type>point</type>
+              <wkt>POINT(151.15417254438 -33.909149720761)</wkt>
+            </geo>
+          </detail>
+          <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+        </record>
+      </reversePointer>
+      <relationships>
+        <record>
+          <id>48050</id>
+          <type id="52">Record relationship</type>
+          <title>(48046 isOf 28882)</title>
+          <added>2010-12-13 15:32:54</added>
+          <modified>2010-12-13 15:32:54</modified>
+          <workgroup id="0">public</workgroup>
+          <detail id="202" type="Primary resource" name="primary_resource">
+            <record>
+              <id>48046</id>
+              <type id="74">Media - image, sound, video</type>
+              <title>Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</title>
+              <added>2010-12-13 15:32:53</added>
+              <modified>2011-05-20 23:32:16</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="166" type="Date" name="dc.date">
+                <raw>2010-12-13</raw>
+                <year>2010</year>
+                <month>12</month>
+                <day>13</day>
+              </detail>
+              <detail id="193" type="Language" name="dc.language">en</detail>
+              <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</detail>
+              <detail id="177" type="Start Date" name="dc.coverage.start">
+                <raw>1937</raw>
+                <year>1937</year>
+              </detail>
+              <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+              <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+              <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=19177</detail>
+              <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_14698 / Home and Away 14698</detail>
+              <detail id="538" type="Contributor reference" name="dc.contributor">
+                <record>
+                  <id>4813</id>
+                  <type id="153">Contributor</type>
+                  <title>State Library of New South Wales</title>
+                  <added>2009-03-24 10:55:22</added>
+                  <modified>2009-10-29 10:35:07</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">State Library of New South Wales</detail>
+                  <detail id="568" type="Contributor type" name="dc.type" ontology="basic">institution</detail>
+                  <detail id="256" type="Web links" name="contributor.link">http://www.sl.nsw.gov.au/using/search/</detail>
+                  <detail id="569" type="Attribution phrase" name="contributor.attribution">From the collection of the</detail>
+                </record>
+              </detail>
+              <detail id="303" type="Short summary" name="dos.notes">P-ID: 12046\nP-Related: Marrickville Municipal Symphony Orchestra</detail>
+              <detail id="221" type="AssociatedFile" name="Mediafile">
+                <file>
+                  <id>4251</id>
+                  <nonce>a4f7fa76d85c3e56776f93e5617aab98c1b7276a</nonce>
+                  <origName>SLNSW_hood_14698h.jpg</origName>
+                  <type>image/jpeg</type>
+                  <size>531.9 kb</size>
+                  <date>2010-12-13 15:32:53</date>
+                  <description />
+                  <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hood_14698h.jpg?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</url>
+                  <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</thumbURL>
+                </file>
+              </detail>
+              <reversePointer id="508" type="Media reference" name="dos.main_image">
+                <record>
+                  <id>11582</id>
+                  <type id="151">Entity</type>
+                  <title>Marrickville Municipal Symphony Orchestra (Organisation)</title>
+                  <added>2009-06-10 16:02:59</added>
+                  <modified>2010-12-13 15:32:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra</detail>
+                  <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                  <detail id="191" type="Extended description" name="dc.description">Orchestra formed by unemployed musicians in 1930 and supported by Marrickville Municipal Council. It was disbanded in 1945, but has been revived in 2010.</detail>
+                  <detail id="303" type="Short summary" name="dos.notes">http://www.mvso.org.au/history</detail>
+                  <detail id="508" type="Media reference" name="dos.main_image">48046</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>48047</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48046 isOf 16793)</title>
+                  <added>2010-12-13 15:32:54</added>
+                  <modified>2010-12-13 15:32:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48046</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</title>
+                      <added>2010-12-13 15:32:53</added>
+                      <modified>2011-05-20 23:32:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1937</raw>
+                        <year>1937</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=19177</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_14698 / Home and Away 14698</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12046\nP-Related: Marrickville Municipal Symphony Orchestra</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4251</id>
+                          <nonce>a4f7fa76d85c3e56776f93e5617aab98c1b7276a</nonce>
+                          <origName>SLNSW_hood_14698h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>531.9 kb</size>
+                          <date>2010-12-13 15:32:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hood_14698h.jpg?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>16793</id>
+                      <type id="151">Entity</type>
+                      <title>Marrickville (Place)</title>
+                      <added>2009-06-10 16:07:32</added>
+                      <modified>2010-12-03 15:51:35</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marrickville</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Place</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Inner-west suburb on the Cooks River.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Marrickville  | Wardell's Bush |</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>48048</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48046 isOf 11582)</title>
+                  <added>2010-12-13 15:32:54</added>
+                  <modified>2010-12-13 15:32:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48046</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</title>
+                      <added>2010-12-13 15:32:53</added>
+                      <modified>2011-05-20 23:32:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1937</raw>
+                        <year>1937</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=19177</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_14698 / Home and Away 14698</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12046\nP-Related: Marrickville Municipal Symphony Orchestra</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4251</id>
+                          <nonce>a4f7fa76d85c3e56776f93e5617aab98c1b7276a</nonce>
+                          <origName>SLNSW_hood_14698h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>531.9 kb</size>
+                          <date>2010-12-13 15:32:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hood_14698h.jpg?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>11582</id>
+                      <type id="151">Entity</type>
+                      <title>Marrickville Municipal Symphony Orchestra (Organisation)</title>
+                      <added>2009-06-10 16:02:59</added>
+                      <modified>2010-12-13 15:32:54</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Organisation</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Orchestra formed by unemployed musicians in 1930 and supported by Marrickville Municipal Council. It was disbanded in 1945, but has been revived in 2010.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">http://www.mvso.org.au/history</detail>
+                      <detail id="508" type="Media reference" name="dos.main_image">48046</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>48049</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48046 isOf 13722)</title>
+                  <added>2010-12-13 15:32:54</added>
+                  <modified>2010-12-13 15:32:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48046</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</title>
+                      <added>2010-12-13 15:32:53</added>
+                      <modified>2011-05-20 23:32:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1937</raw>
+                        <year>1937</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=19177</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_14698 / Home and Away 14698</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12046\nP-Related: Marrickville Municipal Symphony Orchestra</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4251</id>
+                          <nonce>a4f7fa76d85c3e56776f93e5617aab98c1b7276a</nonce>
+                          <origName>SLNSW_hood_14698h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>531.9 kb</size>
+                          <date>2010-12-13 15:32:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hood_14698h.jpg?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>13722</id>
+                      <type id="151">Entity</type>
+                      <title>Hanney, Fred (Person)</title>
+                      <added>2009-06-10 16:04:14</added>
+                      <modified>2010-09-20 10:52:31</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Hanney, Fred</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Person</detail>
+                      <detail id="191" type="Extended description" name="dc.description">Musician and conductor who led the Marrickville Symphony Orchestra.</detail>
+                      <detail id="399" type="Gender" name="dc.gender" ontology="basic">Male</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>48050</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48046 isOf 28882)</title>
+                  <added>2010-12-13 15:32:54</added>
+                  <modified>2010-12-13 15:32:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48046</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</title>
+                      <added>2010-12-13 15:32:53</added>
+                      <modified>2011-05-20 23:32:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1937</raw>
+                        <year>1937</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=19177</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_14698 / Home and Away 14698</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12046\nP-Related: Marrickville Municipal Symphony Orchestra</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4251</id>
+                          <nonce>a4f7fa76d85c3e56776f93e5617aab98c1b7276a</nonce>
+                          <origName>SLNSW_hood_14698h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>531.9 kb</size>
+                          <date>2010-12-13 15:32:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hood_14698h.jpg?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>28882</id>
+                      <type id="151">Entity</type>
+                      <title>Marrickville Town Hall (Building)</title>
+                      <added>2009-10-15 10:31:12</added>
+                      <modified>2009-10-15 10:33:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The second town hall for Marrickville built in 1922.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Marrickville Road, Marrickville</detail>
+                    </record>
+                  </detail>
+                </record>
+                <record>
+                  <id>83204</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48046 hasSubject 19756)</title>
+                  <added>2012-10-09 10:02:25</added>
+                  <modified>2012-10-09 10:02:25</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48046</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</title>
+                      <added>2010-12-13 15:32:53</added>
+                      <modified>2011-05-20 23:32:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1937</raw>
+                        <year>1937</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=19177</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_14698 / Home and Away 14698</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12046\nP-Related: Marrickville Municipal Symphony Orchestra</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4251</id>
+                          <nonce>a4f7fa76d85c3e56776f93e5617aab98c1b7276a</nonce>
+                          <origName>SLNSW_hood_14698h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>531.9 kb</size>
+                          <date>2010-12-13 15:32:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hood_14698h.jpg?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>19756</id>
+                      <type id="152">Term</type>
+                      <title>Music</title>
+                      <added>2009-06-20 16:56:29</added>
+                      <modified>2009-06-20 16:56:29</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Music</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+                <record>
+                  <id>83205</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48046 hasSubject 6171)</title>
+                  <added>2012-10-09 10:02:51</added>
+                  <modified>2012-10-09 10:02:51</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48046</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</title>
+                      <added>2010-12-13 15:32:53</added>
+                      <modified>2011-05-20 23:32:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1937</raw>
+                        <year>1937</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=19177</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_14698 / Home and Away 14698</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12046\nP-Related: Marrickville Municipal Symphony Orchestra</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4251</id>
+                          <nonce>a4f7fa76d85c3e56776f93e5617aab98c1b7276a</nonce>
+                          <origName>SLNSW_hood_14698h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>531.9 kb</size>
+                          <date>2010-12-13 15:32:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hood_14698h.jpg?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>6171</id>
+                      <type id="152">Term</type>
+                      <title>Public building</title>
+                      <added>2009-05-25 14:56:52</added>
+                      <modified>2009-05-25 14:56:52</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Public building</detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="isSubjectOf" ontology="basic">hasSubject</detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+          <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+          <detail id="199" type="Resource" name="linked_resource">
+            <record>
+              <id>28882</id>
+              <type id="151">Entity</type>
+              <title>Marrickville Town Hall (Building)</title>
+              <added>2009-10-15 10:31:12</added>
+              <modified>2009-10-15 10:33:17</modified>
+              <workgroup id="0">public</workgroup>
+              <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+              <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+              <detail id="191" type="Extended description" name="dc.description">The second town hall for Marrickville built in 1922.</detail>
+              <detail id="303" type="Short summary" name="dos.notes">Marrickville Road, Marrickville</detail>
+              <reversePointer id="199" type="Resource" name="target">
+                <record>
+                  <id>25768</id>
+                  <type id="99">TEI Document Reference</type>
+                  <title>Marrickville Town Hall</title>
+                  <added>2009-09-21 11:17:54</added>
+                  <modified>2009-10-15 10:31:37</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="322" type="TEI Document Reference" name="annotates">452</detail>
+                  <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+                  <detail id="199" type="Resource" name="target">28882</detail>
+                  <detail id="539" type="Start Element" name="Start Element">9,2</detail>
+                  <detail id="329" type="Start Word" name="Start Word">19</detail>
+                  <detail id="330" type="End Word" name="End Word">21</detail>
+                  <detail id="359" type="Annotation type" name="dc.type" ontology="basic">Annotation Entity</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>28884</id>
+                  <type id="150">Factoid</type>
+                  <title>Marrickville Town Hall, Type, Town Hall</title>
+                  <added>2009-10-15 10:32:31</added>
+                  <modified>2009-10-15 10:32:31</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">28882</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Type</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">7115</detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>28886</id>
+                  <type id="150">Factoid</type>
+                  <title>Marrickville Town Hall, Milestone, Constructed</title>
+                  <added>2009-10-15 10:33:02</added>
+                  <modified>2009-10-15 10:33:02</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">28882</detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">Milestone</detail>
+                  <detail id="529" type="Role reference" name="dos.factoid.role">19397</detail>
+                  <detail id="177" type="Start Date" name="dc.coverage.start">
+                    <raw>1922</raw>
+                    <year>1922</year>
+                  </detail>
+                  <detail id="178" type="End Date" name="dc.coverage.finish">
+                    <raw>1922</raw>
+                    <year>1922</year>
+                  </detail>
+                </record>
+              </reversePointer>
+              <reversePointer id="528" type="Source entity reference" name="dos.factoid.source">
+                <record>
+                  <id>51680</id>
+                  <type id="150">Factoid</type>
+                  <title>Marrickville Town Hall, TimePlace</title>
+                  <notes>[KML import, 2011-02-16 15:45:16, from file: 2011_02_15_DoS_point_import.kml, by user: Admin User]</notes>
+                  <added>2011-02-16 15:51:06</added>
+                  <modified>2011-02-16 16:03:23</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+                  <detail id="528" type="Source entity reference" name="dos.factoid.source">28882</detail>
+                  <detail id="230" type="Geographic object" name="dc.coverage.polygon">
+                    <geo>
+                      <type>point</type>
+                      <wkt>POINT(151.15417254438 -33.909149720761)</wkt>
+                    </geo>
+                  </detail>
+                  <detail id="526" type="Factoid type" name="dc.type" ontology="basic">TimePlace</detail>
+                </record>
+              </reversePointer>
+              <relationships>
+                <record>
+                  <id>48050</id>
+                  <type id="52">Record relationship</type>
+                  <title>(48046 isOf 28882)</title>
+                  <added>2010-12-13 15:32:54</added>
+                  <modified>2010-12-13 15:32:54</modified>
+                  <workgroup id="0">public</workgroup>
+                  <detail id="202" type="Primary resource" name="primary_resource">
+                    <record>
+                      <id>48046</id>
+                      <type id="74">Media - image, sound, video</type>
+                      <title>Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</title>
+                      <added>2010-12-13 15:32:53</added>
+                      <modified>2011-05-20 23:32:16</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="166" type="Date" name="dc.date">
+                        <raw>2010-12-13</raw>
+                        <year>2010</year>
+                        <month>12</month>
+                        <day>13</day>
+                      </detail>
+                      <detail id="193" type="Language" name="dc.language">en</detail>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Municipal Symphony Orchestra at Marrickville Town Hall, 9 May 1937</detail>
+                      <detail id="177" type="Start Date" name="dc.coverage.start">
+                        <raw>1937</raw>
+                        <year>1937</year>
+                      </detail>
+                      <detail id="289" type="Mime Type" name="dc.type" ontology="basic">image/jpeg</detail>
+                      <detail id="290" type="Rights statement/URL" name="contributor.caption">Mitchell Library</detail>
+                      <detail id="304" type="More info URL" name="dc.source">http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=19177</detail>
+                      <detail id="368" type="Custom ID" name="dc.identifier.contributor">hood_14698 / Home and Away 14698</detail>
+                      <detail id="538" type="Contributor reference" name="dc.contributor">4813</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">P-ID: 12046\nP-Related: Marrickville Municipal Symphony Orchestra</detail>
+                      <detail id="221" type="AssociatedFile" name="Mediafile">
+                        <file>
+                          <id>4251</id>
+                          <nonce>a4f7fa76d85c3e56776f93e5617aab98c1b7276a</nonce>
+                          <origName>SLNSW_hood_14698h.jpg</origName>
+                          <type>image/jpeg</type>
+                          <size>531.9 kb</size>
+                          <date>2010-12-13 15:32:53</date>
+                          <description />
+                          <url>http://dos.heuristscholar.org/heurist/php/fetch_file.php/SLNSW_hood_14698h.jpg?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</url>
+                          <thumbURL>http://dos.heuristscholar.org/heurist/php/resize_image.php?file_id=a4f7fa76d85c3e56776f93e5617aab98c1b7276a</thumbURL>
+                        </file>
+                      </detail>
+                    </record>
+                  </detail>
+                  <detail id="200" type="RelationType" name="dc.type" inverse="IsInMM" ontology="basic">isOf</detail>
+                  <detail id="199" type="Resource" name="linked_resource">
+                    <record>
+                      <id>28882</id>
+                      <type id="151">Entity</type>
+                      <title>Marrickville Town Hall (Building)</title>
+                      <added>2009-10-15 10:31:12</added>
+                      <modified>2009-10-15 10:33:17</modified>
+                      <workgroup id="0">public</workgroup>
+                      <detail id="160" type="Title" name="dc.title">Marrickville Town Hall</detail>
+                      <detail id="523" type="Entity type" name="dc.type" ontology="basic">Building</detail>
+                      <detail id="191" type="Extended description" name="dc.description">The second town hall for Marrickville built in 1922.</detail>
+                      <detail id="303" type="Short summary" name="dos.notes">Marrickville Road, Marrickville</detail>
+                    </record>
+                  </detail>
+                </record>
+              </relationships>
+            </record>
+          </detail>
+        </record>
+      </relationships>
+    </record>
+  </records>
+</hml>
