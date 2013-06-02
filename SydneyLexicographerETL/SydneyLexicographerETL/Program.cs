@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -18,6 +19,7 @@ namespace SydneyLexicographerETL
      // <detail id="191" type="Extended description" name="dc.description">
      //   type="End Date" name="dc.coverage.finish"
         private static string RelPath = @"..\..\..\..\raw data";
+        private static string ConnectionString = "Server=sql6.expeed.com.au,8484;Database=Got2Go;Uid=charlie;Password=ButterRegion5";
 
         public static void Main(string[] args)
         {
@@ -26,7 +28,6 @@ namespace SydneyLexicographerETL
             string rawDataFolder = Path.Combine(basepath, RelPath);
             string[] files = Directory.GetFiles(rawDataFolder,"*.xml");
 
-            string testfile = @"C:\Users\pete\Documents\GitHub\SydneyLexicographer\raw data\7910.xml";
             for (int x = 0; x < files.Length; x++)
             {
             string imageUrl = string.Empty;
@@ -52,10 +53,14 @@ namespace SydneyLexicographerETL
                     {
                         desc = node.InnerText;
                     }
-                    node = doc.SelectSingleNode("hml/records/record/reversepointer/detail[@type=\"End Date\" and @name=\"dc.coverage.finish\"]/raw");
+                    node = doc.SelectSingleNode("hml/records/record/reversePointer/record/detail[@type=\"End Date\" and @name=\"dc.coverage.finish\"]/raw");
                     if (node != null)
                     {
                         year = node.InnerText;
+                    }
+                    else
+                    {
+                        year = "1900";
                     }
                     node = doc.SelectSingleNode(".//geo/wkt");
                     if (node != null)
@@ -63,6 +68,23 @@ namespace SydneyLexicographerETL
                         point = node.InnerText;
                     }
                     int i = 0;
+
+                    //if ( imageUrl != string.Empty && title != string.Empty && desc != string.Empty &&
+                    //    point != string.Empty && year != string.Empty )
+                    //{
+                    //    point = point.Replace("POINT(", "");
+                    //    point = point.Replace(")","").Trim();
+                    //    string[] coords = point.Split(' ');
+                    //    using (SqlConnection connection = new SqlConnection(ConnectionString))
+                    //    {
+                    //        using (SqlCommand cmd = new SqlCommand())
+                    //        {
+                    //            cmd.Connection = connection;
+                    //            cmd.CommandText = "INSERT INTO Question
+                    //        }
+                    //    }
+                    //}
+                    
 
                     Console.WriteLine("image url: " + imageUrl);
                     Console.WriteLine("Title: " + title);
@@ -73,8 +95,8 @@ namespace SydneyLexicographerETL
                 }
                 else 
                 {
-                    Console.WriteLine("Node empty");
-                    Console.WriteLine("~~~~~~~~~~~~~~~~~~~");
+                   // Console.WriteLine("Node empty");
+                   // Console.WriteLine("~~~~~~~~~~~~~~~~~~~");
                 }
            }
             Console.Write("Press Enter to exit.");
