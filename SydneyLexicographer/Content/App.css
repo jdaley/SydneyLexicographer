@@ -55,12 +55,25 @@ h1 {
     width: 500px;
     margin: 0 auto;
     background-color: white;
-    padding: 20px 10px 40px 10px;
+    padding: 20px 10px 50px 10px;
 }
 
 .introduction-title {
     font-weight: bold;
     font-size: 1.3em;
+}
+
+.introduction-credits {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #800;
+    color: white;
+    padding: 10px;
+    font-size: 0.8em;
+}
+
+.introduction-credits a, .introduction-credits a:hover {
+    color: wheat;
 }
 
 /* === question === */
