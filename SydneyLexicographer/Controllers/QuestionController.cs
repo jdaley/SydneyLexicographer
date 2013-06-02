@@ -26,17 +26,18 @@ namespace SydneyLexicographer.Controllers
             using (SydneyLexicographerContext context = new SydneyLexicographerContext())
             {
                 int count = context.Questions.Count();
-                int index;
                 int tries = 0;
+                Question result;
 
                 do
                 {
-                    index = new Random().Next(count);
+                    int index = new Random().Next(count);
+                    result = context.Questions.OrderBy(q => q.Id).Skip(index).Take(1).First();
                     tries++;
                 }
-                while (avoidIds.Contains(index) && tries < 10);
+                while (avoidIds.Contains(result.Id) && tries < 10);
 
-                return context.Questions.OrderBy(q => q.Id).Skip(index).Take(1).First();
+                return result;
             }
            
             //return new Question
