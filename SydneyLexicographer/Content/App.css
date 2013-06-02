@@ -142,13 +142,6 @@ h1 {
     width: 40px;
 }
 
-.photo-info {
-    display: none;
-}
-
-#name {
-    font-weight: bold;
-}
 #correct-answer-container {
     display: none;
 }
@@ -160,8 +153,49 @@ h1 {
 {
     background-color: #39d645
 }
+
+/* === answer === */
+
+#answer {
+    position: absolute;
+    top: 0;
+    height: 107px;
+    width: 100%;
+}
+
+.answer-container {
+    width: 95%;
+    height: 106px;
+    background-color: white;
+    margin: 0 auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: solid 1px black;
+    border-top: none;
+    box-shadow: 3px 3px 2px #888888;
+}
+
+#name {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4px;
+    height: 18px;
+}
+
+#description {
+    text-align: center;
+    font-size: 0.9em;
+    overflow-y: scroll;
+    height: 75px;
+    margin: 5px 10px;
+}
+
 /* === results === */
 
 #results {
+    display: none;
+}
+
+#mapError {
     display: none;
 }

@@ -27,11 +27,6 @@
             <div class="question-header-score">Score: <span id="score">0</span> / <span id="score-out-of">0</span></div>
         </div>
 
-        <div class="photo-info">
-            <div id="name"></div>
-            <div id="description"></div>
-        </div>
-
         <div class="question-photo">
             <img id="photo" src="http://dictionaryofsydney.org/files/wide/b16fbbf6b053225659d148b51ec14b12b93ba88e">
         </div>
@@ -51,7 +46,6 @@
                 <div id="yearSlider"></div>
                 <span>Your Guess: <input type="text" id="date" /></span>
                 <span id="correct-answer-container">Correct Answer: <span id="correct-answer"></span></span>
-                <div id="timeline-score"></div>
             </div>
         </div>
 
@@ -60,7 +54,14 @@
             <button id="nextQuestionButton">Next Question</button>
         </div>
     </div>
-    
+
+    <div id="answer">
+        <div class="answer-container">
+            <div id="name">Court house, Darlinghurst</div>
+            <div id="description">Darlinghurst Courthouse was an early purpose-built courthouse that inspired courthouse design throughout the colony for the rest of the nineteenth century. The building redefined the streetscape of Darlinghurst Hill, and played a large part in Sydney's legal history.</div>
+        </div>
+    </div>
+
     <div id="results"></div>
     <div id="mapError">Please select a location on the map.</div>
 </body>
