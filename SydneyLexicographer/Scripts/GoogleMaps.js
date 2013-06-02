@@ -11,7 +11,7 @@ function initialize() {
     var mapOptions = {
         // Centre of sydney
         center: new google.maps.LatLng(-33.8546, 150.9841),
-        zoom: 11,
+        zoom: 10,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     };
 
@@ -41,7 +41,7 @@ function initializeMapMarkers() {
     // clear map markers
     clearAllMarkers();
     map.setCenter(new google.maps.LatLng(-33.8546, 150.9841, true));
-    map.setZoom(11);
+    map.setZoom(10);
 
     var latLongLocation = new google.maps.LatLng(gMaps.answerLatitude,
         gMaps.answerLongitude,
