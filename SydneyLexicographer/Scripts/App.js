@@ -15,7 +15,7 @@ SL.calculateYearScore = function () {
 
 SL.calculateMapScore = function () {
     var distance = distanceDelta();
-    return 50 - Math.round((distance / (MAX_DISTANCE)) * 50);
+    return 50 - Math.min(Math.round(distance*4),50);
 };
 
 SL.displayYearAnswer = function (question) {
