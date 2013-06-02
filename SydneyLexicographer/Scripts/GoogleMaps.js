@@ -40,10 +40,8 @@ function initialize() {
 function initializeMapMarkers() {
     // clear map markers
     clearAllMarkers();
-    if (map) {
-        map.setCenter(new google.maps.LatLng(-33.8546, 150.9841, true));
-        map.setZoom(10);
-    }
+    map.setCenter(new google.maps.LatLng(-33.8546, 150.9841, true));
+    map.setZoom(10);
 
     var latLongLocation = new google.maps.LatLng(gMaps.answerLatitude,
         gMaps.answerLongitude,
@@ -132,5 +130,3 @@ function distanceBetweenMarkers(marker1, marker2) {
     var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
     return R * c;
 }
-
-google.maps.event.addDomListener(window, 'load', initialize);

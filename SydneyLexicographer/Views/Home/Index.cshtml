@@ -15,10 +15,25 @@
     <script type="text/javascript" src="~/Scripts/UI.js"></script>
     <link rel="stylesheet" href="~/Content/App.css">
     <link href='http://fonts.googleapis.com/css?family=Milonga' rel='stylesheet' type='text/css'>
+    <title>Sydney Lexicographer</title>
 </head>
 <body>
     <div id="header">
         <h1>~ Sydney Lexicographer ~</h1>
+    </div>
+
+    <div id="introduction">
+        <div class="introduction-container">
+            <p class="introduction-title">Are you a Sydney Lexicographer?</p>
+            <p>Test your knowledge of Sydney's history. Question data courtesy of <a href="http://dictionaryofsydney.org" target="_blank">The Dictionary of Sydney</a>.</p>
+            <p>How to play:</p>
+            <ol>
+                <li>Click in the <strong>map</strong> to mark the location</li>
+                <li>Slide the <strong>timeline</strong> to choose year of construction</li>
+                <li>Click <strong>Answer</strong></li>
+            </ol>
+            <button id="startButton">Start</button>
+        </div>
     </div>
 
     <div id="question">
@@ -64,8 +79,8 @@
 
     <div id="answer">
         <div class="answer-container">
-            <div id="name">Court house, Darlinghurst</div>
-            <div id="description">Darlinghurst Courthouse was an early purpose-built courthouse that inspired courthouse design throughout the colony for the rest of the nineteenth century. The building redefined the streetscape of Darlinghurst Hill, and played a large part in Sydney's legal history.</div>
+            <div id="name"></div>
+            <div id="description"></div>
         </div>
     </div>
 

@@ -52,11 +52,7 @@ SL.loadQuestion = function() {
         gMaps.answerLatitude = question.Latitude;
         gMaps.answerLongitude = question.Longitude;
 
-        if (typeof google != 'undefined') {
-            initializeMapMarkers();
-        } else {
-            initialize();
-        }
+        initializeMapMarkers();
     });
 }
 
@@ -70,6 +66,14 @@ SL.validate = function () {
 };
 
 $(function () {
+    $("#startButton").click(function () {
+        $("#introduction").fadeOut();
+        $("#question").fadeIn(400, function () {
+            initialize();
+            SL.loadQuestion();
+        });
+    });
+
     $("#submitButton").hide();
     $("#nextQuestionButton").click(function () {
         SL.loadQuestion();
@@ -142,6 +146,4 @@ $(function () {
 
         }
     });
-
-    SL.loadQuestion();
 });

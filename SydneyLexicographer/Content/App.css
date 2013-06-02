@@ -29,7 +29,37 @@ h1 {
     text-align: center;
 }
 
+/* === introduction === */
+
+#introduction {
+    position: absolute;
+    top: 80px;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+}
+
+.introduction-container {
+    width: 85%;
+    background-color: white;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: solid 1px #666;
+    box-shadow: 3px 3px 2px #888888;
+    text-align: center;
+}
+
+.introduction-title {
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
 /* === question === */
+
+#question {
+    display: none;
+}
 
 .question-header {
     height: 44px;
@@ -60,8 +90,8 @@ h1 {
 
 .question-photo {
     position: absolute;
-    top: 100px;
-    bottom: 100px;
+    top: 107px;
+    bottom: 107px;
     left: 10px;
     text-align: center;
     width: 50%;
@@ -154,6 +184,12 @@ h1 {
     display: none;
 }
 
+#startButton {
+    font-size: 20px;
+    padding: 7px 25px;
+    margin-top: 20px;
+}
+
 #date {
     border: 0; 
     font-weight: bold; 
@@ -199,7 +235,7 @@ h1 {
     margin: 0 auto;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    border: solid 1px black;
+    border: solid 1px #666;
     border-top: none;
     box-shadow: 3px 3px 2px #888888;
 }
