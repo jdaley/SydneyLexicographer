@@ -8,8 +8,8 @@ var gMaps = {
 function initialize() {
     var mapOptions = {
         // Centre of sydney
-        center: new google.maps.LatLng(-33.869, 151.2082),
-        zoom: 15,
+        center: new google.maps.LatLng(-33.8546, 150.9841),
+        zoom: 11,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     };
 
