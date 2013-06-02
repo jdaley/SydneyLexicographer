@@ -16,10 +16,7 @@ SL.calculateYearScore = function () {
 SL.displayYearAnswer = function (question) {
     var yearGuess = $("#date").val();
     if (yearGuess == answer.Year) {
-        $(".question-timeline-content").addClass("correct");
-    }
-    else{
-        $("#yearSlider").slider({"values": [yearGuess,answer.Year],"range": "true"});
+        $(".question-timeline").addClass("correct");
     }
     $("#correct-answer").text(answer.Year);
     $("#correct-answer-container").show();
@@ -27,8 +24,10 @@ SL.displayYearAnswer = function (question) {
 
 SL.resetYear = function(){
     $("#yearSlider").slider({ "values": [MIN_YEAR], "range": "false" });
-    $(".question-timeline-content").removeClass("correct");
+    $(".question-timeline").removeClass("correct");
     $("#correct-answer-container").hide();
+    $(".question-timeline .question-section-header").text("When was this?");
+    $(".question-map .question-section-header").text("Where is this?");
 };
 
 SL.calculateMapScore = function(question) {
@@ -83,8 +82,8 @@ $(function () {
         showAnswer();
         SL.displayYearAnswer();
         SL.updateTotalScore();
-        $("#timeline-score").text(yearScore);
-        $("#map-score").text(mapScore);
+        $(".question-timeline .question-section-header").text("Score: " + yearScore);
+        $(".question-map .question-section-header").text("Score: " + mapScore);
         $('#name').text(answer.Name);
         $('#description').text(answer.Description);
         $("#timeline-score").show();

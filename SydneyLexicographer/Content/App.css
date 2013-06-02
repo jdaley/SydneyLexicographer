@@ -156,8 +156,9 @@ h1 {
     font-weight: bold;
 }
 
-.correct {
-    color: #39d645
+.correct .question-section-header
+{
+    background-color: #39d645
 }
 /* === results === */
 
