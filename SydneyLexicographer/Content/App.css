@@ -64,12 +64,27 @@ h1 {
     bottom: 100px;
     left: 10px;
     text-align: center;
-    width: 47%;
+    width: 50%;
+}
+
+.question-photo-container {
+    position: relative;
+    margin-right: 0;
+    height: 100%;
 }
 
 #photo {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
     max-height: 100%;
     max-width: 100%;
+    border: 1px solid #4C3C1B;
+    padding: 7px;
+    background-color: white;
 }
 
 .question-map {
@@ -78,7 +93,14 @@ h1 {
     top: 110px;
     bottom: 200px;
     right: 10px;
+}
+
+.question-section-container {
+    position: relative;
+    margin-left: 50px;
+    height: 100%;
     border: solid 1px #666;
+    background-color: white;
 }
 
 .question-section-header {
@@ -110,8 +132,6 @@ h1 {
     height: 80px;
     bottom: 110px;
     right: 10px;
-    border: solid 1px #666;
-    background-color: white;
 }
 
 .question-timeline-content {
