@@ -19,14 +19,15 @@ namespace SydneyLexicographerETL
      // <detail id="191" type="Extended description" name="dc.description">
      //   type="End Date" name="dc.coverage.finish"
         private static string RelPath = @"..\..\..\..\raw data";
-        private static string ConnectionString = "Server=sql6.expeed.com.au,8484;Database=Got2Go;Uid=charlie;Password=ButterRegion5";
-
+        
         public static void Main(string[] args)
         {
             string basepath = System.Reflection.Assembly.GetExecutingAssembly().Location;
             basepath = basepath.Substring(0, basepath.LastIndexOf("\\") + 1);
             string rawDataFolder = Path.Combine(basepath, RelPath);
             string[] files = Directory.GetFiles(rawDataFolder,"*.xml");
+
+            StringBuilder builder = new StringBuilder();
 
             for (int x = 0; x < files.Length; x++)
             {
@@ -67,23 +68,26 @@ namespace SydneyLexicographerETL
                     {
                         point = node.InnerText;
                     }
-                    int i = 0;
+                    
+                    if ( imageUrl != string.Empty && title != string.Empty && desc != string.Empty &&
+                        point != string.Empty && year != string.Empty )
+                    {
+                        point = point.Replace("POINT(", "");
+                        point = point.Replace(")","").Trim();
+                        string[] coords = point.Split(' ');
 
-                    //if ( imageUrl != string.Empty && title != string.Empty && desc != string.Empty &&
-                    //    point != string.Empty && year != string.Empty )
-                    //{
-                    //    point = point.Replace("POINT(", "");
-                    //    point = point.Replace(")","").Trim();
-                    //    string[] coords = point.Split(' ');
-                    //    using (SqlConnection connection = new SqlConnection(ConnectionString))
-                    //    {
-                    //        using (SqlCommand cmd = new SqlCommand())
-                    //        {
-                    //            cmd.Connection = connection;
-                    //            cmd.CommandText = "INSERT INTO Question
-                    //        }
-                    //    }
-                    //}
+                        // image, title, desc, year, lat, lng
+                        string[] pArgs = {
+                                            imageUrl,
+                                            title.Replace( "'", "''" ),
+                                            desc.Replace( "'", "''" ),
+                                            year,
+                                            coords[0],
+                                            coords[1]
+                                        };
+                        string line = string.Format("'{0}','{1}','{2}',{3},{4},{5}", pArgs);
+                        builder.AppendLine(line);
+                    }
                     
 
                     Console.WriteLine("image url: " + imageUrl);
@@ -99,6 +103,12 @@ namespace SydneyLexicographerETL
                    // Console.WriteLine("~~~~~~~~~~~~~~~~~~~");
                 }
            }
+
+            string filepath = Path.Combine(basepath, RelPath, "\\", "Output.csv");
+            using (StreamWriter writer = File.CreateText(filepath))
+            {
+                writer.Write(builder.ToString());
+            }
             Console.Write("Press Enter to exit.");
             while (Console.ReadKey().Key != ConsoleKey.Enter) ;
         }
