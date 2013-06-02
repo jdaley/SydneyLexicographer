@@ -40,8 +40,10 @@ function initialize() {
 function initializeMapMarkers() {
     // clear map markers
     clearAllMarkers();
-    map.setCenter(new google.maps.LatLng(-33.8546, 150.9841, true));
-    map.setZoom(10);
+    if (map) {
+        map.setCenter(new google.maps.LatLng(-33.8546, 150.9841, true));
+        map.setZoom(10);
+    }
 
     var latLongLocation = new google.maps.LatLng(gMaps.answerLatitude,
         gMaps.answerLongitude,
