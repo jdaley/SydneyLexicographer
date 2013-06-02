@@ -1,5 +1,9 @@
 ﻿var markersArray = [];
 var map = null;
+var gMaps = {
+    answerLatitude: '',
+    answerLongitude: ''
+}
 
 function initialize() {
     var mapOptions = {
@@ -12,10 +16,19 @@ function initialize() {
     map = new google.maps.Map(document.getElementById("map-canvas"),
         mapOptions);
 
+    google.maps.event.addListener(map, 'click', function (event) {
+        locationSelected(event.latLng);
+    });
+}
+
+function initializeMapMarkers() {
+    // clear map markers
+    clearAllMarkers();
+
     var latLongLocation = new google.maps.LatLng(gMaps.answerLatitude,
         gMaps.answerLongitude,
         true);
-    
+
     // Marker for the correct location
     var marker = new google.maps.Marker({
         position: latLongLocation,
@@ -23,12 +36,7 @@ function initialize() {
     });
 
     markersArray.push(marker);
-
     marker.setVisible(false);
-
-    google.maps.event.addListener(map, 'click', function (event) {
-        locationSelected(event.latLng);
-    });
 }
 
 function locationSelected(location) {
@@ -39,17 +47,25 @@ function locationSelected(location) {
     });
 
     // Clear out previous markers from the map
-    clearMarkers();
+    clearLastMarker();
 
     markersArray.push(marker);
 }
 
-function clearMarkers() {
+function clearAllMarkers() {
+    for (var i = 0; i < markersArray.length; i++) {
+        markersArray[i].setMap(null);
+    }
+
+    markersArray = [];
+}
+
+// Clears markers except the first one, ecause it is the answer one.
+// Allows multiple clicks but only stores the last.
+function clearLastMarker() {
     if (markersArray.length > 1) {
-        for (var i = 1; i < markersArray.length; i++) {
-            markersArray[i].setMap(null);
-            markersArray.pop();
-        }
+        markersArray[1].setMap(null);
+        markersArray.pop();
     }
 }
 
@@ -72,7 +88,8 @@ function showAnswer() {
         map.setZoom(16);
         // Need to make this the center of the two markers
         //map.setCenter(location);
-        var a = distanceDelta();
+        //var a = distanceDelta();
+        markersArray[0].setMap(map);
     }
 }
 
@@ -102,11 +119,4 @@ function distanceBetweenMarkers(marker1, marker2) {
     return R * c;
 }
 
-function loadScript() {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyBIdcGud1iJTvo7V4GxwPVP-fh_7cD9slQ&sensor=false&callback=initialize";
-    document.body.appendChild(script);
-}
-
-window.onload = loadScript;
+google.maps.event.addDomListener(window, 'load', initialize);

@@ -3,10 +3,6 @@ var MIN_YEAR = 1777;
 var MAX_DISTANCE = 60;
 var MAX_QUESTIONS = 10;
 
-var gMaps = {
-    answerLatitude: '',
-    answerLongitude: ''
-}
 var answer = {};
 
 SL.runningScore = 0;
@@ -55,6 +51,14 @@ SL.loadQuestion = function() {
         $("#timeline-score").hide();
         $("#map-score").hide();
         SL.resetYear();
+        gMaps.answerLatitude = question.Latitude;
+        gMaps.answerLongitude = question.Longitude;
+
+        if (typeof google != 'undefined') {
+            initializeMapMarkers();
+        } else {
+            initialize();
+        }
     });
 }
 
