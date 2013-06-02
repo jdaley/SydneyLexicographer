@@ -137,6 +137,7 @@
     <Content Include="Content\App.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\App.js" />
+    <Content Include="Scripts\extentionFunctions.js" />
     <Content Include="Scripts\GoogleMaps.js" />
     <Content Include="Scripts\UI.js" />
     <Content Include="Web.config" />

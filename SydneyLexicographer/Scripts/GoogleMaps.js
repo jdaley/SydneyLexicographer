@@ -72,7 +72,34 @@ function showAnswer() {
         map.setZoom(16);
         // Need to make this the center of the two markers
         //map.setCenter(location);
+        var a = distanceDelta();
     }
+}
+
+// Returns distance in km
+function distanceDelta() {
+    if (markersArray && markersArray.length === 2) {
+        return distanceBetweenMarkers(markersArray[0], markersArray[1]);
+    }
+
+    return null;
+}
+
+
+function distanceBetweenMarkers(marker1, marker2) {
+    var height = marker1.position.lng() - marker2.position.lng();
+    var width = marker1.position.lat() - marker2.position.lat();
+    
+    var R = 6371; // km
+    var dLat = (width).toRad();
+    var dLon = (height).toRad();
+    var lat1 = marker2.position.lat().toRad();
+    var lat2 = marker1.position.lat().toRad();
+
+    var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+            Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2); 
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+    return R * c;
 }
 
 function loadScript() {
