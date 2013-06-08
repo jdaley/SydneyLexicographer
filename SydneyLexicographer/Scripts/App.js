@@ -36,7 +36,11 @@ SL.resetYear = function(){
 };
 
 SL.loadQuestion = function () {
-    var url = SL.questionApiUrl;
+    SL.isPhotoBlank = true;
+    $('#photo').attr('src', SL.baseUrl + 'Content/Blank.png');
+    SL.spinner.spin(document.getElementById('question-photo-spinner'));
+
+    var url = SL.baseUrl + "api/Question";
     if (SL.usedQuestions.length > 0) {
         url = url + "/" + SL.usedQuestions.join("_");
     }
@@ -44,6 +48,7 @@ SL.loadQuestion = function () {
         url: url,
         accepts: 'application/json'
     }).done(function (question) {
+        SL.isPhotoBlank = false;
         $('#photo').attr('src', question.PhotoUrl);
         answer = question;
         $("#submitButton").show();
@@ -75,9 +80,35 @@ $(function () {
     $("#startButton").click(function () {
         $("#introduction").fadeOut();
         $("#question").fadeIn(400, function () {
+            var opts = {
+                lines: 9, // The number of lines to draw
+                length: 6, // The length of each line
+                width: 4, // The line thickness
+                radius: 7, // The radius of the inner circle
+                corners: 1, // Corner roundness (0..1)
+                rotate: 0, // The rotation offset
+                direction: 1, // 1: clockwise, -1: counterclockwise
+                color: '#000', // #rgb or #rrggbb
+                speed: 1, // Rounds per second
+                trail: 60, // Afterglow percentage
+                shadow: false, // Whether to render a shadow
+                hwaccel: false, // Whether to use hardware acceleration
+                className: 'spinner', // The CSS class to assign to the spinner
+                zIndex: 2e9, // The z-index (defaults to 2000000000)
+                top: 'auto', // Top position relative to parent in px
+                left: 'auto' // Left position relative to parent in px
+            };
+            SL.spinner = new Spinner(opts);
+
             initialize();
             SL.loadQuestion();
         });
+    });
+
+    $("#photo").load(function () {
+        if (SL && SL.spinner && !SL.isPhotoBlank) {
+            SL.spinner.stop();
+        }
     });
 
     $("#submitButton").hide();
