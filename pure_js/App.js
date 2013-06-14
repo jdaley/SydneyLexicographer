@@ -61,14 +61,26 @@ SL.loadQuestion = function () {
 };
 
 SL.fetchQuestionData = function (callback) {
-    var url = SL.baseUrl + "api/Question";
-    if (SL.usedQuestions.length > 0) {
-        url = url + "/" + SL.usedQuestions.join("_");
-    }
-    $.ajax({
-        url: url,
-        accepts: 'application/json'
-    }).done(callback);
+    var index;
+    var tries = 0;
+    var result;
+    var isUsed;
+
+    do {
+        index = Math.floor((Math.random() * SL.data.length) + 1);
+        result = SL.data[index];
+        tries++;
+
+        isUsed = false;
+        for (var i = 0; i < SL.usedQuestions.length; i++) {
+            if (SL.usedQuestions[i] === result.Id) {
+                isUsed = true;
+            }
+        }
+
+    } while (isUsed && tries < 10);
+
+    callback(result);
 };
 
 SL.updateTotalScore = function () {
