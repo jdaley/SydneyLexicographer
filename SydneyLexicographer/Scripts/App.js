@@ -40,14 +40,7 @@ SL.loadQuestion = function () {
     $('#photo').attr('src', SL.baseUrl + 'Content/Blank.png');
     SL.spinner.spin(document.getElementById('question-photo-spinner'));
 
-    var url = SL.baseUrl + "api/Question";
-    if (SL.usedQuestions.length > 0) {
-        url = url + "/" + SL.usedQuestions.join("_");
-    }
-    $.ajax({
-        url: url,
-        accepts: 'application/json'
-    }).done(function (question) {
+    SL.fetchQuestionData(function (question) {
         SL.isPhotoBlank = false;
         $('#photo').attr('src', question.PhotoUrl);
         answer = question;
@@ -65,7 +58,18 @@ SL.loadQuestion = function () {
 
         initializeMapMarkers();
     });
-}
+};
+
+SL.fetchQuestionData = function (callback) {
+    var url = SL.baseUrl + "api/Question";
+    if (SL.usedQuestions.length > 0) {
+        url = url + "/" + SL.usedQuestions.join("_");
+    }
+    $.ajax({
+        url: url,
+        accepts: 'application/json'
+    }).done(callback);
+};
 
 SL.updateTotalScore = function () {
     $("#score").text(SL.runningScore);
