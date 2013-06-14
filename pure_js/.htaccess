@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Serve Sydney Lexicographer as "/SydneyLexicographer" with no trailing slash
+# (Place the HTML, JS, CSS files in a folder called SydneyLexicographer-files)
+RewriteCond %{REQUEST_URI} ^(/(.+/)?SydneyLexicographer)/$
+RewriteRule ^SydneyLexicographer/$ %1 [R=301]
+RewriteRule ^SydneyLexicographer$ SydneyLexicographer-files/Index.html
+RewriteRule ^SydneyLexicographer/(.*)$ SydneyLexicographer-files/$1

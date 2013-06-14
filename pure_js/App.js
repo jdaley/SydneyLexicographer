@@ -37,7 +37,7 @@ SL.resetYear = function(){
 
 SL.loadQuestion = function () {
     SL.isPhotoBlank = true;
-    $('#photo').attr('src', 'Blank.png');
+    $('#photo').attr('src', 'SydneyLexicographer/Blank.png');
     SL.spinner.spin(document.getElementById('question-photo-spinner'));
 
     SL.fetchQuestionData(function (question) {
