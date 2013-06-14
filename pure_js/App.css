@@ -41,7 +41,7 @@ h1 {
 
 .introduction-container {
     width: 85%;
-    background: url('../Content/TitlePageBackground.png') center no-repeat;
+    background: url('TitlePageBackground.png') center no-repeat;
     background-size: cover;
     margin: 0 auto;
     border-radius: 10px;
