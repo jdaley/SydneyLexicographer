@@ -80,7 +80,9 @@ SL.fetchQuestionData = function (callback) {
 
     } while (isUsed && tries < 10);
 
-    callback(result);
+    setTimeout(function () {
+        callback(result);
+    }, 200);
 };
 
 SL.updateTotalScore = function () {
